@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Polynomial Optimization and Its Application to Power Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>316716.00</AwardTotalIntnAmount>
+<AwardAmount>316716</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Nash</SignBlockName>
+<PO_EMAI>rnash@nsf.gov</PO_EMAI>
+<PO_PHON>7032925394</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Operators of electric power systems face the difficult task of continuously balancing the supply and demand of power by managing the outputs of thousands of generators and the power flows through tens of thousands of transmission lines. To maintain a reliable and low-cost power supply, system operators rely on algorithms from the field of mathematical optimization. To obtain more tractable mathematical formulations, existing industry practices linearly approximate the nonlinear models which best represent the physics of electric power systems. Optimization problems that use these linear approximations provide operating points which inherently suffer from approximation errors, thus reducing the reliability and efficiency of power system operations. Recent advancements in optimization theory hold significant promise for avoiding these approximation errors by directly solving nonlinear optimization problems. For instance, the Department of Energy and the Federal Energy Regulatory Commission estimate that improved optimization algorithms could save billions of dollars annually in the US electricity markets alone. Modeling power networks as systems of polynomial equations, our preliminary work demonstrated that polynomial optimization theory can reliably provide solutions to challenging nonlinear problems. Building on our preliminary work, this project will develop and analyze new optimization algorithms that provide significant computational speed improvements and additional modeling flexibility. These algorithms and their associated rigorous guarantees on convergence and solution quality are key enabling tools for reliably operating power systems, especially during heavily stressed conditions.&lt;br/&gt;&lt;br/&gt;This project aims to develop new semi-algebraic techniques for solving large-scale polynomial optimization problems arising from the operation of electric power systems. Given the increasing complexity of power systems, operational decision-making tools crucially require innovative solutions in the coming years. To achieve this, we propose to design tractable and rigorous algorithms using a powerful tool from polynomial optimization theory known as the moment/sum-of-squares hierarchy. Contrary to local search algorithms, the moment/sum-of-squares hierarchy has global convergence guarantees and cannot get stuck in undesired local minima or saddle points. However, making this hierarchy tractable for practical large-scale problems is a major challenge. We thus propose new semi-algebraic techniques for globally solving an important and generic instance of large-scale polynomial optimization, namely the so-called optimal power flow problem. This problem seeks the minimum cost operating point for an electric power system while satisfying engineering limits on the line flows, voltage magnitudes, etc. as well as the power flow equations which model the network physics. In addition to being an important problem in its own right, optimal power flow is a key building block of more complex problems, including bilevel optimization problems used to model competitive electricity markets and to identify critical power system components. Our preliminary results show that moment/sum-of-squares relaxations can solve practical optimal power flow test cases coming from industry on an unprecedented scale, with thousands of variables and tens of thousands of non-convex constraints. We plan to design new ways to exploit power system specific characteristics (particular symmetries and sparsity) to enable large-scale computations, as well as new hierarchies for solving polynomial optimization problems. Our specific objectives for this project include 1) substantially improving the computational speed of the moment/sum-of-squares hierarchies using recently proposed Lagrange multiplier expressions that systematically strengthen the relaxations, 2) developing methods for quickly checking whether a candidate local solution is, in fact, globally optimal, thus leveraging decades of research in local search algorithms, 3) applying polynomial optimization tools to industrially relevant bilevel optimization problems, where the relaxations global optimality certificates are essential to ensuring feasibility of the overall bilevel problem, and 4) creating new relaxation hierarchies that are tailored to power system specific characteristics while simultaneously exploiting the efficiency of computational methods developed for machine learning applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023140</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Molzahn</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel K Molzahn</PI_FULL_NAME>
+<EmailAddress><![CDATA[molzahn@gatech.edu]]></EmailAddress>
+<NSF_ID>000798010</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~316716</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>To analyze and design electric power grids, engineers use mathematical models to simulate how electricity flows from one place to another. These mathematical models, called the "power flow equations", pose computational challenges for many optimization and control algorithms. These challenges are often addressed via approximations that simplify the power flow equations. By trading off accuracy for simplicity, engineers can approximately solve power grid analysis and design problems. However, inaccuracies in the solutions may result in unacceptable operation due to, for instance, violations of engineering limits on the amounts of current flowing through the power lines and the voltages at each location.</p> <p>This project used advanced mathematical techniques to improve power flow approximations. In contrast to existing power flow approximations that are primarily based on "one-size-fits-all" approaches, the power flow approximations developed in this project are tailored to specific power grids and operational ranges of interest. This enables the creation of approximations with improved accuracy and other desirable characteristics, such as slightly overestimating or underestimating the actual amounts. By using new mathematical techniques to tailor these characteristics, engineers applying these approximations can ensure that the resulting operations are acceptable (do not violate engineering limits), thus achieving computational tractability while mitigating the negative impacts of approximation errors. Using advanced mathematics (namely, constrained regression and convexification techniques), the project developed several new power flow approximation methods that allow engineers to control tradeoffs in computation time, accuracy, and various other characteristics.</p> <p>To motivate and demonstrate these power flow approximations, the project applied them to emerging problems encountered in the operation of future power grids. One notable problem involves computing the best way to manage electricity flows while accounting for the uncertain power production from wind and solar generators and fluctuating load demands. Another application addressed in this project is optimizing the locations of monitoring devices to guarantee that all violations of voltage limits will be detected. The project also developed methods for ensuring that the power grid will maintain acceptable operation during transitions from one operating point to another, which is increasingly important due to the growing variability of power generation and load demands. As another application, the project identified engineering limits that are redundant (that is, their satisfaction is implied by other limits) and can therefore be safely ignored to speed up various computational tasks. These problems involve substantial computational challenges that the project addressed by exploiting the characteristics of the power flow approximations developed in this project. Additionally, recognizing an inaccuracy in previously developed theory related to power grid models, the project corrected this inaccuracy and then expanded the applicability of this theory to more general systems.</p> <p>The computational methods developed and demonstrated in this project enable a range of broader impacts in analyses of electric power grids and other complex systems. For instance, ongoing research is applying the power flow approximations from this project to optimization problems that compute charging schedules for electric vehicles to support evacuations prior to disasters such as hurricanes. This ongoing research shows that the computational methods developed in this project are applicable to combinations of complex systems, for instance, in coordinating traffic networks and energy systems. Moreover, much of the theoretical and <span>methodological</span> developments for power grids are actually relevant to more general analog circuits</p> <p>The project also supported an undergraduate student from Georgia Tech's College of Design to develop virtual reality based educational experiences related to power systems. This involved touring an electric substation with a 360-degree camera to take a series of pictures. The student then used a graphic design package to stitch the pictures together into a virtual reality walkthrough of the substation. With a pair of Meta Oculus 2 virtual reality headsets, this walkthrough is used in Georgia Tech's power engineering courses and recruiting events to provide students with an immersive virtual experience showing the inside of a substation while avoiding the safety, confidentiality, and logistical challenges that would be associated with a student tour of an actual industrial facility. This experience provides substantial educational value beyond existing textbook descriptions of power grid hardware.</p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Daniel&nbsp;K&nbsp;Molzahn</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  To analyze and design electric power grids, engineers use mathematical models to simulate how electricity flows from one place to another. These mathematical models, called the "power flow equations", pose computational challenges for many optimization and control algorithms. These challenges are often addressed via approximations that simplify the power flow equations. By trading off accuracy for simplicity, engineers can approximately solve power grid analysis and design problems. However, inaccuracies in the solutions may result in unacceptable operation due to, for instance, violations of engineering limits on the amounts of current flowing through the power lines and the voltages at each location.   This project used advanced mathematical techniques to improve power flow approximations. In contrast to existing power flow approximations that are primarily based on "one-size-fits-all" approaches, the power flow approximations developed in this project are tailored to specific power grids and operational ranges of interest. This enables the creation of approximations with improved accuracy and other desirable characteristics, such as slightly overestimating or underestimating the actual amounts. By using new mathematical techniques to tailor these characteristics, engineers applying these approximations can ensure that the resulting operations are acceptable (do not violate engineering limits), thus achieving computational tractability while mitigating the negative impacts of approximation errors. Using advanced mathematics (namely, constrained regression and convexification techniques), the project developed several new power flow approximation methods that allow engineers to control tradeoffs in computation time, accuracy, and various other characteristics.   To motivate and demonstrate these power flow approximations, the project applied them to emerging problems encountered in the operation of future power grids. One notable problem involves computing the best way to manage electricity flows while accounting for the uncertain power production from wind and solar generators and fluctuating load demands. Another application addressed in this project is optimizing the locations of monitoring devices to guarantee that all violations of voltage limits will be detected. The project also developed methods for ensuring that the power grid will maintain acceptable operation during transitions from one operating point to another, which is increasingly important due to the growing variability of power generation and load demands. As another application, the project identified engineering limits that are redundant (that is, their satisfaction is implied by other limits) and can therefore be safely ignored to speed up various computational tasks. These problems involve substantial computational challenges that the project addressed by exploiting the characteristics of the power flow approximations developed in this project. Additionally, recognizing an inaccuracy in previously developed theory related to power grid models, the project corrected this inaccuracy and then expanded the applicability of this theory to more general systems.   The computational methods developed and demonstrated in this project enable a range of broader impacts in analyses of electric power grids and other complex systems. For instance, ongoing research is applying the power flow approximations from this project to optimization problems that compute charging schedules for electric vehicles to support evacuations prior to disasters such as hurricanes. This ongoing research shows that the computational methods developed in this project are applicable to combinations of complex systems, for instance, in coordinating traffic networks and energy systems. Moreover, much of the theoretical and methodological developments for power grids are actually relevant to more general analog circuits   The project also supported an undergraduate student from Georgia Tech's College of Design to develop virtual reality based educational experiences related to power systems. This involved touring an electric substation with a 360-degree camera to take a series of pictures. The student then used a graphic design package to stitch the pictures together into a virtual reality walkthrough of the substation. With a pair of Meta Oculus 2 virtual reality headsets, this walkthrough is used in Georgia Tech's power engineering courses and recruiting events to provide students with an immersive virtual experience showing the inside of a substation while avoiding the safety, confidentiality, and logistical challenges that would be associated with a student tour of an actual industrial facility. This experience provides substantial educational value beyond existing textbook descriptions of power grid hardware.     Last Modified: 12/27/2023       Submitted by: DanielKMolzahn]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

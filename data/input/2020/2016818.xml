@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a High Performance GPU/CPU Cluster for Research and Innovation in Computational Sciences and Engineering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>398945.00</AwardTotalIntnAmount>
+<AwardAmount>398945</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[FIT is acquiring a high-performance computing (HPC) cluster with multi-core Intel CPUs, NVIDIA V100 GPUs, and several layers of storage at Florida Institute of Technology. The key research thrusts include natural sciences (chemistry, physics, mathematics, and meteorology), computer science and engineering, and medicine. The infrastructure would be added to the previous cluster funded by a 2009 MRI and will help establish the Institute for Computational Engineering and Sciences (ICES) at FIT.&lt;br/&gt;&lt;br/&gt;The design of this HPC cluster has taken the cue from the CERN laboratory in Switzerland, arguably the largest scientific center in the world.  The CERN strategy to meet computing challenges has a 3-prong approach: scale out capacity with public clouds and HPCs; increase data center performance with hardware accelerators such GPUs, FPGAs and TPUs; utilize new computational techniques based on Artificial Intelligence (AI) and Machine Learning (ML). The present design comprises a computing architecture that includes an on-campus HPC cluster (the ICES HPC), which is based on GPU machine learning accelerators, as well as CPUs, with highly efficient networking to ensure rapid bi-directional access to other supercomputers and clouds to allow super-large computational tasks beyond the local HPC capacity to run on off-site hyperscale providers, such as those managed by Extreme Science and Engineering Discovery Environment XSEDE), after development and testing at the ICES HPC facility. The intellectual merit of the project pertains to the ICES as a multidisciplinary and interdisciplinary computational center, with a computer cluster equipped with the latest technologies for highto-performance computing and data storage that could allow Florida Tech to work in a collaborative environment to create new and innovative algorithms and techniques utilizing AI/ML for conducting computational-intensive and big-data research in science and engineering disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016818</AwardID>
+<Investigator>
+<FirstName>Munevver</FirstName>
+<LastName>Subasi</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Munevver M Subasi</PI_FULL_NAME>
+<EmailAddress><![CDATA[msubasi@fit.edu]]></EmailAddress>
+<NSF_ID>000572329</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Baarmand</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marc M Baarmand</PI_FULL_NAME>
+<EmailAddress><![CDATA[baarmand@fit.edu]]></EmailAddress>
+<NSF_ID>000364314</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Chan</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip K Chan</PI_FULL_NAME>
+<EmailAddress><![CDATA[pkc@cs.fit.edu]]></EmailAddress>
+<NSF_ID>000368165</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Debasis</FirstName>
+<LastName>Mitra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Debasis Mitra</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmitra@cs.fit.edu]]></EmailAddress>
+<NSF_ID>000358467</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roberto</FirstName>
+<LastName>Peverati</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roberto Peverati</PI_FULL_NAME>
+<EmailAddress><![CDATA[rpeverati@fit.edu]]></EmailAddress>
+<NSF_ID>000731610</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Institute of Technology</Name>
+<CityName>MELBOURNE</CityName>
+<ZipCode>329018995</ZipCode>
+<PhoneNumber>3216748000</PhoneNumber>
+<StreetAddress>150 W UNIVERSITY BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNN6VH618X58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INSTITUTE OF TECHNOLOGY INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Institute of Technology]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>329016975</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~398945</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>MRI: Acquisition of a High Performance GPU/CPU Cluster for Research and Innovation in Computational Sciences and Engineering.</p> <p>There are three main project outcomes:</p> <p>1-&nbsp;&nbsp;&nbsp;&nbsp;A new and modern high performance computing cluster called AI.Panther providing computing power to faculty and students campus wide.</p> <p>2-&nbsp;&nbsp;&nbsp;&nbsp;A new university center called Computation Research At Florida Tech (CRAFT) serving faculty and students as an intellectual and technological hub for all aspects of computation-intensive research.</p> <p>3-&nbsp;&nbsp;&nbsp;&nbsp;Journal publications, published or under preparation, by faculty members who used AI.Panther for their computations. These are listed in the NSF final report.</p> <p>The AI.Panther HPC has a modern architecture with hi-memory CPUs and a farm of GPUs configured with NVIDIA A100 PCIe GPU nodes as well as A100 SXM4 GPU nodes. There are ZFS fileservers for user/home and archive for a total over 500TB. The HPC was purchased from Aspen Systems and commissioned in 2022 and currently has more than 100 active users. Over the last year, three training sessions have been organized with NVIDIA and MarkIII Systems for researcher to learn more about use and applications of AI.Panther, as well as techniques in machine learning and AI in general.</p> <p>&nbsp;</p> <p>The CRAFT Center was formally inaugurated in early fall 2023 with the mission to promote&nbsp;and facilitate collaborative research&nbsp;in multidisciplinary and interdisciplinary projects; to help investigators to prepare competitive grant proposals for research and HPC equipment; to provide enhanced&nbsp;education and training for undergraduate and graduate students; to forge&nbsp;partnership with industry&nbsp;to prepare students for the 21<sup>st</sup>Century workforce. The current activities include:</p> <p>- Identifying and enabling research collaborations between STEM, business, and computer science communities for application of novel approaches, including machine learning and AI methods, to computational challenges.</p> <p><span>- Forming diverse and demographically inclusive teams of experienced faculty members as well as early career researchers in order to prepare proposals to obtain grants for large scale and multidisciplinary research projects.</span></p> <p><span>- Host regular seminars and technical training by inviting outside academic and industry speakers.</span></p> <p><span>- Utilize NVIDIA&rsquo;s Deep Learning Institute and Mark III Systems to host AI/Machine Learning Education&nbsp;Series for training faculty and students.</span></p> <p><span>- Foster a sense of community for graduate and undergraduate students to interact and develop novel research collaborations.</span></p> <p><span>- In collaboration with the Office of Information Technology, maintain and operate the AI.Panther HPC.</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/13/2023<br> Modified by: Marc&nbsp;M&nbsp;Baarmand</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2016818/2016818_10699094_1699905020004_Screenshot_2023_11_13_at_2.16.41__8239_PM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2016818/2016818_10699094_1699905020004_Screenshot_2023_11_13_at_2.16.41__8239_PM--rgov-800width.png" title="AI.Panther"><img src="/por/images/Reports/POR/2023/2016818/2016818_10699094_1699905020004_Screenshot_2023_11_13_at_2.16.41__8239_PM--rgov-66x44.png" alt="AI.Panther"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The AI.Panther high performance computing cluster.</div> <div class="imageCredit">Florida Tech</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Marc&nbsp;M&nbsp;Baarmand <div class="imageTitle">AI.Panther</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2016818/2016818_10699094_1699905195705_Screenshot_2023_11_10_at_10.13.01__8239_AM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2016818/2016818_10699094_1699905195705_Screenshot_2023_11_10_at_10.13.01__8239_AM--rgov-800width.png" title="The CRAFT Center"><img src="/por/images/Reports/POR/2023/2016818/2016818_10699094_1699905195705_Screenshot_2023_11_10_at_10.13.01__8239_AM--rgov-66x44.png" alt="The CRAFT Center"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Computation Research At Florida Tech (CRAFT) Center</div> <div class="imageCredit">Florida Tech</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Marc&nbsp;M&nbsp;Baarmand <div class="imageTitle">The CRAFT Center</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  MRI: Acquisition of a High Performance GPU/CPU Cluster for Research and Innovation in Computational Sciences and Engineering.   There are three main project outcomes:   1-A new and modern high performance computing cluster called AI.Panther providing computing power to faculty and students campus wide.   2-A new university center called Computation Research At Florida Tech (CRAFT) serving faculty and students as an intellectual and technological hub for all aspects of computation-intensive research.   3-Journal publications, published or under preparation, by faculty members who used AI.Panther for their computations. These are listed in the NSF final report.   The AI.Panther HPC has a modern architecture with hi-memory CPUs and a farm of GPUs configured with NVIDIA A100 PCIe GPU nodes as well as A100 SXM4 GPU nodes. There are ZFS fileservers for user/home and archive for a total over 500TB. The HPC was purchased from Aspen Systems and commissioned in 2022 and currently has more than 100 active users. Over the last year, three training sessions have been organized with NVIDIA and MarkIII Systems for researcher to learn more about use and applications of AI.Panther, as well as techniques in machine learning and AI in general.      The CRAFT Center was formally inaugurated in early fall 2023 with the mission to promoteand facilitate collaborative researchin multidisciplinary and interdisciplinary projects; to help investigators to prepare competitive grant proposals for research and HPC equipment; to provide enhancededucation and training for undergraduate and graduate students; to forgepartnership with industryto prepare students for the 21stCentury workforce. The current activities include:   - Identifying and enabling research collaborations between STEM, business, and computer science communities for application of novel approaches, including machine learning and AI methods, to computational challenges.   - Forming diverse and demographically inclusive teams of experienced faculty members as well as early career researchers in order to prepare proposals to obtain grants for large scale and multidisciplinary research projects.   - Host regular seminars and technical training by inviting outside academic and industry speakers.   - Utilize NVIDIAs Deep Learning Institute and Mark III Systems to host AI/Machine Learning EducationSeries for training faculty and students.   - Foster a sense of community for graduate and undergraduate students to interact and develop novel research collaborations.   - In collaboration with the Office of Information Technology, maintain and operate the AI.Panther HPC.                    Last Modified: 11/13/2023       Submitted by: MarcMBaarmand]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research in Economics: The Consequences of Welfare Reform: A Case Study in Michigan]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>24300.00</AwardTotalIntnAmount>
+<AwardAmount>24300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research will study the effects of losing access to welfare (cash assistance) by taking advantage of a unique welfare reform policy in Michigan that swiftly and unexpectedly removed eligibility from tens of thousands of families from the Temporary Assistance for Needy Families (TANF) program. This project will gather detailed administrative data from the Michigan Department of Health and Human Services (MDHHS) on welfare recipients and their families and link it to a large credit bureau data for the investigation.  The focus in this research is how losing assistance affect employment, education, health, and other socioeconomic outcomes.  The empirical evidence on the effects of direct assistance on socioeconomic, educational, and health outcomes remain inconclusive.  The results of this research will provide more data-driven evidence on the effects of direct cash assistance on several outcomes, an  important subject in the face of calls for similar reforms to other social welfare programs, such as SNAP. This research has direct policy relevance, as it provides inputs into policies to improve social support programs.  The results of this research project could also help establish the US as the global leader in policies to support poor families. &lt;br/&gt;&lt;br/&gt;The sudden and arbitrary nature of the 2011 Michigan TANF policy change provides a natural experiment to identify the causal effects of losing cash welfare. This proposal uses three strategies to investigate the causal effects of this policy change. First, the new rules affected counties to varying degrees, so the PI will use a difference-in-difference regression to study the broad labor-market consequences of this policy change. Second, the policy imposed a kinked relationship between the months accumulated on TANF and the months remaining. Using a regression kink design, the researchers will test for a similar kink in the outcomes. Finally, the policy had differential effects based on the age of the family’s youngest child at 2011, which provides another source of variation for causal inference. This project contributes directly to the labor economics literature; in particular to research studying the relationship between government assistance and labor supply. The results of this research provide two key contributions to the field---reassessment of cash assistance using new evidence and under a new (more recent) setting, and this paper looks at the effects of losing – as opposed to gaining – assistance. The results of this research project could help establish the US as the global leader in policies to support poor families.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018387</AwardID>
+<Investigator>
+<FirstName>Motaz</FirstName>
+<LastName>Al-Chanati</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Motaz R Al-Chanati</PI_FULL_NAME>
+<EmailAddress><![CDATA[mra2165@columbia.edu]]></EmailAddress>
+<NSF_ID>000818840</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Best</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael C Best</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.best@columbia.edu]]></EmailAddress>
+<NSF_ID>000801843</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100277235</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~24300</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Welfare programs provide meaningful financial stability to thousands of needy families who live below the poverty line. Since the 1990s, reforms to entitlement programs, mainly through time limits and work requirements, have made benefits harder to qualify for and have nudged more and more families into the labor force. However, it is difficult to study the effects that such reforms have on the lives of affected families, because time limits are non-random in their assignment and bite years after they are assigned, and work requirements apply to all eligible recipients. This is not to mention the lack of detailed data that tracks these families over time. To circumvent these issues, existing work relies on state-level variation in benefit generosity (or harshness in program rules) to identify the effects that such reform efforts have on the labor supply of families at the margin. While these approaches have revealed a great deal about the interplay between the generosity of benefits and labor supply, they do not form a complete picture about the lives of welfare users. Furthermore, most studies of welfare reforms are hampered by the fact that individuals are rarely &ndash; if ever &ndash; randomly removed from welfare unexpectedly. Rather, a small fraction of welfare recipients are timed out years after time limits are put in place, and families face the same program restrictions when they apply for benefits. Most welfare stays are short, with few reaching the time limits. The goal of this paper has been to go beyond the normal analysis of welfare reforms and consider the wholistic effects of policies like complete removal from benefits &ndash; alongside time limits and work requirements &ndash; on the beneficiaries themselves. It did so by using administrative data to analyze a rare cleanly-identified &ldquo;natural experiment&rdquo; in the removal of benefits. In fact, we have found no other reforms that have created quasirandom variation in welfare receipt from one period to the next for such a large number of people as the one studied here. We began with a simple proposition: if the goal of welfare reform is to promote selfsufficiency and employment, then do the extant tools succeed in their aim? The conclusion of this work is almost certainly that such reforms have mostly harmful consequences&nbsp;on families. While we find that female heads of household do work in response to losing benefits, we find no evidence that any sizable number of them have recouped the value of their lost benefits. The second-order effects of such reforms then is likely negative. We find suggestive additional evidence that small nudges, like sanctions, that temporarily remove people from welfare rolls can keep families off these programs in significant numbers even years after the sanctions expire. Overall, affected families from all the reforms studied are almost surely poorer, on average.</p><br> <p>  Last Modified: 11/10/2023<br> Modified by: Motaz&nbsp;R&nbsp;Al-Chanati</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Welfare programs provide meaningful financial stability to thousands of needy families who live below the poverty line. Since the 1990s, reforms to entitlement programs, mainly through time limits and work requirements, have made benefits harder to qualify for and have nudged more and more families into the labor force. However, it is difficult to study the effects that such reforms have on the lives of affected families, because time limits are non-random in their assignment and bite years after they are assigned, and work requirements apply to all eligible recipients. This is not to mention the lack of detailed data that tracks these families over time. To circumvent these issues, existing work relies on state-level variation in benefit generosity (or harshness in program rules) to identify the effects that such reform efforts have on the labor supply of families at the margin. While these approaches have revealed a great deal about the interplay between the generosity of benefits and labor supply, they do not form a complete picture about the lives of welfare users. Furthermore, most studies of welfare reforms are hampered by the fact that individuals are rarely  if ever  randomly removed from welfare unexpectedly. Rather, a small fraction of welfare recipients are timed out years after time limits are put in place, and families face the same program restrictions when they apply for benefits. Most welfare stays are short, with few reaching the time limits. The goal of this paper has been to go beyond the normal analysis of welfare reforms and consider the wholistic effects of policies like complete removal from benefits  alongside time limits and work requirements  on the beneficiaries themselves. It did so by using administrative data to analyze a rare cleanly-identified natural experiment in the removal of benefits. In fact, we have found no other reforms that have created quasirandom variation in welfare receipt from one period to the next for such a large number of people as the one studied here. We began with a simple proposition: if the goal of welfare reform is to promote selfsufficiency and employment, then do the extant tools succeed in their aim? The conclusion of this work is almost certainly that such reforms have mostly harmful consequenceson families. While we find that female heads of household do work in response to losing benefits, we find no evidence that any sizable number of them have recouped the value of their lost benefits. The second-order effects of such reforms then is likely negative. We find suggestive additional evidence that small nudges, like sanctions, that temporarily remove people from welfare rolls can keep families off these programs in significant numbers even years after the sanctions expire. Overall, affected families from all the reforms studied are almost surely poorer, on average.     Last Modified: 11/10/2023       Submitted by: MotazRAl-Chanati]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

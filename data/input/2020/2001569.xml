@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Investigating the Influences of Hydrothermal and Respired Carbon in Intermediate Waters of the Equatorial Pacific Ocean During the Last Deglaciation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/21/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>255788.00</AwardTotalIntnAmount>
+<AwardAmount>285919</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Carlin</SignBlockName>
+<PO_EMAI>jcarlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032928562</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The last time Earth warmed by several degrees centigrade was more than 12 thousand years ago. That global warming ended the last Ice Age and paved the way for human expansion and diversification. Scientists have known for decades that this warming was associated with rising concentrations of greenhouse gases, including both carbon dioxide and methane, but have been unable to pinpoint what caused the greenhouses gases to increase. Recent research has shed new light on geologic processes in the ocean that may have influenced the rise in atmospheric carbon dioxide (CO2). Using geochemical methods, scientists have uncovered evidence that CO2 was released from deep sea volcanic provinces in the eastern equatorial Pacific at the end of the last Ice Age. This discovery is important because the eastern equatorial Pacific is one of the primary conduits through which CO2 from the ocean is released to the atmosphere. In the current project the research team will use similar geochemical methods to investigate whether there were other sites in the ocean where volcanic carbon was released at the end of the last Ice Age and whether ocean currents carried more carbon to the eastern equatorial Pacific as the Earth warmed. The results from this research should help answer one of the Grand Challenges in climate science, what regulated the concentration of atmospheric CO2 during one of Earth's largest climatic changes. The project will support one early career researcher and undergraduate and graduate students at both institutions, one of which is a Minority/Hispanic-Serving Institution where most students are first in family attendees.&lt;br/&gt;&lt;br/&gt;Two hypotheses have been put forth to explain large radiocarbon (14C) excursions and positive pCO2 anomalies in the Eastern Equatorial and Subtropical Pacific (EEP) during the last glacial termination. One hypothesis calls upon ventilation of respired metabolic carbon from a formerly isolated deep-sea reservoir through the Southern Ocean, and advection of that carbon to low latitudes via Antarctic Intermediate Water. This hypothesis has received support from Nd isotope results from the eastern tropical Pacific that document lower values during the Heinrich Stadial 1(HS1) and the Younger Dryas (YD) climate events, interpreted to reflect an increased proportion of southern sourced waters. The other hypothesis calls upon localized releases of geologic carbon from hydrothermal systems in the EEP that increased carbon flux to the surface ocean. This hypothesis has received additional support from a recent study that documented increased accumulation of hydrothermal metals in the marine sediments of the EEP in association with the large 14C excursions. It is possible that both mechanisms contributed to the radiocarbon anomalies and to an increased flux of "old" carbon to the atmosphere through the EEP upwelling system. Testing each hypothesis requires additional data from sites outside of the EEP and particularly from regions in the vicinity of where intermediate waters are formed. The researchers here will test the origin of the "old" carbon in the EEP by studying ventilation (14C) and water mass (eNd, Ba/Ca) proxies at multiple sites that lay in the path of intermediate waters feeding the equatorial Pacific from the North and South. If results from this study do not support old-carbon transfer via intermediate circulation, it will increase the likelihood of a local carbon reservoir as the source of old carbon in the EEP.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001569</AwardID>
+<Investigator>
+<FirstName>Chandranath</FirstName>
+<LastName>Basak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chandranath Basak</PI_FULL_NAME>
+<EmailAddress><![CDATA[cbasak@udel.edu]]></EmailAddress>
+<NSF_ID>000692320</NSF_ID>
+<StartDate>11/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197162553</ZipCode>
+<StreetAddress><![CDATA[210 Hullihen Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1620</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~255788</FUND_OBLG>
+<FUND_OBLG>2022~30131</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The major goals of this project are to investigate the source of the deglacial dead carbon and to map out past intermediate water circulation in the Pacific and its role in transporting this carbon across the Pacific. The Nd isotopes are used to map out the intermediate water pathways.</p> <p>Since the Pacific margin is frequently dominated by volcanic rocks (Fig.1, continental data from Robinson et al., 2021 and refs. therein), it is expected that Nd isotopes in the shallow and intermediate water masses will be affected and show radiogenic values. That being said, this lithogenic influence is more than likely to remain constant over a glacial-interglacial timescale. The second most important factor that can bring about changes in Nd isotopes is the changing circulation pattern and water mass mixing. Hence, assuming a constant effect of lithogenic influence at each core location over time, our interpretation approach for Nd isotopes has been to compare the overall structure, and pattern of change of each of the generated time series rather than interpreting the absolute values (as is often done in the deep marine settings in the Atlantic). As such<strong><em>&nbsp;</em></strong>any changes in intermediate depth &epsilon;Nd signature in the Pacific can be interpreted in the context of intermediate water circulation changes.<strong><em>&nbsp;</em></strong></p> <p>In the modern ocean, the &epsilon;Nd signature of southern sourced intermediate water (i.e. Antarctic Intermediate Water (AAIW)) is modified due to interaction with volcanogenic material (~&epsilon;Nd = +7) along its transit to the western equatorial Pacific (Fig. 1). Hence, in the modern ocean AAIW which starts as a water mass with &epsilon;Nd ~-7 in the Southern Ocean (Basak et al., 2015), attains an &epsilon;Nd value of ~-2.8 by the time it reaches the western equatorial Pacific (Behrens et al., 2018).&nbsp;</p> <p>In Fig. 2, the plots show &epsilon;Nd time series records encompassing the last 40 kyr along the flow path of AAIW.</p> <p>The &epsilon;Nd time series along the western margin is relatively invariant with time and does not show appreciable changes with the last deglaciation or the abrupt climate change that happened right after. It is also noteworthy to point out that the general &epsilon;Nd signature of these records become progressively more radiogenic moving north along the western Pacific margin transect. This observation is in accordance with how the &epsilon;Nd value of the surrounding rock types changed. Interestingly, the eastern Pacific &epsilon;Nd time series (Hu and Piotrowski, 2018; Basak et al., 2010) are a bit different in that there is a long-term trend of becoming progressively radiogenic with time. This long-term evolution cannot be due to modification by margin processes (as we expect that to be constant) but rather can be due to changes in water mass changes and varying mixing proportion.&nbsp;</p> <p>The results presented here show that there were differences between the eastern and western equatorial Pacific during the last deglaciation and the abrupt climate change that followed.&nbsp;</p> <p><span style="text-decoration: underline;">References:&nbsp;&nbsp;</span></p> <p>Basak, C., et al., 2010.&nbsp; Nat. Geosci. 3, 770-773.</p> <p class="EndNoteBibliography">Basak, C., et al., 2015. Earth and Planetary Science Letters, v. 419, no. 0, p. 211-221.</p> <p class="EndNoteBibliography">Behrens, M. K., et al., 2018. Geochimica et Cosmochimica Acta, v. 222, p. 508-534.</p> <p class="EndNoteBibliography">Hu, R., Piotrowski, A.M., 2018. Nature Communications 9, 4709.</p> <p>Robinson, S., et al., 2021.Chemical Geology 567, 120119.</p> <p>&nbsp;</p> <p class="EndNoteBibliography">&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/16/2023<br>      Modified by: Chandranath&nbsp;Basak</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2001569/2001569_10629758_1697488279597_Fig.2_Project_Outcome--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2001569/2001569_10629758_1697488279597_Fig.2_Project_Outcome--rgov-800width.jpg" title="Fig.2"><img src="/por/images/Reports/POR/2023/2001569/2001569_10629758_1697488279597_Fig.2_Project_Outcome--rgov-66x44.jpg" alt="Fig.2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Plots showing down core Nd isotope records for cores analyzed in this project and data available in published literature. The figure contains clear mention of what data are from literature and what has been produced in this project.</div> <div class="imageCredit">Anna Paula Soares Cruz, and Chandranath Basak</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Chandranath&nbsp;Basak</div> <div class="imageTitle">Fig.2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2001569/2001569_10629758_1697487730485_Fig.1_Project_Outcome--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2001569/2001569_10629758_1697487730485_Fig.1_Project_Outcome--rgov-800width.jpg" title="Fig.1"><img src="/por/images/Reports/POR/2023/2001569/2001569_10629758_1697487730485_Fig.1_Project_Outcome--rgov-66x44.jpg" alt="Fig.1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Map showing locations of intermediate cores in the South and Equatorial Pacific. References for continental and core Nd isotope data are mentioned in the figure.</div> <div class="imageCredit">Dr. Anna Paula Soares Cruz</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Chandranath&nbsp;Basak</div> <div class="imageTitle">Fig.1</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The major goals of this project are to investigate the source of the deglacial dead carbon and to map out past intermediate water circulation in the Pacific and its role in transporting this carbon across the Pacific. The Nd isotopes are used to map out the intermediate water pathways.  Since the Pacific margin is frequently dominated by volcanic rocks (Fig.1, continental data from Robinson et al., 2021 and refs. therein), it is expected that Nd isotopes in the shallow and intermediate water masses will be affected and show radiogenic values. That being said, this lithogenic influence is more than likely to remain constant over a glacial-interglacial timescale. The second most important factor that can bring about changes in Nd isotopes is the changing circulation pattern and water mass mixing. Hence, assuming a constant effect of lithogenic influence at each core location over time, our interpretation approach for Nd isotopes has been to compare the overall structure, and pattern of change of each of the generated time series rather than interpreting the absolute values (as is often done in the deep marine settings in the Atlantic). As such any changes in intermediate depth &epsilon;Nd signature in the Pacific can be interpreted in the context of intermediate water circulation changes.   In the modern ocean, the &epsilon;Nd signature of southern sourced intermediate water (i.e. Antarctic Intermediate Water (AAIW)) is modified due to interaction with volcanogenic material (~&epsilon;Nd = +7) along its transit to the western equatorial Pacific (Fig. 1). Hence, in the modern ocean AAIW which starts as a water mass with &epsilon;Nd ~-7 in the Southern Ocean (Basak et al., 2015), attains an &epsilon;Nd value of ~-2.8 by the time it reaches the western equatorial Pacific (Behrens et al., 2018).   In Fig. 2, the plots show &epsilon;Nd time series records encompassing the last 40 kyr along the flow path of AAIW.  The &epsilon;Nd time series along the western margin is relatively invariant with time and does not show appreciable changes with the last deglaciation or the abrupt climate change that happened right after. It is also noteworthy to point out that the general &epsilon;Nd signature of these records become progressively more radiogenic moving north along the western Pacific margin transect. This observation is in accordance with how the &epsilon;Nd value of the surrounding rock types changed. Interestingly, the eastern Pacific &epsilon;Nd time series (Hu and Piotrowski, 2018; Basak et al., 2010) are a bit different in that there is a long-term trend of becoming progressively radiogenic with time. This long-term evolution cannot be due to modification by margin processes (as we expect that to be constant) but rather can be due to changes in water mass changes and varying mixing proportion.   The results presented here show that there were differences between the eastern and western equatorial Pacific during the last deglaciation and the abrupt climate change that followed.   References:    Basak, C., et al., 2010.  Nat. Geosci. 3, 770-773. Basak, C., et al., 2015. Earth and Planetary Science Letters, v. 419, no. 0, p. 211-221. Behrens, M. K., et al., 2018. Geochimica et Cosmochimica Acta, v. 222, p. 508-534. Hu, R., Piotrowski, A.M., 2018. Nature Communications 9, 4709.  Robinson, S., et al., 2021.Chemical Geology 567, 120119.                  Last Modified: 10/16/2023       Submitted by: Chandranath Basak]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Home-based DIY Interactive Information Physicalization for Young Children and their Parents]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Public discourse during the COVID-19 pandemic surfaced the central role data serves in shaping individual and community action. Data literacy is the ability to constructively reason with data. Fostering data literacy has largely been the domain of formal educational systems and expert tools. Informal educational approaches have the potential to overcome barriers to interacting with data by fostering data literacy through casual engagement. This research explores how informal learning, through creation and interaction with physical data representations (physicalizations), may foster increased data literacy and engagement. The project team will design a series of do-it-yourself (DIY) activities for young children to construct physicalizations from household materials. These activities will enable children to explore COVID-19 and other data in familial contexts. They are expected to help them reason about the pandemic and everyday information through embodied data sensemaking and creative processes of physical construction. This project serves the national interest by promoting universal data understanding to advance national data literacy, health, and welfare.  It will directly support education and foster diversity by disseminating information physicalization kits to families across the nation. Resulting tools will be released as open source so that other researchers, designers, and developers can use them for diverse information physicalization projects.&lt;br/&gt;&lt;br/&gt;The project will advance the field of information visualization with new physical and tangible representations and techniques. Through an iterative design methodology of participatory workshops and interviews, involving families, the project will: (1) develop a novel toolkit and instructions for families to build interactive information physicalizations, using common household materials and mobile computers; (2) connect the toolkit to COVID-19 and environmental citizen science data;  (3) understand emergent phenomena involving how kids and families engage with information physicalizations, through grounded theory analysis of video and interview data; (4) assess effects of the information physicalizations on data literacy; and (5) develop implications for the design and crafting of tangible interfaces, using everyday materials, which facilitate sensemaking and learning in informal settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040489</AwardID>
+<Investigator>
+<FirstName>Yi-Luen</FirstName>
+<LastName>Do</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yi-Luen E Do</PI_FULL_NAME>
+<EmailAddress><![CDATA[ellen.do@colorado.edu]]></EmailAddress>
+<NSF_ID>000090182</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Danielle</FirstName>
+<LastName>Szafir</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Danielle Szafir</PI_FULL_NAME>
+<EmailAddress><![CDATA[danielle.szafir@cs.unc.edu]]></EmailAddress>
+<NSF_ID>000705331</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-2d2e12f4-7fff-cbcd-9555-3047f70f8a7b"> </span></p> <p><span id="docs-internal-guid-1801620b-7fff-0b0f-9983-46b92e5b946f"> </span></p> <p dir="ltr">Data is now collected everywhere and can be accessed anywhere. Visualizing and interpreting data can help society be more information-rich. However, how we visualize data is often largely limited to 2D screens (e.g., desktops) and catered for adults. To push for a more data-literate society, this project explored different methods to visualize data and interactive computing for different target demographics (e.g., children).&nbsp;</p> <p dir="ltr">One major thread of this investigation explored using computer-vision markers as a form of interactive computing. One popular example of these markers is QR codes. Often, when a camera sees these markers they take an individual to a designated website. But these markers are also able to provide metadata, such as its position, angle, and orientation. By extracting these markers&rsquo; metadata via camera, the investigators found ways to support interactive computing with tangible materials such as paper and low-cost materials (e.g., cardboard and mirrors).</p> <p dir="ltr">These markers demonstrated a low-barrier entry to interact with different computing devices (e.g., mobile phones, laptops). This was particularly beneficial when the investigators explored how to teach technical concepts, such as data visualization and computer animation. Children expressed interest in these domain subjects as they were able to express their creativity through these physical materials. These investigations took place at local makerspaces and schools. Additionally, they were integrated into design studios where undergraduate students were also able to use the technology for their exploration and experimentation. Through these research efforts, the investigators published their findings as open-sourced projects (e.g., npm package, Instructables) that the broader public can replicate themselves.</p> <p dir="ltr">Other themes explored in this investigation include ways of advancing interactive computing. One of these efforts investigated how to make 3D printed objects interactive via capacitive sensing. The resulting technology and method enabled multi-point capacitive sensors for non-planar, complex geometry. The technology has been patented. Other efforts that fall under this theme include advancing spatial computing with mobile phones as immersive devices. Currently, spatial computing is dominated by AR/VR headsets. However, mobile phones have the potential to broaden spatial computing capabilities, particularly given how mobile phones are familiar everyday devices. Investigators found that they were able to leverage the front and rear cameras of mobile phones. This dual provided an advantage to enable users to share themselves (i.e., their face) as well as their surroundings at the same time.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/03/2024<br> Modified by: Yi-Luen&nbsp;E&nbsp;Do</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297778660_cartoonimator_make--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297778660_cartoonimator_make--rgov-800width.png" title="Children making animations with Cartoonimator"><img src="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297778660_cartoonimator_make--rgov-66x44.png" alt="Children making animations with Cartoonimator"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Cartoonimator at STEAM Fest: (A) A child setting up animation with multiple objects, (B) Viewing the created animation, (C) A sprite spanning two object cards, (D) One child helping their sibling use Cartoonimator.</div> <div class="imageCredit">ATLAS Institute</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Yi-Luen&nbsp;E&nbsp;Do <div class="imageTitle">Children making animations with Cartoonimator</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704298080468_Data_is_Yours--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704298080468_Data_is_Yours--rgov-800width.png" title="Data is Yours"><img src="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704298080468_Data_is_Yours--rgov-66x44.png" alt="Data is Yours"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The assembled toolkit with the physicalization bar chart panel currently in use and a smartphone displaying the rendered visualization. The toolkit supports interchangeable chart panels (i.e., line, pie) that are not in use.</div> <div class="imageCredit">ATLAS Institute</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi-Luen&nbsp;E&nbsp;Do <div class="imageTitle">Data is Yours</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297675192_Evolving_Beholder--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297675192_Evolving_Beholder--rgov-800width.png" title="Beholder: evolving software library"><img src="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297675192_Evolving_Beholder--rgov-66x44.png" alt="Beholder: evolving software library"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of the 15 projects created using Beholder. The 15 projects are the outcomes from three distinct design studios. We used an annotated portfolio methodology to uncover insights on how CV markers can be used for physical computing.</div> <div class="imageCredit">ATLAS Institute</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi-Luen&nbsp;E&nbsp;Do <div class="imageTitle">Beholder: evolving software library</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704298339746_sensing_network_a--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704298339746_sensing_network_a--rgov-800width.jpg" title="A Computational Design Pipeline to Fabricate Sensing Network Physicalizations"><img src="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704298339746_sensing_network_a--rgov-66x44.jpg" alt="A Computational Design Pipeline to Fabricate Sensing Network Physicalizations"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A sensing network physicalization (N = 20, L = 40). (a) A multimaterial 3D printed network physicalization produced by our computational design pipeline. Conductive traces are embedded in the network�s links which enables node selection via capacitive sensing. (b) A computational renderin</div> <div class="imageCredit">ATLAS Institute</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi-Luen&nbsp;E&nbsp;Do <div class="imageTitle">A Computational Design Pipeline to Fabricate Sensing Network Physicalizations</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297534365_design_space--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297534365_design_space--rgov-800width.png" title="Design Space for Data Physicalization"><img src="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297534365_design_space--rgov-66x44.png" alt="Design Space for Data Physicalization"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Physicalizations classified according to their use of space and their use of context. Bounded artifacts are confined to a particular position and not meant to be repositioned. Unbounded artifacts are designed for mobility and to move freely across space. Situated and non-situated refer whether the p</div> <div class="imageCredit">ATLAS Institute</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi-Luen&nbsp;E&nbsp;Do <div class="imageTitle">Design Space for Data Physicalization</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297391822_hotswap_tinycade--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297391822_hotswap_tinycade--rgov-800width.png" title="Hot Swap and Tinycade"><img src="/por/images/Reports/POR/2024/2040489/2040489_10695074_1704297391822_hotswap_tinycade--rgov-66x44.png" alt="Hot Swap and Tinycade"></a> <div class="imageCaptionContainer"> <div class="imageCaption">1) The HOT SWAP controller with swapping inputs. 2) Tinycade with three control panels.</div> <div class="imageCredit">ATLAS Institute</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi-Luen&nbsp;E&nbsp;Do <div class="imageTitle">Hot Swap and Tinycade</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[          Data is now collected everywhere and can be accessed anywhere. Visualizing and interpreting data can help society be more information-rich. However, how we visualize data is often largely limited to 2D screens (e.g., desktops) and catered for adults. To push for a more data-literate society, this project explored different methods to visualize data and interactive computing for different target demographics (e.g., children).   One major thread of this investigation explored using computer-vision markers as a form of interactive computing. One popular example of these markers is QR codes. Often, when a camera sees these markers they take an individual to a designated website. But these markers are also able to provide metadata, such as its position, angle, and orientation. By extracting these markers metadata via camera, the investigators found ways to support interactive computing with tangible materials such as paper and low-cost materials (e.g., cardboard and mirrors).   These markers demonstrated a low-barrier entry to interact with different computing devices (e.g., mobile phones, laptops). This was particularly beneficial when the investigators explored how to teach technical concepts, such as data visualization and computer animation. Children expressed interest in these domain subjects as they were able to express their creativity through these physical materials. These investigations took place at local makerspaces and schools. Additionally, they were integrated into design studios where undergraduate students were also able to use the technology for their exploration and experimentation. Through these research efforts, the investigators published their findings as open-sourced projects (e.g., npm package, Instructables) that the broader public can replicate themselves.   Other themes explored in this investigation include ways of advancing interactive computing. One of these efforts investigated how to make 3D printed objects interactive via capacitive sensing. The resulting technology and method enabled multi-point capacitive sensors for non-planar, complex geometry. The technology has been patented. Other efforts that fall under this theme include advancing spatial computing with mobile phones as immersive devices. Currently, spatial computing is dominated by AR/VR headsets. However, mobile phones have the potential to broaden spatial computing capabilities, particularly given how mobile phones are familiar everyday devices. Investigators found that they were able to leverage the front and rear cameras of mobile phones. This dual provided an advantage to enable users to share themselves (i.e., their face) as well as their surroundings at the same time.        Last Modified: 01/03/2024       Submitted by: Yi-LuenEDo]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

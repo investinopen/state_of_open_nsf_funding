@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Integrative Research Investigating the Rules of Life Governing Interactions Between Genomes, Environment and Phenotypes. The fellowship supports research and training of the Fellow that will contribute to the area of Rules of Life in innovative ways.  Hosts and their parasites are locked into an evolutionary battle: hosts evolve resistance, and parasites evolve to overcome this resistance. How the complexity of the landscape hosts and parasites inhabit affects this coevolution is unknown. Rivers are unique, highly complex ecosystems characterized by branching networks and downstream flow from high to low elevation. By affecting host and parasite population size and genetic diversity, these factors could alter the outcome of host-parasite coevolution. For example, differences between host and parasite in their ability to move upstream will affect the ability of each to evolve in response to the other and could generate localized differences in virulence or drug resistance. Parasites are ubiquitous in river systems, infecting both adjacent human populations and host species of economic and conservation interest. This research, using a well-studied fish and an economically important group of parasites, provides unique insight into the mechanisms shaping parasite ecology, biodiversity and evolution within rivers. Educational outreach will be accomplished through a citizen science program that recruits underrepresented students to STEM disciplines; the study will also inform public health and has direct applications for fisheries management, aquaculture, and wildlife conservation.&lt;br/&gt;  &lt;br/&gt;This research will leverage the Guppy-Gyrodactulus model system in Northern Trinidad to elucidate the interactions between riverine ecosystem processes and host behavior that may shape the co-evolutionary potential of parasite subpopulations across a complex geographic mosaic. At the regional level, the Fellow will use fine-scale field sampling, parasite population genomics data and geospatial analysis across four rivers in Trinidad to test how variation in river architecture and unidirectional stream drift alter the distribution of parasite genetic diversity and population connectivity within and between rivers. At finer scales, the Fellow will test how variation in host social behaviors that differ between upstream and downstream populations can alter the evolutionary potential of local parasite populations. The Fellow will receive training for molecular and analytical skills that are applicable in metozoan parasite systems to address questions at the landscape-host-parasite interface. The Fellow will also recruit undergraduates and high school students (assisted by the Citizen Science Lab in Pittsburgh) to participate in these hypothesis-driven research experiences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010741</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Janecka</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary J Janecka</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000815539</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Janecka, Mary J</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>15620</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA14</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152134007</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-40002994-7fff-72f8-6ab9-8537ab8dc5db"><span>Rivers are at the heart of human life.&nbsp; They provide essential resources around which human societies build their lives and livelihoods.&nbsp; Rivers also harbor an astounding degree of the world&rsquo;s biodiversity.&nbsp; Rivers are unique ecosystems whose function and physical features make them almost incomparable to other ecosystems. Parasite infection in river ecosystems poses a significant threat to human populations and other species of conservation or commercial interest. Despite this, how river architecture and host dispersal influence parasite diversity and transmission is largely unknown.&nbsp; A lack of understanding of the physical characteristics of riverine habitat (i.e., number of tributaries, confluence position, river length, and stream drift) limits our ability to understand why genetic structure and local adaptation may differ between drainages and taxa for parasites across riverscapes. At finer scales, host social behavior has been demonstrated to be a key determinant of parasite genetic diversity in generating foci of infection, transmission along social networks, and exposure to parasite infection based on social rank.&nbsp; Thus, variation in parasite transmission due to differences in local host behaviors can dramatically alter the evolutionary potential of local populations. This research addressed this fundamental knowledge gap by testing the central hypothesis that parasite genetic diversity and coevolutionary potential are shaped by the physical structure of riverine ecosystems and local host behaviors in the guppy-</span><span>Gyrodactylus spp. </span><span>model system in Northern Trinidad. This research determined that while the physical riverine structure was an important determinant of parasite transmission for host-specific gyrodactylids, as inferred through genetic population substructure, transmission for generalist parasites was more influenced by fish community diversity. Our results also suggest that human habitat degradation and pollution may also contribute to spatial variation in transmission and parasite infection within river ecosystems, although further work to specifically address these patterns is necessary.&nbsp; At finer scales, local variation in host behavior, in conjunction with upstream site locations, influenced the virulence, genetic diversity, and distribution of genetically identical parasite clones, with less social hosts infected by less virulent and less genetically diverse parasite populations.&nbsp; However, in rivers where high fish diversity is present in upstream locations, highly social guppy social behavior also persists, but parasite diversity declines as a function of distance upstream. This suggests an inherent interaction between the physical structure of the river, host community composition, and parasite diversity in the absence of changes in social behavior. The outcomes of parasite transmission and coevolutionary potential are thus locally dependent on complex interactions between the physical features of the river, fish community diversity, social behavior and parasite life history characteristics. This research greatly expanded the PI&rsquo;s training in landscape genetics and behavioral assays and allowed the PI to develop an independent research laboratory investigating the effects of human habitat alteration in parasite transmission ecology, evolution, and biodiversity in rivers at a minority-serving institution.&nbsp; It also allowed the PI to train and mentor four Ph.D. students, three master's students, six undergraduate students, and four high school students in laboratory methodology and field research, expanding the retention of underrepresented identities in science fields.&nbsp; The funding also supported children&rsquo;s public outreach in disease transmission.&nbsp; </span></span></p><br> <p>  Last Modified: 11/28/2023<br> Modified by: Mary&nbsp;J&nbsp;Janecka</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Rivers are at the heart of human life. They provide essential resources around which human societies build their lives and livelihoods. Rivers also harbor an astounding degree of the worlds biodiversity. Rivers are unique ecosystems whose function and physical features make them almost incomparable to other ecosystems. Parasite infection in river ecosystems poses a significant threat to human populations and other species of conservation or commercial interest. Despite this, how river architecture and host dispersal influence parasite diversity and transmission is largely unknown. A lack of understanding of the physical characteristics of riverine habitat (i.e., number of tributaries, confluence position, river length, and stream drift) limits our ability to understand why genetic structure and local adaptation may differ between drainages and taxa for parasites across riverscapes. At finer scales, host social behavior has been demonstrated to be a key determinant of parasite genetic diversity in generating foci of infection, transmission along social networks, and exposure to parasite infection based on social rank. Thus, variation in parasite transmission due to differences in local host behaviors can dramatically alter the evolutionary potential of local populations. This research addressed this fundamental knowledge gap by testing the central hypothesis that parasite genetic diversity and coevolutionary potential are shaped by the physical structure of riverine ecosystems and local host behaviors in the guppy-Gyrodactylus spp. model system in Northern Trinidad. This research determined that while the physical riverine structure was an important determinant of parasite transmission for host-specific gyrodactylids, as inferred through genetic population substructure, transmission for generalist parasites was more influenced by fish community diversity. Our results also suggest that human habitat degradation and pollution may also contribute to spatial variation in transmission and parasite infection within river ecosystems, although further work to specifically address these patterns is necessary. At finer scales, local variation in host behavior, in conjunction with upstream site locations, influenced the virulence, genetic diversity, and distribution of genetically identical parasite clones, with less social hosts infected by less virulent and less genetically diverse parasite populations. However, in rivers where high fish diversity is present in upstream locations, highly social guppy social behavior also persists, but parasite diversity declines as a function of distance upstream. This suggests an inherent interaction between the physical structure of the river, host community composition, and parasite diversity in the absence of changes in social behavior. The outcomes of parasite transmission and coevolutionary potential are thus locally dependent on complex interactions between the physical features of the river, fish community diversity, social behavior and parasite life history characteristics. This research greatly expanded the PIs training in landscape genetics and behavioral assays and allowed the PI to develop an independent research laboratory investigating the effects of human habitat alteration in parasite transmission ecology, evolution, and biodiversity in rivers at a minority-serving institution. It also allowed the PI to train and mentor four Ph.D. students, three master's students, six undergraduate students, and four high school students in laboratory methodology and field research, expanding the retention of underrepresented identities in science fields. The funding also supported childrens public outreach in disease transmission.      Last Modified: 11/28/2023       Submitted by: MaryJJanecka]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

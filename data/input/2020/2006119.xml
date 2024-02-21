@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2020 Stochastic Networks Conference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant provides funding to partially support seventeen speaking participants and twenty other participants at the 2020 Stochastic Networks Conference; Cornell University, Ithaca, New York, 22-26 June 2020.&lt;br/&gt;&lt;br/&gt;Stochastic networks is a multifaceted area of research concerned with the modeling, stability, control, performance, approximation, and design of stochastic networks. It gives rise to challenging and subtle mathematical problems, whose solution often requires a combination of ideas and techniques from several branches of mathematics, including probability theory, stochastic processes, analysis, optimization, algorithms, combinatorics, and graph theory. Research in this area is strongly motivated by applications in diverse domains, ranging from the traditional areas of telecommunications and manufacturing to service operations, biological and social networks, revenue management, and health care. Conference Website:  https://blogs.cornell.edu/snc2020/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/28/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006119</AwardID>
+<Investigator>
+<FirstName>Jamol</FirstName>
+<LastName>Pender</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jamol Pender</PI_FULL_NAME>
+<EmailAddress><![CDATA[jjp274@cornell.edu]]></EmailAddress>
+<NSF_ID>000727609</NSF_ID>
+<StartDate>03/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148503802</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~30000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-040a1def-7fff-f592-9e48-935f3c41b2f2"> </span></p> <h1 dir="ltr"><span style="color: #000000; font-size: 12px; font-weight: normal;">The project supported 19 invited speakers and 23 student poster presenters to attend the biannual Stochastic Networks Conference held at Cornell University in Ithaca, NY on June 20-25 of 2022. &nbsp;There were over 12 different countries represented at the invited talks and poster presentations. &nbsp;The invited speaker list included:</span></h1> <p><span style="color: #000000; font-size: 12px; font-weight: normal;">1. Onno Boxma: From the singler server queue to reflected autoregressive processes</span></p> <h1 dir="ltr"><span style="color: #000000; font-size: 12px; font-weight: normal;">&nbsp;</span><span style="color: #000000; font-size: 12px; font-weight: normal;">2. Daniele Cappalletti:&nbsp;Solving the chemical recurrence conjecture in 2D</span></h1> <p dir="ltr"><span>&nbsp;</span>3. Carri Chan:&nbsp;Managing Queues with Different Resource Requirements</p> <p dir="ltr">4. Sergey Foss:&nbsp;Migration-Contagion Processes</p> <p dir="ltr">5. Nicolas Gast:&nbsp;Computing the bias of mean field approximation</p> <p dir="ltr">6. Varun Gupta:&nbsp;Menu Design of a Bipartite Matching Queueing System with Strategic Users</p> <p dir="ltr">7.&nbsp;Sophie Hautphenne:&nbsp;The probabilities of extinction in a branching random walk</p> <p dir="ltr">8. Rouba Ibrahim:&nbsp;Size-based scheduling in service systems</p> <p dir="ltr">9. Jon Kleinberg:&nbsp;The Challenge of Understanding What Users Want: Inconsistent Preferences and Engagement Optimization</p> <p dir="ltr">10. Henry Lam:&nbsp;Towards Model-Agnostic Rare-Event Simulation with Guarantees</p> <p dir="ltr">11. Nelly Litvak:&nbsp;Red Light - Green Light Solution for Large Markov Chains</p> <p dir="ltr">12. Alexandra Proutiere:&nbsp;Regret in Online Recommendation Systems</p> <p dir="ltr">13. Kavita Ramanan:&nbsp;Beyond mean-field limits in the study of large-scale networks</p> <p dir="ltr">14. R. Srikant:&nbsp;A Policy Gradient Algorithm for the Risk-Sensitive Exponential Cost MDP</p> <p dir="ltr">15. Neil Walton:&nbsp;Regret Analysis of a Markov Policy Gradient Algorithm for Multi-arm Bandits</p> <p dir="ltr">16. Mengdi Wang:&nbsp;Thompson Sampling-Guided Directed Evolution for Sequence Optimization</p> <p dir="ltr">17. Weina Wang:&nbsp;Sharp Waiting-Time Bounds for Multiserver Jobs</p> <p dir="ltr">18. Kuang Xu:&nbsp;Information design for load balancing</p> <p dir="ltr">19. Christina Lee Yu:&nbsp;Graph Agnostic Randomized Experimental Design under Heterogeneous Linear Network Interference and Beyond</p> <p>The grant enabled the invited speakers to be able to disemminate their results with over 150 other researchers from around the world. The grant also provided many PhD students and young researchers with an opportunity to learn about the latest cutting edge research in the field of stochastic networks, and also to interact with other researchers. &nbsp;The grant also enabled researcher to virtually interact with many seminal researchers in the area of stochastic networks and relive the history of many important results and initiatives. &nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/03/2024<br> Modified by: Jamol&nbsp;Pender</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2006119/2006119_10657185_1704344019956_Stochastic_Networks_2022--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2006119/2006119_10657185_1704344019956_Stochastic_Networks_2022--rgov-800width.jpg" title="Stochastic Networks 2022 Flyer"><img src="/por/images/Reports/POR/2024/2006119/2006119_10657185_1704344019956_Stochastic_Networks_2022--rgov-66x44.jpg" alt="Stochastic Networks 2022 Flyer"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Stochastic Networks 2022 Flyer</div> <div class="imageCredit">Jamol Pender</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jamol&nbsp;Pender <div class="imageTitle">Stochastic Networks 2022 Flyer</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    The project supported 19 invited speakers and 23 student poster presenters to attend the biannual Stochastic Networks Conference held at Cornell University in Ithaca, NY on June 20-25 of 2022. There were over 12 different countries represented at the invited talks and poster presentations. The invited speaker list included:   1. Onno Boxma: From the singler server queue to reflected autoregressive processes 2. Daniele Cappalletti:Solving the chemical recurrence conjecture in 2D   3. Carri Chan:Managing Queues with Different Resource Requirements   4. Sergey Foss:Migration-Contagion Processes   5. Nicolas Gast:Computing the bias of mean field approximation   6. Varun Gupta:Menu Design of a Bipartite Matching Queueing System with Strategic Users   7.Sophie Hautphenne:The probabilities of extinction in a branching random walk   8. Rouba Ibrahim:Size-based scheduling in service systems   9. Jon Kleinberg:The Challenge of Understanding What Users Want: Inconsistent Preferences and Engagement Optimization   10. Henry Lam:Towards Model-Agnostic Rare-Event Simulation with Guarantees   11. Nelly Litvak:Red Light - Green Light Solution for Large Markov Chains   12. Alexandra Proutiere:Regret in Online Recommendation Systems   13. Kavita Ramanan:Beyond mean-field limits in the study of large-scale networks   14. R. Srikant:A Policy Gradient Algorithm for the Risk-Sensitive Exponential Cost MDP   15. Neil Walton:Regret Analysis of a Markov Policy Gradient Algorithm for Multi-arm Bandits   16. Mengdi Wang:Thompson Sampling-Guided Directed Evolution for Sequence Optimization   17. Weina Wang:Sharp Waiting-Time Bounds for Multiserver Jobs   18. Kuang Xu:Information design for load balancing   19. Christina Lee Yu:Graph Agnostic Randomized Experimental Design under Heterogeneous Linear Network Interference and Beyond   The grant enabled the invited speakers to be able to disemminate their results with over 150 other researchers from around the world. The grant also provided many PhD students and young researchers with an opportunity to learn about the latest cutting edge research in the field of stochastic networks, and also to interact with other researchers. The grant also enabled researcher to virtually interact with many seminal researchers in the area of stochastic networks and relive the history of many important results and initiatives.            Last Modified: 01/03/2024       Submitted by: JamolPender]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

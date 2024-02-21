@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exploring Excited-State 1D Dipolar Quantum Matter with Dysprosium Gases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>536958.00</AwardTotalIntnAmount>
+<AwardAmount>536958</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John D. Gillaspy</SignBlockName>
+<PO_EMAI>jgillasp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[General audience abstract:&lt;br/&gt;&lt;br/&gt;This research program is built on the machine the PI and his students assembled under prior NSF support---this apparatus has inspired research groups worldwide to develop their own similar experiments.  With this apparatus, the PI is exploring new types of excited quantum gases constrained by light to move in only one dimension.   These gases---of dysprosium---are the most magnetic of any element.  That allows the team to exploit the large, bar-magnet-like interaction between the dysprosium atoms to reveal exotic quantum physics.  Constraining the gas to move in one dimension results in bizarre phenomena.  For example, atoms are normally either bosons (with integer spin) or fermions (with half-integer spin), but in one dimension, bosons can act like fermions and vice versa.  Moreover, inherently large quantum effects prevent phases from emerging that possess order at long length scales, like perfect crystals do.  Exciting such gases to higher energy states should yield even stranger effects, but these are largely unexplored.  The PI and his team aim to create such gases because they suspect these quantum systems will not thermalize---i.e., unlike how coffee and milk mix to form a brown liquid, the excited gas will not come into any “mixed-like” thermal equilibrium.  Such systems may teach us how to protect stored quantum information in quantum gases or materials by inhibiting all information-destroying thermalization processes.  More generally, this research project explores uncharted regimes of strongly correlated matter by pushing the experimental state-of-the-art in atomic physics, quantum optics, and condensed matter physics.  As such, this research program provides an exceptional training ground for graduate and undergraduate students in the formative scientific environment provided by Stanford University and the PI’s state-of-the-art laser lab.  The research concerns physics and technical skills that find application in a variety of significant areas of technology, most notably lasers and photonics for telecommunications and advanced novel solid-state materials for electronic devices. &lt;br/&gt; &lt;br/&gt;Technical audience abstract:&lt;br/&gt;&lt;br/&gt;A diversity of exotic quantum many-body phases and nonequilibrium dynamics may arise from the unusual properties of dysprosium confined to one dimension.  The PI and his students are extending the frontier of quantum simulation by using their unique experimental system to address novel aspects of the physics of out-of-equilibrium 1D dipolar gases. These systems allow the PI’s team to touch on poorly understood aspects of thermalization in quantum physics.  For example, much remains to be learned about both the breakdown of quantum integrability and the stabilization of highly excited quantum many-body systems.  The present program funds two new activities based on 1D dipolar gases; the PI and students are:  1) studying how dipolar interactions modify Luttinger-liquid-like ground and excited states, possibly stabilizing the latter against collapse to yield novel `quantum many-body scar'-like states; 2) extending their work on bosonic dipolar  quantum Newton's cradles to fermions to ask how quantum thermalization depends on quantum exchange statistics; and 3) exploring the possible breakdown of many-body localization in the presence of long-range dipolar interactions in 1D.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006149</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Lev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin Lev</PI_FULL_NAME>
+<EmailAddress><![CDATA[benlev@stanford.edu]]></EmailAddress>
+<NSF_ID>000509436</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>Stanford</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943054088</ZipCode>
+<StreetAddress><![CDATA[348 Via Pueblo Mall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~187928</FUND_OBLG>
+<FUND_OBLG>2021~172275</FUND_OBLG>
+<FUND_OBLG>2022~176755</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF-sponsored work has allowed us to create strongly correlated excited dipolar 1D gases for the first time. With this, we explored these directions: 1) We studied how dipolar interactions modify excited Luttinger liquid states, like the the sTG gas. The dipolar interaction stabilized it against collapse to yield novel `quantum-scar'-like states. 2) We measured the momentum and rapidity distributions of various dipolar 1D gases and found how the dipolar interaction affects these observables.&nbsp;&nbsp;3) We extended our work on equilibrium dipolar 1D gas to nonequilibrium, quenched gases, where discovered a new effect, phantom energy of quantum many-body scar states.</p> <p>During this grant, we published the following Science paper based on our discovery that dipolar interactions can stabilize super-Tonks gases.</p> <p>Publication 1:</p> <p>W.&nbsp;Kao, K.-Y.&nbsp;Li, K.-Y.&nbsp;Lin, S.&nbsp;Gopalakrishnan, and B. L. Lev,&nbsp;<em>Topological pumping of a 1D dipolar gas into strongly correlated prethermal states</em>&#8203;, Science&nbsp;<strong>371</strong>, 296 (2021).&nbsp;</p> <ul> <li>News coverage:<strong><br /></strong>-&nbsp;&nbsp;<a href="https://news.stanford.edu/2021/01/14/new-state-matter-one-dimensional-quantum-gas/">Stanford News</a>: &nbsp;<em>Stanford physicists find new state of matter in a one-dimensional quantum gas<br /></em><em>- APS DAMOP highlight: &nbsp;The Turn of the Screw</em></li> </ul> <p>Description:</p> <p>Quantum many-body scars, long-lived excited states of correlated quantum chaotic systems that evade thermalization, are of great fundamental and technological interest. We create novel scar states in a bosonic 1D quantum gas of dysprosium by stabilizing a super-Tonks-Girardeau gas against collapse and thermalization with repulsive long-range dipolar interactions. Stiffness and energy density measurements show that the system is dynamically stable regardless of contact interaction strength. This enables us to cycle contact interactions from weakly to strongly repulsive, then strongly attractive, and finally weakly attractive. We show that this cycle is an energy-space topological pump (due to a quantum holonomy). Iterating this cycle offers an unexplored topological pumping method to create a hierarchy of quantum many-body scar states.&nbsp;</p> <p>We also published this Physical Review A paper, which was highlighted as a Letter:</p> <p class="Body">K.-Y. Li, Y. Zhang, K. Yang, K.-Y. Lin, S. Gopalakrishnan, M. Rigol, and B. L. Lev, Rapidity and momentum distributions of 1D dipolar quantum gases, Physical Review A 107, L061302 (2023).&nbsp;&nbsp;Selected as a Letter and Editors' Suggestion</p> <p class="Body">Description:</p> <p class="Body"><span>We explored the effect of tunable integrability-breaking dipole-dipole interactions in the equilibrium states of highly magnetic one-dimensional (1D) Bose gases of dysprosium at low temperatures. We experimentally observed that in the strongly correlated Tonks-Girardeau regime, rapidity and momentum distributions are nearly unaffected by the dipolar interactions. By contrast, we also observed that significant changes of these distributions occur when decreasing the strength of the contact interactions. We showed that the main experimental observations are captured by modeling the system as an array of 1D gases with only contact interactions, dressed by the contribution of the short-range part of the dipolar interactions. Improvements to theory-experiment correspondence will require different tools tailored to near-integrable models possessing both short- and long-range interactions</span></p> <p class="Body">We have submitted the following manuscript for publication; arXiv:2308.11615:</p> <p class="Body">K. Yang, Y. Zhang, K.-Y. Li, K.-Y. Lin, S. Gopalakrishnan, M. Rigol, Benjamin L. Lev, Phantom energy in the nonlinear response of a quantum many-body scar state, 2023</p> <p class="Body">Quantum many-body scars are notable as nonthermal states that exist at high energies. Here, we used attractively interacting dysprosium gases to create scar states that are stable enough be driven into a strongly nonlinear regime while retaining their character. We uncovered an emergent nonlinear many-body phenomenon, the effective transmutation of attractive interactions into repulsive interactions. We measured how the kinetic and total energies evolve after quenching the confining potential. Although the bare interactions are attractive, the low-energy degrees of freedom evolve as if they repel each other: Thus, their kinetic energy paradoxically decreases as the gas is compressed. The missing ``phantom'' energy was quantified by benchmarking our experimental results against generalized hydrodynamics calculations. We presented evidence that the missing kinetic energy is stored in very high-momentum modes.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/12/2023<br>      Modified by: Benjamin&nbsp;Lev</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This NSF-sponsored work has allowed us to create strongly correlated excited dipolar 1D gases for the first time. With this, we explored these directions: 1) We studied how dipolar interactions modify excited Luttinger liquid states, like the the sTG gas. The dipolar interaction stabilized it against collapse to yield novel `quantum-scar'-like states. 2) We measured the momentum and rapidity distributions of various dipolar 1D gases and found how the dipolar interaction affects these observables.  3) We extended our work on equilibrium dipolar 1D gas to nonequilibrium, quenched gases, where discovered a new effect, phantom energy of quantum many-body scar states.  During this grant, we published the following Science paper based on our discovery that dipolar interactions can stabilize super-Tonks gases.  Publication 1:  W. Kao, K.-Y. Li, K.-Y. Lin, S. Gopalakrishnan, and B. L. Lev, Topological pumping of a 1D dipolar gas into strongly correlated prethermal states&#8203;, Science 371, 296 (2021).   News coverage: -  Stanford News:  Stanford physicists find new state of matter in a one-dimensional quantum gas - APS DAMOP highlight:  The Turn of the Screw   Description:  Quantum many-body scars, long-lived excited states of correlated quantum chaotic systems that evade thermalization, are of great fundamental and technological interest. We create novel scar states in a bosonic 1D quantum gas of dysprosium by stabilizing a super-Tonks-Girardeau gas against collapse and thermalization with repulsive long-range dipolar interactions. Stiffness and energy density measurements show that the system is dynamically stable regardless of contact interaction strength. This enables us to cycle contact interactions from weakly to strongly repulsive, then strongly attractive, and finally weakly attractive. We show that this cycle is an energy-space topological pump (due to a quantum holonomy). Iterating this cycle offers an unexplored topological pumping method to create a hierarchy of quantum many-body scar states.   We also published this Physical Review A paper, which was highlighted as a Letter: K.-Y. Li, Y. Zhang, K. Yang, K.-Y. Lin, S. Gopalakrishnan, M. Rigol, and B. L. Lev, Rapidity and momentum distributions of 1D dipolar quantum gases, Physical Review A 107, L061302 (2023).  Selected as a Letter and Editors' Suggestion Description: We explored the effect of tunable integrability-breaking dipole-dipole interactions in the equilibrium states of highly magnetic one-dimensional (1D) Bose gases of dysprosium at low temperatures. We experimentally observed that in the strongly correlated Tonks-Girardeau regime, rapidity and momentum distributions are nearly unaffected by the dipolar interactions. By contrast, we also observed that significant changes of these distributions occur when decreasing the strength of the contact interactions. We showed that the main experimental observations are captured by modeling the system as an array of 1D gases with only contact interactions, dressed by the contribution of the short-range part of the dipolar interactions. Improvements to theory-experiment correspondence will require different tools tailored to near-integrable models possessing both short- and long-range interactions We have submitted the following manuscript for publication; arXiv:2308.11615: K. Yang, Y. Zhang, K.-Y. Li, K.-Y. Lin, S. Gopalakrishnan, M. Rigol, Benjamin L. Lev, Phantom energy in the nonlinear response of a quantum many-body scar state, 2023 Quantum many-body scars are notable as nonthermal states that exist at high energies. Here, we used attractively interacting dysprosium gases to create scar states that are stable enough be driven into a strongly nonlinear regime while retaining their character. We uncovered an emergent nonlinear many-body phenomenon, the effective transmutation of attractive interactions into repulsive interactions. We measured how the kinetic and total energies evolve after quenching the confining potential. Although the bare interactions are attractive, the low-energy degrees of freedom evolve as if they repel each other: Thus, their kinetic energy paradoxically decreases as the gas is compressed. The missing ``phantom'' energy was quantified by benchmarking our experimental results against generalized hydrodynamics calculations. We presented evidence that the missing kinetic energy is stored in very high-momentum modes.             Last Modified: 10/12/2023       Submitted by: Benjamin Lev]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

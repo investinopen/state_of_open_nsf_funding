@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III: Small: Collaborative Research: Social Media Based Analysis of Adverse Drug Events: User Modeling, Signal Reliability, and Signal Validation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/25/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>156137.00</AwardTotalIntnAmount>
+<AwardAmount>156137</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Adverse drug reactions (ADRs) have been associated with significant morbidity and mortality, and have been a significant cause of hospital admissions, accounting for as much as 5% of all admissions. About 2,000,000 serious ADRs are reported yearly in the US; 100,000 annual deaths are related to adverse drug events; serious ADRs rank 4th to 6th as causes of death. The problem stems from the fact that the ADR profile of a given drug is rarely complete at the time of official approval. The typically limited preapproval evaluation often results in the possibility that when the drug is finally approved for use in the general population (with significant diversity in race, gender, age, lifestyle), some previously unidentified ADRs are often observed. This problem is acute for psychotropic medications, given the fact that most people with psychiatric diseases tend to have other health issues, with the individual taking multiple drugs at the same time (both psychotropic and non-psychotropic), with often unknown interactions between them. Initial results have shown the promise of using social-media data for ADR signal detection. However, these methods are still faced with two critical challenges, namely, signal reliability and biological validation. Thus, this project proposes a detailed study on key determinants of signal reliability: credibility of social media sources, model of the users that generate source content, signal generation from such sources, and validation of the generated signals. This work will be relevant to government agencies charged with drug approval, drug monitoring, and disease monitoring, drug companies, hospitals, and the general public. The impact of the proposed work will go beyond drug surveillance, since the approaches proposed can be adapted for other healthcare problems, and for other scenarios, such as financial markets, and national security. Planned educational activities include outreach to high-school students, and involvement of undergraduate and graduate students. Research results will be disseminated via technical publications in professional journals and conference presentations.&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;The project has three specific aims: (1) Enrich signal reliability in social media analysis of adverse drug events, using credibility analysis, user modeling and signal fusion via deep learning; (2) Signal validation via molecular level analysis; (3) Prototype development and evaluation. The ubiquity, veracity and diversity of data from various social media channels and other sources of user-generated content necessitate a serious consideration of their credibility, recency, uniqueness and salience. To enrich signal reliability, the team will propose novel methods for ADR signal detection using credibility analysis, and for user modeling and signal fusion based on deep leaning techniques.  For signal validation, biological support for hypothesized ADRs, essentially connecting high-level observations from social media interactions to potential associations at molecular level networks and pathways, will be used. The results will change the current largely passive approach to post-marketing drug surveillance that relies heavily on voluntary reports, by ensuring reliability in social-media based approaches, thus making the public an integral part of a proactive drug surveillance system. The idea of signal fusion and deep learning for user modeling and signal generation can be extended for other uses beyond drug surveillance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039915</AwardID>
+<Investigator>
+<FirstName>Ahmed</FirstName>
+<LastName>Abbasi</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ahmed N Abbasi</PI_FULL_NAME>
+<EmailAddress><![CDATA[aabbasi@nd.edu]]></EmailAddress>
+<NSF_ID>000513374</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465566031</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>836 GRACE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>Notre Dame</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565612</ZipCode>
+<StreetAddress><![CDATA[940 Grace Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~156137</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default"><strong>Project Outcomes Report </strong>(#IIS-1816005 &ndash; WVU; #IIS- 2039915 &ndash; ND; #IIS-<strong>1816504&nbsp;</strong>&ndash; UVA)</p> <p>III: Small: Collaborative Research: Social Media Based Analysis of Adverse Drug Events: User Modeling, Signal Reliability, and Signal Validation.</p> <p>D. Adjeroh (Lead PI), G. Doretto, M. Abate, W. Zhang, West Virginia University;</p> <p>A. Abbasi, University of Notre Dame</p> <p><strong>&nbsp;</strong></p> <p>Adverse drug reactions (ADRs) have been associated with significant morbidity and mortality, and have been a significant cause of hospital admissions, accounting for as much as 5% of all admissions. The problem stems from the fact that the ADR profile of a given drug is rarely complete at the time of official approval. The typically limited preapproval evaluation often results in the possibility that when the drug is finally approved for use in the general population (with significant diversity in race, gender, age, lifestyle), some previously unidentified ADRs are often observed. Initial results have shown the promise of using social-media data for ADR signal detection. However, these methods are still faced with two critical challenges, namely, signal reliability and biological validation. Thus, this project embarked on a detailed study on key determinants of signal reliability when using social media as the primary data source: credibility of social media sources, model of the users that generate source content, signal generation from such sources, effective integration of data from various sources, and validation of the generated signals.</p> <p>&nbsp;</p> <p>The major outcomes of the project are as follows:</p> <p>(1) Improved Signal Reliability of social-media-based drug adverse event signals by considering three important elements: (a) the credibility of social media data &ndash; our initial data source for performing signal detection; (b) user profiles to incorporate information about the users &ndash; the generators of the social media data; (c) development of DeepSAVE, a novel deep learning framework to integrate these elements for improved signal reliability. We developed methods to infer personality from user-generated text, and for performing credibility analysis of online medical content. We also introduced deep learning encoder-decoder models for novelty detection, applicable to both image, and non-image data, such as genomic sequences.</p> <p>&nbsp;</p> <p>(2) Novel Methods for Signal Validation. We developed computational methods that use molecular level analysis of drug action to provide biological support (or otherwise) for detected drug adverse event signals. We had two major outcomes: (a) Development of network integration models for various networks constructed from different biological/biomedical data types (including protein-protein interaction (PPI), drug-drug interaction, drug-adverse effects, chemical structure, drug-target networks, protein structure, protein sequences, etc.), and the use of the integrated network for adverse event detection and signal validation. (b) Using the developed networks to study the drug safety profiles for drugs that are used in (or connected with) cardiovascular problems.</p> <p>&nbsp;</p> <p>(3) Further Outcomes: Further results included (a) new algorithm for alignment free sequence analysis needed for comparison of biological sequences, (b) new deep learning based approach for PPI analysis and detection; (c) methods for considering fairness and algorithmic bias in natural language processing models used in healthcare.</p> <p>&nbsp;</p> <p>(4) Evaluation: We performed comparative analysis of the proposed methods with state-of-the-art methods. Our proposed methods were competitive, and at time superior to previously proposed methods.</p> <p>&nbsp;</p> <p>The results of this work can be used directly by individuals who can use the outcome of the research to check possible safety profile for their own medications, or those used by family members or loved ones. This research also has direct relevance to government agencies charged with drug approval and disease monitoring (e.g., the Food and Drug Administration (FDA), Centers for Disease Control (CDC), public health agencies (at county, state, and federal levels). The results will also be relevant to hospitals, doctors, and healthcare practitioners (as they deal with drug prescription and the effect of adverse drug reactions on daily basis), pharmaceutical companies, and the general public. The developed methods, such as the network integration methods and the deep-learning models will have impact beyond drug surveillance as these can be applied to other scenarios such as financial markets, national security, or other healthcare problems. Both undergraduate and graduate students were involved in the project, thereby gaining experience in doing research in deep learning and artificial intelligence, a leading-edge technology area, and their application to important biomedical problems, such as drug safety and surveillance. Journal papers, seminars, and conference presentations in local and international venues have been used to disseminate research results of the project.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/28/2023<br> Modified by: Ahmed&nbsp;N&nbsp;Abbasi</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2039915/2039915_10566025_1703805603720_SimilarityNN--rgov-214x142.png" original="/por/images/Reports/POR/2023/2039915/2039915_10566025_1703805603720_SimilarityNN--rgov-800width.png" title="MultifusionADE"><img src="/por/images/Reports/POR/2023/2039915/2039915_10566025_1703805603720_SimilarityNN--rgov-66x44.png" alt="MultifusionADE"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Proposed network model for integrating biological data (protein sequences, structure, interaction networks) for analyzing adverse drug events.</div> <div class="imageCredit">Don Adjeroh</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ahmed&nbsp;N&nbsp;Abbasi <div class="imageTitle">MultifusionADE</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2039915/2039915_10566025_1703805530003_DeepSAVE_Architecture_Reviewed--rgov-214x142.png" original="/por/images/Reports/POR/2023/2039915/2039915_10566025_1703805530003_DeepSAVE_Architecture_Reviewed--rgov-800width.png" title="DeepSAVE"><img src="/por/images/Reports/POR/2023/2039915/2039915_10566025_1703805530003_DeepSAVE_Architecture_Reviewed--rgov-66x44.png" alt="DeepSAVE"></a> <div class="imageCaptionContainer"> <div class="imageCaption">DeepSAVE: Proposed Deep Learning Framework for Adverse Event Detection</div> <div class="imageCredit">IEEE TKDE 2022</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ahmed&nbsp;N&nbsp;Abbasi <div class="imageTitle">DeepSAVE</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcomes Report (#IIS-1816005  WVU; #IIS- 2039915  ND; #IIS-1816504 UVA)   III: Small: Collaborative Research: Social Media Based Analysis of Adverse Drug Events: User Modeling, Signal Reliability, and Signal Validation.   D. Adjeroh (Lead PI), G. Doretto, M. Abate, W. Zhang, West Virginia University;   A. Abbasi, University of Notre Dame      Adverse drug reactions (ADRs) have been associated with significant morbidity and mortality, and have been a significant cause of hospital admissions, accounting for as much as 5% of all admissions. The problem stems from the fact that the ADR profile of a given drug is rarely complete at the time of official approval. The typically limited preapproval evaluation often results in the possibility that when the drug is finally approved for use in the general population (with significant diversity in race, gender, age, lifestyle), some previously unidentified ADRs are often observed. Initial results have shown the promise of using social-media data for ADR signal detection. However, these methods are still faced with two critical challenges, namely, signal reliability and biological validation. Thus, this project embarked on a detailed study on key determinants of signal reliability when using social media as the primary data source: credibility of social media sources, model of the users that generate source content, signal generation from such sources, effective integration of data from various sources, and validation of the generated signals.      The major outcomes of the project are as follows:   (1) Improved Signal Reliability of social-media-based drug adverse event signals by considering three important elements: (a) the credibility of social media data  our initial data source for performing signal detection; (b) user profiles to incorporate information about the users  the generators of the social media data; (c) development of DeepSAVE, a novel deep learning framework to integrate these elements for improved signal reliability. We developed methods to infer personality from user-generated text, and for performing credibility analysis of online medical content. We also introduced deep learning encoder-decoder models for novelty detection, applicable to both image, and non-image data, such as genomic sequences.      (2) Novel Methods for Signal Validation. We developed computational methods that use molecular level analysis of drug action to provide biological support (or otherwise) for detected drug adverse event signals. We had two major outcomes: (a) Development of network integration models for various networks constructed from different biological/biomedical data types (including protein-protein interaction (PPI), drug-drug interaction, drug-adverse effects, chemical structure, drug-target networks, protein structure, protein sequences, etc.), and the use of the integrated network for adverse event detection and signal validation. (b) Using the developed networks to study the drug safety profiles for drugs that are used in (or connected with) cardiovascular problems.      (3) Further Outcomes: Further results included (a) new algorithm for alignment free sequence analysis needed for comparison of biological sequences, (b) new deep learning based approach for PPI analysis and detection; (c) methods for considering fairness and algorithmic bias in natural language processing models used in healthcare.      (4) Evaluation: We performed comparative analysis of the proposed methods with state-of-the-art methods. Our proposed methods were competitive, and at time superior to previously proposed methods.      The results of this work can be used directly by individuals who can use the outcome of the research to check possible safety profile for their own medications, or those used by family members or loved ones. This research also has direct relevance to government agencies charged with drug approval and disease monitoring (e.g., the Food and Drug Administration (FDA), Centers for Disease Control (CDC), public health agencies (at county, state, and federal levels). The results will also be relevant to hospitals, doctors, and healthcare practitioners (as they deal with drug prescription and the effect of adverse drug reactions on daily basis), pharmaceutical companies, and the general public. The developed methods, such as the network integration methods and the deep-learning models will have impact beyond drug surveillance as these can be applied to other scenarios such as financial markets, national security, or other healthcare problems. Both undergraduate and graduate students were involved in the project, thereby gaining experience in doing research in deep learning and artificial intelligence, a leading-edge technology area, and their application to important biomedical problems, such as drug safety and surveillance. Journal papers, seminars, and conference presentations in local and international venues have been used to disseminate research results of the project.        Last Modified: 12/28/2023       Submitted by: AhmedNAbbasi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

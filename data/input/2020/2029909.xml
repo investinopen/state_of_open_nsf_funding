@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Electrospun composite nanofibers for point-of-use and point-of-entry drinking water treatment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of high-performance filters to improve access to safe and reliable drinking water. Contaminated drinking water is a public health crisis affecting hundreds of millions of people worldwide, including many across the United States. The proposed nanotechnology-enabled water filter technology provides a unique solution to pervasive drinking water pollutants, including lead and arsenic. As an in-home or point-of-use (POU) technology, it is envisioned that a product would be used at the primary faucet used for water consumption or in reusable water bottles.  The technology may be especially valuable for those relying on unregulated water supplies like private drinking water wells, where water is often consumed with little to no treatment. Institutions with older plumbing systems would benefit from these filters at their fountains and bubblers. This could positively impact communities with limited freshwater resources or needs of humanitarian missions or natural disasters.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of nanotechnology-enabled water treatment devices. Electrospinning to fabricate functionalized polymer-metal oxide nanofiber composites for drinking water treatment coupling physical and chemical removal routes for a diverse range of pollutants has been shown. Accordingly, the overarching goal of this work is to translate nanofiber fabrication recipes to industrial scale and demonstrate the performance of the functionalized polymer nanocomposites using a prototype point-of-use (POU) water treatment device (e.g., for use at the tap, within a home refrigerator or a reusable water bottle). Development efforts include scaling up electrospinning processes to fabricate nanofiber membrane sheets of dimensions necessary for integration into POU treatment devices; integration of these nanofiber membrane sheets into prototype POU treatment platforms to demonstrate ease of installation, use and maintenance; and validation of the device for regulatory approval of removal of lead (Pb) and arsenic (As). The transformative aspect of this technology is to create multi-functional, nanostructured materials with synergistic performance characteristics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029909</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Cwiertny</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David M Cwiertny</PI_FULL_NAME>
+<EmailAddress><![CDATA[david-cwiertny@uiowa.edu]]></EmailAddress>
+<NSF_ID>000448773</NSF_ID>
+<StartDate>12/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>105 JESSUP HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>Iowa City</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421320</ZipCode>
+<StreetAddress><![CDATA[2 Gilmore Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF I-Corps award supported researchers from the University of Iowa (UI), Notre Dame (ND) and a technology start-up, Nanofiber Solutions, LLC (NFS) and their efforts to translate nanotechnology-enabled water treatment devices to application scale. The technology proposed for scale up and prototyping results from nearly 10 years of collaboration between PI David Cwiertny (UI) and collaborator Nosang Myung (ND). Cwiertny and Myung have demonstrated the use of electrospinning to fabricate functionalized polymer-metal oxide nanofiber composites for water treatment. Through nanoengineering, this filtration technology exhibits high removal capacity of toxic pollutants including lead and arsenic, among others, in a small device footprint, enabling more treatment with less material and operating cost. As such, they can be easily integrated into existing point-of-use/point-of-entry (POU/POE) treatment systems and generate little to no waste byproducts. A collaborative partnership with Dr. Jed Johnson and NFS brought expertise and infrastructure in the industrial scale synthesis of nanofiber frameworks for industrial applications and proven experience in translating fundamental research and discovery into practical applications with societal impact.&nbsp;</p> <p>The research team completed I-Corps training in Fall 2020 in Cohort 3 (St. Louis/virtual) as Team 2070 "FilterMore". The team consisted of Entrepreneurial Lead Humberto Gonzalez-Ribot, co-Technical Leads David Cwiertny and Nosang Myung, and Industry Mentor Jed Johnson of Nanofiber Solutions, Inc. We used customer discovery to establish our beachhead market of schools and daycares, with our minimum viable product (MVP) being a POU filter that targets lead removal. Based on our plan to functionalize existing block carbon filters with electrospun nanofiber sorbent layers, we intend to extend the lifetime of commercially available, certified lead removal devices by at least two-fold. This, in turn, would limit filter replacement and maintenance, both of which were important value propositions for our primary customer segment of school and daycare facilities administrators. Our focus on schools and daycares is motivated by recent updates to federal regulations (the Lead and Copper Rule) that will soon require testing in schools.&nbsp; As federally mandated testing is conducted, and lead contamination problems are revealed, schools will need versatile technologies to remove lead from drinking water as costs of plumbing repairs may be too prohibitive for most school districts. Our materials hold an additional competitive advantage by being a membrane based technology, and thus able to remove nanoparticulate lead, an emerging problem for some commercially available POU filter materials.&nbsp;</p> <p>At UI, this award supported the MS degree training of Mr. Humberto Gonzalez-Ribot, who completed the NSF I-Corps program as our project team's Entrepreneurial Lead (or EL). Through the I-Corps course instruction, weekly presentations, and customer discovery interview process, in which our team completed 104 interviews, Mr. Gonzalez-Ribot received extensive training, professional development, and valuable experience related to launching a start-up company.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/17/2023<br> Modified by: David&nbsp;M&nbsp;Cwiertny</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This NSF I-Corps award supported researchers from the University of Iowa (UI), Notre Dame (ND) and a technology start-up, Nanofiber Solutions, LLC (NFS) and their efforts to translate nanotechnology-enabled water treatment devices to application scale. The technology proposed for scale up and prototyping results from nearly 10 years of collaboration between PI David Cwiertny (UI) and collaborator Nosang Myung (ND). Cwiertny and Myung have demonstrated the use of electrospinning to fabricate functionalized polymer-metal oxide nanofiber composites for water treatment. Through nanoengineering, this filtration technology exhibits high removal capacity of toxic pollutants including lead and arsenic, among others, in a small device footprint, enabling more treatment with less material and operating cost. As such, they can be easily integrated into existing point-of-use/point-of-entry (POU/POE) treatment systems and generate little to no waste byproducts. A collaborative partnership with Dr. Jed Johnson and NFS brought expertise and infrastructure in the industrial scale synthesis of nanofiber frameworks for industrial applications and proven experience in translating fundamental research and discovery into practical applications with societal impact.   The research team completed I-Corps training in Fall 2020 in Cohort 3 (St. Louis/virtual) as Team 2070 "FilterMore". The team consisted of Entrepreneurial Lead Humberto Gonzalez-Ribot, co-Technical Leads David Cwiertny and Nosang Myung, and Industry Mentor Jed Johnson of Nanofiber Solutions, Inc. We used customer discovery to establish our beachhead market of schools and daycares, with our minimum viable product (MVP) being a POU filter that targets lead removal. Based on our plan to functionalize existing block carbon filters with electrospun nanofiber sorbent layers, we intend to extend the lifetime of commercially available, certified lead removal devices by at least two-fold. This, in turn, would limit filter replacement and maintenance, both of which were important value propositions for our primary customer segment of school and daycare facilities administrators. Our focus on schools and daycares is motivated by recent updates to federal regulations (the Lead and Copper Rule) that will soon require testing in schools. As federally mandated testing is conducted, and lead contamination problems are revealed, schools will need versatile technologies to remove lead from drinking water as costs of plumbing repairs may be too prohibitive for most school districts. Our materials hold an additional competitive advantage by being a membrane based technology, and thus able to remove nanoparticulate lead, an emerging problem for some commercially available POU filter materials.   At UI, this award supported the MS degree training of Mr. Humberto Gonzalez-Ribot, who completed the NSF I-Corps program as our project team's Entrepreneurial Lead (or EL). Through the I-Corps course instruction, weekly presentations, and customer discovery interview process, in which our team completed 104 interviews, Mr. Gonzalez-Ribot received extensive training, professional development, and valuable experience related to launching a start-up company.        Last Modified: 12/17/2023       Submitted by: DavidMCwiertny]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

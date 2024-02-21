@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Electric Field- and Light-Modulated Thermal Transport in Superatomic Crystals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>189999.00</AwardTotalIntnAmount>
+<AwardAmount>189999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The ability for a material to transport heat is governed by its thermal conductivity. High thermal conductivity materials are thermal conductors, while low thermal conductivity materials are thermal insulators. The objective of this project is to discover materials whose thermal conductivity can be quickly changed. Such thermal conductivity switches will be useful in reducing the temperature of electronic devices that intermittently overheat and in converting heat into electricity. The proposed approach is based on controlling the rotations of molecules inside a new class of material called superatomic crystals. When the molecules rotate, the thermal conductivity is low. The application of an electric field or light will cause the molecules to stop rotating and increase thermal conductivity. The supported graduate students will be recruited from diverse pools and will gain cross-cutting experimental and modeling experience in chemistry, thermal transport, and materials science. The team will develop educational modules to expose middle school, high school, and undergraduate students to the links between a material’s atomic structure and its properties.&lt;br/&gt;&lt;br/&gt;Superatomic crystals are assembled from precise molecular building blocks called superatoms. Their scalable synthesis and multi-functional properties make them attractive for energy conversion applications. Orientational disorder (i.e., rotation) of C60 superatoms in some superatomic crystals at elevated temperatures decreases their thermal conductivity. The overarching hypothesis of this project is that C60 orientational disorder can be actively manipulated using electric fields and light. Through synthesis and crystallography at Columbia and thermal transport measurements and atomistic modeling at Carnegie Mellon, this hypothesis will be tested on the novel superatomic crystal [Co6Te8][C60]3. Polar intercalants and photoactive ligands, triggered by electric fields and light, will become monkey wrenches that lock the C60 gears of the superatomic crystals to switch thermal conductivity on demand. Such thermal switches can be used to create transient heat fluxes from steady-state sources to improve the performance of pyroelectric and thermoelectric devices. Thermal switches will also enable active control of heat pathways and new approaches for managing heat in electronics. Three interdisciplinary tutorials will introduce chemistry students to thermal transport and engineering students to chemical bonding and superstructures. Outreach activities in underserved communities in Pittsburgh and New York will expose middle and high school students to the intersection of chemistry and engineering. The graduate students supported by the project will be recruited from diverse pools and will gain interdisciplinary experience in chemistry, X-ray crystallography, optics, and computational materials science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017198</AwardID>
+<Investigator>
+<FirstName>Xavier</FirstName>
+<LastName>Roy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xavier Roy</PI_FULL_NAME>
+<EmailAddress><![CDATA[xr2114@columbia.edu]]></EmailAddress>
+<NSF_ID>000671950</NSF_ID>
+<StartDate>07/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>615 W 131ST ST</StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2960 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~189999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Superatom Regiochemistry Dictates the Assembly and Surface Reactivity of a Two-Dimensional Material</strong></p> <p>The area of two-dimensional (2D) materials research would benefit greatly from the development of synthetically tunable van der Waals (vdW) materials. While the bottom-up synthesis of 2D frameworks from nanoscale building blocks holds great promise in this quest, there are many remaining hurdles, including the design of building blocks that reliably produce 2D lattices and the growth of macroscopic crystals that can be exfoliated to produce 2D materials. In a manuscript published in <em>JACS</em>, we reported the regioselective synthesis of the cluster [<em>trans</em>-Co<sub>6</sub>Se<sub>8</sub>(CN)<sub>4</sub>(CO)<sub>2</sub>]<sup>3&ndash;/4&ndash;</sup>, a &ldquo;superatomic&rdquo; building block designed to polymerize and assemble into a 2D cyanometalate lattice whose surfaces are chemically addressable. The resulting vdW material, [Co(py)<sub>4</sub>]<sub>2</sub>[<em>trans</em>-Co<sub>6</sub>Se<sub>8</sub>(CN)<sub>4</sub>(CO)<sub>2</sub>], grows as bulk single crystals that can be mechanically exfoliated to produce flakes as thin as bilayers, with photolabile CO ligands on the exfoliated surface. As a proof of concept, we show that these surface CO ligands can be replaced by 4-isocyanoazobenzene under blue light irradiation. This work demonstrates that the bottom-up assembly of layered vdW materials from superatoms is a promising and versatile approach to create 2D materials with tunable physical and chemical properties.</p> <p>&nbsp;</p> <p><strong>Controlling Ligand Coordination Spheres and Cluster Fusion in Superatoms</strong></p> <p>In a manuscript published in <em>JACS</em>, we have shown that reaction pathways from a single superatom motif can be controlled through subtle electronic modification of the outer ligand spheres. Chevrel-type [Co<sub>6</sub>Se<sub>8</sub>L<sub>6</sub>] (L = PR<sub>3</sub>, CO) superatoms are used to form carbene terminated clusters, the reactivity of which can be influenced through the electronic effects of the surrounding ligands. This carbene provides new routes for ligand substitution chemistry, which was used to selectively install cyanide or pyridine ligands which were previously inaccessible in these cobalt-based clusters. The surrounding ligands also impact the ability of this carbene to create larger fused clusters of the type [Co<sub>12</sub>Se<sub>16</sub>L<sub>10</sub>], providing underlying information for cluster fusion mechanisms. We used this information to develop methods of creating dimeric clusters with functionalized surface ligands with site specificity, putting new ligands in specific positions on this anisotropic core. Finally, adjusting the carbene intermediates can also be used to perturb the geometry of the [Co<sub>6</sub>Se<sub>8</sub>] core itself, as we demonstrated with a multicarbene adduct that displays a substantially anisotropic core.</p> <p>&nbsp;</p> <p><strong>Highly twisted azobenzene ligand causes crystals to continuously roll in sunlight</strong></p> <p>Direct conversion of solar energy to mechanical work promises higher efficiency than multistep processes, adding a key tool to the arsenal of energy solutions necessary for our global future. The ideal photomechanical material would convert sunlight into mechanical motion rapidly, without attrition, and proportionally to the stimulus. In a manuscript published in&nbsp;<em>JACS</em>, we describe crystals of a tetrahedral isocyanoazobenzene copper complex that roll continuously when irradiated with broad spectrum white light, including sunlight. The rolling results from sequential bending and straightening of the crystal due to blue light-driven <em>trans</em>-to-<em>cis</em> isomerization of a highly twisted azobenzene ligand. These findings introduce geometrically constrained crystal packing as a new strategy for manipulating the electronic properties of chromophores. Furthermore, the continuous, solar-driven motion of the crystals demonstrates that it is possible to achieve direct conversion of solar energy to continuous physical motion using easily-accessed molecular systems.</p> <p>&nbsp;</p> <p><strong>A few-layer covalent network of fullerenes</strong></p> <p>The two natural allotropes of carbon, diamond and graphite, are extended networks of <em>sp</em><sup>3</sup>- and <em>sp</em><sup>2</sup>-hybridized carbon atoms, respectively. By mixing different hybridizations and geometries of carbon, one could conceptually construct countless synthetic crystalline allotropes. In a manuscript published in <em>Nature</em>, we introduce graphullerene, a new allotrope that bridges the gulf between molecular carbon structures and extended carbon materials, combining three- and four-coordinate carbon atoms. Its constituent C<sub>60</sub> fullerene subunits arrange hexagonally in a covalently interconnected molecular plane. We present for the first time, charge-neutral, purely carbon-based macroscopic crystals, that are large enough for mechanical exfoliation and materials testing. The synthesis entails two steps: the growth of single crystals of two-dimensional, polymeric Mg<sub>4</sub>C<sub>60</sub> by chemical vapor transport; and the subsequent removal of magnesium with dilute acid. Using this method, we can produce exfoliated flakes with clean van der Waals interfaces, a critical requirement for the creation of heterostructures and optoelectronic devices. As a proof of concept, we explore the optoelectronic and thermal conductivity properties of this new layered material. We find that the thermal conductivity of this remarkable new material is significantly higher than that of molecular C<sub>60</sub>, a consequence of the in-plane covalent bonding. Furthermore, imaging using transmission electron microscopy and near-field nano-photoluminescence spectroscopy of few-layer flakes reveals the existence of moir&eacute;-like superlattices. The ability to chemically synthesize new extended carbon structures by polymerization of superatomic molecular precursors charts a clear path to the systematic design of new materials for the construction of 2D heterostructures with tunable optoelectronic properties.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/02/2024<br> Modified by: Xavier&nbsp;Roy</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2017198/2017198_10691545_1704246176269_Highlight--rgov-214x142.png" original="/por/images/Reports/POR/2024/2017198/2017198_10691545_1704246176269_Highlight--rgov-800width.png" title="Highlight"><img src="/por/images/Reports/POR/2024/2017198/2017198_10691545_1704246176269_Highlight--rgov-66x44.png" alt="Highlight"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Highlight of NSF CBET-2017198 program.</div> <div class="imageCredit">Xavier Roy</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xavier&nbsp;Roy <div class="imageTitle">Highlight</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Superatom Regiochemistry Dictates the Assembly and Surface Reactivity of a Two-Dimensional Material   The area of two-dimensional (2D) materials research would benefit greatly from the development of synthetically tunable van der Waals (vdW) materials. While the bottom-up synthesis of 2D frameworks from nanoscale building blocks holds great promise in this quest, there are many remaining hurdles, including the design of building blocks that reliably produce 2D lattices and the growth of macroscopic crystals that can be exfoliated to produce 2D materials. In a manuscript published in JACS, we reported the regioselective synthesis of the cluster [trans-Co6Se8(CN)4(CO)2]3/4, a superatomic building block designed to polymerize and assemble into a 2D cyanometalate lattice whose surfaces are chemically addressable. The resulting vdW material, [Co(py)4]2[trans-Co6Se8(CN)4(CO)2], grows as bulk single crystals that can be mechanically exfoliated to produce flakes as thin as bilayers, with photolabile CO ligands on the exfoliated surface. As a proof of concept, we show that these surface CO ligands can be replaced by 4-isocyanoazobenzene under blue light irradiation. This work demonstrates that the bottom-up assembly of layered vdW materials from superatoms is a promising and versatile approach to create 2D materials with tunable physical and chemical properties.      Controlling Ligand Coordination Spheres and Cluster Fusion in Superatoms   In a manuscript published in JACS, we have shown that reaction pathways from a single superatom motif can be controlled through subtle electronic modification of the outer ligand spheres. Chevrel-type [Co6Se8L6] (L = PR3, CO) superatoms are used to form carbene terminated clusters, the reactivity of which can be influenced through the electronic effects of the surrounding ligands. This carbene provides new routes for ligand substitution chemistry, which was used to selectively install cyanide or pyridine ligands which were previously inaccessible in these cobalt-based clusters. The surrounding ligands also impact the ability of this carbene to create larger fused clusters of the type [Co12Se16L10], providing underlying information for cluster fusion mechanisms. We used this information to develop methods of creating dimeric clusters with functionalized surface ligands with site specificity, putting new ligands in specific positions on this anisotropic core. Finally, adjusting the carbene intermediates can also be used to perturb the geometry of the [Co6Se8] core itself, as we demonstrated with a multicarbene adduct that displays a substantially anisotropic core.      Highly twisted azobenzene ligand causes crystals to continuously roll in sunlight   Direct conversion of solar energy to mechanical work promises higher efficiency than multistep processes, adding a key tool to the arsenal of energy solutions necessary for our global future. The ideal photomechanical material would convert sunlight into mechanical motion rapidly, without attrition, and proportionally to the stimulus. In a manuscript published inJACS, we describe crystals of a tetrahedral isocyanoazobenzene copper complex that roll continuously when irradiated with broad spectrum white light, including sunlight. The rolling results from sequential bending and straightening of the crystal due to blue light-driven trans-to-cis isomerization of a highly twisted azobenzene ligand. These findings introduce geometrically constrained crystal packing as a new strategy for manipulating the electronic properties of chromophores. Furthermore, the continuous, solar-driven motion of the crystals demonstrates that it is possible to achieve direct conversion of solar energy to continuous physical motion using easily-accessed molecular systems.      A few-layer covalent network of fullerenes   The two natural allotropes of carbon, diamond and graphite, are extended networks of sp3- and sp2-hybridized carbon atoms, respectively. By mixing different hybridizations and geometries of carbon, one could conceptually construct countless synthetic crystalline allotropes. In a manuscript published in Nature, we introduce graphullerene, a new allotrope that bridges the gulf between molecular carbon structures and extended carbon materials, combining three- and four-coordinate carbon atoms. Its constituent C60 fullerene subunits arrange hexagonally in a covalently interconnected molecular plane. We present for the first time, charge-neutral, purely carbon-based macroscopic crystals, that are large enough for mechanical exfoliation and materials testing. The synthesis entails two steps: the growth of single crystals of two-dimensional, polymeric Mg4C60 by chemical vapor transport; and the subsequent removal of magnesium with dilute acid. Using this method, we can produce exfoliated flakes with clean van der Waals interfaces, a critical requirement for the creation of heterostructures and optoelectronic devices. As a proof of concept, we explore the optoelectronic and thermal conductivity properties of this new layered material. We find that the thermal conductivity of this remarkable new material is significantly higher than that of molecular C60, a consequence of the in-plane covalent bonding. Furthermore, imaging using transmission electron microscopy and near-field nano-photoluminescence spectroscopy of few-layer flakes reveals the existence of moir-like superlattices. The ability to chemically synthesize new extended carbon structures by polymerization of superatomic molecular precursors charts a clear path to the systematic design of new materials for the construction of 2D heterostructures with tunable optoelectronic properties.           Last Modified: 01/02/2024       Submitted by: XavierRoy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

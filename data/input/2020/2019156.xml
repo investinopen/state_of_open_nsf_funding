@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a High-Throughput Fluorescence Slide-Scanner Microscope for the University of Oregon Histology Core Facility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299782.00</AwardTotalIntnAmount>
+<AwardAmount>299782</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Weller</SignBlockName>
+<PO_EMAI>jweller@nsf.gov</PO_EMAI>
+<PO_PHON>7032922224</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[An award is made to the University of Oregon Eugene to support the purchase of a high-throughput fluorescent slide-scanner imaging system.  High throughput analysis of biological specimens is increasingly essential for advancing many fields of the life sciences. A key bottleneck, particularly in the study of histological specimens, is the need for manual steps that limit the speed of data acquisition. The new slide scanning microscope will automate many of the manual steps to remove critical bottlenecks and enable high throughput analysis of biological specimens by researchers at the University of Oregon and beyond. The new instrument will be housed in the University of Oregon shared Histology and Genetic Modification Research Core Facility. As part of a core facility, this instrument will enhance training of undergraduate and graduate students and postdoctoral scholars with cutting edge microscopy approaches, advanced image analysis, “big data”, and other key quantitative skills.  The system will further accelerate student research during summer REU programs and will also be used in outreach programs and shared with neighboring institutions.&lt;br/&gt;&lt;br/&gt;The new system will be used for a wide range of biological studies, including gene expression, anatomical reconstructions, and tissue analysis, as well as contributing to undergraduate and graduate coursework and training. Two features of this automated instrument will transform the ability of UO researchers to perform these types of studies.  First, it automatically images large area specimens, stitching together individual high magnification fields of view into a single high-resolution image. Second, it can automatically process a large number of specimens, with an autoloader capable of processing up to 200 slides in succession. These capabilities will allow researchers to acquire complete datasets that are simply not tractable with manual imaging, thereby opening up new types of biological questions. The instrument has both brightfield and fluorescent capabilities, enabling a wide range of applications including in situ hybridization analysis of gene expression, reconstruction of large-scale neural organization, and quantification of anatomical and cellular structures. Results from these studies will be disseminated in peer-reviewed journals, through presentation at scientific meetings, and as part of public outreach efforts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019156</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Postlethwait</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John H Postlethwait</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpostle@oregon.uoregon.edu]]></EmailAddress>
+<NSF_ID>000288575</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cristopher</FirstName>
+<LastName>Niell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cristopher Niell</PI_FULL_NAME>
+<EmailAddress><![CDATA[cniell@uoregon.edu]]></EmailAddress>
+<NSF_ID>000742686</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974031905</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>1776 E 13TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z3FGN9MF92U2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z3FGN9MF92U2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Histology Core Facility]]></Name>
+<CityName>Eugene</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974031241</ZipCode>
+<StreetAddress><![CDATA[1241 University of Oregon]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>084Y</Code>
+<Text>IIBR: Infrastructure Innovatio</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299782</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>High throughput analysis of large samples of biological specimens is becoming essential for advancing many fields of the life sciences. Many current biological questions no longer focus on just one cell or one gene, and therefore require characterization of complete tissues, or screening of large numbers of samples. &nbsp;A key bottleneck, particularly in the study of histological specimens, is the lack of automated equipment that can dramatically speed of data acquisition, making such studies feasible. This proposal requested funds for the purchase of a slide scanning microscope, to perform high throughput analysis of biological specimens, for use by researchers at the University of Oregon and beyond. The purchased instrument is a Leica Aperio Versa, which is a complete system capable of automated acquisition of brightfield and fluorescence images, with slide-scanning capability allowing high throughput imaging of multiple fields of view in large numbers of specimens automatically. Two features of this automated instrument are transforming the ability of UO researchers to perform these types of studies. First, it automatically images large area specimens, stitching together individual high magnification fields of view into a single high-resolution image. Second, it can automatically process a large number of specimens, with an autoloader capable of processing up to 200 slides in succession. These capabilities allow researchers to acquire complete datasets that are simply not tractable with manual imaging, thereby opening up new types of biological questions.</p> <p>The proposed instrument was purchased in August 2020, and installed in the Histology core facility, by Leica representatives in October 2020. During the installation, three staff members were directly trained in the use of the instrument and we coordinated with UO Information Technology to set up the network server in a central data center with appropriate connectivity. Together, this established full functionality of the microscope along with expertise to provide service to users. This therefore completed the major initial goal of this proposal. Our subsequent goal was to extend use of this instrument to users across campus. Because the installation/training process made it clear significant expertise would be needed to operate the microscope, we decided to have core facility staff perform imaging as a service, rather than individual users accessing the scope directly. We therefore established a system for users to provide samples, request specific imaging configurations, and receive data back. We also established a re-charge system to cover the expenses associated with microscope usage and staff time. We did encounter multiple malfunctions of the instrument that resulted in it being inoperable for significant periods of time, but these have been resolved for now.</p> <p>To date, we have had fifteen users, across four departments (Biology, Human Physiology, Psychology, Bioengineering), studying 6 different species (human, non-human primate, rabbit, mouse, zebrafish, octopus) with multiple techniques. The users also include a wide range of training level, from graduate students to faculty. We hope that this usage will continue to expand now that service issues with the instrument have been addressed.</p> <p>The use of the instrument has resulted in one publication so far, a single-cell atlas of the octopus visual system, with other manuscripts in progress. Data from the microscope has been included in presentations to summer REU students and used for data analysis in an undergraduate programming course. Overall, the acquisition of this microscope has greatly expanded the capacity for high-throughput imaging at University of Oregon, which is having a significant impact on biological research and is being integrated into undergraduate education.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2023<br> Modified by: Cristopher&nbsp;Niell</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2019156/2019156_10692704_1700672339596_songco_casey_slidescanner--rgov-214x142.png" original="/por/images/Reports/POR/2023/2019156/2019156_10692704_1700672339596_songco_casey_slidescanner--rgov-800width.png" title="Large-scale imaging of gene expression in the octopus visual system."><img src="/por/images/Reports/POR/2023/2019156/2019156_10692704_1700672339596_songco_casey_slidescanner--rgov-66x44.png" alt="Large-scale imaging of gene expression in the octopus visual system."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Multiplexed fluorescent RNA in situ hybridization data across the optic lobe illustrates the ability to image large fields of view (A) with cellular resolution (B). Scalebar in (A) is 200um, scalebar in (B) is 50um.</div> <div class="imageCredit">Adapted from Songco-Casey et al  (2022). Cell types and molecular architecture of the octopus visual system. Current Biology, 32(23):5031-5044.</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Cristopher&nbsp;Niell <div class="imageTitle">Large-scale imaging of gene expression in the octopus visual system.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  High throughput analysis of large samples of biological specimens is becoming essential for advancing many fields of the life sciences. Many current biological questions no longer focus on just one cell or one gene, and therefore require characterization of complete tissues, or screening of large numbers of samples. A key bottleneck, particularly in the study of histological specimens, is the lack of automated equipment that can dramatically speed of data acquisition, making such studies feasible. This proposal requested funds for the purchase of a slide scanning microscope, to perform high throughput analysis of biological specimens, for use by researchers at the University of Oregon and beyond. The purchased instrument is a Leica Aperio Versa, which is a complete system capable of automated acquisition of brightfield and fluorescence images, with slide-scanning capability allowing high throughput imaging of multiple fields of view in large numbers of specimens automatically. Two features of this automated instrument are transforming the ability of UO researchers to perform these types of studies. First, it automatically images large area specimens, stitching together individual high magnification fields of view into a single high-resolution image. Second, it can automatically process a large number of specimens, with an autoloader capable of processing up to 200 slides in succession. These capabilities allow researchers to acquire complete datasets that are simply not tractable with manual imaging, thereby opening up new types of biological questions.   The proposed instrument was purchased in August 2020, and installed in the Histology core facility, by Leica representatives in October 2020. During the installation, three staff members were directly trained in the use of the instrument and we coordinated with UO Information Technology to set up the network server in a central data center with appropriate connectivity. Together, this established full functionality of the microscope along with expertise to provide service to users. This therefore completed the major initial goal of this proposal. Our subsequent goal was to extend use of this instrument to users across campus. Because the installation/training process made it clear significant expertise would be needed to operate the microscope, we decided to have core facility staff perform imaging as a service, rather than individual users accessing the scope directly. We therefore established a system for users to provide samples, request specific imaging configurations, and receive data back. We also established a re-charge system to cover the expenses associated with microscope usage and staff time. We did encounter multiple malfunctions of the instrument that resulted in it being inoperable for significant periods of time, but these have been resolved for now.   To date, we have had fifteen users, across four departments (Biology, Human Physiology, Psychology, Bioengineering), studying 6 different species (human, non-human primate, rabbit, mouse, zebrafish, octopus) with multiple techniques. The users also include a wide range of training level, from graduate students to faculty. We hope that this usage will continue to expand now that service issues with the instrument have been addressed.   The use of the instrument has resulted in one publication so far, a single-cell atlas of the octopus visual system, with other manuscripts in progress. Data from the microscope has been included in presentations to summer REU students and used for data analysis in an undergraduate programming course. Overall, the acquisition of this microscope has greatly expanded the capacity for high-throughput imaging at University of Oregon, which is having a significant impact on biological research and is being integrated into undergraduate education.        Last Modified: 11/29/2023       Submitted by: CristopherNiell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

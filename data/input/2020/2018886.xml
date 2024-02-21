@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Networking Infrastructure: Science DMZ for Data-enabled Science, Engineering, and Health]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>494273.00</AwardTotalIntnAmount>
+<AwardAmount>494273</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Drawing upon its mission to enable access to discovery and scholarship in science, engineering, and health, Arizona State University is deploying an advanced research network employing the Science DMZ architecture. While advancing knowledge of deploying 21st century cyberinfrastructure in a large public research university, this project also advances how network cyberinfrastructure supports research and education in science, engineering, and health. This effort is being carried out by a partnership of campus cyberinfrastructure experts to: 1) Improve campus network connectivity to enable high speed data movement for STEM research and education activities, by enabling friction-free access to wide area networks. 2) Ensure secure and performant data movement for STEM research and education activities. 3) Increase STEM research and education productivity.&lt;br/&gt;&lt;br/&gt;The project incorporates national best practices in network architecture, security, and federated authentication and identity management. Replacing existing edge network equipment and installing an optimized, tuned Data Transfer Node provides friction-free wide area network path and streamlined research data movement. A strict router access control list and Intrusion Detection System provide security within the Science DMZ, and end-to-end network performance measurement via perfSONAR guards against issues such as packet loss. Science data flows are supported by a process incorporating user engagement, iterative technical improvements, training, documentation, and follow-up. Network design and implementation are guided by an external advisory board consisting of experts from the Energy Sciences Network, Internet2, the Engagement Performance and Operations Center (EPOC), The Quilt, and Arizona's “Sun Corridor” research network.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018886</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>McCabe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James McCabe</PI_FULL_NAME>
+<EmailAddress><![CDATA[james.mccabe.1@asu.edu]]></EmailAddress>
+<NSF_ID>000798089</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Munk</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barbara H Munk</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmunk@asu.edu]]></EmailAddress>
+<NSF_ID>000819293</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Kurtz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris Kurtz</PI_FULL_NAME>
+<EmailAddress><![CDATA[chris.kurtz@asu.edu]]></EmailAddress>
+<NSF_ID>000819277</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Jennewein</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas M Jennewein</PI_FULL_NAME>
+<EmailAddress><![CDATA[douglas.jennewein@asu.edu]]></EmailAddress>
+<NSF_ID>000702117</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lalitha</FirstName>
+<LastName>Sankar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lalitha Sankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[lalithasankar@asu.edu]]></EmailAddress>
+<NSF_ID>000547715</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[AZ Board of Regents on behalf of Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852876011</ZipCode>
+<StreetAddress><![CDATA[PO Box 876011]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~494273</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-a06c5e24-7fff-667b-95d3-c95f0c79442e"> </span></p> <p dir="ltr"><span>This project has significantly advanced knowledge and understanding within the field of data-driven research. The implementation of the Science DMZ architecture has enhanced the campus network connectivity, enabling high-speed data movement for research and educational activities. This has been achieved by providing friction-free access to wide-area networks, which has been pivotal in facilitating seamless data transfers. Moreover, the project has ensured secure and performant data movement for STEM research and education activities.&nbsp;</span></p> <p dir="ltr"><span>In the first year, ASU focused on equipment acquisition and setup, and planned a user onboarding pilot. The Science DMZ was established using methods from the Department of Energy?s Energy Sciences Network. ASU replaced outdated network equipment to facilitate smoother data transfer for research. In September 2020, two Arista border routers were purchased and installed the following month. Additionally, a server infrastructure was set up to run PerfSONAR, security monitoring tools, and a Data Transfer Node (DTN). To improve data movement efficiency, ASU installed a DTN using the FIONA architecture from the Pacific Research Platform. The border routing workload was transferred to the new devices during a planned WAN network revamp at the end of the fall semester, coinciding with a larger WAN upgrade by the ASU central Information Technology office. The ASU Science DMZ began operations on December 16, 2020.</span></p> <p dir="ltr"><span>In the second year, data workloads of the first user group were moved to the Science DMZ. In the summer of 2021, the remaining Arista border routers and DTN servers were purchased for a parallel Science DMZ in the new Research Computing data center at Iron Mountain Phoenix. Despite supply chain delays, by the summer of 2022, the equipment was ready for setup.</span></p> <p dir="ltr"><span>Their project team collaborated with ESnet engineers in late summer 2021 to resolve issues with ASU's PerfSONAR and NetSAGE deployments. They also worked with central IT and the state network provider to address a drop in PerfSONAR throughput.</span></p> <p dir="ltr"><span>From January 10-12, 2022, the Engagement and Performance Operations Center (EPOC) held a virtual deep dive site visit with ASU. Researchers and CI staff discussed research use cases and ASU's technical resources and support capabilities. On the third day, the EPOC team shared initial findings indicating the need for improved data sharing infrastructure. ASU has since made performance plans for each area, including collaboration with the University of Chicago on data portals, purchasing long-term private cloud storage, and simplifying account creation for non-ASU collaborators.</span></p> <p dir="ltr"><span>In 2022, a one-year no-cost extension was requested due to COVID-19 related delays. The pandemic had caused the ASU team to shift priorities to support Arizona's COVID-19 response, and the PI's illness had further delayed the project. The deployment of ASU's Science DMZ at the Iron Mountain Phoenix data center was also postponed due to COVID-19 and supply chain issues. However, in the third project year, ASU deployed the remaining network measurement tools and completed software deployments, including PerfSONAR, ARTEMIS, and SPOOFER, hosted on Xen Virtual Machines. In April 2023, PerfSONAR hosts were updated, and three additional nodes were purchased to support specific use cases. Three network switches were also purchased to enhance data flows. A FABRIC facility port was deployed on the Science DMZ border router in collaboration with Sun Corridor Network to support network research.</span></p> <p dir="ltr"><span>The project has had substantial societal impacts. By improving network connectivity and ensuring secure data movement, the project has increased the productivity of STEM research and education at ASU. This has directly benefited society by contributing to the advancement of scientific knowledge in various STEM fields spanning structural biology, cellular mechanisms of evolution, optical biophysics and spatial transriptomics, structural biophysics and Cryo-EM, and mis/dis-information propagation on social media.</span></p> <p dir="ltr"><span>The project has also contributed to the national health, prosperity, and welfare by promoting the progress of science. The advancements in the research network have not only benefited ASU but also have the potential to be adapted and implemented by other universities and research institutions, thereby contributing to the broader scientific community.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/30/2023<br>      Modified by: Douglas&nbsp;M&nbsp;Jennewein</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2018886/2018886_10681076_1698711652887_ASUScienceDMZNetwork2023--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018886/2018886_10681076_1698711652887_ASUScienceDMZNetwork2023--rgov-800width.jpg" title="ASU Science DMZ"><img src="/por/images/Reports/POR/2023/2018886/2018886_10681076_1698711652887_ASUScienceDMZNetwork2023--rgov-66x44.jpg" alt="ASU Science DMZ"></a> <div class="imageCaptionContainer"> <div class="imageCaption">ASU Science DMZ Network Diagram</div> <div class="imageCredit">Johnathan Lee</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Douglas&nbsp;M&nbsp;Jennewein</div> <div class="imageTitle">ASU Science DMZ</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   This project has significantly advanced knowledge and understanding within the field of data-driven research. The implementation of the Science DMZ architecture has enhanced the campus network connectivity, enabling high-speed data movement for research and educational activities. This has been achieved by providing friction-free access to wide-area networks, which has been pivotal in facilitating seamless data transfers. Moreover, the project has ensured secure and performant data movement for STEM research and education activities.  In the first year, ASU focused on equipment acquisition and setup, and planned a user onboarding pilot. The Science DMZ was established using methods from the Department of Energy?s Energy Sciences Network. ASU replaced outdated network equipment to facilitate smoother data transfer for research. In September 2020, two Arista border routers were purchased and installed the following month. Additionally, a server infrastructure was set up to run PerfSONAR, security monitoring tools, and a Data Transfer Node (DTN). To improve data movement efficiency, ASU installed a DTN using the FIONA architecture from the Pacific Research Platform. The border routing workload was transferred to the new devices during a planned WAN network revamp at the end of the fall semester, coinciding with a larger WAN upgrade by the ASU central Information Technology office. The ASU Science DMZ began operations on December 16, 2020. In the second year, data workloads of the first user group were moved to the Science DMZ. In the summer of 2021, the remaining Arista border routers and DTN servers were purchased for a parallel Science DMZ in the new Research Computing data center at Iron Mountain Phoenix. Despite supply chain delays, by the summer of 2022, the equipment was ready for setup. Their project team collaborated with ESnet engineers in late summer 2021 to resolve issues with ASU's PerfSONAR and NetSAGE deployments. They also worked with central IT and the state network provider to address a drop in PerfSONAR throughput. From January 10-12, 2022, the Engagement and Performance Operations Center (EPOC) held a virtual deep dive site visit with ASU. Researchers and CI staff discussed research use cases and ASU's technical resources and support capabilities. On the third day, the EPOC team shared initial findings indicating the need for improved data sharing infrastructure. ASU has since made performance plans for each area, including collaboration with the University of Chicago on data portals, purchasing long-term private cloud storage, and simplifying account creation for non-ASU collaborators. In 2022, a one-year no-cost extension was requested due to COVID-19 related delays. The pandemic had caused the ASU team to shift priorities to support Arizona's COVID-19 response, and the PI's illness had further delayed the project. The deployment of ASU's Science DMZ at the Iron Mountain Phoenix data center was also postponed due to COVID-19 and supply chain issues. However, in the third project year, ASU deployed the remaining network measurement tools and completed software deployments, including PerfSONAR, ARTEMIS, and SPOOFER, hosted on Xen Virtual Machines. In April 2023, PerfSONAR hosts were updated, and three additional nodes were purchased to support specific use cases. Three network switches were also purchased to enhance data flows. A FABRIC facility port was deployed on the Science DMZ border router in collaboration with Sun Corridor Network to support network research. The project has had substantial societal impacts. By improving network connectivity and ensuring secure data movement, the project has increased the productivity of STEM research and education at ASU. This has directly benefited society by contributing to the advancement of scientific knowledge in various STEM fields spanning structural biology, cellular mechanisms of evolution, optical biophysics and spatial transriptomics, structural biophysics and Cryo-EM, and mis/dis-information propagation on social media. The project has also contributed to the national health, prosperity, and welfare by promoting the progress of science. The advancements in the research network have not only benefited ASU but also have the potential to be adapted and implemented by other universities and research institutions, thereby contributing to the broader scientific community.               Last Modified: 10/30/2023       Submitted by: Douglas M Jennewein]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

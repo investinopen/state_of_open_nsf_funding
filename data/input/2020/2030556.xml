@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scalable Randomized Scheduling of Mobile Sensors with Observability Guarantees]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+<PO_EMAI>akuh@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Autonomous aerial, ground, and underwater robots have emerged as promising platforms for a myriad of sensing applications. Aerial drones can monitor natural calamities like tornadoes and forest fires, and underwater robots can detect harmful algal blooms and track invasive fish species. The information to be gathered is typically governed by some nonlinear dynamic processes. A natural question to ask is, given a limited number of mobile sensors, how should they be dynamically placed to best observe the quantity of interest, especially with limited energy while requiring the robots to remain connected? The space of possible sensor placements is vast and constraints on energy and connectivity add to the challenges. This project will develop efficient algorithms to schedule the mobile sensors under these constraints and evaluate their performance in tracking a moving target through field experiments. The interdisciplinary nature of this research will be integrated with outreach and educational activities to broaden participation of K-12 and undergraduate students, especially from underrepresented groups.&lt;br/&gt;&lt;br/&gt;The project combines the investigators’ complementary expertise in control, network theory and fast randomized computation as the project will result in a fresh perspective and a generalizable, principled framework for scalable scheduling of mobile sensors with observability guarantees. The project goals will be realized through four integrated research thrusts that span theoretical investigation, algorithmic development, and experimental validation. Thrust 1 focuses on integrating a Gramian-based nonlinear observability metric with randomized sampling for efficient computation of near-optimal sensor placements under sensing and communication uncertainty. Thrust 2 extends the framework to accommodate energy and connectivity constraints, where special emphasis will be on distributed approaches for computation. Motivated by the fish-tracking application, the theory and algorithms developed in Thrusts 1 and 2 will be validated experimentally with a fleet of autonomous surface vehicles tracking a moving acoustic tag. Thrust 3 of the project involves the development of the experimental testbed, including the robots and their associated models and controllers, while Thrust 4 evaluates the developed mobile sensor scheduling algorithms via both simulation and field experiments in Higgins Lake, Michigan.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030556</AwardID>
+<Investigator>
+<FirstName>Xiaobo</FirstName>
+<LastName>Tan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaobo Tan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xbtan@msu.edu]]></EmailAddress>
+<NSF_ID>000232315</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shaunak</FirstName>
+<LastName>Bopardikar</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shaunak D Bopardikar</PI_FULL_NAME>
+<EmailAddress><![CDATA[shaunak@egr.msu.edu]]></EmailAddress>
+<NSF_ID>000723351</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488241226</ZipCode>
+<StreetAddress><![CDATA[428 S. Shaw Ln]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019E</Code>
+<Text>SENSORS AND SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~360000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Autonomous aerial, ground, and underwater robots are promising sensing platforms for a myriad of applications having significant societal impact such as monitoring weather or tracking traffic patterns with drones or sampling harmful algal blooms with underwater vehicles. This project developed a theoretical and algorithmic framework for efficient dynamic scheduling of mobile sensing platforms to tracking moving targets while providing guarantees on observation performance. The team developed new mobile platforms with drifting capability to evaluate some of the analytic and algorithmic findings. &nbsp;The team carried out validations of the proposed approach through experiments in an indoor tank in controlled settings at Michigan State University (MSU) and outdoor field trials of the new platforms.</p> <p>The project led to a new approach based on randomized sampling to choose the locations of mobile sensors over time so that with a high likelihood, the quantity of interest can be measured with a high accuracy. This approach turns out to be a computationally efficient alternative to competing methods that are based on placing sensors using a heuristic (e.g., placing a sensor based on the ``next-best view&rdquo;), that are not known to have any performance guarantees. Theoretical conditions on the number of sensor samples required and the applicability of the analysis have been derived.&nbsp; The approach was also extended to the case of distributed/heterogeneous sampling implementations and to account for constraints on the number of sensors that can be placed in each region.</p> <p>It is well known in control theory that to best estimate a dynamic quantity, it is essential for the sensing process to satisfy a fundamental (observability) property, i.e., is it possible to estimate the initial state of the quantity through a sequence of measurements? Therefore, a new approach for tracking a mobile target using a pursuing vehicle with only range (distance) measurements was proposed. The key innovation here is to design the vehicle&rsquo;s trajectory that is most conducive to estimating the target state by enforcing its observability using the framework of control barrier functions. Two measures of observability were using to compute the control action to be followed by the vehicle. This observability-based pursuit was extended to the case when the target tries to move adversarially against one or many pursuing vehicles that are following this approach. The results are illustrated in simulation on a planar model with unicycle dynamics and a 3D dynamical model of gliding robotic fish and via experiments in an indoor tank with a robotic underwater gliding vehicle. Variants of this adversarial motion planning problem were also addressed in a canonical problem involving perimeter defense.</p> <p>This project also led to the development and field testing of aquatic surface vehicles equipped with acoustic telemetry. Vehicles capable of inter-communication and equipped with acoustic receivers were developed.&nbsp;Field experiments were conducted at the Hammond Bay on Lake Huron to characterize the locomotion and navigation performance of USVs, and the acoustic tag detection performance with USV operating in different modes. <strong>&nbsp;</strong></p> <p>Collectively, the project resulted in 5 journal publications (3 published/accepted, 2 under review), 13 conference papers (11 published , 2 under review), 2 Ph.D. dissertations and one M.S. thesis. It provided training opportunities to 5 Ph.D. students (4 domestic, 2 from underrepresented groups), one M.S. student, and 3 undergraduate students. Finally, the project contributed to various K-12 outreach activities, such as demos at MSU&rsquo;s Annual Science Festival, elementary and middle schools in the Greater Lansing area.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/26/2023<br> Modified by: Shaunak&nbsp;D&nbsp;Bopardikar</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2030556/2030556_10692442_1703265045799_IMG_7690--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2030556/2030556_10692442_1703265045799_IMG_7690--rgov-800width.jpg" title="Field test on Lake Huron"><img src="/por/images/Reports/POR/2023/2030556/2030556_10692442_1703265045799_IMG_7690--rgov-66x44.jpg" alt="Field test on Lake Huron"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Co-PI Xiaobo Tan's team from Michigan State University working with staff from U.S. Geological Survey conducting experiments with an unmanned surface vehicle at Hammond Bay on Lake Huron.</div> <div class="imageCredit">Xiaobo Tan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaobo&nbsp;Tan <div class="imageTitle">Field test on Lake Huron</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Autonomous aerial, ground, and underwater robots are promising sensing platforms for a myriad of applications having significant societal impact such as monitoring weather or tracking traffic patterns with drones or sampling harmful algal blooms with underwater vehicles. This project developed a theoretical and algorithmic framework for efficient dynamic scheduling of mobile sensing platforms to tracking moving targets while providing guarantees on observation performance. The team developed new mobile platforms with drifting capability to evaluate some of the analytic and algorithmic findings. The team carried out validations of the proposed approach through experiments in an indoor tank in controlled settings at Michigan State University (MSU) and outdoor field trials of the new platforms.   The project led to a new approach based on randomized sampling to choose the locations of mobile sensors over time so that with a high likelihood, the quantity of interest can be measured with a high accuracy. This approach turns out to be a computationally efficient alternative to competing methods that are based on placing sensors using a heuristic (e.g., placing a sensor based on the ``next-best view), that are not known to have any performance guarantees. Theoretical conditions on the number of sensor samples required and the applicability of the analysis have been derived. The approach was also extended to the case of distributed/heterogeneous sampling implementations and to account for constraints on the number of sensors that can be placed in each region.   It is well known in control theory that to best estimate a dynamic quantity, it is essential for the sensing process to satisfy a fundamental (observability) property, i.e., is it possible to estimate the initial state of the quantity through a sequence of measurements? Therefore, a new approach for tracking a mobile target using a pursuing vehicle with only range (distance) measurements was proposed. The key innovation here is to design the vehicles trajectory that is most conducive to estimating the target state by enforcing its observability using the framework of control barrier functions. Two measures of observability were using to compute the control action to be followed by the vehicle. This observability-based pursuit was extended to the case when the target tries to move adversarially against one or many pursuing vehicles that are following this approach. The results are illustrated in simulation on a planar model with unicycle dynamics and a 3D dynamical model of gliding robotic fish and via experiments in an indoor tank with a robotic underwater gliding vehicle. Variants of this adversarial motion planning problem were also addressed in a canonical problem involving perimeter defense.   This project also led to the development and field testing of aquatic surface vehicles equipped with acoustic telemetry. Vehicles capable of inter-communication and equipped with acoustic receivers were developed.Field experiments were conducted at the Hammond Bay on Lake Huron to characterize the locomotion and navigation performance of USVs, and the acoustic tag detection performance with USV operating in different modes.    Collectively, the project resulted in 5 journal publications (3 published/accepted, 2 under review), 13 conference papers (11 published , 2 under review), 2 Ph.D. dissertations and one M.S. thesis. It provided training opportunities to 5 Ph.D. students (4 domestic, 2 from underrepresented groups), one M.S. student, and 3 undergraduate students. Finally, the project contributed to various K-12 outreach activities, such as demos at MSUs Annual Science Festival, elementary and middle schools in the Greater Lansing area.        Last Modified: 12/26/2023       Submitted by: ShaunakDBopardikar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

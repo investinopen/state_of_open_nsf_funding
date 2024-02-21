@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS: SMALL: Collaborative Research:  Adaptive Development Environments: Modeling and Supporting Cognitive Styles of Software Developers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research will investigate mechanisms to seamlessly support the different cognitive styles and information needs of software developers, such that development environments can model the developers' behavior and adapt to their individual needs.  Software development is a notoriously complex endeavor that requires developers to use an environment where information is fragmented across different tools and repositories. Although integrated development environments may help, they are often inadequate in supporting developers' information needs.  Major barriers are caused by development environments not adapting to the developers' cognitive styles and information needs.  This project will advance the knowledge of software developers' behavior and transform software development tools to be more efficient and more inclusive to a wider population of software developers. It also addresses a fundamental issue concerning broader participation, that of individual differences in problem solving. Models and tools that accommodate these individual differences may help level the playing field. &lt;br/&gt;&lt;br/&gt;The methodology involves four stages: (1) conduct empirical studies to understand developers' information needs and cognitive styles, (2) build predictive models of developer behavior based on their cognitive styles, (3) create development environments that adapt to support developers' cognitive styles, and (4) evaluate the effectiveness of the predictive models and the adaptive environments. This work will generate a deep understanding of the impact of cognitive styles on how developers learn and make sense of the development history to place their work in the context of past and ongoing changes. It is novel in providing an integrated perspective on the broader set of history explorations in which programmers engage when they are programming as well as in leading to empirically validated predictive models that not only model how development activities are influenced by differences in cognitive styles, but also by the development task at hand.  Key goals include the design and evaluation of a novel environment that not only allows developers to seamlessly explore different aspects of the development histories, but also adapts to support the individual needs of a developer. Extensive curated versions of the collected data will be developed and shared with the scientific community to promote additional research into the topic.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008089</AwardID>
+<Investigator>
+<FirstName>Anita</FirstName>
+<LastName>Sarma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anita Sarma</PI_FULL_NAME>
+<EmailAddress><![CDATA[anita.sarma@oregonstate.edu]]></EmailAddress>
+<NSF_ID>000518767</NSF_ID>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973318655</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>1500 SW JEFFERSON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MZ4DYXE1SL98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName/>
+<StateCode>OR</StateCode>
+<ZipCode>973318507</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-a396ad3d-7fff-2866-953d-8a816be59452"> </span></p> <p dir="ltr"><span>The software development industry hinges on developers' designing and developing complex, non-trivial software systems. To do so, developers have to understand the complex project dependencies, the organizational goals, and the deployment context of their software. A critical part of this process is <em>problem solving</em>. While a plethora of development tools exist today, they all take the view of supporting an individual developer in their current programming task. However, understanding software development in terms of individual program activities is insufficient and limiting since it creates development tools that are siloed and fail to take a holistic view of programming. This in turn leads to inefficiencies and errors as programmers have to switch contexts and tools through their development task.&nbsp;</span></p> <p dir="ltr"><span>In this project, we rethought programming as problem solving. We explored how different developers approach problem solving in programming differently. More specifically, we investigated to what extent development environments support different problem solving styles (e.g., learning style, information processing style) and identified fixes when development tools (e.g., GitHub interface) did not support the diverse problem solving styles. We then rethought what a development environment would look like through the design of a novel prototype (Synectic) that uses a cards metaphor to allow developers to find and curate different pieces of information needed for their development tasks and arrange all relevant cards as a side-by-side information visualization. This can significantly reduce context switching across different development tools that house different types of information. We also investigated the use of conversational agents (Newton) to aid in development tasks, especially for novices. The conversational agent was designed to understand the task context and be able to pull all the information needed by the developer contextualized to the task at hand and presented within the development environment, thereby minimizing context and tool switching.&nbsp;</span></p> <p dir="ltr"><span>The impact of this work is more than just on research. The inventions from this research have been released as free, publicly available research prototypes. The project also directly trained </span><span>two doctoral and 2 masters students </span><span>and 4 undergraduate students on research. These students have now graduated with one (female PhD) student being a tenure track faculty while others have secured jobs in industry as software engineers.</span></p> <p dir="ltr"><span>The ideas from this research will continue to impact products, services, education, and our workforce for years to come, helping in improving the developer productivity and efficiency.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 01/18/2024<br> Modified by: Anita&nbsp;Sarma</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2008089/2008089_10698351_1704570095358_newton_UI--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2008089/2008089_10698351_1704570095358_newton_UI--rgov-800width.jpg" title="Newton Conversational Agent"><img src="/por/images/Reports/POR/2024/2008089/2008089_10698351_1704570095358_newton_UI--rgov-66x44.jpg" alt="Newton Conversational Agent"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Newton is a conversational agent created as a Jupyter Notebook plugin that provides contextualized responses (right panel) and code snippets based on the current state of programming in the editor (left panel).</div> <div class="imageCredit">Emily Arteaga</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Anita&nbsp;Sarma <div class="imageTitle">Newton Conversational Agent</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2008089/2008089_10698351_1705620056177_Synectic_vc--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2008089/2008089_10698351_1705620056177_Synectic_vc--rgov-800width.jpg" title="Synectic Development Environment"><img src="/por/images/Reports/POR/2024/2008089/2008089_10698351_1705620056177_Synectic_vc--rgov-66x44.jpg" alt="Synectic Development Environment"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Interactive cards, stacks, branch map, and a side-by-side comparison of different versions of the same card (code base) in Synectic development environment</div> <div class="imageCredit">Nicholas Nelson</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Anita&nbsp;Sarma <div class="imageTitle">Synectic Development Environment</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      The software development industry hinges on developers' designing and developing complex, non-trivial software systems. To do so, developers have to understand the complex project dependencies, the organizational goals, and the deployment context of their software. A critical part of this process is problem solving. While a plethora of development tools exist today, they all take the view of supporting an individual developer in their current programming task. However, understanding software development in terms of individual program activities is insufficient and limiting since it creates development tools that are siloed and fail to take a holistic view of programming. This in turn leads to inefficiencies and errors as programmers have to switch contexts and tools through their development task.   In this project, we rethought programming as problem solving. We explored how different developers approach problem solving in programming differently. More specifically, we investigated to what extent development environments support different problem solving styles (e.g., learning style, information processing style) and identified fixes when development tools (e.g., GitHub interface) did not support the diverse problem solving styles. We then rethought what a development environment would look like through the design of a novel prototype (Synectic) that uses a cards metaphor to allow developers to find and curate different pieces of information needed for their development tasks and arrange all relevant cards as a side-by-side information visualization. This can significantly reduce context switching across different development tools that house different types of information. We also investigated the use of conversational agents (Newton) to aid in development tasks, especially for novices. The conversational agent was designed to understand the task context and be able to pull all the information needed by the developer contextualized to the task at hand and presented within the development environment, thereby minimizing context and tool switching.   The impact of this work is more than just on research. The inventions from this research have been released as free, publicly available research prototypes. The project also directly trained two doctoral and 2 masters students and 4 undergraduate students on research. These students have now graduated with one (female PhD) student being a tenure track faculty while others have secured jobs in industry as software engineers.   The ideas from this research will continue to impact products, services, education, and our workforce for years to come, helping in improving the developer productivity and efficiency.        Last Modified: 01/18/2024       Submitted by: AnitaSarma]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

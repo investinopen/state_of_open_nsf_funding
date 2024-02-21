@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NNA Track 2: Collaborative Research: Adaptable Microgrids in Arctic Communities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>107553.00</AwardTotalIntnAmount>
+<AwardAmount>107553</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>kate ruck</SignBlockName>
+<PO_EMAI>kruck@nsf.gov</PO_EMAI>
+<PO_PHON>7032928051</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Navigating the New Arctic (NNA) is one of NSF's 10 Big Ideas. NNA projects address convergence scientific challenges in the rapidly changing Arctic. The Arctic research is needed to inform the economy, security and resilience of the Nation, the larger region and the globe. NNA empowers new research partnerships from local to international scales, diversifies the next generation of Arctic researchers, enhances efforts in formal and informal education, and integrates the co-production of knowledge where appropriate. This award fulfills part of that aim by supporting planning activities with clear potential to develop novel, leading edge research ideas and approaches to address NNA goals. It integrates aspects of the built environment and social systems to addresses important societal challenges, builds significant educational opportunities, and engages with local communities. &lt;br/&gt;&lt;br/&gt;Arctic communities currently face environmental and economic changes that threaten their way of life. New ways of designing and building electric power systems might help these communities meet these challenges now and in the future. The goal of this research is to address these challenges by bringing together researchers, rural Alaska energy experts, and local people living in the Arctic. These groups are identifying needs and design research on less expensive, portable, and renewable energy-based electric systems to address changing conditions. The “adaptable microgrid” designs from this work have potential for application in other remote places around the world. The design concepts could also help people build better water and sanitation systems, thus broadening the impact of this project. &lt;br/&gt;&lt;br/&gt;Community-researcher partnerships are central to the development of feasible and socially-accepted models for microgrid design alternatives. The goal of this planning grant is to create these partnerships and build trust with Arctic community members and other rural Alaska energy stakeholders. This is being achieved through the following activities: (1) Formation of a research advisory committee composed of people from regional Alaska Native organizations, regional electric utilities, Alaska-wide renewable energy groups, and the Alaska Native Science and Engineering Program (ANSEP) at the University of Alaska Anchorage; (2) Development of two advisory committee workshops; (3) Convening meetings of the research team with Arctic communities to build relationships and gather initial information; and (4) Development of relationships with Arctic community schools and ANSEP for K-12 education and continuing participatory science projects. These activities are laying the foundation for a research agenda focused on community values on energy use, economic tradeoffs in the design and relocation of infrastructure, demand for electricity by integrated water and sewer systems, and data inputs for optimization modeling. The model output is providing communities with options for building adaptable infrastructure that meets their needs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022687</AwardID>
+<Investigator>
+<FirstName>Marie</FirstName>
+<LastName>Lowe</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marie E Lowe</PI_FULL_NAME>
+<EmailAddress><![CDATA[marie.lowe@uaa.alaska.edu]]></EmailAddress>
+<NSF_ID>000155177</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alaska Anchorage Campus]]></Name>
+<CityName>ANCHORAGE</CityName>
+<ZipCode>995084614</ZipCode>
+<PhoneNumber>9077861777</PhoneNumber>
+<StreetAddress><![CDATA[3211 PROVIDENCE DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<StateCode>AK</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AK00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZFJT2KH9C43</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALASKA ANCHORAGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KNP1HA2B9BF8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alaska Anchorage Campus]]></Name>
+<CityName>Anchorage</CityName>
+<StateCode>AK</StateCode>
+<ZipCode>995084614</ZipCode>
+<StreetAddress><![CDATA[3211 Providence Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AK00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>104Y</Code>
+<Text>NNA-Navigating the New Arctic</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~107553</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p id="docs-internal-guid-67853247-7fff-0564-0d3b-88cf7ace605b" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Arctic communities facing extreme climate stress, including possible future relocation, might benefit from innovations in utility infrastructure design. The goal of this planning project is to build research relationships in order to study the possibilities of building modular, microgrid electric systems in rural Alaska. The interdisciplinary research team represented the fields of electrical, industrial and systems engineering, public policy, anthropology and economics. The team built an Advisory Committee composed of representatives from regional and state-wide Alaska Native organizations, borough and other Alaska regional government organizations, electric utility representatives, renewable energy initiatives representatives, private sector energy companies, and the Alaska Native science, engineering and mathematics (STEM) outreach organizations. Two Advisory Committee meetings were held. While the focus helped guide the research development, these meetings also enhanced communication between energy stakeholders at the community, state and federal levels.</span></p> <p style="line-height: 1.2; text-indent: 36pt; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Calibri,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Advisory Committee representatives advised the team on communities that may be interested in power system upgrades, including modular designs. The research team visited three rural Alaska communities to discuss potential collaboration on a future research project that would be conducted to: understand how at-risk communities use energy and for what; identify economic tradeoffs involved in the design and possible relocation of infrastructure; create engineering computer models for building modular, microgrid systems in Alaska; and present involved communities with costs and plans for their desired energy infrastructure. The research team recruited four community representatives from two rural Alaska communities to partner on the future research project. This future research project has been formally proposed and is currently under review.&nbsp;</span></p> <p><br /><br /></p><br> <p>  Last Modified: 12/21/2023<br> Modified by: Marie&nbsp;E&nbsp;Lowe</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180806682_Unalakleet_AK_Wind_Turbines--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180806682_Unalakleet_AK_Wind_Turbines--rgov-800width.JPG" title="Unalakleet AK Wind Turbines"><img src="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180806682_Unalakleet_AK_Wind_Turbines--rgov-66x44.JPG" alt="Unalakleet AK Wind Turbines"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Unalakleet AK Incorporating Renewable Energy in its Power Portfolio</div> <div class="imageCredit">Marie Lowe</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Marie&nbsp;E&nbsp;Lowe <div class="imageTitle">Unalakleet AK Wind Turbines</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180678878_Unalakleet_AK_Sea_Wall--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180678878_Unalakleet_AK_Sea_Wall--rgov-800width.JPG" title="Unalakleet AK Sea Wall"><img src="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180678878_Unalakleet_AK_Sea_Wall--rgov-66x44.JPG" alt="Unalakleet AK Sea Wall"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Rip rap sea wall in Unalakleet, AK. Community prone to flooding from storms.</div> <div class="imageCredit">Marie Lowe</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Marie&nbsp;E&nbsp;Lowe <div class="imageTitle">Unalakleet AK Sea Wall</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180954571_Shaktoolik_AK_Power_Plant_--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180954571_Shaktoolik_AK_Power_Plant_--rgov-800width.JPG" title="Shaktoolik AK Power Plant"><img src="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703180954571_Shaktoolik_AK_Power_Plant_--rgov-66x44.JPG" alt="Shaktoolik AK Power Plant"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Shaktoolik AK Power Plant on Bering Sea Coast</div> <div class="imageCredit">Marie Lowe</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Marie&nbsp;E&nbsp;Lowe <div class="imageTitle">Shaktoolik AK Power Plant</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703181340412_Proximity_of_River_to_Homes_in_Kotlik_AK--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703181340412_Proximity_of_River_to_Homes_in_Kotlik_AK--rgov-800width.JPG" title="Proximity of Homes to River in Kotlik AK"><img src="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703181340412_Proximity_of_River_to_Homes_in_Kotlik_AK--rgov-66x44.JPG" alt="Proximity of Homes to River in Kotlik AK"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Kotlik AK Prone to Flooding, Permafrost Thaw, and Erosion</div> <div class="imageCredit">Marie Lowe</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Marie&nbsp;E&nbsp;Lowe <div class="imageTitle">Proximity of Homes to River in Kotlik AK</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703181191507_Bush_Plane_Flight_to_Kotlik_AK--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703181191507_Bush_Plane_Flight_to_Kotlik_AK--rgov-800width.JPG" title="Bush Plane Flight to Kotlik AK"><img src="/por/images/Reports/POR/2023/2022687/2022687_10697223_1703181191507_Bush_Plane_Flight_to_Kotlik_AK--rgov-66x44.JPG" alt="Bush Plane Flight to Kotlik AK"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Flying to Village of Kotlik AK on Yukon-Kuskokwim Delta</div> <div class="imageCredit">Marie Lowe</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Marie&nbsp;E&nbsp;Lowe <div class="imageTitle">Bush Plane Flight to Kotlik AK</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Arctic communities facing extreme climate stress, including possible future relocation, might benefit from innovations in utility infrastructure design. The goal of this planning project is to build research relationships in order to study the possibilities of building modular, microgrid electric systems in rural Alaska. The interdisciplinary research team represented the fields of electrical, industrial and systems engineering, public policy, anthropology and economics. The team built an Advisory Committee composed of representatives from regional and state-wide Alaska Native organizations, borough and other Alaska regional government organizations, electric utility representatives, renewable energy initiatives representatives, private sector energy companies, and the Alaska Native science, engineering and mathematics (STEM) outreach organizations. Two Advisory Committee meetings were held. While the focus helped guide the research development, these meetings also enhanced communication between energy stakeholders at the community, state and federal levels.   The Advisory Committee representatives advised the team on communities that may be interested in power system upgrades, including modular designs. The research team visited three rural Alaska communities to discuss potential collaboration on a future research project that would be conducted to: understand how at-risk communities use energy and for what; identify economic tradeoffs involved in the design and possible relocation of infrastructure; create engineering computer models for building modular, microgrid systems in Alaska; and present involved communities with costs and plans for their desired energy infrastructure. The research team recruited four community representatives from two rural Alaska communities to partner on the future research project. This future research project has been formally proposed and is currently under review.          Last Modified: 12/21/2023       Submitted by: MarieELowe]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

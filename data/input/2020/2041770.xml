@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: SaTC: Identifying Emerging Threats in the Online Hacker Community for Proactive Cyber Threat Intelligence: A Diachronic Graph Convolutional Autoencoder Framework]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/08/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>160035.00</AwardTotalIntnAmount>
+<AwardAmount>160035</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+<PO_EMAI>skiesler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928643</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Hackers often target the information systems that underlie critical systems in domains ranging from finance to healthcare. The estimated cost of defending against and responding to hacking incidents currently runs at hundreds of billions of dollars annually.  To reduce these costs, many organizations have aimed to develop timely, relevant, actionable, and shareable Cyber Threat Intelligence (CTI) about security and privacy threats to support cybersecurity decision-making.  However, existing methods tend to react to known threats rather than proactively detecting emerging ones.  One promising approach to proactive exploit detection is mining large, international, and rapidly evolving online hacker community platforms to detect emerging threats and key actors.  To this end, this project aims to develop advanced, proactive CTI capabilities through (1) collecting large, dynamic datasets of hacker forum posts and (2) developing methods to analyze them to extract emerging threats, particularly malware, through a novel graph-based method for modeling text content.  &lt;br/&gt;&lt;br/&gt;To achieve these goals, this project aims to develop a novel CTI framework designed to collect and identify emerging threats from multi-million record hacker forums.  To address the problem of collecting large-scale and dynamic datasets, the team will develop advanced obfuscated crawling mechanisms that bypass automated collection countermeasures while requiring minimal human involvement.  The data collected will be segmented into time spells and analyzed by a novel computational algorithm, the Diachronic Graph Convolutional Autoencoder (D-GCAE). D-GCAE is rooted in methods drawn from the diachronic linguistics, network science, text mining, and deep learning communities.  In this project, D-GCAE will extract graph embeddings at each time spell, align embeddings, and analyze semantic shifts of hacker terminology to identify potential emerging threats.  These tools will be evaluated against both state-of-the-art benchmarks proposed in computer science and related domains and through analysis of their outputs by leading CTI sharing organizations. The datasets and tools will also be disseminated for use by cybersecurity researchers, practitioners, and educators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041770</AwardID>
+<Investigator>
+<FirstName>Sagar</FirstName>
+<LastName>Samtani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sagar Samtani</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssamtani@iu.edu]]></EmailAddress>
+<NSF_ID>000780177</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>Indianapolis</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>462022915</ZipCode>
+<StreetAddress><![CDATA[Office of Research Administration 980 Indiana Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~160035</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cybersecurity has emerged as a grant societal challenge. Despite the best efforts of academia, industry, and government, cyber-attacks continue to exact a terrible toll. Increasingly, numerous entities are seeking to develop proactive approaches to identifying emerging threats that may target their vulnerabilities. The large, ever-evolving, and international Dark Web has become a viable source for developing proactive cyber threat intelligence about emerging threats and key threat actors. However, the Dark Web contains significant multi-lingual content that is rapidly emerging. Computational methods offer significant utility over converntional approaches to extracting cyber threat intelligence from Dark Web platforms.&nbsp;</p> <p>This project sought to develop approaches to automatically identify emerging threats from large, international hacker forums, specifically to identify new tools, emerging capabilities, and the targets of hackers. To achieve this goal, the proposed project drew upon Artificial Intelligence (AI)-enabled analytics procedures based in network science, text mining, and deep learning to develop novel computational frameworks. One such framework sought to identify the semantics and evolution of hacking terms over time. Another one aimed to automatically link exploits from the Dark Web to vulnerabilities detected by prevailing vulnerability assessment scanners.&nbsp;</p> <p>Although developed initially for Dark Web-based cyber threat intelligence, the principles used to design the proposed computational frameworks were also used in adjacent yet related areas of cybersecurity. Selected areas included adversarial attacks against text classifiers, phishing analysis, privacy management, and vulnerability management.&nbsp;</p> <p>The proposed frameworks and analytics results were published in prevailing journals and conferences in information systems, cybersecurity, and data analytics. Additionally, the results of the executed research were disseminated to several major communities of interest, including DEFCON AI Village, NSF SaTC meetings, and to practitioner initiatives such as the CompTIA Information Sharing and Analysis Organization. Over two dozen invited talks at significant academic institutions were also delivered on the topics studied in this grant.&nbsp;</p><br> <p>            Last Modified: 10/30/2023<br>      Modified by: Sagar&nbsp;Samtani</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Cybersecurity has emerged as a grant societal challenge. Despite the best efforts of academia, industry, and government, cyber-attacks continue to exact a terrible toll. Increasingly, numerous entities are seeking to develop proactive approaches to identifying emerging threats that may target their vulnerabilities. The large, ever-evolving, and international Dark Web has become a viable source for developing proactive cyber threat intelligence about emerging threats and key threat actors. However, the Dark Web contains significant multi-lingual content that is rapidly emerging. Computational methods offer significant utility over converntional approaches to extracting cyber threat intelligence from Dark Web platforms.   This project sought to develop approaches to automatically identify emerging threats from large, international hacker forums, specifically to identify new tools, emerging capabilities, and the targets of hackers. To achieve this goal, the proposed project drew upon Artificial Intelligence (AI)-enabled analytics procedures based in network science, text mining, and deep learning to develop novel computational frameworks. One such framework sought to identify the semantics and evolution of hacking terms over time. Another one aimed to automatically link exploits from the Dark Web to vulnerabilities detected by prevailing vulnerability assessment scanners.   Although developed initially for Dark Web-based cyber threat intelligence, the principles used to design the proposed computational frameworks were also used in adjacent yet related areas of cybersecurity. Selected areas included adversarial attacks against text classifiers, phishing analysis, privacy management, and vulnerability management.   The proposed frameworks and analytics results were published in prevailing journals and conferences in information systems, cybersecurity, and data analytics. Additionally, the results of the executed research were disseminated to several major communities of interest, including DEFCON AI Village, NSF SaTC meetings, and to practitioner initiatives such as the CompTIA Information Sharing and Analysis Organization. Over two dozen invited talks at significant academic institutions were also delivered on the topics studied in this grant.        Last Modified: 10/30/2023       Submitted by: Sagar Samtani]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mathematical and Numerical Analysis of Asymptotically Compatible Discretization of Nonlocal Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The study of nonlocal models has attracted much attention in many science and engineering disciplines such as materials science, mechanics, biology, and social science, and they are therefore of interest to applied and computational mathematics.  Nonlocal models differ from the more common local models because they account for the factors active on a range rather than only at a point at which they are considered.  The project is aimed at advancing the mathematical and numerical analysis of robust and effective numerical methods for those nonlocal models with a finite range of interactions.  The research will complement the ongoing development of effective simulation platforms for nonlocal modeling in various application domains. It will also contribute to the integrated interdisciplinary education and research training of students.&lt;br/&gt;&lt;br/&gt;An important class of robust numerical schemes for nonlocal models is provided by asymptotically compatible (AC) discretization schemes. The latter are designed to assure the convergence of approximate solutions, as numerical resolution gets refined, to correct physical solutions for problems with changing or even diminishing ranges of nonlocal interactions. The project will include a comprehensive study of AC schemes for nonlocal problems with heterogeneously distributed ranges of nonlocal interactions and/or having boundary/interfaces. Further investigations of AC schemes will be carried out for problems involving coupled local/nonlocal models and nonlinear problems motivated by important applications. The focus on robust discretization methods like the AC schemes is particularly relevant to reliable and efficient simulations of nonlocal models with application to complex physical systems involving multiscale, singular, and anomalous behaviors.  An integrated analytical and computational approach will be used to develop both fundamental ideas and practical insight so that the research findings will not only enrich the mathematical theory of AC schemes but also offer guidance to their practical applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012562</AwardID>
+<Investigator>
+<FirstName>Qiang</FirstName>
+<LastName>Du</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qiang Du</PI_FULL_NAME>
+<EmailAddress><![CDATA[qd2125@columbia.edu]]></EmailAddress>
+<NSF_ID>000219244</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~97522</FUND_OBLG>
+<FUND_OBLG>2021~99879</FUND_OBLG>
+<FUND_OBLG>2022~102599</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project is aimed at developing effective and robust algorithms for the simulation of nonlocal models, which have become increasingly popular in various applications such as fracture mechanics, fluid dynamics, image analysis, and traffic flows. For nonlocal models parametrized by the horizon parameter, their local limit may be well-defined for some benchmark problems or under suitable assumptions.&nbsp;It is then highly desirable to see that the physics described by the local model, if meaningful, can be recovered via the local limit of these nonlocal models. This is important for the verification and validation of nonlocal modeling and simulations.&nbsp;To develop reliable software codes,&nbsp;passing desirable benchmark tests naturally requires the underlying numerical discretization to preserve, on the discrete level, the same kind of consistency as that on the continuum level.&nbsp;The failure of such tests is linked to various controversies and discrepancies experienced earlier in the community.</p> <p>Asymptotically compatible (AC) schemes were proposed&nbsp;as robust and reliable methods in both the nonlocal regime and in the local limit.&nbsp; They preserve all limiting behavior on the discrete level (thus are also structure-preserving, i.e., preserving the limiting structures). The concept of AC schemes offered much-needed guidance to computational studies of nonlocal problems.&nbsp;While motivated by applications such as peridynamics (and Smoothed Particle Hydrodynamics).&nbsp;the general framework of AC schemes is much broader and can be described in the context of numerical solutions to parametrized problems, a classic subject of numerical analysis.</p> <p>Further development of AC schemes has been the central theme of the funded NSF project. In our Acta Numerica paper in 2020, we reviewed the state-of-the-art before the project. The progress since then is noticeable: our 2020 SIAM Review SIGEST paper, initially intended as a republication of an earlier paper, significantly extended the original abstract framework for self-adjoint problems to non-self-adjoint ones. Thus,&nbsp;the updated theory becomes more appealing and broadly applicable. Our 2022 SINUM paper analyzed AC schemes when a&nbsp;truncated domain of the interactions is used to reduce the complexity in the implementation of numerical integrations.&nbsp; Our 2021 &nbsp;NMPDE paper extended earlier works to develop AC schemes for models with heterogeneous nonlocal interactions. Further studies on the impact of the regularity of the varying horizon parameters on the wave and singularity propagation were carried out in the 2022 JSC paper.&nbsp; Our 2022 CMS paper formulated a new linear nonlocal diffusion equation as a second-order approximation to the local limit. Our 2022 NMTMA paper studied a variation of the nonlocal formulation of the Stokes equation given earlier, connecting the study of the nonlocal models with mesh-free discretizations like smooth particle hydrodynamics (SPH). &nbsp;We have accelerated our study of the theoretical basis and produced two major publications on the analysis of nonlocal function spaces&nbsp; (the 2022 paper in JFA for nonlocal boundary data and the 2022 paper in AA for local boundary data with heterogeneous localization). Our paper for the 50th Barrett lectures made further clarifications on the various types of nonlocal boundary value problems and examinations of the nonlocal Green's identity, a necessary ingredient to the rigorous characterization of the nonlocal counterpart of the classic (local) identities well-known for PDEs. Our 2021 FCAA paper provided a stochastic interpretation of a new class of fractional in-time equations. Similar nonlocal-in-time dynamic models have been studied from a deterministic and computational angle in our 2022 IJNAM paper. Our 2022 SIAP paper demonstrated that the instantaneous exchange of nonlocal information and its utilization in traffic decisions such as the travel speed selection can help make the traffic flow more stable and improve traffic conditions. AC schemes are also developed for numerical simulations.</p> <p>In addition, we also studied&nbsp;bound-preserving discretizations for a large class of time-dependent PDEs in a 2021 SIAM Review research spotlight article, which also covered some nonlinear nonlocal models as examples.&nbsp; Moreover, we studied nonlocal minimal surface problems associated with the average distance to the boundary in 2022 papers in SIMA and IFB, variational problems represented by the Ohta-Kawasaki model that involve both attractive and nonlocal repulsive interactions in our 2022 JNS paper. Aiming at physics-informed data-driven modeling, we also worked on the estimation of fundamental diagrams for traffic flow modeling, a method for discovering hidden state variables (a cover paper in 2022 Nature Comp Sci), and a new mathematical theory of linear multistep methods for learning unknown dynamics (2021 and 2022 SINUM papers).</p> <p><span lang="EN">The project provided various research training opportunities. Thtee Ph.D. theses have been completed under PI's supervision.&nbsp;&nbsp;The project also provided mentorship to postdoc scholars and MS and undergraduate students.&nbsp; D<span lang="EN">iscussions among students were organized to focus on research initiation and planning, working with collaborators,&nbsp; writing and oral presentation, and research ethics.&nbsp; Active participation in the organization of workshops and conference organizations on related topics also helped the dissemination of the research finding to the broader community.</span></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/22/2023<br> Modified by: Qiang&nbsp;Du</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project is aimed at developing effective and robust algorithms for the simulation of nonlocal models, which have become increasingly popular in various applications such as fracture mechanics, fluid dynamics, image analysis, and traffic flows. For nonlocal models parametrized by the horizon parameter, their local limit may be well-defined for some benchmark problems or under suitable assumptions.It is then highly desirable to see that the physics described by the local model, if meaningful, can be recovered via the local limit of these nonlocal models. This is important for the verification and validation of nonlocal modeling and simulations.To develop reliable software codes,passing desirable benchmark tests naturally requires the underlying numerical discretization to preserve, on the discrete level, the same kind of consistency as that on the continuum level.The failure of such tests is linked to various controversies and discrepancies experienced earlier in the community.   Asymptotically compatible (AC) schemes were proposedas robust and reliable methods in both the nonlocal regime and in the local limit. They preserve all limiting behavior on the discrete level (thus are also structure-preserving, i.e., preserving the limiting structures). The concept of AC schemes offered much-needed guidance to computational studies of nonlocal problems.While motivated by applications such as peridynamics (and Smoothed Particle Hydrodynamics).the general framework of AC schemes is much broader and can be described in the context of numerical solutions to parametrized problems, a classic subject of numerical analysis.   Further development of AC schemes has been the central theme of the funded NSF project. In our Acta Numerica paper in 2020, we reviewed the state-of-the-art before the project. The progress since then is noticeable: our 2020 SIAM Review SIGEST paper, initially intended as a republication of an earlier paper, significantly extended the original abstract framework for self-adjoint problems to non-self-adjoint ones. Thus,the updated theory becomes more appealing and broadly applicable. Our 2022 SINUM paper analyzed AC schemes when atruncated domain of the interactions is used to reduce the complexity in the implementation of numerical integrations. Our 2021 NMPDE paper extended earlier works to develop AC schemes for models with heterogeneous nonlocal interactions. Further studies on the impact of the regularity of the varying horizon parameters on the wave and singularity propagation were carried out in the 2022 JSC paper. Our 2022 CMS paper formulated a new linear nonlocal diffusion equation as a second-order approximation to the local limit. Our 2022 NMTMA paper studied a variation of the nonlocal formulation of the Stokes equation given earlier, connecting the study of the nonlocal models with mesh-free discretizations like smooth particle hydrodynamics (SPH). We have accelerated our study of the theoretical basis and produced two major publications on the analysis of nonlocal function spaces (the 2022 paper in JFA for nonlocal boundary data and the 2022 paper in AA for local boundary data with heterogeneous localization). Our paper for the 50th Barrett lectures made further clarifications on the various types of nonlocal boundary value problems and examinations of the nonlocal Green's identity, a necessary ingredient to the rigorous characterization of the nonlocal counterpart of the classic (local) identities well-known for PDEs. Our 2021 FCAA paper provided a stochastic interpretation of a new class of fractional in-time equations. Similar nonlocal-in-time dynamic models have been studied from a deterministic and computational angle in our 2022 IJNAM paper. Our 2022 SIAP paper demonstrated that the instantaneous exchange of nonlocal information and its utilization in traffic decisions such as the travel speed selection can help make the traffic flow more stable and improve traffic conditions. AC schemes are also developed for numerical simulations.   In addition, we also studiedbound-preserving discretizations for a large class of time-dependent PDEs in a 2021 SIAM Review research spotlight article, which also covered some nonlinear nonlocal models as examples. Moreover, we studied nonlocal minimal surface problems associated with the average distance to the boundary in 2022 papers in SIMA and IFB, variational problems represented by the Ohta-Kawasaki model that involve both attractive and nonlocal repulsive interactions in our 2022 JNS paper. Aiming at physics-informed data-driven modeling, we also worked on the estimation of fundamental diagrams for traffic flow modeling, a method for discovering hidden state variables (a cover paper in 2022 Nature Comp Sci), and a new mathematical theory of linear multistep methods for learning unknown dynamics (2021 and 2022 SINUM papers).   The project provided various research training opportunities. Thtee Ph.D. theses have been completed under PI's supervision.The project also provided mentorship to postdoc scholars and MS and undergraduate students. Discussions among students were organized to focus on research initiation and planning, working with collaborators, writing and oral presentation, and research ethics. Active participation in the organization of workshops and conference organizations on related topics also helped the dissemination of the research finding to the broader community.              Last Modified: 11/22/2023       Submitted by: QiangDu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

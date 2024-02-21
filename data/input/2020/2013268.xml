@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Investigating the Effects of a Mastery-based Assessment Approach on Undergraduate Engineering Education across Multiple Engineering Courses and Universities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199996.00</AwardTotalIntnAmount>
+<AwardAmount>199996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christine Delahanty</SignBlockName>
+<PO_EMAI>cdelahan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928492</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project aims to serve the national interest by improving engineering students’ problem-solving skills and understanding of engineering principles. Within engineering education, students need repeated practice to achieve the expected level of learning and mastery.  However, such opportunities for repeated practice are typically limited and students frequently choose learning approaches that require less effort.  For example, students may try to learn something by just copying solutions to homework problems, rather than solving the problems by themselves.  In addition, they often memorize a few problem-solving approaches and “plug &amp; chug” on an exam to earn partial credit.  Both learning strategies are ineffective, but they can give students an illusion that they understand the material when they do not.  This false sense of understanding can be perpetuated by typical assessment techniques that emphasize a few, high stakes exams.  To increase students’ authentic conceptual understanding and problem-solving skills, educators at Michigan State University have implemented a mastery-based assessment approach in a limited number of courses.  This approach improved students’ problem-solving ability and encouraged them to use more effective study habits.  This project will expand the deployment and evaluation of the mastery-based assessment approach to additional engineering courses and to two additional universities. By improving engineering students’ problem-solving skills, this project has the potential to enhance the technical capability of the engineering workforce.&lt;br/&gt;&lt;br/&gt;The overall goal of the project is to fully investigate the effects of a mastery-based assessment approach on student learning, in the context of different engineering topics, different learning environments, and different student populations.  In addition, the project will evaluate the effects of structural supports such as testing centers that are designed to reduce barriers to faculty adoption of mastery-based assessment.  The mastery-based assessment approach will be implemented in multiple foundational engineering courses (statics, strength of materials, dynamics, and thermodynamics) at three universities: Michigan State University, the University of Illinois, and the University of Maryland.  Student learning will be assessed in comparison to courses that use traditional assessment strategies and in terms of student performance in subsequent classes.  The impact of mastery-based assessment on student learning will also be evaluated for students from underrepresented and at-risk populations to identify potential disparities in the effectiveness of this approach. Student perceptions of the assessment technique will also be studied.  To support broader implementation of this technique, which requires the administration of additional examinations, a computer-based testing facility strategy will be deployed using large repositories of questions. The impact of the testing facility on faculty workload and perceptions of the mastery-based assessment approach will be investigated.  This project will support the refinement of the mastery-based assessment approach, enhance computer-based testing facilities to support repeated testing, and expand the evaluation of the technique’s efficacy.  These efforts have the potential to increase student success in engineering, as well as enhance their problem-solving skills.  This project is supported by the NSF Improving Undergraduate STEM Education Program: Education and Human Resources, which supports research and development projects to improve the effectiveness of STEM education for all students.  Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013268</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Elby</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew R Elby</PI_FULL_NAME>
+<EmailAddress><![CDATA[ELBY@PHYSICS.UMD.EDU]]></EmailAddress>
+<NSF_ID>000196741</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Calabro</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin Calabro</PI_FULL_NAME>
+<EmailAddress><![CDATA[kcalabro@umd.edu]]></EmailAddress>
+<NSF_ID>000687063</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Kiger</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth T Kiger</PI_FULL_NAME>
+<EmailAddress><![CDATA[kkiger@umd.edu]]></EmailAddress>
+<NSF_ID>000329565</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199996</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this research project, we investigated how undergraduate engineering students responded to a novel grading approach for their exams. In traditional university STEM courses, midterm exams heavily influence students&rsquo; overall grades. If a student performs below their potential on a midterm, perhaps due to a challenging day or unforeseen circumstances hindering their preparation, it hurts their overall course grade. Consequently, many students experience anxiety about midterm exams, which can impede learning, reduce exam performance, and contribute to high levels of anxiety among college students.</p> <p>To address this issue, some University of Maryland engineering courses adopted an approach from colleagues at Michigan State University. Students who wish to improve their midterm scores may take a &ldquo;make-up&rdquo; midterm about a week later, covering the same topics but with different questions. The availability of the make-up midterm aims to alleviate students&rsquo; anxiety during the original midterm, assuring them that a single bad day won't irreversibly affect their course grade. In our three-institution study with Michigan State University and the University of Illinois, we investigated whether the availability of make-up exams successfully reduced students&rsquo; exam-related anxiety. Through interviews with dozens of students, we found that most students indeed experienced less stress as a result of the make-up exams. However, students feeling overwhelmed due to working long hours to pay for college, managing a heavy course load, or dealing with health issues reported limited or no reduction in stress levels. Their time constraints prevented them from preparing for make-up midterms, given the demands of homework and midterms in other courses.</p> <p>Another thread of our research focused on how the unconventional grading of exams influenced students&rsquo; exam preparation. In typical university STEM courses, when students struggle with a particular exam question, they can still earn partial credit by providing equations and relevant information, even if they don&rsquo;t know how to approach the problem. Our colleagues at the University of Michigan hypothesized that this partial-credit system, intended to help students raise their exam scores, might inadvertently encourage students to prepare for exams by memorizing equations and rote problem-solving techniques rather than by seeking a deep understanding of the underlying concepts, an understanding that would enable them to figure out correct problem-solving approaches to exam questions. In the University of Maryland courses under study, students earned almost full credit for taking a conceptually correct approach to solving an exam problem, even if they made mistakes along the way, while no points were awarded for simply listing correct equations or information without a correct problem-solving approach. This grading system aimed to promote a focus on deep conceptual understanding rather than memorization.</p> <p>In interviews with students, we explored whether this grading scheme influenced their study approaches. While most students understood that the grading aimed to encourage deep conceptual understanding, their responses varied. Generally, students who felt well supported in their learning were willing to adopt this approach. Key supports included opportunities to ask instructors questions outside of class, access to relevant homework problems and ungraded practice materials emphasizing concepts, and sufficient time to pursue a deeper conceptual understanding. Many students, however, didn&rsquo;t change their study habits, due to time constraints, ingrained habits forged in their previous STEM courses, and lack of access to instructional supports for trying out a new approach to studying.</p> <p>For instructors of engineering courses, these findings underscore the importance of providing ample support when introducing unfamiliar learning goals and instructional approaches to students. For engineering education more broadly, these results emphasize how the heavy course loads typical of undergraduate engineering programs may push students toward superficial learning approaches due to time constraints, even when support is available.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/16/2023<br> Modified by: Andrew&nbsp;R&nbsp;Elby</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this research project, we investigated how undergraduate engineering students responded to a novel grading approach for their exams. In traditional university STEM courses, midterm exams heavily influence students overall grades. If a student performs below their potential on a midterm, perhaps due to a challenging day or unforeseen circumstances hindering their preparation, it hurts their overall course grade. Consequently, many students experience anxiety about midterm exams, which can impede learning, reduce exam performance, and contribute to high levels of anxiety among college students.   To address this issue, some University of Maryland engineering courses adopted an approach from colleagues at Michigan State University. Students who wish to improve their midterm scores may take a make-up midterm about a week later, covering the same topics but with different questions. The availability of the make-up midterm aims to alleviate students anxiety during the original midterm, assuring them that a single bad day won't irreversibly affect their course grade. In our three-institution study with Michigan State University and the University of Illinois, we investigated whether the availability of make-up exams successfully reduced students exam-related anxiety. Through interviews with dozens of students, we found that most students indeed experienced less stress as a result of the make-up exams. However, students feeling overwhelmed due to working long hours to pay for college, managing a heavy course load, or dealing with health issues reported limited or no reduction in stress levels. Their time constraints prevented them from preparing for make-up midterms, given the demands of homework and midterms in other courses.   Another thread of our research focused on how the unconventional grading of exams influenced students exam preparation. In typical university STEM courses, when students struggle with a particular exam question, they can still earn partial credit by providing equations and relevant information, even if they dont know how to approach the problem. Our colleagues at the University of Michigan hypothesized that this partial-credit system, intended to help students raise their exam scores, might inadvertently encourage students to prepare for exams by memorizing equations and rote problem-solving techniques rather than by seeking a deep understanding of the underlying concepts, an understanding that would enable them to figure out correct problem-solving approaches to exam questions. In the University of Maryland courses under study, students earned almost full credit for taking a conceptually correct approach to solving an exam problem, even if they made mistakes along the way, while no points were awarded for simply listing correct equations or information without a correct problem-solving approach. This grading system aimed to promote a focus on deep conceptual understanding rather than memorization.   In interviews with students, we explored whether this grading scheme influenced their study approaches. While most students understood that the grading aimed to encourage deep conceptual understanding, their responses varied. Generally, students who felt well supported in their learning were willing to adopt this approach. Key supports included opportunities to ask instructors questions outside of class, access to relevant homework problems and ungraded practice materials emphasizing concepts, and sufficient time to pursue a deeper conceptual understanding. Many students, however, didnt change their study habits, due to time constraints, ingrained habits forged in their previous STEM courses, and lack of access to instructional supports for trying out a new approach to studying.   For instructors of engineering courses, these findings underscore the importance of providing ample support when introducing unfamiliar learning goals and instructional approaches to students. For engineering education more broadly, these results emphasize how the heavy course loads typical of undergraduate engineering programs may push students toward superficial learning approaches due to time constraints, even when support is available.        Last Modified: 12/16/2023       Submitted by: AndrewRElby]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

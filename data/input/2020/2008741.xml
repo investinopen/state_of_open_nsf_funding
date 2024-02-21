@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: Small: Neural Sequences as a Robust Dynamic Regime for Spatiotemporal Time Invariant Computations.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>499634.00</AwardTotalIntnAmount>
+<AwardAmount>499634</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Whang</SignBlockName>
+<PO_EMAI>kwhang@nsf.gov</PO_EMAI>
+<PO_PHON>7032925149</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The temporal dimension is of fundamental importance to understanding the brain because one of the brain's primary function is temporal in nature: the brain uses information about the past (memories) to predict the future. As a result of the inherently temporal nature of brain function the brain has evolved mechanisms to tell time, encode time, and perform time-dependent computations. These computations endow animals with the ability to quickly learn to anticipate external events (for example when a red light should change), and to recognize and generate complex temporal patterns (such as those that underlie speech or Morse code). A feature of the brain's computational abilities is referred to as "temporal scaling," for example, the ability to talk, play music, or tap a Morse code message at different speeds. The neural mechanisms underlying timing and temporal scaling remain poorly understood. Furthermore, although dramatic advances have taken place in the field of machine learning, current machine learning approaches do not capture how the brain performs temporal computations or achieves temporal scaling. Emerging experimental data suggest that the brain may encode time and implement temporal scaling through a number of different dynamic regimes including ramping (increasing firing rates with time) or neural sequences (transient sequential activation of neurons). This project seeks to understand how time-dependent computations are performed in recurrent neural networks, and proposes that neural sequences provide an optimal solution to the problem of temporal scaling. This project will contribute to advances in the ability of artificial systems to capture the computational power of the brain. Associated education and outreach efforts are closely related to the research.&lt;br/&gt;&lt;br/&gt;Two main approaches will be used. First, machine-learning based supervised recurrent neural networks will be trained on a number of different timing tasks--including a Morse code task that requires producing a complex temporal pattern at different speeds--in order to determine if neural sequences represent a general solution to the problems of encoding time and temporal scaling. Second, neuronal and synaptic properties that are mostly absent from current machine learning approaches will be used to develop a model of how neural sequences emerge and undergo temporal scaling in a biologically plausible fashion. Specifically, cortical synapses exhibit short-term synaptic plasticity, in which the strength of synapses change in a use-dependent manner over the course of hundreds of milliseconds, these dynamics can in turn be modulated--accelerating or slowing short-term synaptic plasticity. It is hypothesized that this modulation of short-term synaptic plasticity is one way the brain implements temporal scaling. Overall, this project will lead to novel biological principles being applied towards machine learning, and further advance the ability to emulate the brain’s computational strategies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008741</AwardID>
+<Investigator>
+<FirstName>Dean</FirstName>
+<LastName>Buonomano</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dean V Buonomano</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbuono@ucla.edu]]></EmailAddress>
+<NSF_ID>000109468</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900246541</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10920 WILSHIRE BLVD STE 500</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of California, Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10833 Le Conte Ave, CHS 77-200F]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8624</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~499634</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The human brain effortlessly performs very complex computations, many of which take place in the temporal domain. For example, playing a musical piece or tying one&rsquo;s shoe laces at different speeds, not only requires producing complex motor behaviors, but the ability to flexibly adjust and change the speed at which a given motor patterns is being produced. The research preformed in the current project explores how neural circuits can perform such temporally flexible computations, and how we can emulate these computations using artificial neural networks. We rely on recurrent neural network models (RNNs), in which simple units representing neurons are connected to each other in a recurrent fashion, and these connections are defined by a certain synaptic weight (the strength of a connection, or the ability of one unit to influence the other). One of the novel components of this project, is that the weights of the connections themselves was dynamic&mdash;emulating a well-established biological property of synapses referred to as short-term synaptic plasticity. A key result is that after a RNN is trained one can speed up or slow down the motor pattern (much like playing a musical piece at different speeds) by simply modulating short-term synaptic plasticity, for example by increasing or decreasing how quickly or slowly synapses depress (get weaker). In this case as shown in Figure 1 the motor patterns were handwritten digits. The RNN produced different handwritten digits, and modulating short-term synaptic plasticity changed the speed (or size) of the written numbers. These results establish a novel, biologically-inspired, approach to flexible motor control that could be used in robotics.</p> <p>&nbsp;</p> <p>The broader impact of this proposal included research opportunities for undergraduate students, outreach efforts in which K-12 students from underprivileged backgrounds visited the lab and participated in research demonstrations.</p><br> <p>  Last Modified: 11/28/2023<br> Modified by: Dean&nbsp;V&nbsp;Buonomano</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2008741/2008741_10703677_1699387178984_OutcomeFigure--rgov-214x142.png" original="/por/images/Reports/POR/2023/2008741/2008741_10703677_1699387178984_OutcomeFigure--rgov-800width.png" title="Temporal and spatial scaling of motor outputs."><img src="/por/images/Reports/POR/2023/2008741/2008741_10703677_1699387178984_OutcomeFigure--rgov-66x44.png" alt="Temporal and spatial scaling of motor outputs."></a> <div class="imageCaptionContainer"> <div class="imageCaption">A. Example of simulated short-term synaptic plasticity ranging from strong depression (black) to strong facilitation (red). B. By training a recurrent neural network with STP to produce handwritten digits (top row), we can slow down motor speed (second row) or increase digit size (third row).</div> <div class="imageCredit">Shanglin Zhou and Dean Buonomano</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Dean&nbsp;V&nbsp;Buonomano <div class="imageTitle">Temporal and spatial scaling of motor outputs.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The human brain effortlessly performs very complex computations, many of which take place in the temporal domain. For example, playing a musical piece or tying ones shoe laces at different speeds, not only requires producing complex motor behaviors, but the ability to flexibly adjust and change the speed at which a given motor patterns is being produced. The research preformed in the current project explores how neural circuits can perform such temporally flexible computations, and how we can emulate these computations using artificial neural networks. We rely on recurrent neural network models (RNNs), in which simple units representing neurons are connected to each other in a recurrent fashion, and these connections are defined by a certain synaptic weight (the strength of a connection, or the ability of one unit to influence the other). One of the novel components of this project, is that the weights of the connections themselves was dynamicemulating a well-established biological property of synapses referred to as short-term synaptic plasticity. A key result is that after a RNN is trained one can speed up or slow down the motor pattern (much like playing a musical piece at different speeds) by simply modulating short-term synaptic plasticity, for example by increasing or decreasing how quickly or slowly synapses depress (get weaker). In this case as shown in Figure 1 the motor patterns were handwritten digits. The RNN produced different handwritten digits, and modulating short-term synaptic plasticity changed the speed (or size) of the written numbers. These results establish a novel, biologically-inspired, approach to flexible motor control that could be used in robotics.      The broader impact of this proposal included research opportunities for undergraduate students, outreach efforts in which K-12 students from underprivileged backgrounds visited the lab and participated in research demonstrations.     Last Modified: 11/28/2023       Submitted by: DeanVBuonomano]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Annual Spring Institute on Non-Commutative Geometry and Operator Algebra 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>45000.00</AwardTotalIntnAmount>
+<AwardAmount>45000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides funding to help defray the expenses of participants in the Annual Spring Institute in Noncommutative Geometry and Operator Algebras (NCGOA) to be held at Vanderbilt University in Nashville, Tennessee from May 1 to 7, 2020. The topic for this workshop is Connes’ embedding problem and quantum information theory.&lt;br/&gt;&lt;br/&gt;Over the last 40 years Connes' embedding problem has emerged as one of the most important problems in operator algebras. It has found equivalent versions (many of them quite unexpected) in almost all specializations within operator algebras. One notable equivalent formulations is Tsirelson’s Problem from quantum information theory. The conference will feature several mini-courses and research talks on these topics. This institute is especially timely as a solution to Connes' embedding problem has recently been announced (with a proof using techniques from quantum information theory), and the institute will provide a venue for the mathematical community to learn about, and help form a consensus as to the validity of, the announced proof.  The proposed speakers are world leaders of their fields, and it is expected that the conference will germinate new international based interactions between operator algebras and quantum information theory.&lt;br/&gt;&lt;br/&gt;Additional information about the institute can be found on the website https://my.vanderbilt.edu/ncgoa20/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000214</AwardID>
+<Investigator>
+<FirstName>Jesse</FirstName>
+<LastName>Peterson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jesse Peterson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jesse.d.peterson@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000511398</NSF_ID>
+<StartDate>03/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dietmar</FirstName>
+<LastName>Bisch</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dietmar H Bisch</PI_FULL_NAME>
+<EmailAddress><![CDATA[dietmar.bisch@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000443633</NSF_ID>
+<StartDate>03/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>Nashville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372350002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~45000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>This award provided funding to help defray the expenses of participants in the Annual Spring Institute in Noncommutative Geometry and Operator Algebras (NCGOA) to held at Vanderbilt University in Nashville, Tennessee May 8 to 11, 2023 (Rescheduled from its original date in May 2020 due to Covid). The topic for the workshop was "Von Neumann Algebras".&nbsp;</span></p> <p><span>The workshop consisted of 13 1-hour talks and 8 shorter talks. The speakers were carefully selected and featured a combination of senior researchers, postdoctoral fellows and graduate students. For several of them it was their first opportunity to present their work at a major conference in operator algebras. Mathematicians from different areas with interests in von Neumann algebras, geometric and measured group theory, subfactor theory, and other areas in operator algebras</span>&nbsp;attended the conference/schol. Many exciting discussions and interactions took place as ample time for these were provided in the schedule.</p> <p>Over 70 mathematicians took part in this workshop, of which over 50 were students or postdoctoral fellows. Thus, roughly 70% of the participants were students and posdocts.&nbsp;<span>Students and postdocs had plenty of opportunities to discuss topics on the research frontier of von Neumann algebras with senior mathematicians present at the conference/school.</span></p> <p><span><span>The conference website can be found at&nbsp;</span>https://https://my.vanderbilt.edu/ncgoa23/. The p<span>rogram and abstracts of talks can be found at the conference website.</span></span></p><br> <p>            Last Modified: 10/01/2023<br>      Modified by: Jesse&nbsp;Peterson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This award provided funding to help defray the expenses of participants in the Annual Spring Institute in Noncommutative Geometry and Operator Algebras (NCGOA) to held at Vanderbilt University in Nashville, Tennessee May 8 to 11, 2023 (Rescheduled from its original date in May 2020 due to Covid). The topic for the workshop was "Von Neumann Algebras".   The workshop consisted of 13 1-hour talks and 8 shorter talks. The speakers were carefully selected and featured a combination of senior researchers, postdoctoral fellows and graduate students. For several of them it was their first opportunity to present their work at a major conference in operator algebras. Mathematicians from different areas with interests in von Neumann algebras, geometric and measured group theory, subfactor theory, and other areas in operator algebras attended the conference/schol. Many exciting discussions and interactions took place as ample time for these were provided in the schedule.  Over 70 mathematicians took part in this workshop, of which over 50 were students or postdoctoral fellows. Thus, roughly 70% of the participants were students and posdocts. Students and postdocs had plenty of opportunities to discuss topics on the research frontier of von Neumann algebras with senior mathematicians present at the conference/school.  The conference website can be found at https://https://my.vanderbilt.edu/ncgoa23/. The program and abstracts of talks can be found at the conference website.       Last Modified: 10/01/2023       Submitted by: Jesse Peterson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

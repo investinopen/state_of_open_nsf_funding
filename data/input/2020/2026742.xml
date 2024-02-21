@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID:Effects of mass-flowering and die-back of a large cane forming bamboo on nutrient cycling, seedling recruitment, and oak dominance in a tropical montane forest]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>82655.00</AwardTotalIntnAmount>
+<AwardAmount>82655</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Wojdak</SignBlockName>
+<PO_EMAI>jwojdak@nsf.gov</PO_EMAI>
+<PO_PHON>7032928781</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many mountains around the world share a characteristic vegetation. This consists of a forest canopy dominated by oaks or related species, and an understory layer that is filled by dense thickets of bamboo. The deep shade cast by these bamboo thickets, coupled with competition from bamboo for water and nutrients, greatly limits the regeneration success of tree seedlings. However, most bamboos also share an unusual trait – they flower once in their lives and then die. At intervals of between 20 and 120 years, depending on species, an entire bamboo population at a site flower together. Following this episode of mass-flowering and mass mortality, light penetrates to the forest floor stimulating tree seedling growth for a few years before the bamboo returns. The decay of dead bamboo, however, also stimulates the growth of soil bacteria and fungi which compete with plants for nutrients in the soil. This competition reduces the availability of nitrogen, a key resource for plant growth. This project will examine how a bamboo die-off that began in 2020 in western Panama affects the regeneration of oak forest, an endangered ecosystem of critical conservation value. Specifically, it will test the hypothesis that bamboo mortality preferentially favors the regeneration of oaks, because these tree species form a specific type of association with fungi in the soil called ectomycorrhizas. Ectomycorrhizal fungi benefit oaks by providing access to a source of nitrogen that is unavailable to other competing plant species. Understanding how mountain oak forests function is essential to their management, and to predicting whether lower elevation tree species will be able to migrate upslope in a warming world. In addition, this project will provide training in forest ecology and plant-soil interactions for US undergraduate and graduate students.&lt;br/&gt;&lt;br/&gt;The project will take advantage of an existing network of plots established in oak-bamboo forest on the slopes of Volcan Barú National Park. Bamboo, oaks and other tree species have been mapped in these plots, tree growth rates are being monitored annually, and soil nitrogen availability has already been measured. In addition to determining how bamboo die-off affects seedling recruitment, and juvenile and adult tree growth in these existing forest plots, a nitrogen addition experiment will be established to test whether oak recruitment is selectively favored due to their ectomycorrhizal association. Replicate patches of forest will be located that have similar tree community composition, but that have three classes of understory bamboo: live bamboo, dead bamboo, and no bamboo. Seeds and seedlings of the two locally dominant ectomycorrhizal oak tree species Quercus salicifolia and Q. costaricensis, and four similar non-ectomycorrhizal tree species will be transplanted into plots in these patches. Additionally, nitrogen fertilization and control treatments will be established in each plot and seedling growth monitored for one year. If ectomycorrhizal nitrogen supply favors oaks during bamboo decay then the seedling growth advantage of oaks versus non-oaks will be greatest in plots with dead bamboo and no additional nitrogen, and smallest in the nitrogen fertilized no bamboo plots.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026742</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Dalling</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James W Dalling</PI_FULL_NAME>
+<EmailAddress><![CDATA[dallingj@life.uiuc.edu]]></EmailAddress>
+<NSF_ID>000316847</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1128</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~82655</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Bamboo species are important components of the forest understory and canopy of many temperate and tropical forests. They also share an unusual life-history. Unlike most long-lived plants that reproduce multiple times during their lifetime, bamboos typically flower just once and then die. Furthermore, all the bamboo individuals in a population, which may range over thousands of acres, flower synchronously, resulting in a mass mortality event that restructures the forest light environment once every 30-100 years. A bamboo mass flowering event took place in the Volcan Baru National Park in Panama in 2019, providing an opportunity to examine how the subsequent mortality event impacted recruitment of oaks - the dominant tree species in the park, and their primary competitors, members of the avocado (lauraceae) family. We hypothesized that bamboo die-offs not only increase light availability, but also reduce the availability of nitrogen in the soil ? the primary limiting nutrient to plant growth in high elevation tropical forest. This is because large inputs of dead bamboo leaves and stems stimulates the activity of microbes involved in decomposition. As these decomposers proliferate they take up much of the nitrogen in the soil that would otherwise be available to plants. However, previous work has shown that a particular group of symbiotic fungi (called ectomycorrhizas) that associate exclusively with oak species are able to access additional sources of nitrogen unavailable to other competing plants. We therefore tested whether oaks have an advantage over other competing plant species following bamboo mortality. We established experimental plots with and without dead bamboo and transplanted seeds of two oak species and two lauraceae species. Over the following 18 months we followed seed germination, growth and herbivory and measured light and nitrogen availability every two months. Taking advantage of existing permanent forest plots on Volcan Baru we also tracked the germination and growth of natural seedling recruits and measured rates of decomposition of bamboo stems and leaves. We found that bamboo decayed extremely slowly. In fact, most bamboo stems remained intact 18 months after they died. Bamboo seedling growth was also very slow, providing a prolonged window of high light availability for seedling establishment and sapling growth towards the forest canopy. Conversely, bamboo die-off had little impact on nitrogen cycling, likely due to its slow decomposition. Bamboo mortality events are therefore unlikely to preferentially favor oak regeneration. Nonetheless, we note that bamboo die-off events are important episodes that help maintain forest structure and composition by releasing understory plants from strong light limitation. Bamboo life-history therefore differs importantly from other herbaceous vines that are often associated with logging activity and that cast persistent layers of deep shade for decades. This project contributed to the training of a post-doctoral researcher and to a recent graduate (project intern). Long-term bamboo monitoring from this project has also been incorporated into a University of Illinois undergraduate tropical ecology field course that visits Volcan Baru every year and information on bamboo ecology has been shared with an existing environmental education program for Panama middle school students that visit the field site.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: James&nbsp;W&nbsp;Dalling</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019101572_dead_bamboo--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019101572_dead_bamboo--rgov-800width.jpg" title="Dead Bamboo"><img src="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019101572_dead_bamboo--rgov-66x44.jpg" alt="Dead Bamboo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Dead individuals of the bamboo Chusquea foliosa following a mass flowering event in August 2021</div> <div class="imageCredit">James Dalling</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">James&nbsp;W&nbsp;Dalling</div> <div class="imageTitle">Dead Bamboo</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019363631_IMG_1796--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019363631_IMG_1796--rgov-800width.jpg" title="seedling transplant plot"><img src="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019363631_IMG_1796--rgov-66x44.jpg" alt="seedling transplant plot"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Seedlings transplanted into a study plot containing bamboo stems to examine the effect of nitrogen availability on seedling performance</div> <div class="imageCredit">James Dalling</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">James&nbsp;W&nbsp;Dalling</div> <div class="imageTitle">seedling transplant plot</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019535420_IMG_9350--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019535420_IMG_9350--rgov-800width.jpg" title="vine dominated forest"><img src="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019535420_IMG_9350--rgov-66x44.jpg" alt="vine dominated forest"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Unlike bamboo, invasive vines do no have mass flowering and die-off events, and can smother the forest understory for decades.</div> <div class="imageCredit">James Dalling</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">James&nbsp;W&nbsp;Dalling</div> <div class="imageTitle">vine dominated forest</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019659853_IMG_9379--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019659853_IMG_9379--rgov-800width.jpg" title="Live bamboo"><img src="/por/images/Reports/POR/2023/2026742/2026742_10674811_1696019659853_IMG_9379--rgov-66x44.jpg" alt="Live bamboo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Live bamboo forming a dense forest understory at an elevation below the observed die-off. This species did not flower in 2019</div> <div class="imageCredit">James Dalling</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">James&nbsp;W&nbsp;Dalling</div> <div class="imageTitle">Live bamboo</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Bamboo species are important components of the forest understory and canopy of many temperate and tropical forests. They also share an unusual life-history. Unlike most long-lived plants that reproduce multiple times during their lifetime, bamboos typically flower just once and then die. Furthermore, all the bamboo individuals in a population, which may range over thousands of acres, flower synchronously, resulting in a mass mortality event that restructures the forest light environment once every 30-100 years. A bamboo mass flowering event took place in the Volcan Baru National Park in Panama in 2019, providing an opportunity to examine how the subsequent mortality event impacted recruitment of oaks - the dominant tree species in the park, and their primary competitors, members of the avocado (lauraceae) family. We hypothesized that bamboo die-offs not only increase light availability, but also reduce the availability of nitrogen in the soil ? the primary limiting nutrient to plant growth in high elevation tropical forest. This is because large inputs of dead bamboo leaves and stems stimulates the activity of microbes involved in decomposition. As these decomposers proliferate they take up much of the nitrogen in the soil that would otherwise be available to plants. However, previous work has shown that a particular group of symbiotic fungi (called ectomycorrhizas) that associate exclusively with oak species are able to access additional sources of nitrogen unavailable to other competing plants. We therefore tested whether oaks have an advantage over other competing plant species following bamboo mortality. We established experimental plots with and without dead bamboo and transplanted seeds of two oak species and two lauraceae species. Over the following 18 months we followed seed germination, growth and herbivory and measured light and nitrogen availability every two months. Taking advantage of existing permanent forest plots on Volcan Baru we also tracked the germination and growth of natural seedling recruits and measured rates of decomposition of bamboo stems and leaves. We found that bamboo decayed extremely slowly. In fact, most bamboo stems remained intact 18 months after they died. Bamboo seedling growth was also very slow, providing a prolonged window of high light availability for seedling establishment and sapling growth towards the forest canopy. Conversely, bamboo die-off had little impact on nitrogen cycling, likely due to its slow decomposition. Bamboo mortality events are therefore unlikely to preferentially favor oak regeneration. Nonetheless, we note that bamboo die-off events are important episodes that help maintain forest structure and composition by releasing understory plants from strong light limitation. Bamboo life-history therefore differs importantly from other herbaceous vines that are often associated with logging activity and that cast persistent layers of deep shade for decades. This project contributed to the training of a post-doctoral researcher and to a recent graduate (project intern). Long-term bamboo monitoring from this project has also been incorporated into a University of Illinois undergraduate tropical ecology field course that visits Volcan Baru every year and information on bamboo ecology has been shared with an existing environmental education program for Panama middle school students that visit the field site.          Last Modified: 09/29/2023       Submitted by: James W Dalling]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

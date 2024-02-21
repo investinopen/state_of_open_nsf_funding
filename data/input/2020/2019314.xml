@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Moving with muscles vs. springs: evolutionary biomechanics of extremely fast, small systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>9775.00</AwardTotalIntnAmount>
+<AwardAmount>9775</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miriam Ashley-Ross</SignBlockName>
+<PO_EMAI>mashleyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032924997</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Movement in biology is most often associated with motor-like mechanisms, such as muscle contractions in animals or hydraulics in plants.  However, organisms have another option for generating movement:  they can use motor-like mechanisms to load energy into elastic structures, such that pre-loaded, rubber band-like elastic structures generate the movement, instead of motors. Latch-mediated spring actuation generates movement largely or exclusively using stored elastic energy and incorporates latches to mediate energy release, much like controlled release of a coiled spring.  This research examines how the size of an organism may determine whether movement is driven by stored elastic energy or direct motor action. Addressing this topic will improve understanding of fundamental physical limits on biological systems and how those limits influence development and evolution.  Biological latch-mediated spring actuation generates among the fastest movements ever recorded, which exceed the current capabilities of human engineering to produce extremely fast movements in small, reusable devices. The discoveries from this research can help develop novel engineering devices and materials. This interdisciplinary team of research labs spans biology, physics, and materials science, and will train undergraduate, graduate, and postdoctoral researchers across four colleges and universities. The research activities will engage the broader public through a Research Experience for Teachers program each summer, alongside expansion of the Muser software program, which helps diverse undergraduates access research experiences in an equitable and transparent way. &lt;br/&gt;&lt;br/&gt;Latch-mediated spring actuation uses materials, not motors, to generate extremely fast movement in small systems. Energy is loaded into materials prior to movement and latches control loading and release of energy. This research examines the transitions between motor-driven and spring-driven movement within and across organisms. Across growth and development within species, experiments and modeling will test how mantis shrimp (Stomatopoda) maintain their mechanical capabilities and exhibit transitions between motor- and spring-driven movement across eight orders of magnitude of accelerated mass - a key predictor of the physics-based transition between effective motor- and spring-driven movement in any system. Across mantis shrimp species, variation in spring and latch components will be analyzed through statistical comparisons of the tempo (rate of evolutionary change) and mode (pattern of evolutionary change) to establish the key biomechanical factors limiting and promoting evolutionary diversification. Across the tree of life, the influence of accelerated mass and materials on origins and diversification will be tested using phylogenetic comparative analyses. Variation, transitions, and tuning of these mechanisms are informative for engineers designing small, fast, re-usable mechanisms at these extreme spatial and temporal scales. Undergraduates, graduate students, and a postdoctoral researcher will receive interdisciplinary training across the four labs. A Research Experience for Teachers program will provide interdisciplinary research experience and course development centered on these inherently engaging systems. The researchers will use, promote, and develop an open access software platform called Muser which is designed to enhance access and equity for undergraduate research experience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019314</AwardID>
+<Investigator>
+<FirstName>Alfred</FirstName>
+<LastName>Crosby</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alfred J Crosby</PI_FULL_NAME>
+<EmailAddress><![CDATA[crosby@mail.pse.umass.edu]]></EmailAddress>
+<NSF_ID>000219226</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>01003</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MLBQUML9JJT6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UMass Amherst]]></Name>
+<CityName>Amherst</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039263</ZipCode>
+<StreetAddress><![CDATA[120 Governors Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~9775</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-496270b2-7fff-bffb-5c28-de5ccf2ee1a3"> <p dir="ltr"><span>The development of new materials and devices that provide high velocity, high acceleration movement with minimal energy consumption and minimal use of hazardous chemical reactions is important for developing technologies for a sustainable society. Many organisms, including mantis shrimp and trap-jaw ants, use principles that are widely categorized by Latch Mediated Spring Actuation (LaMSA). LaMSA mechanisms rely up slow moving forceful muscles to store energy in elastic elements until an external or internal trigger releases a &ldquo;latch&rdquo; element to enable high velocity, high acceleration motion of the elastic element. In order to develop engineered technologies that can take advantage of similar principles with similar efficiency and control, new understanding of the materials used in these organisms is required.</span></p> <br /> <p dir="ltr"><strong>Intellectual Merit: </strong><span>The intellectual merit of this proposal focused on working with our collaborators at Duke University, led by Professor Sheila Patek, to develop fixtures and protocols for using advanced characterization equipment in the Crosby Laboratory at UMass Amherst to study LaMSA-related materials. In particular, we developed protocols for isolating, gripping, and extending biological specimens using micromanipulator-based instruments affixed to an inverted fluorescent microscope. This provided direct measurement of quasi-static mechanical properties for elastic elements used by mantis shrimp. In addition, new fixtures and protocols were developed for measuring the response of curved shell elements compressed using an instrument called the Power Amplified Dynamic Mechanical Analyzer (PADMA). PADMA measures the force and deformation relationship of materials during a LaMSA-based loading history. The ability to measure compressive responses using PADMA is important for understanding the contributions of geometry and materials properties under LaMSA-relevant loading conditions, which are important for gaining new understanding in biology and driving innovation in engineering.</span></p> <br /> <p dir="ltr"><strong>Broader Impacts:</strong><span> The protocols and methods developed in this project are critical for gaining new understanding of how nature uses materials and geometry to control energy flow in the achievement of high velocity, high acceleration motions, which typically lead to excessive energy waste in engineered systems. Purposeful structural and materials design to achieve complex, energy-efficient tasks can be used in the development of microscale robots, high speed sensing devices, and new delivery systems. In addition, the principal investigator and students involved in this research have led significant outreach efforts to share their experience to inspire K-12 students to pursue future careers in STEM. In particular, we have hosted elementary school students for laboratory tours, and the principle investigator has given webinars to K-12 educators on bioinspired materials science examples that can help to enhance their science and engineering lessons.</span></p> </span></p> <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2023<br> Modified by: Alfred&nbsp;J&nbsp;Crosby</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     The development of new materials and devices that provide high velocity, high acceleration movement with minimal energy consumption and minimal use of hazardous chemical reactions is important for developing technologies for a sustainable society. Many organisms, including mantis shrimp and trap-jaw ants, use principles that are widely categorized by Latch Mediated Spring Actuation (LaMSA). LaMSA mechanisms rely up slow moving forceful muscles to store energy in elastic elements until an external or internal trigger releases a latch element to enable high velocity, high acceleration motion of the elastic element. In order to develop engineered technologies that can take advantage of similar principles with similar efficiency and control, new understanding of the materials used in these organisms is required.     Intellectual Merit: The intellectual merit of this proposal focused on working with our collaborators at Duke University, led by Professor Sheila Patek, to develop fixtures and protocols for using advanced characterization equipment in the Crosby Laboratory at UMass Amherst to study LaMSA-related materials. In particular, we developed protocols for isolating, gripping, and extending biological specimens using micromanipulator-based instruments affixed to an inverted fluorescent microscope. This provided direct measurement of quasi-static mechanical properties for elastic elements used by mantis shrimp. In addition, new fixtures and protocols were developed for measuring the response of curved shell elements compressed using an instrument called the Power Amplified Dynamic Mechanical Analyzer (PADMA). PADMA measures the force and deformation relationship of materials during a LaMSA-based loading history. The ability to measure compressive responses using PADMA is important for understanding the contributions of geometry and materials properties under LaMSA-relevant loading conditions, which are important for gaining new understanding in biology and driving innovation in engineering.     Broader Impacts: The protocols and methods developed in this project are critical for gaining new understanding of how nature uses materials and geometry to control energy flow in the achievement of high velocity, high acceleration motions, which typically lead to excessive energy waste in engineered systems. Purposeful structural and materials design to achieve complex, energy-efficient tasks can be used in the development of microscale robots, high speed sensing devices, and new delivery systems. In addition, the principal investigator and students involved in this research have led significant outreach efforts to share their experience to inspire K-12 students to pursue future careers in STEM. In particular, we have hosted elementary school students for laboratory tours, and the principle investigator has given webinars to K-12 educators on bioinspired materials science examples that can help to enhance their science and engineering lessons.         Last Modified: 11/29/2023       Submitted by: AlfredJCrosby]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

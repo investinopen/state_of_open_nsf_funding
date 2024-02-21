@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Biological Self Assembly: Tissue Mechanics of the Spongy Mesophyll in Flowers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>689744.00</AwardTotalIntnAmount>
+<AwardAmount>794735</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research will improve our understanding of cells and tissues in flowering plants.  More specifically, this work will reveal how the structural properties of the interior tissue, or mesophyll, of flower petals vary across species.  This is important because different species of plants use the same building blocks to generate radically different structures.  The knowledge gained from the experiments and computational models created in this work can aid in the development of new materials that self-assemble and have specific tunable properties and mechanical responses. This work also includes several education and outreach activities.  These include mentoring under-represented minority high school and first-generation low-income undergraduate students in summer research, developing a course module on computational analysis of microscopy images of plant tissue, and organizing mini-symposia at scientific meetings that bring together plant biologists and engineers who study the structural and mechanical properties of plant tissue. Because of the shared interests, funding is split between the division of Civil, Mechanical and Manufacturing Innovation (CMMI) and the division of Integrative Organismal Systems (IOS).&lt;br/&gt;&lt;br/&gt;Biomimicry is the study of physiological traits in the natural world to inspire the creation of novel materials and designs. While biomimetic materials take advantage of a single biological property, designs rarely focus on the tunability and diversity of biological structures. For example, the angiosperms, or flowering plants, are one of the most dominant and diverse existing terrestrial plant groups on Earth, and their success has largely been attributed to the evolution of flowers as reproductive organs. Flower petals in particular vary widely among the angiosperms, but how these structures develop and differ from species to species is largely unknown. Using high-resolution micro-computed tomography, the studies will show how the structural properties of the interior tissue, or mesophyll, of flower petals vary across species. Computer simulations of mesophyll self-assembly using a novel three-dimensional deformable particle model will also be carried out to determine whether changes in a few key biophysical parameters can generate a broad array of different tissue-level structures. These combined experimental and computational studies represent one of the first investigations into how simple biophysical rules can explain the development and diversity of complex, three-dimensional plant tissue. These results will reveal fundamental design principles for petal mesophyll tissue, which in turn will enable the design of novel, porous materials with tunable mechanical and structural properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029756</AwardID>
+<Investigator>
+<FirstName>Corey</FirstName>
+<LastName>O'Hern</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Corey S O'Hern</PI_FULL_NAME>
+<EmailAddress><![CDATA[corey.ohern@yale.edu]]></EmailAddress>
+<NSF_ID>000263174</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Brodersen</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Craig R Brodersen</PI_FULL_NAME>
+<EmailAddress><![CDATA[craig.brodersen@yale.edu]]></EmailAddress>
+<NSF_ID>000614078</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Roddy</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam B Roddy</PI_FULL_NAME>
+<EmailAddress><![CDATA[aroddy@fiu.edu]]></EmailAddress>
+<NSF_ID>000605820</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065118917</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>105 WALL ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208286</ZipCode>
+<StreetAddress><![CDATA[9 Hillhouse Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1118</Code>
+<Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7479</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>091Z</Code>
+<Text>Data Initiatives</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~344872</FUND_OBLG>
+<FUND_OBLG>2021~425863</FUND_OBLG>
+<FUND_OBLG>2022~8000</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-6f50c1c6-7fff-4653-1574-3fafcdac8d17"> <p dir="ltr"><span>This project seeks to understand the microstructural diversity of the spongy mesophyll tissue in flowers of plants and to develop numerical simulations of the development of this tissue through a self-assembly process. It incorporates coordinated experimental and computational approaches.&nbsp;</span></p> <p dir="ltr"><span>Prior efforts to characterize spongy mesophyll tissue in flowers have been predominantly carried out using two dimensional (2D) imaging techniques. However, the porosity of this tissue and highly irregular cell shapes mean that the spongy mesophyll tissue cannot be well described in 2D. This project has collected three-dimensional (3D) micro-computed tomography (microCT) scans of flowers for 59 species.&nbsp; </span><span>We have implemented current state-of-the-art machine learning algorithms to segment these scans into tissues to characterize floral mesophyll structural diversity.&nbsp; We have also manually segmented and characterized ~250 individual cells in 3D from these scans to link cell level variation with tissue and whole petal properties. This work has revealed that a major bottleneck in flower tissue analysis is cell segmentation since each cell takes ~2 hours to manually segment. To improve throughput, we have developed an automated 3D image processing pipeline to segment individual cells from the microCT scans. We have also identified metrics for quantifying the sizes and shapes of air space in mesophyll tissue in flowers, which is critical to understanding structural integrity and mechanical response.</span></p> <p dir="ltr"><span>Based on the insights from cell and tissue characterization, we have developed the first computational model for mesophyll development. This deformable particle model (DPM) was able to recapitulate the cell shapes and tissue structure observed in </span><span>Arabidopsis thaliana</span><span> leaf mesophyll, which is both structurally and evolutionarily close to flower mesophyll. To our knowledge, this computational model is the first to recapitulate the development of the spongy mesophyll from confluence through maturity, matching the evolution of both the average porosity and cell shape.</span></p> <p dir="ltr"><span>In total, this project has trained one postdoc from FIU and four PhD students at Yale. The PIs also mentored more than eight undergraduate students (from Yale and FIU) during the academic terms and summer periods.&nbsp; The Yale undergraduates participated in the NSF REU Site, which includes training in ethics, science communication, and methods for applying to graduate school. Findings from this work were presented at numerous conferences and symposia by both Ph.D. students and PIs. Furthermore, stomatal distribution data acquired through this work was incorporated into a module for Yale&rsquo;s graduate course, Integrated Workshop, which is the flagship course for Yale&rsquo;s Integrated Graduate Program in Physics, Engineering, and Biology (PEB).&nbsp; All Ph.D. students participating in this project earned graduate certificates from the PEB.&nbsp;</span></p> <div><span><br /></span></div> </span></p> <p>&nbsp;</p><br> <p>  Last Modified: 01/15/2024<br> Modified by: Corey&nbsp;S&nbsp;O'hern</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705362070712_povray_ct_blank--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705362070712_povray_ct_blank--rgov-800width.png" title="MicroCT image"><img src="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705362070712_povray_ct_blank--rgov-66x44.png" alt="MicroCT image"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Section of a microcomputed tomography scan of a Arabidopsis thaliana leaf. Cell material including epidermal and mesophyll layers is shown as solid while airspace both inside and outside is transparent. The average cell volume in this tissue is 20000 cubic micrometers.</div> <div class="imageCredit">Corey OHern</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Corey&nbsp;S&nbsp;O'hern <div class="imageTitle">MicroCT image</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361867474_leaf_diversity2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361867474_leaf_diversity2--rgov-800width.png" title="Spongy mesophyll diversity"><img src="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361867474_leaf_diversity2--rgov-66x44.png" alt="Spongy mesophyll diversity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Leaves exhibit diversity in multiple traits among species, visualized using microCT imaging.</div> <div class="imageCredit">Corey OHern</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Corey&nbsp;S&nbsp;O'hern <div class="imageTitle">Spongy mesophyll diversity</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361758046_Figure3_2D_model--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361758046_Figure3_2D_model--rgov-800width.png" title="2D Spongy Mesophyll"><img src="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361758046_Figure3_2D_model--rgov-66x44.png" alt="2D Spongy Mesophyll"></a> <div class="imageCaptionContainer"> <div class="imageCaption">2D computational model for spongy mesophyll for Arabidopsis thaliana leaf development. Cells and the boundary are drawn to scale. Cell colors indicate their shape parameter as indicated on the right.</div> <div class="imageCredit">Corey OHern</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Corey&nbsp;S&nbsp;O'hern <div class="imageTitle">2D Spongy Mesophyll</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361968311_tissues--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361968311_tissues--rgov-800width.png" title="Tissue segmentation"><img src="/por/images/Reports/POR/2024/2029756/2029756_10700106_1705361968311_tissues--rgov-66x44.png" alt="Tissue segmentation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illicium floridanum flower tissue segmentation. White regions are mesophyll cells, black is airspace. Veins are colored dark gray and the epidermal layers are light gray.</div> <div class="imageCredit">Corey OHern</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Corey&nbsp;S&nbsp;O'hern <div class="imageTitle">Tissue segmentation</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     This project seeks to understand the microstructural diversity of the spongy mesophyll tissue in flowers of plants and to develop numerical simulations of the development of this tissue through a self-assembly process. It incorporates coordinated experimental and computational approaches.   Prior efforts to characterize spongy mesophyll tissue in flowers have been predominantly carried out using two dimensional (2D) imaging techniques. However, the porosity of this tissue and highly irregular cell shapes mean that the spongy mesophyll tissue cannot be well described in 2D. This project has collected three-dimensional (3D) micro-computed tomography (microCT) scans of flowers for 59 species. We have implemented current state-of-the-art machine learning algorithms to segment these scans into tissues to characterize floral mesophyll structural diversity. We have also manually segmented and characterized ~250 individual cells in 3D from these scans to link cell level variation with tissue and whole petal properties. This work has revealed that a major bottleneck in flower tissue analysis is cell segmentation since each cell takes ~2 hours to manually segment. To improve throughput, we have developed an automated 3D image processing pipeline to segment individual cells from the microCT scans. We have also identified metrics for quantifying the sizes and shapes of air space in mesophyll tissue in flowers, which is critical to understanding structural integrity and mechanical response.   Based on the insights from cell and tissue characterization, we have developed the first computational model for mesophyll development. This deformable particle model (DPM) was able to recapitulate the cell shapes and tissue structure observed in Arabidopsis thaliana leaf mesophyll, which is both structurally and evolutionarily close to flower mesophyll. To our knowledge, this computational model is the first to recapitulate the development of the spongy mesophyll from confluence through maturity, matching the evolution of both the average porosity and cell shape.   In total, this project has trained one postdoc from FIU and four PhD students at Yale. The PIs also mentored more than eight undergraduate students (from Yale and FIU) during the academic terms and summer periods. The Yale undergraduates participated in the NSF REU Site, which includes training in ethics, science communication, and methods for applying to graduate school. Findings from this work were presented at numerous conferences and symposia by both Ph.D. students and PIs. Furthermore, stomatal distribution data acquired through this work was incorporated into a module for Yales graduate course, Integrated Workshop, which is the flagship course for Yales Integrated Graduate Program in Physics, Engineering, and Biology (PEB). All Ph.D. students participating in this project earned graduate certificates from the PEB.           Last Modified: 01/15/2024       Submitted by: CoreySO'hern]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

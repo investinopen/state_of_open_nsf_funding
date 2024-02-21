@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: The tropicalization of Western Atlantic seagrass beds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>143750.00</AwardTotalIntnAmount>
+<AwardAmount>143750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel J. Thornhill</SignBlockName>
+<PO_EMAI>dthornhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928143</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The warming of temperate marine communities is becoming a global phenomenon, producing new biotic interactions that can result in a series of cascading effects on ecosystem structure. For example, the poleward expansion of herbivore populations can lead to the consumption of habitat-forming vegetation, which alters the ecological services provided by coastal environments (a phenomenon known as tropicalization). Many of the habitats at risk, such as kelp forest and seagrass beds, provide foundational habitat that supports complex food webs. Seagrass meadows along the Gulf of Mexico are currently experiencing an influx of tropical grazers, however a integrated understanding of how these communities might ultimately respond is lacking. This project describes the first experiment to quantify the disruptive effect of tropicalization on the ecology of a widely-distributed seagrass. A major contribution of this project will be the development of a seagrass research collaborative network to serve as a platform for broader scientific inquiry and future collaboration. The collaboration spans a total of 11 institutions, and this network will foster extensive collaborations among junior and senior scientists, as well as many undergraduate and graduate students. Given the geographic scope of this work, the research team will further pursue outreach opportunities across the network by hosting a series of public lectures and science café events promoting topics in marine ecology and conservation. &lt;br/&gt;&lt;br/&gt;This study will develop a large-scale manipulative experiment across the Caribbean, premised upon a comparative network of 15 marine sites, which will quantify how temperature and light interact with grazer effects on the dominant tropical seagrass, Thalassia testudinum. Sites have been selected along a latitudinal gradient (from Bermuda to Panama), such that light and temperature vary, allowing the investigators to test for the effects of abiotic factors on the ecological effects of increased grazing (tropicalization simulated via artificial leaf clipping). At each of the 15 marine sites, grazing treatments will be crossed with nutrient manipulations in a factorial design for 18 weeks, after which seagrass structure and functioning will be assessed via measurements of areal productivity, shoot density, aboveground biomass, and carbohydrate storage. Experiments will be conducted both in the summer and winter seasons, when abiotic gradients are at their weakest and strongest, respectively. Emerging statistical techniques in hierarchical mixed modeling and structural equation modeling will further allow for integration of experimental and observational data.]]></AbstractNarration>
+<MinAmdLetterDate>01/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019022</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Campbell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin Campbell</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcampbel@fiu.edu]]></EmailAddress>
+<NSF_ID>000700793</NSF_ID>
+<StartDate>01/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1097</Code>
+<Text>DIVERSITY: ROLE IN ECOSYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~143750</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Seagrasses are a broad group of marine plants that provide numerous ecological and economic services around the world. By providing three-dimensional structure to the benthos, they form vast meadows that serve as (1) important fish nursery grounds; (2) a means of effectively stabilizing coastal sediments; and (3) a conduit for the long-term burial of organic carbon. Despite their value, many of these meadows are currently under threat from a variety of anthropogenic and natural disturbances. The primary focus of this project was to pre-emptively understand how a newly emerging threat (ocean tropicalization) might impact the functioning of these key habitats. As the oceans warm, many tropical herbivores (fish, turtles and manatees that consume seagrass) are becoming more abundant across subtropical and temperate waters that were previously too cold. Conservation efforts have also dramatically increased the abundance of green sea turtles, with devastating impacts on certain seagrass meadows. However, to date, it is currently unknown how changes in these biotic (plant-herbivore) interactions might influence seagrasses across large spatial scales. In other words, (1) how does the functional response of seagrasses to these altered interactions shift across their tropical-subtropical range? and (2) how might environmental factors serve to regulate plant responses. Here, we use a standardized network (identical experiments conducted at different locations) to understand how seagrass meadows will function in a future climate, where biotic / plant-herbivore interactions may be stronger and more frequent. While plant-herbivore interactions have been widely studied, few have conducted a comprehensive assessment across the distributional range of a single species. As such, prior work documenting seagrass responses to herbivore activity have been piecemeal and generally conflicting.</p> <p>We find that many northern, subtropical meadows are highly sensitive to disturbances such as herbivore grazing, displaying reductions in both plant growth and plant density. Meanwhile, southern meadows in more tropical locations are much more tolerant of grazing. We show that this pattern is primarily driven by light availability, as tropical meadows receive more annual insolation (due to longer photoperiods) than their more northward subtropical counterparts. Thus, as the climate warms and tropical herbivores eventually spread northward, we anticipate that many subtropical - temperate seagrass meadows may be at a heightened risk of ecological collapse (due to extensive overgrazing). Such a phenomenon has already occurred for many seagrass meadows in Bermuda and our work suggests that this process will likely become more frequent and widespread as the climate warms.</p> <p>One major outcome of our work is that because light / photoperiod is a primary environmental factor driving seagrass resilience, increased attention to the management of coastal water quality will be needed to ensure the future health of these systems. Clear water equates to increased seagrass resilience.</p> <p>To date, this project has produced three peer-reviewed publications, with four other manuscripts under review. Additional manuscripts are currently in preparation. This project has also provided training for a postdoc and twenty-five undergraduate and graduate students in the fields of seagrass biology and ecological experimentation / theory. Results from this project have been presented at several international conferences (Western Society of Naturalists, Coastal and Estuarine Research Federation) and we have also made multiple datasets publicly available on the FigShare and NSF BCO-DMO data platforms.</p> <p>This project has made an impact in the broader disciplines of the biological and ecological sciences by contributing to the base knowledge and theory behind (1) the functioning of foundational ecosystems across latitudinal gradients and (2) how a changing climate may serve to alter the economic services that these systems provide. While specific to seagrass meadows, their importance and broad distribution place them amongst some of the most highly valued systems in the world.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/20/2023<br>      Modified by: Justin&nbsp;Campbell</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826018079_GOPR3552--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826018079_GOPR3552--rgov-800width.jpg" title="Experimental cage in the Bahamas"><img src="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826018079_GOPR3552--rgov-66x44.jpg" alt="Experimental cage in the Bahamas"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Photo of an experimental cage used to isolate the effects of grazing on seagrasses</div> <div class="imageCredit">Vivienne Main</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Justin&nbsp;Campbell</div> <div class="imageTitle">Experimental cage in the Bahamas</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826480538_IMG_8171--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826480538_IMG_8171--rgov-800width.jpg" title="Experiment set-up in Bahamas"><img src="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826480538_IMG_8171--rgov-66x44.jpg" alt="Experiment set-up in Bahamas"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Student training in the Bahamas</div> <div class="imageCredit">Maggie Johnson</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Justin&nbsp;Campbell</div> <div class="imageTitle">Experiment set-up in Bahamas</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826559400_JCcoring--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826559400_JCcoring--rgov-800width.jpg" title="Collecting samples"><img src="/por/images/Reports/POR/2023/2019022/2019022_10510265_1697826559400_JCcoring--rgov-66x44.jpg" alt="Collecting samples"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Collecting a seagrass sample</div> <div class="imageCredit">Maggie Johnson</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Justin&nbsp;Campbell</div> <div class="imageTitle">Collecting samples</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Seagrasses are a broad group of marine plants that provide numerous ecological and economic services around the world. By providing three-dimensional structure to the benthos, they form vast meadows that serve as (1) important fish nursery grounds; (2) a means of effectively stabilizing coastal sediments; and (3) a conduit for the long-term burial of organic carbon. Despite their value, many of these meadows are currently under threat from a variety of anthropogenic and natural disturbances. The primary focus of this project was to pre-emptively understand how a newly emerging threat (ocean tropicalization) might impact the functioning of these key habitats. As the oceans warm, many tropical herbivores (fish, turtles and manatees that consume seagrass) are becoming more abundant across subtropical and temperate waters that were previously too cold. Conservation efforts have also dramatically increased the abundance of green sea turtles, with devastating impacts on certain seagrass meadows. However, to date, it is currently unknown how changes in these biotic (plant-herbivore) interactions might influence seagrasses across large spatial scales. In other words, (1) how does the functional response of seagrasses to these altered interactions shift across their tropical-subtropical range? and (2) how might environmental factors serve to regulate plant responses. Here, we use a standardized network (identical experiments conducted at different locations) to understand how seagrass meadows will function in a future climate, where biotic / plant-herbivore interactions may be stronger and more frequent. While plant-herbivore interactions have been widely studied, few have conducted a comprehensive assessment across the distributional range of a single species. As such, prior work documenting seagrass responses to herbivore activity have been piecemeal and generally conflicting.  We find that many northern, subtropical meadows are highly sensitive to disturbances such as herbivore grazing, displaying reductions in both plant growth and plant density. Meanwhile, southern meadows in more tropical locations are much more tolerant of grazing. We show that this pattern is primarily driven by light availability, as tropical meadows receive more annual insolation (due to longer photoperiods) than their more northward subtropical counterparts. Thus, as the climate warms and tropical herbivores eventually spread northward, we anticipate that many subtropical - temperate seagrass meadows may be at a heightened risk of ecological collapse (due to extensive overgrazing). Such a phenomenon has already occurred for many seagrass meadows in Bermuda and our work suggests that this process will likely become more frequent and widespread as the climate warms.  One major outcome of our work is that because light / photoperiod is a primary environmental factor driving seagrass resilience, increased attention to the management of coastal water quality will be needed to ensure the future health of these systems. Clear water equates to increased seagrass resilience.  To date, this project has produced three peer-reviewed publications, with four other manuscripts under review. Additional manuscripts are currently in preparation. This project has also provided training for a postdoc and twenty-five undergraduate and graduate students in the fields of seagrass biology and ecological experimentation / theory. Results from this project have been presented at several international conferences (Western Society of Naturalists, Coastal and Estuarine Research Federation) and we have also made multiple datasets publicly available on the FigShare and NSF BCO-DMO data platforms.  This project has made an impact in the broader disciplines of the biological and ecological sciences by contributing to the base knowledge and theory behind (1) the functioning of foundational ecosystems across latitudinal gradients and (2) how a changing climate may serve to alter the economic services that these systems provide. While specific to seagrass meadows, their importance and broad distribution place them amongst some of the most highly valued systems in the world.          Last Modified: 10/20/2023       Submitted by: Justin Campbell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

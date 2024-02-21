@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New Techniques for Holography from Supergravity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>210000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award funds the research activities of Professor Oscar Varela at Utah State University.&lt;br/&gt;&lt;br/&gt;General relativity (the theoretical language for understanding gravity) and quantum field theory (the theoretical language for understanding the elementary particles of nature) have traditionally been thought to be irreconcilable theories.  The former governs the large-scale structure of the universe, while the latter describes the fundamental interactions —-- electromagnetic, weak, and strong —-- that operate at a subatomic level.  More importantly, only the latter is consistent with the probabilistic expectations of quantum mechanics.   However, is it possible that these two seemingly different theories are actually two different sides of the same coin?  Could they be regarded as dual manifestations of an overarching set of physical principles?  If this were the case, general relativity and quantum field theory would complement rather than conflict with each other, as they would be equivalent, differing only in their regimes of applicability.  In his research, Professor Varela will further develop this idea within the framework of an equivalence called "the AdS/CFT correspondence".   As such, this research advances the national interest by promoting the development of science in a fundamental direction, by developing relations among the laws of physics at deeper and deeper levels.  This research will also have broader impacts by providing training for junior physicists.  The results of this research will also be disseminated to the general public, with an emphasis on reaching members of under-represented groups.&lt;br/&gt;&lt;br/&gt;More technically, aspects of the AdS/CFT correspondence will be studied, with a focus in the supergravity regime where tighter control of the correspondence is attained.  New tools will be introduced and developed to construct solutions to the supergravity equations that contain anti-de Sitter space.  These methods will exploit the reformulations of higher-dimensional supergravities that make exceptional symmetries manifest, and will provide new efficient tools to compute observables in the dual field theories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014163</AwardID>
+<Investigator>
+<FirstName>Oscar</FirstName>
+<LastName>Varela</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oscar Varela</PI_FULL_NAME>
+<EmailAddress><![CDATA[oscar.varela@usu.edu]]></EmailAddress>
+<NSF_ID>000736458</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Utah State University]]></Name>
+<CityName>LOGAN</CityName>
+<ZipCode>843221000</ZipCode>
+<PhoneNumber>4357971226</PhoneNumber>
+<StreetAddress><![CDATA[1000 OLD MAIN HL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPE2YDWHDYU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UTAH STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Utah State University]]></Name>
+<CityName>Logan</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>843220160</ZipCode>
+<StreetAddress><![CDATA[Old Main Hill]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~210000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The quest to reconcile gravity, the force that governs the</span><span lang="EN-US">&nbsp;large-scale structure of the universe</span><span>, with quantum mechanics, the framework that governs the subatomic&nbsp;</span><span lang="EN-US">world</span><span>, has long been a central challenge in theoretical physics. A promising solution, the Anti-deSitter/conformal field theory (AdS/CFT) correspondence, posits an equivalence between string theory, a proposed theory of quantum gravity, and a specific class of quantum field theories known as conformal field theories. This intriguing connection, often referred to as "holography," suggests that higher-dimensional gravitational effects in anti-de Sitter space can be captured by lower-dimensional quantum field theories.</span></p> <p><span>String theory, when simplified in specific regimes, reduces to supergravity, a generali</span><span lang="EN-US">s</span><span>ation of Einstein's general relativity theory. It is within this supergravity regime that we gain a firm grasp on both sides of the AdS/CFT correspondence. Consequently, identifying new solutions to the equations of ten- or eleven-dimensional supergravity, which incorporate anti-de Sitter space, is crucial for expanding the applicability of the AdS/CFT correspondence to new scenarios under controlled conditions.</span></p> <p><span lang="EN-US">In this project, </span><span>novel supergravity tools</span><span lang="EN-US"> were developed</span><span> to construct such solutions and investigate their holographic properties. </span><span lang="EN-US">We</span><span lang="EN-US"> </span><span>analy</span><span lang="EN-US">sed</span><span> supergravity theories in lower dimensions and construct</span><span lang="EN-US">ed</span><span> anti-de Sitter solutions within these models. Next, we devise</span><span lang="EN-US">d</span><span> novel techniques based on supergravity and its extension, Exceptional Field Theory, to elevate these lower-dimensional solutions to the ten- and eleven-dimensional </span><span lang="EN-US">formulations</span><span>, thereby obtaining new, fully-fledged string theory solutions. Finally, we utili</span><span lang="EN-US">sed</span><span> these methods to compute the field theory operator spectra and the supergravity effective actions.</span></p> <p><span lang="EN-US">The</span><span> intellectual merit </span><span lang="EN-US">of this research </span><span>lies in the recent discovery </span><span lang="EN-US">by the PI </span><span>of a previously unknown reali</span><span lang="EN-US">s</span><span>ation of the AdS/CFT correspondence using </span><span lang="EN-US">this type of</span><span> supergravity techniques. This construction unveils a</span><span lang="EN-US">n intriguing</span><span> triangular relationship between various old and new puzzles in theoretical high energy physics. Within this project, </span><span lang="EN-US">I</span><span> further develop</span><span lang="EN-US">ed</span><span> these tools and introduce</span><span lang="EN-US">d</span><span> new ones based on Exceptional Field Theory to expand the applicability regime of the AdS/CFT correspondence. New supergravity solutions </span><span lang="EN-US">were</span><span lang="EN-US"> </span><span>constructed using these methods, and their physical properties </span><span lang="EN-US">were analysed</span><span>.</span></p> <p><span>Th</span><span lang="EN-US">is</span><span lang="EN-US"> </span><span>research</span><span lang="EN-US"> also</span><span lang="EN-US"> </span><span lang="EN-US">had</span><span lang="EN-US"> </span><span>broader impacts</span><span lang="EN-US">, on c</span>ross-disciplinary <span lang="EN-US">c</span>ollaboration<span lang="EN-US"> and </span><span lang="EN-US">on e</span>ducational and <span lang="EN-US">t</span>raining <span lang="EN-US">o</span>pportunities<span lang="EN-US">. </span><span lang="EN-US">Firstly,</span><span lang="EN-US"> </span><span lang="EN-US">o</span><span>ur findings will benefit other research areas, both in physics and mathematics, fostering interdisciplinary collaborations.</span><span lang="EN-US"> Secondly, t</span><span>he project involve</span><span lang="EN-US">d</span><span> a postdoctoral researcher </span><span lang="EN-US">and a graduate student. Both of them joined the research effort and became members of the </span><span>Differential Geometry, Computer Algebra, and Mathematical Physics group at Utah State University,</span><span lang="EN-US"> thus receiving </span><span>valuable research and training experiences</span><span lang="EN-US">.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Oscar&nbsp;Varela</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The quest to reconcile gravity, the force that governs thelarge-scale structure of the universe, with quantum mechanics, the framework that governs the subatomicworld, has long been a central challenge in theoretical physics. A promising solution, the Anti-deSitter/conformal field theory (AdS/CFT) correspondence, posits an equivalence between string theory, a proposed theory of quantum gravity, and a specific class of quantum field theories known as conformal field theories. This intriguing connection, often referred to as "holography," suggests that higher-dimensional gravitational effects in anti-de Sitter space can be captured by lower-dimensional quantum field theories.   String theory, when simplified in specific regimes, reduces to supergravity, a generalisation of Einstein's general relativity theory. It is within this supergravity regime that we gain a firm grasp on both sides of the AdS/CFT correspondence. Consequently, identifying new solutions to the equations of ten- or eleven-dimensional supergravity, which incorporate anti-de Sitter space, is crucial for expanding the applicability of the AdS/CFT correspondence to new scenarios under controlled conditions.   In this project, novel supergravity tools were developed to construct such solutions and investigate their holographic properties. We analysed supergravity theories in lower dimensions and constructed anti-de Sitter solutions within these models. Next, we devised novel techniques based on supergravity and its extension, Exceptional Field Theory, to elevate these lower-dimensional solutions to the ten- and eleven-dimensional formulations, thereby obtaining new, fully-fledged string theory solutions. Finally, we utilised these methods to compute the field theory operator spectra and the supergravity effective actions.   The intellectual merit of this research lies in the recent discovery by the PI of a previously unknown realisation of the AdS/CFT correspondence using this type of supergravity techniques. This construction unveils an intriguing triangular relationship between various old and new puzzles in theoretical high energy physics. Within this project, I further developed these tools and introduced new ones based on Exceptional Field Theory to expand the applicability regime of the AdS/CFT correspondence. New supergravity solutions were constructed using these methods, and their physical properties were analysed.   This research also had broader impacts, on cross-disciplinary collaboration and on educational and training opportunities. Firstly, our findings will benefit other research areas, both in physics and mathematics, fostering interdisciplinary collaborations. Secondly, the project involved a postdoctoral researcher and a graduate student. Both of them joined the research effort and became members of the Differential Geometry, Computer Algebra, and Mathematical Physics group at Utah State University, thus receiving valuable research and training experiences.        Last Modified: 12/27/2023       Submitted by: OscarVarela]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

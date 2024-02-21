@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Redefining Air Conditioning: Commercializing Hyper-Efficient Rotary Heat Exchanger for Residential and Commercial HVAC Energy Reduction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will develop a room air conditioner (RAC) that reduces electricity consumption and decreases carbon dioxide and other emissions.  The need for space cooling is expected to increase both in the U.S. and globally. With current technologies achieving only incrementally better energy efficiency, consumer costs and grid loads will worsen. The proposed technology will lead to an estimated 67% reduction in energy costs for consumers and a higher quality of life through improved indoor air quality.  Billions of RACs are predicted to be sold in the next 30 years, requiring $1.2T in power generation capacity; investments that can be significantly reduced by improved efficiencies such as the proposed RAC.  Internet-of-things (IoT) IoT functionalities for RACs will allow further energy efficiency as the units will respond automatically to grid demand signals. The additional benefits are improved indoor air quality through the RAC’s air filtration functionality, improved external air quality from emissions reductions, reduced noise pollution from more efficient system operation, and reduced solid waste generation from longer product life.  &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to finalize and validate prototyping through bench-top and third-party laboratory testing, demonstrate and verify air conditioner performance through field pilot testing and evaluation, and finalize design-for-manufacturability (DFM) and IoT integration of field-ready prototypes. Within these tasks, this project will perform component-level optimization of the heat exchanger, compressor, magnetic linkage, and housing assembly. The testing phase will collect verification and validation data in multiple relevant real-world environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026074</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[matt@nativuspower.com]]></EmailAddress>
+<NSF_ID>000797776</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Nativus Inc</Name>
+<CityName>SPARKS</CityName>
+<ZipCode>894317141</ZipCode>
+<PhoneNumber>8583955060</PhoneNumber>
+<StreetAddress>615 SPICE ISLANDS DR STE 10</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NV02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CCHWWNMCQZ49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIVUS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Nativus Inc]]></Name>
+<CityName>Sparks</CityName>
+<StateCode>NV</StateCode>
+<ZipCode>894317141</ZipCode>
+<StreetAddress><![CDATA[615 Spice Islands Drive #10]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NV02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1064</Code>
+<Text>URBAN INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8040</Code>
+<Text>Energy and Environment</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1000000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Engineers at Nativus, a company in Reno, NV, have just completed three years of advanced research and development on a new method of air conditining and heating that is much more efficient than currently available technology. The National Science Foundation-backed project to engineer a radically better heating and cooling system is nearly complete with testing in full swing.</p> <p>"We are getting a lot of calls from Aerospace companies, as well as some of the largest companies in the world, interested in how this new future of electric heating and cooling will be able to handle their thermal loads", says Matt Miller, CEO of Nativus, and inventor of Rotary Air Conditioning technology. From heating and cooling our buildings, houses, and cars, to cooling our food, medicine, and data, this more powerful and efficient device has been built to deploy at the highest production rates to serve a growing global thermal demand at a significantly improved efficiency.</p> <p>Performance testing is currently underway on the technology, and initial results are promising. Nativus is not ready to divulge the exact performance metrics of the new device yet, but suffice it to say that they are working with the future generation of heating and cooling devices. Nativus' air conditioner device is about 1/10th the weight of a traditional air conditioner. With results coming in on their fan and heat exchanger set, they now know it is quiet, light, and is delivering air at world record efficiencies.</p> <p>Miller and his team set out five years ago to combine the fan and heat exchanger sections of an air conditioner, allowing them to rotate together in order to shear off the boundary layer of air that insulates traditional air conditioners and prohibits them from improved performance. They were successful in attaining a global patent on the technology earlier this year. Attempts by other well funded teams to build a rotating heat pump dating back to the 1960's have failed, but Nativus' new architecture is showing hope. The final sub-system of their device is nearing completion, and with it, they will be able to begin tuning the performance of a drastically improved way to move heat from one place to another.</p> <p>The team of engineers working on this project were able to make improvements to many of the components needed for the air conditioning cycle, and by allowing them to work together in a rotary fashion, there are many efficiency gains to be realized.</p> <p>For example, the device uses a compressor that has yet to be seen by the public. Although the compressor type exists and is operational elsewhere, significant alterations have been made to it to allow for its use in a small air conditioner.</p> <p>Nativus' air conditioner is made to replace window and wall mounted air conditioners, where it will also work as an all electric heater in the winter. The system includes washable filters for the highest level of air filtration available. The fact the unit is so light means that Nativus can mail the unit to customers, and a single person can install it. Customers will have a lot more options for where to mount the unit as it uses a small electrical plug rather than the large plug that typically limits where you can install an air conditioning unit, and in addition often requires rewiring by an electrician.</p> <p>The next year will see the first units in real world operation as final testing is completed. Units will be available to the public beginning in 2025.</p> <p>Interested parties are invited to attend an online demonstration of this technology on the 19th of December, 2023, at 1pm PST. This will be the first public facing demonstration of the technology. Please send inquiries to info@nativuspower.com if you wish to attend the online demonstration.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2023<br> Modified by: Matthew&nbsp;Miller</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Engineers at Nativus, a company in Reno, NV, have just completed three years of advanced research and development on a new method of air conditining and heating that is much more efficient than currently available technology. The National Science Foundation-backed project to engineer a radically better heating and cooling system is nearly complete with testing in full swing.   "We are getting a lot of calls from Aerospace companies, as well as some of the largest companies in the world, interested in how this new future of electric heating and cooling will be able to handle their thermal loads", says Matt Miller, CEO of Nativus, and inventor of Rotary Air Conditioning technology. From heating and cooling our buildings, houses, and cars, to cooling our food, medicine, and data, this more powerful and efficient device has been built to deploy at the highest production rates to serve a growing global thermal demand at a significantly improved efficiency.   Performance testing is currently underway on the technology, and initial results are promising. Nativus is not ready to divulge the exact performance metrics of the new device yet, but suffice it to say that they are working with the future generation of heating and cooling devices. Nativus' air conditioner device is about 1/10th the weight of a traditional air conditioner. With results coming in on their fan and heat exchanger set, they now know it is quiet, light, and is delivering air at world record efficiencies.   Miller and his team set out five years ago to combine the fan and heat exchanger sections of an air conditioner, allowing them to rotate together in order to shear off the boundary layer of air that insulates traditional air conditioners and prohibits them from improved performance. They were successful in attaining a global patent on the technology earlier this year. Attempts by other well funded teams to build a rotating heat pump dating back to the 1960's have failed, but Nativus' new architecture is showing hope. The final sub-system of their device is nearing completion, and with it, they will be able to begin tuning the performance of a drastically improved way to move heat from one place to another.   The team of engineers working on this project were able to make improvements to many of the components needed for the air conditioning cycle, and by allowing them to work together in a rotary fashion, there are many efficiency gains to be realized.   For example, the device uses a compressor that has yet to be seen by the public. Although the compressor type exists and is operational elsewhere, significant alterations have been made to it to allow for its use in a small air conditioner.   Nativus' air conditioner is made to replace window and wall mounted air conditioners, where it will also work as an all electric heater in the winter. The system includes washable filters for the highest level of air filtration available. The fact the unit is so light means that Nativus can mail the unit to customers, and a single person can install it. Customers will have a lot more options for where to mount the unit as it uses a small electrical plug rather than the large plug that typically limits where you can install an air conditioning unit, and in addition often requires rewiring by an electrician.   The next year will see the first units in real world operation as final testing is completed. Units will be available to the public beginning in 2025.   Interested parties are invited to attend an online demonstration of this technology on the 19th of December, 2023, at 1pm PST. This will be the first public facing demonstration of the technology. Please send inquiries to info@nativuspower.com if you wish to attend the online demonstration.           Last Modified: 11/29/2023       Submitted by: MatthewMiller]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

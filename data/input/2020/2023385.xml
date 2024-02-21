@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[What Controls Carbonate Formation in Fine-grained and Clay-rich Soils? Gaining Perspective from Serial Soil Water Stable Isotope Datasets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>270918.00</AwardTotalIntnAmount>
+<AwardAmount>311761</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan G Wynn</SignBlockName>
+<PO_EMAI>jwynn@nsf.gov</PO_EMAI>
+<PO_PHON>7032924725</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The stable isotopes of oxygen and carbon from small, irregularly-shaped, compact growths (“nodules”) of calcium carbonate (CaCO3) have long been used by researchers to reconstruct past climate. To better interpret the information preserved in these nodules, however, it is necessary to have a better understanding of how the nodules form in modern environments. In this project, researchers will study how soil temperature, soil chemistry, and evaporation of soil water, all contribute to the formation of calcium carbonate nodules in fine-grained and clay-rich soils, and how signals of soil temperature and chemistry are recorded by the stable isotopes of the nodules. This research is important and timely for three reasons. First, understanding past climate states more fully can provide context and information about how Earth's climate system fundamentally functions. Second, widespread calcium carbonate development in the soil column can limit plant productivity and water movement through the soil column, creating challenges for agriculture. Better understanding what drives carbonate formation in certain soils could help to inform choices that land-managers make. Third, this study will also serve to further test a newly developed tool, the Soil Water Isotope Storage System (SWISS). This new device is able to automatically sample soil water vapor, and then store that vapor for later analysis in a laboratory setting. In particular, researchers are interested in creating a sub-weekly record of stable water isotope values in the soil column. Small differences in the stable isotope composition of water at different depths in the soil may be the result of the details of how water passes through the soil and how water evaporates in the soil column, so measuring these values can provide information about these processes. Therefore, this tool also has broad utility for agricultural science questions, including improving understanding of how soils absorb water, how roots take-up water, and how water leaves a soil through evaporation. Additionally, this tool could be used in atmospheric science to better estimate the amount of water vapor in the atmosphere that comes from land. This project will provide training in research for a PhD student, as well as two undergraduate students from underrepresented groups via the SMART initiative and RRESESS undergraduate research programs. In addition, middle school students will learn about this research via tours of the laboratories and curriculum developed based on research's results. &lt;br/&gt;&lt;br/&gt;Stable isotope values of pedogenic carbonate are important archives of paleoenvironmental information because they reflect a wide range of environmental parameters like soil temperature, evaporation and hydrology, as well as atmospheric CO2 and vegetation. To better understand how the stable isotope composition of pedogenic carbonates that is measured today reflect the environments of the past, researchers need to better understand the timing and mechanisms of pedogenic carbonate formation in modern environments. In particular, recent research has utilized the new carbonate clumped isotope thermometer to better understand the timing and drivers of carbonate formation; these studies have primarily focused on how carbonate found in coarse-grained soils records information about the surrounding environment. However, the deeper-time paleoclimate record is primarily built on pedogenic carbonate nodules found in finer-grained, clay-containing paleosols. It is unclear, at present, if the mechanisms that drive the formation of pedogenic carbonate are the same for these different soil textures, and therefore it is unclear if paleoclimate data from these two forms can be interpreted in the same way. To address this question, the investigator will constrain the timing and style of pedogenic carbonate nodule formation in three modern, fine-grained, clay-bearing soils. The investigator will monitor both surface and subsurface environmental parameters (i.e. temperature, precipitation amounts, soil moisture, soil CO2 concentration, and soil pH) and stable isotope parameters (i.e. stable isotope values of precipitation, soil CO2 and soil water). An important and unique contribution of this study will be the creation of ~weekly resolution soil water isotope datasets for each soil site, which is an aspect of the modern environment rarely measured for previous clumped isotope studies of modern pedogenic carbonate. This contribution is possible because the investigator has overcome technical challenges associated with making these datasets by developing equipment to automatically sample and store soil water vapor for stable isotope analysis. The investigator will compare observations of the range of modern environmental parameters with the stable isotope composition of Holocene carbonate nodules from the same soils to constrain the likely timing and drivers of carbonate formation, so that the scientific community can improve paleoclimate interpretations from this important geologic archive of terrestrial paleoclimate information.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023385</AwardID>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Snell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathryn Snell</PI_FULL_NAME>
+<EmailAddress><![CDATA[kathryn.snell@colorado.edu]]></EmailAddress>
+<NSF_ID>000642228</NSF_ID>
+<StartDate>07/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of Colorado]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine St, Room 481, 572 UC]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7295</Code>
+<Text>Geobiology &amp; Low-Temp Geochem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~187391</FUND_OBLG>
+<FUND_OBLG>2021~124370</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="text-decoration: underline;">Intellectual Merit:</span> Calcium carbonate nodules that form in soils are a widely used material for assessing climate in land environments in the geologic past because via the measurement of the stable isotope ratios of carbon, oxygen, and molecules with both rare carbon and oxygen bonded together (clumped isotope thermometry) in a carbonate ion. In this project, we focused on calcium carbonate nodules that form in fine-grained, clay-rich soils, because soils with these characteristics dominate the geologic record in many key locations and times in the geologic record (e.g. Bighorn Basin, Wyoming, USA and Turkana Basin, Kenya). We were particularly interested in using carbonate clumped isotope thermometry to determine soil temperature and the oxygen isotope composition of soil water that can be back-calculated from the other isotope measurements to learn about the flow of water through soils. We compared modern environmental parameters like soil temperature and air temperature with the carbonate clumped isotope value, and data on soil hydrology to learn about how aspects of the hydrologic system are recorded by carbonate nodules. As part of this project, we expanded and refined the soil water isotope storage system (SWISS), a system capable of creating high temporal resolution water isotope datasets from remote field study locations. The SWISS has many applications to modern soil hydrology outside of this project. We found that in fine-medium grained soils that had relatively high amounts of clay, and where there is no evidence of soil cracking from the presence of clays, carbonate nodules record a fall soil temperature, and so may provide an estimate that is similar to mean annual temperature, while the soil water isotope values suggest a value that is an average across spring, summer and fall. However, in a soil that had swelling clays that cracked in the fall during soil dry-down, the calcium carbonate either did not form in isotopic equilibrium or it recorded a warm-season biased temperature. Our study impacts how records of ancient climates are interpreted, by showing that the time in the year when carbonate forms and sets the soil temperature that is preserved in the carbonate may not be the same span of time in the year that the soil water isotopes record.</p> <p><span style="text-decoration: underline;">Broader impacts:</span> This project supported two graduate students who come from a gender-group underrepresented in the geosciences (Rachel Havranek and Haley Brumberger), two field seasons (2021 &amp; 2022), one conference presentation at the Goldschmidt annual meeting in 2023, and three research seminars for predominantly undergraduate students. &nbsp;The project created a research opportunity for an undergraduate student who holds an identity that has historically been excluded from the geosciences. The undergraduate student successfully completed a senior thesis.&nbsp; The project also supported one early career faculty (PI Snell), and created lasting infrastructure for the Snell lab that will be used as part of future projects. Lastly, this project supported multiple public presentations including two school visits, a &ldquo;reverse science-fair" with high school students, and a presentation in the Three Minute Thesis competition.</p><br> <p>  Last Modified: 12/30/2023<br> Modified by: Kathryn&nbsp;E&nbsp;Snell</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit: Calcium carbonate nodules that form in soils are a widely used material for assessing climate in land environments in the geologic past because via the measurement of the stable isotope ratios of carbon, oxygen, and molecules with both rare carbon and oxygen bonded together (clumped isotope thermometry) in a carbonate ion. In this project, we focused on calcium carbonate nodules that form in fine-grained, clay-rich soils, because soils with these characteristics dominate the geologic record in many key locations and times in the geologic record (e.g. Bighorn Basin, Wyoming, USA and Turkana Basin, Kenya). We were particularly interested in using carbonate clumped isotope thermometry to determine soil temperature and the oxygen isotope composition of soil water that can be back-calculated from the other isotope measurements to learn about the flow of water through soils. We compared modern environmental parameters like soil temperature and air temperature with the carbonate clumped isotope value, and data on soil hydrology to learn about how aspects of the hydrologic system are recorded by carbonate nodules. As part of this project, we expanded and refined the soil water isotope storage system (SWISS), a system capable of creating high temporal resolution water isotope datasets from remote field study locations. The SWISS has many applications to modern soil hydrology outside of this project. We found that in fine-medium grained soils that had relatively high amounts of clay, and where there is no evidence of soil cracking from the presence of clays, carbonate nodules record a fall soil temperature, and so may provide an estimate that is similar to mean annual temperature, while the soil water isotope values suggest a value that is an average across spring, summer and fall. However, in a soil that had swelling clays that cracked in the fall during soil dry-down, the calcium carbonate either did not form in isotopic equilibrium or it recorded a warm-season biased temperature. Our study impacts how records of ancient climates are interpreted, by showing that the time in the year when carbonate forms and sets the soil temperature that is preserved in the carbonate may not be the same span of time in the year that the soil water isotopes record.   Broader impacts: This project supported two graduate students who come from a gender-group underrepresented in the geosciences (Rachel Havranek and Haley Brumberger), two field seasons (2021 & 2022), one conference presentation at the Goldschmidt annual meeting in 2023, and three research seminars for predominantly undergraduate students. The project created a research opportunity for an undergraduate student who holds an identity that has historically been excluded from the geosciences. The undergraduate student successfully completed a senior thesis. The project also supported one early career faculty (PI Snell), and created lasting infrastructure for the Snell lab that will be used as part of future projects. Lastly, this project supported multiple public presentations including two school visits, a reverse science-fair" with high school students, and a presentation in the Three Minute Thesis competition.     Last Modified: 12/30/2023       Submitted by: KathrynESnell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

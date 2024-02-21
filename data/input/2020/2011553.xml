@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Algebraic Methods in Extremal Combinatorics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>107344.00</AwardTotalIntnAmount>
+<AwardAmount>107344</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Questions in extremal combinatorics ask to optimize a combinatorial invariant subject to a set of constraints. This deliberately broad question has ubiquitous applications both in industry and throughout mathematics, but also leads to questions that are interesting in their own right. This project will attempt to quantify statements of the form: if an object is "large" in a suitable sense, then it contains ordered substructure. The project will specifically seek to use methods from algebra and geometry to answer problems in extremal graph theory and combinatorial number theory. The main benefits of the project are two-fold: first it will answer important open problems in the intersection of several mathematical areas, and second it will involve undergraduate students in research.&lt;br/&gt;&lt;br/&gt;The PI will focus specifically on Turan and Ramsey type problems, on additive combinatorics, and on spectral graph theory. Algebraic and geometric constructions have long been useful for extremal graph theory problems, and this project will continue to use these methods as well as explore their limitations and connections to each other. The project will also seek to extend known methods in both areas to hypergraphs, where our knowledge is limited. The project goals sit in the intersection of combinatorics, algebra, combinatorial number theory, and geometry, and as such many techniques are applicable and problems from several different areas will be worked on.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/03/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011553</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Tait</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Tait</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.tait@villanova.edu]]></EmailAddress>
+<NSF_ID>000705373</NSF_ID>
+<StartDate>12/03/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Villanova University</Name>
+<CityName>VILLANOVA</CityName>
+<ZipCode>190851603</ZipCode>
+<PhoneNumber>6105194220</PhoneNumber>
+<StreetAddress>800 E LANCASTER AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EYNYSU6L8ZX6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLVANIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HJEPRMTQMMR4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Villanova University]]></Name>
+<CityName>Villanova</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>190851603</ZipCode>
+<StreetAddress><![CDATA[800 E Lancaster Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7970</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~4156</FUND_OBLG>
+<FUND_OBLG>2020~48219</FUND_OBLG>
+<FUND_OBLG>2021~54969</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goals of this project were to conduct research in extremal and spectral graph theory broadly. It was also a goal to supervise student research.</p> <p>Overall the project was very successful in both of these objectives. 25 papers were written and approximately 35 talks were given on them. These papers had many successes, most notably the resolution of several long-standing conjectures in spectral graph theory. On the strength of these works, the International Linear Algebra Society awarded the PI their Richard Brualdi Early Career Prize. This award is given once every three years to someone within 7 years of their PhD. The International Linear Algebra Society is the main professional society for linear algebra, which is one of the most important branches in mathematics.</p> <p>1 high school student, 11 undergraduates, and 5 Masters students were  supervised via 10 research projects. These projects resulted in 8  publications (with 6 undergraduate and 5 masters student coauthors). The PI also co-organizes an undergraduate research symposium that occurs every semester at Villanova. Many students give talks or posters each semester.</p> <p>1 PhD student was graduated and 1 PhD student began to be supervised. 6 papers were written with these students.</p> <p>The PI also did extensive professional service over the course of the award, including editing for two journals and being the assistant secretary/treasurer of the International Linear Algebra Society.</p><br> <p>            Last Modified: 10/06/2023<br>      Modified by: Michael&nbsp;Tait</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The goals of this project were to conduct research in extremal and spectral graph theory broadly. It was also a goal to supervise student research.  Overall the project was very successful in both of these objectives. 25 papers were written and approximately 35 talks were given on them. These papers had many successes, most notably the resolution of several long-standing conjectures in spectral graph theory. On the strength of these works, the International Linear Algebra Society awarded the PI their Richard Brualdi Early Career Prize. This award is given once every three years to someone within 7 years of their PhD. The International Linear Algebra Society is the main professional society for linear algebra, which is one of the most important branches in mathematics.  1 high school student, 11 undergraduates, and 5 Masters students were  supervised via 10 research projects. These projects resulted in 8  publications (with 6 undergraduate and 5 masters student coauthors). The PI also co-organizes an undergraduate research symposium that occurs every semester at Villanova. Many students give talks or posters each semester.  1 PhD student was graduated and 1 PhD student began to be supervised. 6 papers were written with these students.  The PI also did extensive professional service over the course of the award, including editing for two journals and being the assistant secretary/treasurer of the International Linear Algebra Society.       Last Modified: 10/06/2023       Submitted by: Michael Tait]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

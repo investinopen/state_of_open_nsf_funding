@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computational Frontiers in the Strong Gravity Regime]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Strongly gravitating systems, such as black holes, serve as natural setups to test the validity of our current theory of gravity - Einstein's theory of general relativity (GR). Identifying any deviations from GR will radically enhance our fundamental knowledge about the structure of space-time, gravity and quantum mechanics. This project aims to reveal unknown structure of GR in the strong field regime and quantum aspects of black holes. Using both conventional analytical methods and innovative techniques imported from high energy physics, new insights on the physically relevant solutions will be reached. These findings will be important to resolve the exact shadows of binary black holes, gain insights in black hole jets purely in terms of a gravity-free quantum field theory and restore quantum information in black holes. The outreach plan of this project will create new opportunities for professional development for graduate and undergraduate students and address the needs of the local elementary schools lacking solid science programs.&lt;br/&gt;&lt;br/&gt;More precisely, the research objectives of this proposal are the following. First, construct efficient computational methods for imaging (including movies) the exact shadows for extremal, un-equal mass or eccentric binary black holes applying the so-called quasi-static methods. Second, establish a new holographic duality for the Blandford-Znajek mechanism of energy extraction from rotating black holes. Last, provide a robust methodology to explain how the physical information falling into a BH in GR is encrypted in its event horizon.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012036</AwardID>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Rodriguez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maria Rodriguez</PI_FULL_NAME>
+<EmailAddress><![CDATA[maria.rodriguez@usu.edu]]></EmailAddress>
+<NSF_ID>000705333</NSF_ID>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Utah State University]]></Name>
+<CityName>LOGAN</CityName>
+<ZipCode>843221000</ZipCode>
+<PhoneNumber>4357971226</PhoneNumber>
+<StreetAddress><![CDATA[1000 OLD MAIN HL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPE2YDWHDYU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UTAH STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Utah State University]]></Name>
+<CityName/>
+<StateCode>UT</StateCode>
+<ZipCode>843224415</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1244</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The exploration of strong gravitational systems, such as black holes, stands as an important channel for testing the validity of our current understanding of Einstein's theory of general relativity (GR). These systems provide a unique environment where the gravitational forces create a natural laboratory to probe the limits of our theoretical frameworks. Identifying potential deviations from the predictions of GR holds the promise of unlocking insights into the fundamental nature of space-time, gravity, and quantum mechanics.</p> <p>Leveraging a combination of conventional analytical methods and techniques drawn from the realm of high-energy physics, the research pushed the boundaries of our knowledge regarding physically relevant solutions in the context of strong gravity. The outcomes provided a fresh perspective on understanding black hole jets, framing them in more general mathematical setup that can lead to a description of these models in a gravity-free quantum field theory. Specifically new black hole systems were found within GR that realize the Blandford-Znajek mechanism, shedding light on the intriguing process of energy extraction from rotating black holes.</p> <p>In the pursuit of the objectives, the project addresses a fundamental question concerning the nature of information within black holes in the context of general relativity. By providing a robust methodology, the project made steps towards defining how physical information that falls into a black hole is encrypted within its event horizon, contributing to the broader discourse on the so-called "information paradox" associated with black holes. A key point to was finding a universal description for the application of the so-called soft-hair approach.</p> <p>Beyond its scientific contributions, the project extended its impact through an outreach plan designed to create opportunities for professional development for both graduate and undergraduate students. Simultaneously, it addressed the educational needs of local educational programs, thereby fostering a broader societal impact.</p> <!-- @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;  mso-font-charset:0;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;  mso-font-charset:0;  mso-generic-font-family:swiss;  mso-font-pitch:variable;  mso-font-signature:-536859905 -1073732485 9 0 511 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal  {mso-style-unhide:no;  mso-style-qformat:yes;  mso-style-parent:";  margin:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:Calibri;  mso-fareast-theme-font:minor-latin;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;}p  {mso-style-priority:99;  mso-margin-top-alt:auto;  margin-right:0in;  mso-margin-bottom-alt:auto;  margin-left:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Times New Roman",serif;  mso-fareast-font-family:"Times New Roman";}.MsoChpDefault  {mso-style-type:export-only;  mso-default-props:yes;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:Calibri;  mso-fareast-theme-font:minor-latin;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-font-kerning:0pt;  mso-ligatures:none;}div.WordSection1  {page:WordSection1;} --><br> <p>  Last Modified: 12/01/2023<br> Modified by: Maria&nbsp;Rodriguez</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The exploration of strong gravitational systems, such as black holes, stands as an important channel for testing the validity of our current understanding of Einstein's theory of general relativity (GR). These systems provide a unique environment where the gravitational forces create a natural laboratory to probe the limits of our theoretical frameworks. Identifying potential deviations from the predictions of GR holds the promise of unlocking insights into the fundamental nature of space-time, gravity, and quantum mechanics.   Leveraging a combination of conventional analytical methods and techniques drawn from the realm of high-energy physics, the research pushed the boundaries of our knowledge regarding physically relevant solutions in the context of strong gravity. The outcomes provided a fresh perspective on understanding black hole jets, framing them in more general mathematical setup that can lead to a description of these models in a gravity-free quantum field theory. Specifically new black hole systems were found within GR that realize the Blandford-Znajek mechanism, shedding light on the intriguing process of energy extraction from rotating black holes.   In the pursuit of the objectives, the project addresses a fundamental question concerning the nature of information within black holes in the context of general relativity. By providing a robust methodology, the project made steps towards defining how physical information that falls into a black hole is encrypted within its event horizon, contributing to the broader discourse on the so-called "information paradox" associated with black holes. A key point to was finding a universal description for the application of the so-called soft-hair approach.   Beyond its scientific contributions, the project extended its impact through an outreach plan designed to create opportunities for professional development for both graduate and undergraduate students. Simultaneously, it addressed the educational needs of local educational programs, thereby fostering a broader societal impact.      Last Modified: 12/01/2023       Submitted by: MariaRodriguez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

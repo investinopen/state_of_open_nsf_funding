@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Dynamic Flash Evaporation and Vapor Separation System for Seawater Desalination]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[There is a worldwide scarcity of potable water. Desalination of abundantly available seawater especially in coastal areas offers a viable option for conversion of seawater into fresh water. A number of schemes for desalination of water in the past have been developed. However, these schemes are either energy intensive or capital intensive. As a result, the cost of production of potable water is relatively high. The project will develop, analyze, and optimize a novel high-throughput desalination technique that is compact, modular, and relatively inexpensive to build and operate. &lt;br/&gt;&lt;br/&gt;In this technique solar-heated sea water from a solar pond flows through a set of injector passages, where the water becomes superheated leading to formation of vapor bubbles. Formation of bubbles accelerates the pressure drop allowing more thermal energy to be converted into vapor. The vapor-liquid mixture exits the injector passages into a larger tube tangentially. Centrifugal force generated as a result of swirl causes liquid to move outward while vapor forms a core in the middle of the separator tube. Vapor leaves the vapor core via a retrieval tube to a condenser to create potable water. Separated liquid is pumped back to the solar pond to be reheated. Having demonstrated the viability of the concept in the laboratory, the team is proposing to expand the experimental work to demonstrate the applicability of the concept over a broad range of operational parameters. Data for thermal conversion efficiency, vapor separation effectiveness and temperature and pressure profiles in the injector passages and separator tube are to be obtained. The data will be used to support analytical and numerical modeling of the process. Void fraction in the separator tube is to be measured and stability of vapor core in the separator tube will be investigated under a variety of mass and momentum flux conditions. This is an area unexplored before and represents a significant intellectual challenge with respect to meaningful experiments and analytical/numerical modeling. Gained knowledge will be used to optimize thermal conversion efficiency and vapor separation effectiveness under a range of flow conditions and temperatures of water exiting the solar pond. Lastly experimental effort will be used to develop an operational map that could be of great value for practical implementation of this novel concept at atmospheric and sub-atmospheric pressures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002699</AwardID>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Dhir</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijay K Dhir</PI_FULL_NAME>
+<EmailAddress><![CDATA[vdhir@seas.ucla.edu]]></EmailAddress>
+<NSF_ID>000344858</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900246541</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10920 WILSHIRE BLVD STE 500</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951597</ZipCode>
+<StreetAddress><![CDATA[420 Westwood Plaza 38-137 Engine]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>NSF PROJECT OUTCOMES</strong></p> <p><strong>Award No. 2002699</strong></p> <p><strong>A DYNAMIC FLASH EVAPORATION AND VAPOR SEPARATION SYSTEM FOR SEAWATER DESALINATION</strong></p> <p><strong>&nbsp;</strong></p> <p>Water scarcity is one of the most pressing issues impeding human development. Fresh water demands are aggravated by climate change and urbanization. An estimated urban population of 933 million live in water scarcity as of 2016 which is projected to increase by 2.37 billion by 2050. About 12.5% of the global population live in perennial water scarcity which includes 6 out of 30 megacities. Desalination of seawater has been discussed as one of the potential solutions to curb water scarcity. An ever-growing population, pollution, and climate change accelerates freshwater depletion and necessitates the reliance on unconventional water sources such as brackish water, seawater and ultra-saline water. In addition, increasing interests in renewable sources to fight climate change has favored new technological developments that utilize renewable energy such as solar power. In this work, a novel system for desalination of seawater has been developed that can utilize solar energy. The novel system combines a process called dynamic flash evaporation, which is a phase change phenomenon to produce vapor from liquid, along with a vapor separation process through tangential injection.</p> <p>A brief concept of the system utilized in the laboratory is described here. Feed water, which is usually seawater, brackish water or other high-saline sources, from a primary tank is pressurized using a centrifugal pump. Water is then heated using electrical heaters in lab-scale system; however, the intended practical system will utilize solar energy in lieu of electrical heating. Heated feed water then passes through injection tubes in which dynamic flashing occurs. Flashing is initiated as the pressure drop from friction occurs in these tubes, making the liquid superheated from its initial sub-cooled state. Superheating of the liquid provides driving potential for vapor production. Produced vapor along with the existing liquid creates a two-phase liquid-vapor mixture in the tube. Further increase in pressure drop downstream is achieved by two-phase friction and acceleration making more vapor to liquid mixture near the end of the injection passages. Two phase mixture is injected tangentially in a separator tube where due to the momentum induced by tangential injection produces centrifugal force which separates the vapor from the liquid-vapor mixture. This separation results in the formation of a vapor core surrounded by a liquid film in the annulus. Separated vapor from the core is retrieved with a tube inserted in the separator tube and condensed to produce potable water. The liquid from the annulus is cycled back to the primary tank through a secondary tank for the next round of processing. In this work, both tap water and seawater were tested as inlet feed. A compact system is achieved with the combination of dynamic flashing and vapor separation which could reduce the footprint of the entire system. In this novel system, vapor production and separation occurs in the order of several milli-seconds.</p> <p>Degree of utilization of the available superheat was analyzed through thermal conversion efficiency. This provides a measure of how much of the energy put in during heating of the water is utilized for vapor generation. Phase separation efficiency was used to evaluate the purity of the produced condensate from the separated vapor. Single and two-stage systems were investigated. Up to 98% thermal conversion and phase separation efficiencies were obtained with the single stage system. Further improvement in the purity of the produced condensate was achieved with the two-stage system where the separated vapor with some entrained droplets from first stage is directed to a second set of injection tubes which provide additional centrifugal separation to remove the liquid droplets from vapor before entering the condenser. With seawater having a salt concentration by mass of 2.5%, the two-stage system produced condensate with salt concentration lower than 0.02% by mass which is equivalent to the purity of drinking water.</p> <p>A visualization study was also conducted to improve the understanding of the dynamic flashing process. An improved understanding of the process will help with the optimization of the system under various operating conditions. Pressure and temperature along the injection tubes were measured for different inlet flowrates and liquid temperatures. The measurements show that the intensity of flashing improves i.e., more vapor production and temperature drop occur on shorter time and distance with increasing inlet flowrate and initial liquid temperature. High-speed imaging of the flashing process along with the void fraction were measured to identify flow regime development during flashing. The visual images showed complex two-phase flow regimes formed through continuous vapor generation along the tube. The obtained data provides valuable information for modelling of the process.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/29/2023<br> Modified by: Vijay&nbsp;K&nbsp;Dhir</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  NSF PROJECT OUTCOMES   Award No. 2002699   A DYNAMIC FLASH EVAPORATION AND VAPOR SEPARATION SYSTEM FOR SEAWATER DESALINATION      Water scarcity is one of the most pressing issues impeding human development. Fresh water demands are aggravated by climate change and urbanization. An estimated urban population of 933 million live in water scarcity as of 2016 which is projected to increase by 2.37 billion by 2050. About 12.5% of the global population live in perennial water scarcity which includes 6 out of 30 megacities. Desalination of seawater has been discussed as one of the potential solutions to curb water scarcity. An ever-growing population, pollution, and climate change accelerates freshwater depletion and necessitates the reliance on unconventional water sources such as brackish water, seawater and ultra-saline water. In addition, increasing interests in renewable sources to fight climate change has favored new technological developments that utilize renewable energy such as solar power. In this work, a novel system for desalination of seawater has been developed that can utilize solar energy. The novel system combines a process called dynamic flash evaporation, which is a phase change phenomenon to produce vapor from liquid, along with a vapor separation process through tangential injection.   A brief concept of the system utilized in the laboratory is described here. Feed water, which is usually seawater, brackish water or other high-saline sources, from a primary tank is pressurized using a centrifugal pump. Water is then heated using electrical heaters in lab-scale system; however, the intended practical system will utilize solar energy in lieu of electrical heating. Heated feed water then passes through injection tubes in which dynamic flashing occurs. Flashing is initiated as the pressure drop from friction occurs in these tubes, making the liquid superheated from its initial sub-cooled state. Superheating of the liquid provides driving potential for vapor production. Produced vapor along with the existing liquid creates a two-phase liquid-vapor mixture in the tube. Further increase in pressure drop downstream is achieved by two-phase friction and acceleration making more vapor to liquid mixture near the end of the injection passages. Two phase mixture is injected tangentially in a separator tube where due to the momentum induced by tangential injection produces centrifugal force which separates the vapor from the liquid-vapor mixture. This separation results in the formation of a vapor core surrounded by a liquid film in the annulus. Separated vapor from the core is retrieved with a tube inserted in the separator tube and condensed to produce potable water. The liquid from the annulus is cycled back to the primary tank through a secondary tank for the next round of processing. In this work, both tap water and seawater were tested as inlet feed. A compact system is achieved with the combination of dynamic flashing and vapor separation which could reduce the footprint of the entire system. In this novel system, vapor production and separation occurs in the order of several milli-seconds.   Degree of utilization of the available superheat was analyzed through thermal conversion efficiency. This provides a measure of how much of the energy put in during heating of the water is utilized for vapor generation. Phase separation efficiency was used to evaluate the purity of the produced condensate from the separated vapor. Single and two-stage systems were investigated. Up to 98% thermal conversion and phase separation efficiencies were obtained with the single stage system. Further improvement in the purity of the produced condensate was achieved with the two-stage system where the separated vapor with some entrained droplets from first stage is directed to a second set of injection tubes which provide additional centrifugal separation to remove the liquid droplets from vapor before entering the condenser. With seawater having a salt concentration by mass of 2.5%, the two-stage system produced condensate with salt concentration lower than 0.02% by mass which is equivalent to the purity of drinking water.   A visualization study was also conducted to improve the understanding of the dynamic flashing process. An improved understanding of the process will help with the optimization of the system under various operating conditions. Pressure and temperature along the injection tubes were measured for different inlet flowrates and liquid temperatures. The measurements show that the intensity of flashing improves i.e., more vapor production and temperature drop occur on shorter time and distance with increasing inlet flowrate and initial liquid temperature. High-speed imaging of the flashing process along with the void fraction were measured to identify flow regime development during flashing. The visual images showed complex two-phase flow regimes formed through continuous vapor generation along the tube. The obtained data provides valuable information for modelling of the process.        Last Modified: 12/29/2023       Submitted by: VijayKDhir]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

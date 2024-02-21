@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: Small: Modeling Co-Decisions: A Computational Framework Using Language and Metadata]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>430970.00</AwardTotalIntnAmount>
+<AwardAmount>430970</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In many settings, entire groups are presented with a decision -- for example, a set of legislators can be presented with a bill to vote on, a set of scientific authors can decide whether or not to cite a piece of research in their papers, or a set of social media users might decide whether or not to share a piece of online content. It is very standard to look independently at choices made by individuals, but a more complete scientific understanding of decision-making can be obtained by looking at the decision process in terms of whether individuals will make the same decision or not, taking into account what the individual deciders do and do not have in common.  This project is looking at that question by developing new computational methods to help better understand what goes into the decisions people make.&lt;br/&gt;&lt;br/&gt;The project begins with computational models of co-voting in political contexts, moving from ''how does an individual vote, and why?'' to ''do these individuals vote the same way, and why?''.  It generalizes and extends such models, going beyond established factors such as party and state, by enabling incorporation of unstructured language from bills to characterize the issues under consideration and to incorporate analysis and comparison of individuals' language. The extended framework will be validated by demonstrating improved predictive performance on datasets derived from proceedings of the U.S. Congress, making possible direct evaluation against prior work and enabling new substantive analyses of political rhetoric and decision making.  In the process, the project also develops richer analysis of individuals' language using techniques that identify interpretable, task-relevant language and by incorporating recently developed methods for incorporating covariates into topic analysis. These advances will be validated by incorporating them within the extended co-voting framework, and will also contribute to the investigation of substantive questions about Congressional decision-making.  Finally, the project will address more general use cases by applying the approach beyond the political domain, moving from modeling of co-voting to modeling co-decisions, where a decision is a generalized vote. The generalized model will be validated via application to the problem of scientific citation recommendation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008761</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Resnik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip Resnik</PI_FULL_NAME>
+<EmailAddress><![CDATA[resnik@umd.edu]]></EmailAddress>
+<NSF_ID>000187209</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kristina</FirstName>
+<LastName>Miler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristina Miler</PI_FULL_NAME>
+<EmailAddress><![CDATA[kmiler@umd.edu]]></EmailAddress>
+<NSF_ID>000815893</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~430970</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><br />In many settings, entire groups are presented with a decision -- for example, a set of legislators can be presented with a bill to vote on, or a set of social media users might decide whether or not to share a piece of online content. In modeling behavior, it is very standard to look independently at choices made by individuals. However, a more complete scientific understanding of decision-making can be obtained by taking into account behavior in the set of individuals as a whole. This project took that approach and developed new computational methods to help better understand what goes into the decisions people make, particularly communicative choices in a political context.</p> <p><br />One kind of communicative choice the project investigated involved decisions by U.S. legislators about what issues to talk about on the floor of the House of Representatives, with a focus on the potential role of campaign donations. This a highly studied subject in political science, but, particularly with regard to computational and statistical models, the majority of work has focused on the relationship between donations and roll-call votes -- which, by their binary nature, provide a very limited window on congressional behavior. To get beyond those limitations, we created an integrated database covering 24 years of congressional and donation activity, bringing together floor speech transcripts, legislator-level features and biographical properties, congressional committee assignments, campaign donation records, and information about Political Action Committees (PACs) -- not only linking existing resources, but also using computational topic models in a novel way to identify and validate an inventory of issues connected with PACs. These were then used to quantitatively characterize the association between financial donations and issues that legislators prioritize when speaking in Congress.&nbsp; The results showed a strong, robust association between money and legislative speech: among other variables known to be important like a legislator's state, party, and committee assignments, donor information consistently offers the strongest association with legislators&rsquo; issue-attention across and within sessions of Congress. The work also yields a novel method for identifying statistically relevant donation and speech events in close temporal proximity to each other, offering a new data-driven way for journalists and government-transparency organizations to sift through an unstructured mass of donations and speeches to look for potentially salient connections between specific donors, legislators, and floor speeches.&nbsp;</p> <p><br />Further work looked at legislator language across multiple venues for ideological expression: votes, floor speeches, and tweets. A widely used population-based method for understanding legislators is the estimation of "ideal points" using floor votes alone. Using a text-based ideal point measurement tool, we extended the measure and obtained legislator ideal points across the three different venues to capture an understudied interaction between ideology, communication style, and audience. We examined the differences in congressional ideal points in the aggregate, as well as providing novel evidence of how individual legislators position themselves differently depending on the venue. We find that legislators use speech and tweets to convey nuance in their ideological positions and to differentiate themselves in ways that voting does not allow.&nbsp;</p> <p><br />A third outcome of the project involved increasing our understanding not of legislator behavior, but of everyday people's behavior in a political context. We began with a puzzle: why do we see people who regularly spread misinformation online also sharing articles from legitimate news outlets, sometimes from organizations that they despise? In our investigation, we focused on a class of text that can be characterized as misleading information, even if it is not misinformation per se. We systematically extracted and analyzed the articles published by mainstream political news outlets that are most likely to be shared in the same social media circles as fake news, which we term <em>co-shared</em> articles. Using analysis methods that automatically identify narratives in text, along with analysis of sharing patterns on Twitter, we developed the concept of "misinformation narratives" and show that mainstream news stories that are disproportionately co-shared with fake news are significantly more likely to contain such narratives. This result has significant implications, because factual-but-misleading articles constitute a much higher proportion of Americans' media diet than misinformation per se. Our findings suggest that factual mainstream news is actually an important part of how misinformation narratives develop and spread on social media. Indeed, mainstream articles may be particularly attractive for such purposes precisely because of their sources' credibility. For journalists, our work highlights the importance of examining not just falsehoods but also the larger narratives being articulated in fake news. For misinformation research, our work reflects the need to move beyond the level of news outlets to also focus on individual news stories -- including from outlets that follow journalistic norms of rigor and vetting -- in order to more accurately estimate the quantitative scale of the problem as well as to understand its societal impacts.&nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/23/2024<br> Modified by: Philip&nbsp;Resnik</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   In many settings, entire groups are presented with a decision -- for example, a set of legislators can be presented with a bill to vote on, or a set of social media users might decide whether or not to share a piece of online content. In modeling behavior, it is very standard to look independently at choices made by individuals. However, a more complete scientific understanding of decision-making can be obtained by taking into account behavior in the set of individuals as a whole. This project took that approach and developed new computational methods to help better understand what goes into the decisions people make, particularly communicative choices in a political context.    One kind of communicative choice the project investigated involved decisions by U.S. legislators about what issues to talk about on the floor of the House of Representatives, with a focus on the potential role of campaign donations. This a highly studied subject in political science, but, particularly with regard to computational and statistical models, the majority of work has focused on the relationship between donations and roll-call votes -- which, by their binary nature, provide a very limited window on congressional behavior. To get beyond those limitations, we created an integrated database covering 24 years of congressional and donation activity, bringing together floor speech transcripts, legislator-level features and biographical properties, congressional committee assignments, campaign donation records, and information about Political Action Committees (PACs) -- not only linking existing resources, but also using computational topic models in a novel way to identify and validate an inventory of issues connected with PACs. These were then used to quantitatively characterize the association between financial donations and issues that legislators prioritize when speaking in Congress. The results showed a strong, robust association between money and legislative speech: among other variables known to be important like a legislator's state, party, and committee assignments, donor information consistently offers the strongest association with legislators issue-attention across and within sessions of Congress. The work also yields a novel method for identifying statistically relevant donation and speech events in close temporal proximity to each other, offering a new data-driven way for journalists and government-transparency organizations to sift through an unstructured mass of donations and speeches to look for potentially salient connections between specific donors, legislators, and floor speeches.    Further work looked at legislator language across multiple venues for ideological expression: votes, floor speeches, and tweets. A widely used population-based method for understanding legislators is the estimation of "ideal points" using floor votes alone. Using a text-based ideal point measurement tool, we extended the measure and obtained legislator ideal points across the three different venues to capture an understudied interaction between ideology, communication style, and audience. We examined the differences in congressional ideal points in the aggregate, as well as providing novel evidence of how individual legislators position themselves differently depending on the venue. We find that legislators use speech and tweets to convey nuance in their ideological positions and to differentiate themselves in ways that voting does not allow.    A third outcome of the project involved increasing our understanding not of legislator behavior, but of everyday people's behavior in a political context. We began with a puzzle: why do we see people who regularly spread misinformation online also sharing articles from legitimate news outlets, sometimes from organizations that they despise? In our investigation, we focused on a class of text that can be characterized as misleading information, even if it is not misinformation per se. We systematically extracted and analyzed the articles published by mainstream political news outlets that are most likely to be shared in the same social media circles as fake news, which we term co-shared articles. Using analysis methods that automatically identify narratives in text, along with analysis of sharing patterns on Twitter, we developed the concept of "misinformation narratives" and show that mainstream news stories that are disproportionately co-shared with fake news are significantly more likely to contain such narratives. This result has significant implications, because factual-but-misleading articles constitute a much higher proportion of Americans' media diet than misinformation per se. Our findings suggest that factual mainstream news is actually an important part of how misinformation narratives develop and spread on social media. Indeed, mainstream articles may be particularly attractive for such purposes precisely because of their sources' credibility. For journalists, our work highlights the importance of examining not just falsehoods but also the larger narratives being articulated in fake news. For misinformation research, our work reflects the need to move beyond the level of news outlets to also focus on individual news stories -- including from outlets that follow journalistic norms of rigor and vetting -- in order to more accurately estimate the quantitative scale of the problem as well as to understand its societal impacts.        Last Modified: 01/23/2024       Submitted by: PhilipResnik]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

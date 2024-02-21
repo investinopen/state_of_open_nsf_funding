@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Tracing the fate, age, and ecohydrologic significance of rock moisture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>78987.00</AwardTotalIntnAmount>
+<AwardAmount>78987</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030109</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hendratta Ali</SignBlockName>
+<PO_EMAI>heali@nsf.gov</PO_EMAI>
+<PO_PHON>7032922648</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Increased frequency and severity of drought is amplifying the importance of understanding where forests source water. Where soil water is unavailable, woody plants commonly access water stored in the underlying fractures and pores of weathered bedrock (rock moisture). However, in contrast to the soil mantle, little is known about water stored in bedrock and how accessible it may be to plants. Better tools for fingerprinting how different species access rock moisture are needed to understand how shifts in precipitation could impact local water resources. This experiment tracks water flow through soil, bedrock, and trees via isotopic tracers to document how forest water use influences of groundwater recharge and stream flow, especially during drought. New tools for tracing water will be evaluated and communicated to students and early career scientists, so that these tools can be widely applied to better understand the fate of water resources under changing climate.&lt;br/&gt;&lt;br/&gt;The research  is conducted at an intensively characterized and monitored hillslope in a Northern Californian old-growth forest. Experimental results will provide direct, isotopic evidence for when and where trees source water during the dry season and how their water uptake impacts groundwater recharge and streamflow. The study overcomes previous challenges with tracing rock moisture by leveraging the unique capability to trace water through unsaturated, fractured bedrock using specialized sampling infrastructure. Labeled water will be injected into the bedrock at the start of the dry season. That labeled water will be tracked through the subsurface-plant-atmosphere continuum in the dry and wet seasons that follow. The project will also estimate water age and transit time of water pools by measuring concentrations of short-lived naturally occurring radio-isotopes. Estimated transit times from labeled water and radio-isotopes will be used independently to evaluate the fate of rock moisture and its ecohydrologic significance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055474</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Dietrich</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William E Dietrich</PI_FULL_NAME>
+<EmailAddress><![CDATA[bill@eps.berkeley.edu]]></EmailAddress>
+<NSF_ID>000444285</NSF_ID>
+<StartDate>07/15/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Dawson</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Todd E Dawson</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdawson@berkeley.edu]]></EmailAddress>
+<NSF_ID>000443646</NSF_ID>
+<StartDate>07/15/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1579</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~78987</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Hilly and mountainous landscapes are typically underlain by bedrock whose ability to store and transmit water can be limited.&nbsp; But over geologic time scales, chemical and mechanical breakdown of the rock in the near surface environment can cause a dense bedrock to open and become porous, and when infiltrating rainwater arrives, it acts more like a sponge resting between a soil mantle and the underlying fresh bedrock.&nbsp; &nbsp;This deeper water storage is then composed of water held in tension (much like that of a kitchen sponge when held vertically and allowed to drip) and highly mobile water that fills the pores and drains (groundwater).&nbsp; &nbsp;When it rains (or snow melts) water enters the soil and can also enter this weather bedrock zone.&nbsp; Some water will remain in tension in pores while more mobile water will continue eventually arrive at the underlying groundwater where it travels to the base of hillslopes and into receiving river channels.&nbsp; If we could mark each individual water molecule as it enters the ground and track how long it takes to leave the system, what would it tell us about how the succession of storm-driven water infiltration events leave traces of their arrival and then their exit the hillslope?&nbsp; Some water will exit via evaporation and transpiration (water use by plants that they return to the atmosphere), other will drain to the channel.&nbsp; The time history of water in the system and path it takes off the hillslope influences the seasonal water storage available to plants, the storm-event and seasonal stream flow, the chemical evolution of waters as they dissolve the bedrock and head to streams, &nbsp;and the amount of carbon carried to streams or contributed to the atmosphere.&nbsp; Only recently have systematic measurements been made in the zone between the bottom of the soil and the groundwater in the weathered bedrock, a zone where dynamic, plant-available moisture (rock moisture) resides.&nbsp; One might propose that storm-driven water passes through the soil and rock moisture zone as an advancing pulse, displacing previous waters, pushing down and out of the hillslope.&nbsp; Entering rainwater arrives with distinct stable water isotopes, varying between storms, and, in this case, samples of rock moisture with depth would track advancing distinct waters as they travel through the hillslope. Alternatively, water may exchange isotopes and ions with previously stored water, or some may be held back while the majority passes through rapidly through larger pores. &nbsp;This downward advance would be interrupted, however by removal through deeply penetrating tree roots. This suggests that to understand water transit through a hillslope, its return to the atmosphere, its long-term storage, and its differential passage through the rock moisture (and groundwater) zone, that tracer studies could be employed to track and age water to document residence and transit times.&nbsp;</p> <p>Our proposal exploited a uniquely instrumented hillslope where we are able to extract rock moisture down to depths of 16 m and track natural and artificially injected water stable isotopes.&nbsp; We also track rain isotopes, isotopes in trees, soil, and groundwater. &nbsp;Our approximately monthly sampling collection revealed that a tracer we injected into the shallow weathered bedrock could be tracked to 4.7 m below the surface, and surprisingly, remained detectable for 21 months (after ~ 2m of rainfall).&nbsp; This points to mobile water by-passing, but partially exchanging with more tightly held water.&nbsp; Isotopically distinct individual rainstorms provided natural tracers and showed a slow downward signal to depths of 4.5 m but aged inputs by 2 years.&nbsp; Deeper rock moisture remains isotopically constant, despite passing literally meters of water.&nbsp; Rock moisture storage has a profound effect of the stable isotopic evolution of infiltrating waters.&nbsp; Seasonal drying due to root uptake appears to play an important role in defining the depth of isotopic variability.&nbsp; Various quantitative models were able to characterize the residence and transit times of waters, and to predict how deep water uptake by roots would influence isotopic evolution of waters.&nbsp; This project also motivated the development of innovative (centrifugal) water extraction methods from tree cores and soil that showed that the less tightly held, more mobile waters are isotopically distinct from residual water, providing a means to track the isotopic evolution of mobile and residual waters through the entire system.&nbsp; These methods are opening up the ability to increase significantly our understanding of the how water moves through the entire system (now called the Critical Zone) from soil and rock moisture, through trees to the atmosphere and to groundwater that feeds the flow of streams.</p> <p>The project provided support to two masters students, one PhD, and one undergraduate researcher at UT Austin. Of the three undergraduate research technicians at Berkeley, two entered graduate schools, and all three presented findings at the American Geophysical Union meeting in 2023.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/10/2024<br> Modified by: William&nbsp;E&nbsp;Dietrich</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Hilly and mountainous landscapes are typically underlain by bedrock whose ability to store and transmit water can be limited. But over geologic time scales, chemical and mechanical breakdown of the rock in the near surface environment can cause a dense bedrock to open and become porous, and when infiltrating rainwater arrives, it acts more like a sponge resting between a soil mantle and the underlying fresh bedrock. This deeper water storage is then composed of water held in tension (much like that of a kitchen sponge when held vertically and allowed to drip) and highly mobile water that fills the pores and drains (groundwater). When it rains (or snow melts) water enters the soil and can also enter this weather bedrock zone. Some water will remain in tension in pores while more mobile water will continue eventually arrive at the underlying groundwater where it travels to the base of hillslopes and into receiving river channels. If we could mark each individual water molecule as it enters the ground and track how long it takes to leave the system, what would it tell us about how the succession of storm-driven water infiltration events leave traces of their arrival and then their exit the hillslope? Some water will exit via evaporation and transpiration (water use by plants that they return to the atmosphere), other will drain to the channel. The time history of water in the system and path it takes off the hillslope influences the seasonal water storage available to plants, the storm-event and seasonal stream flow, the chemical evolution of waters as they dissolve the bedrock and head to streams, and the amount of carbon carried to streams or contributed to the atmosphere. Only recently have systematic measurements been made in the zone between the bottom of the soil and the groundwater in the weathered bedrock, a zone where dynamic, plant-available moisture (rock moisture) resides. One might propose that storm-driven water passes through the soil and rock moisture zone as an advancing pulse, displacing previous waters, pushing down and out of the hillslope. Entering rainwater arrives with distinct stable water isotopes, varying between storms, and, in this case, samples of rock moisture with depth would track advancing distinct waters as they travel through the hillslope. Alternatively, water may exchange isotopes and ions with previously stored water, or some may be held back while the majority passes through rapidly through larger pores. This downward advance would be interrupted, however by removal through deeply penetrating tree roots. This suggests that to understand water transit through a hillslope, its return to the atmosphere, its long-term storage, and its differential passage through the rock moisture (and groundwater) zone, that tracer studies could be employed to track and age water to document residence and transit times.   Our proposal exploited a uniquely instrumented hillslope where we are able to extract rock moisture down to depths of 16 m and track natural and artificially injected water stable isotopes. We also track rain isotopes, isotopes in trees, soil, and groundwater. Our approximately monthly sampling collection revealed that a tracer we injected into the shallow weathered bedrock could be tracked to 4.7 m below the surface, and surprisingly, remained detectable for 21 months (after ~ 2m of rainfall). This points to mobile water by-passing, but partially exchanging with more tightly held water. Isotopically distinct individual rainstorms provided natural tracers and showed a slow downward signal to depths of 4.5 m but aged inputs by 2 years. Deeper rock moisture remains isotopically constant, despite passing literally meters of water. Rock moisture storage has a profound effect of the stable isotopic evolution of infiltrating waters. Seasonal drying due to root uptake appears to play an important role in defining the depth of isotopic variability. Various quantitative models were able to characterize the residence and transit times of waters, and to predict how deep water uptake by roots would influence isotopic evolution of waters. This project also motivated the development of innovative (centrifugal) water extraction methods from tree cores and soil that showed that the less tightly held, more mobile waters are isotopically distinct from residual water, providing a means to track the isotopic evolution of mobile and residual waters through the entire system. These methods are opening up the ability to increase significantly our understanding of the how water moves through the entire system (now called the Critical Zone) from soil and rock moisture, through trees to the atmosphere and to groundwater that feeds the flow of streams.   The project provided support to two masters students, one PhD, and one undergraduate researcher at UT Austin. Of the three undergraduate research technicians at Berkeley, two entered graduate schools, and all three presented findings at the American Geophysical Union meeting in 2023.        Last Modified: 01/10/2024       Submitted by: WilliamEDietrich]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

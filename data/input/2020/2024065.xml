@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research: Documenting the Semantics of Verbal and Nominal Tense in an Endangered Language]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>16248.00</AwardTotalIntnAmount>
+<AwardAmount>16248</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jorge Valdes Kroff</SignBlockName>
+<PO_EMAI>jvaldesk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927920</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This dissertation project involves detailed fieldwork and audio and video documentation of Mvskoke (a.k.a. Muskogee, Creek, Seminole), a severely endangered language indigenous to the Southeastern United States, currently spoken by about 500 individuals in Oklahoma and Florida. This project focuses on the unique ways that this language expresses time. Linguists use the term ‘tense’ to refer to words or affixes that reference time – specifically past, present, and future time. It has classically been assumed that tense (i) communicates one of those three values, (ii) refers only to intervals of time, and (iii) only appears on verbs. However, in recent years, linguists have uncovered facts and phenomena that challenge these three assumptions. First, a number of languages have so-called ‘graded’ tenses, which communicate how far into the past or future something happens. Secondly, in some languages certain tenses can only be used if the speaker witnessed the event. Finally, in a few languages, tenses can appear on nouns as well as verbs. &lt;br/&gt;&lt;br/&gt;Remarkably, all three of these phenomena are present in this language, which has four past tenses that appear on both nouns and verbs; moreover, the choice of tense depends on whether the speaker witnessed the event and how long ago it occurred. Previous linguistic research on tense has been limited to languages exhibiting just one of these three phenomena. This study will examine all three phenomena in the tense system of the language, including their possible interactions. The research will be based on interviews with fluent elders and the doctoral student will compile multiple recordings (audio and video) of conversations between elders and between elders and students. The results of this project will further the understanding of tense and will directly benefit the community language revitalization efforts by providing documentation of the tenses as used in everyday conversation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024065</AwardID>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>Cable</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seth Cable</PI_FULL_NAME>
+<EmailAddress><![CDATA[scable@linguist.umass.edu]]></EmailAddress>
+<NSF_ID>000508521</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kimberly</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kimberly C Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[kcjohnson@umass.edu]]></EmailAddress>
+<NSF_ID>000813479</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>01003</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MLBQUML9JJT6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName/>
+<StateCode>MA</StateCode>
+<ZipCode>010359450</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>123Y</Code>
+<Text>DLI DDRIG-DynLangInfrast DDRIG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1311</Code>
+<Text>Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7719</Code>
+<Text>DEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~16248</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project investigated the past tenses of Mvskoke (aka Muskogee, Creek, or Seminole), a severely endangered Native American language spoken in Oklahoma and Florida. The project produced 1) significant audio-recorded documentation of the Mvskoke language, 2) literature detailing new discoveries about the grammar of Mvskoke past tenses, and 3) several activities that promoted language revitalization efforts and increased Native American participation in linguistics.</p> <p><strong>Language Documentation: </strong>This project resulted in 61 hours of recorded linguistic interviews with fluent Mvskoke speakers. These interviews focused on documenting example sentences of Mvskoke's five past tenses and their use on verbs as well as nouns. In addition to the interviews, this project also focused on collecting naturalistic and guided conversations. During the project, 41 Mvskoke conversations were recorded on various topics. These conversations &nbsp;fill a gap in the existing documentation of the Mvskoke language &nbsp;in two ways. First, the genre of conversations (as opposed to interviews) is not well represented in the collections of Mvskoke language recordings. Second, these conversations were designed to elicit more examples of recent past tenses and nominal tense in use; these tenses are scarce in the existing documentation, since traditional stories typically use remote past tenses and the use of nominal tenses are almost entirely restricted to casual conversation.</p> <p><strong>Intellectual Merit: </strong>The linguistic investigation supported by this grant resulted in two significant new discoveries about the grammar of the Mvskoke language. First, this research resulted in the discovery that three of Mvskoke&rsquo;s verbal tense behave like knowledge predicates. That is, they communicate that the speaker came to the knowledge that the main event took place. If we take the traditional philosophical view that knowledge is justified, true belief, we can derive the evidential inferences that speakers associate with these tenses (e.g. that they witnessed the event). For a belief to be justified, the speaker must have good evidence that their belief is true. As a result, when a Mvskoke speaker uses these tenses, they communicate to their interlocutor that they have very good evidence for believing the proposition they have asserted. This indirectly derives the intuition reported by Mvskoke speakers that using these tenses commits them to having direct (often visual) evidence for the proposition. This data supports a novel analysis of tense-evidential interactions and provides a new way of thinking about the notion of an Evidence Acquisition Time that has been discussed in the semantic literature (Lee 2011, 2013; Smirnova 2013; a.o.).</p> <p>The second significant result was the discovery of a divide between the nominal uses of Mvskoke Pasts 1 and 2 and the nominal uses of the Mvskoke&rsquo;s remote past. In other languages with nominal tenses, there appear to be two main interpretations available: an interpretation meaning roughly the same as English <em>former </em>(e.g. Paraguayan Guarani (Tonhauser 2007) and Mbya Guarani (Thomas 2014)) and an interpretation that seems to indicate a time that the individual described by the noun was relevant to the conversation. This second interpretation, found in Somali (Lecarme 1999, et seq.) and Kipsigis (Kouneli &amp; Ozyildiz 2016), can be roughly translated with the English phrase <em>the (noun) from earlier/ this morning/ yesterday</em>. I call these <em>Discourse Related </em>nominal tenses. Research on Mvskoke's nominal tense reveals that these interpretations correspond to two distinct types of nominal tense. Evidence from Mvskoke reveals that the <em>former</em>-type nominal tenses appear lower in the structure of a noun phrase, exactly as Thomas&rsquo; 2014 analysis of Mbya Guarani predicts. Discourse Related nominal tenses, however, appear higher in the structure of a noun phrase. This enables them to have interpretations that interact with the structure of the discourse/ conversation. Furthermore, although other languages with nominal tenses only have one of these types of nominal tenses, Mvskoke has both. Mvskoke&rsquo;s remote past is a lower <em>former</em>-type nominal tense, and Mvskoke&rsquo;s Pasts 1 and 2 are Discourse Related nominal tenses. Because of this difference, Mvskoke reveals that the two types of nominal tense can co-occur.</p> <p><strong>Broader Impacts: </strong>&nbsp;As a community-based research project, there were several broader impacts outcomes. First, this project broadened Native American participation in the sciences by involving two students who are enrolled in the Muscogee (Creek) tribe as research assistants. These research assistants are both advanced second language learners of the Mvskoke language and as such received not only training in linguistic research and language documentation software, but were also afforded opportunities to converse with fluent speakers who were otherwise outside their communities. Additionally, these research assistants and a few other second language learners were included in the Mvskoke conversation documentation workshops hosted by the co-PI. These workshops simulated an immersion environment and gave second language learners a chance to converse with fluent speakers. This is particularly important in endangered language communities where the fluent speaker population is smaller and opportunities to use the language are severely restricted.&nbsp;</p><br> <p>  Last Modified: 11/10/2023<br> Modified by: Kimberly&nbsp;C&nbsp;Johnson</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project investigated the past tenses of Mvskoke (aka Muskogee, Creek, or Seminole), a severely endangered Native American language spoken in Oklahoma and Florida. The project produced 1) significant audio-recorded documentation of the Mvskoke language, 2) literature detailing new discoveries about the grammar of Mvskoke past tenses, and 3) several activities that promoted language revitalization efforts and increased Native American participation in linguistics.   Language Documentation: This project resulted in 61 hours of recorded linguistic interviews with fluent Mvskoke speakers. These interviews focused on documenting example sentences of Mvskoke's five past tenses and their use on verbs as well as nouns. In addition to the interviews, this project also focused on collecting naturalistic and guided conversations. During the project, 41 Mvskoke conversations were recorded on various topics. These conversations fill a gap in the existing documentation of the Mvskoke language in two ways. First, the genre of conversations (as opposed to interviews) is not well represented in the collections of Mvskoke language recordings. Second, these conversations were designed to elicit more examples of recent past tenses and nominal tense in use; these tenses are scarce in the existing documentation, since traditional stories typically use remote past tenses and the use of nominal tenses are almost entirely restricted to casual conversation.   Intellectual Merit: The linguistic investigation supported by this grant resulted in two significant new discoveries about the grammar of the Mvskoke language. First, this research resulted in the discovery that three of Mvskokes verbal tense behave like knowledge predicates. That is, they communicate that the speaker came to the knowledge that the main event took place. If we take the traditional philosophical view that knowledge is justified, true belief, we can derive the evidential inferences that speakers associate with these tenses (e.g. that they witnessed the event). For a belief to be justified, the speaker must have good evidence that their belief is true. As a result, when a Mvskoke speaker uses these tenses, they communicate to their interlocutor that they have very good evidence for believing the proposition they have asserted. This indirectly derives the intuition reported by Mvskoke speakers that using these tenses commits them to having direct (often visual) evidence for the proposition. This data supports a novel analysis of tense-evidential interactions and provides a new way of thinking about the notion of an Evidence Acquisition Time that has been discussed in the semantic literature (Lee 2011, 2013; Smirnova 2013; a.o.).   The second significant result was the discovery of a divide between the nominal uses of Mvskoke Pasts 1 and 2 and the nominal uses of the Mvskokes remote past. In other languages with nominal tenses, there appear to be two main interpretations available: an interpretation meaning roughly the same as English former (e.g. Paraguayan Guarani (Tonhauser 2007) and Mbya Guarani (Thomas 2014)) and an interpretation that seems to indicate a time that the individual described by the noun was relevant to the conversation. This second interpretation, found in Somali (Lecarme 1999, et seq.) and Kipsigis (Kouneli & Ozyildiz 2016), can be roughly translated with the English phrase the (noun) from earlier/ this morning/ yesterday. I call these Discourse Related nominal tenses. Research on Mvskoke's nominal tense reveals that these interpretations correspond to two distinct types of nominal tense. Evidence from Mvskoke reveals that the former-type nominal tenses appear lower in the structure of a noun phrase, exactly as Thomas 2014 analysis of Mbya Guarani predicts. Discourse Related nominal tenses, however, appear higher in the structure of a noun phrase. This enables them to have interpretations that interact with the structure of the discourse/ conversation. Furthermore, although other languages with nominal tenses only have one of these types of nominal tenses, Mvskoke has both. Mvskokes remote past is a lower former-type nominal tense, and Mvskokes Pasts 1 and 2 are Discourse Related nominal tenses. Because of this difference, Mvskoke reveals that the two types of nominal tense can co-occur.   Broader Impacts: As a community-based research project, there were several broader impacts outcomes. First, this project broadened Native American participation in the sciences by involving two students who are enrolled in the Muscogee (Creek) tribe as research assistants. These research assistants are both advanced second language learners of the Mvskoke language and as such received not only training in linguistic research and language documentation software, but were also afforded opportunities to converse with fluent speakers who were otherwise outside their communities. Additionally, these research assistants and a few other second language learners were included in the Mvskoke conversation documentation workshops hosted by the co-PI. These workshops simulated an immersion environment and gave second language learners a chance to converse with fluent speakers. This is particularly important in endangered language communities where the fluent speaker population is smaller and opportunities to use the language are severely restricted.     Last Modified: 11/10/2023       Submitted by: KimberlyCJohnson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of an ultrasmall-, small- and wide-angle x-ray scattering instrument for multidisciplinary advanced materials and soft matter research and education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>611260.00</AwardTotalIntnAmount>
+<AwardAmount>611260</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Guebre Tessema</SignBlockName>
+<PO_EMAI>gtessema@nsf.gov</PO_EMAI>
+<PO_PHON>7032924935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The grand challenge in the field of materials science, and soft materials research in particular, is to generate, customize, and control structure at the various length scales, ranging from nanometers to micrometers. The problem requires sophisticated characterization techniques that can interrogate the internal structure of these materials.  X-ray scattering is a fundamental technique for analyzing the small features and periodicities in soft matter, such as polymers, liquid crystals, colloids and biomaterials. This Major Research Instrumentation award supports the acquisition of a laboratory beamline instrument for measuring ultrasmall-, small- and wide-angle x-ray scattering. This instrument supports the research of more than 24 research teams at Kent State University, the University of Akron, Miami University, and several other universities and research centers in Northeast Ohio and beyond. Research topics includes materials for tissue engineering and understanding processes of multiple sclerosis, sensors that will save the lives of first responders or detect disease as well as materials that help understand cancer processes. Other investigations utilize the instrument to produce groundbreaking insights into plastic recycling and biorenewable plastics that will help save the planet and generate results that will advance our understanding of biogeochemical processes involved in groundwater contamination. The educational component of this project provides benefits to new users, particularly graduate students, and lowers barriers to entry for researchers at interdisciplinary boundaries or small undergraduate institutions who are not traditional users but would benefit from access to a front-line x-ray scattering facility. Outreach activities provide novel STEM activities for K-12 teachers and undergraduate research students and expose them to exciting, cutting-edge materials and the techniques that help analyze them.&lt;br/&gt;&lt;br/&gt;To study the structure of and structural evolution in soft and active matter, composites or mixtures, nanomaterials, minerals, and biogeochemical processes, this project supports the acquisition of a laboratory beamline instrument for measuring ultrasmall-, small- and wide-angle x-ray scattering. At the center of these research thrusts is the recently expanded Advanced Materials and Liquid Crystal Institute (AMLCI) with active research programs in materials chemistry, physics and engineering, active matter, liquid crystals, and polymers. This fully automated and expandable instrument is used to measure features with size scales ranging from about 0.15 nm (i.e. distances between atoms) to 5 microns (about the width of a red blood cell). Investigations include the analysis of structure evolution in polymers, DNA, colloids, swarming bacteria, and organic transistors. Furthermore, this facility enables active and future collaborations at the interface between soft matter and nanoscience. The instrument configuration – featuring an x-ray source, a large sample compartment, and versatile sample manipulation options (heating, cooling, stress, strain, grazing incidence, controlled humidity, polarized microscopy) – is optimized for a wide variety of challenging samples and characterization tasks. The instrument also incorporates two unique features – simultaneous polarized optical microscopy as well as an expansion space between the x-ray source and the sample chamber to permit more challenging sample environments in the future. Finally, these frontier sample manipulation options, co-developed in cooperation with beamline scientists at Brookhaven National Labs and the Advanced Light Source (Berkeley Lab) make this a future-oriented and highly versatile x-ray characterization facility.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017845</AwardID>
+<Investigator>
+<FirstName>Torsten</FirstName>
+<LastName>Hegmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Torsten Hegmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[thegmann@kent.edu]]></EmailAddress>
+<NSF_ID>000614906</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Cavicchi</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME>Dr</PI_SUFX_NAME>
+<PI_FULL_NAME>Kevin A Cavicchi</PI_FULL_NAME>
+<EmailAddress><![CDATA[kac58@uakron.edu]]></EmailAddress>
+<NSF_ID>000104693</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Antal</FirstName>
+<LastName>Jakli</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antal I Jakli</PI_FULL_NAME>
+<EmailAddress><![CDATA[ajakli@kent.edu]]></EmailAddress>
+<NSF_ID>000278048</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Sprunt</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel N Sprunt</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssprunt@kent.edu]]></EmailAddress>
+<NSF_ID>000366964</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Kent State University]]></Name>
+<CityName>KENT</CityName>
+<ZipCode>442420001</ZipCode>
+<PhoneNumber>3306722070</PhoneNumber>
+<StreetAddress><![CDATA[1500 HORNING RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH14</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXNVA7JCC5K6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KENT STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kent State University]]></Name>
+<CityName>Kent</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>442420001</ZipCode>
+<StreetAddress><![CDATA[800 East Summit Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~611260</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF award allowed the Advanced Materials and Liquid Crystal Institute the acquisition of a state-of-the-art X-ray scattering facility. This highly versatile instrument provides critical structural information for polymer, liquid crystal, and biomaterial-based materials research in Northeast Ohio to laboratories at Kent State University, the University of Akron, Cleveland State University, Case Western Reserve University, universities in southern Ontario (Canada), and regional industry partners. Established as a regional service center with a transparent fee structure to ensure maintenance and upkeep costs are supported by the user community for the entire lifespan of this instrument, this X-ray scattering facility allows for a wide range of experimental conditions to suite this wide range of users. Highlights of the instrument configuration include dual beam (Cu, Mo) setup, ultrasmall angle SAXS (USAXS), grazing incidence, polarized optical microscopy insert, 3-D robotic printing in operando tool, temperature-controlled stages (heating/cooling with and without magnetic field alignment option, tensile, shear, and controlled humidity), and dedicated SAXS and WAXS detectors. The in operando 3-D printing and polarized optical microscopy inserts are rather unique capabilities of this AMLCI X-ray scattering facility. Furthermore, this facility has already provided ample opportunities for outreach and education. These include workshops for local high school teachers, KSU-internal as well as NSF-funded summer undergraduate research experiences, and Intel-supported workforce training programs (Intel Summer School and credentials for semiconductor workforce development). Research output has steadily increased over the last three years, particularly once the complex instrument setup was finalized, and now continues to provide critical data for successful beamtime proposal at national synchrotron X-ray facilities.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: Torsten&nbsp;Hegmann</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648746069_IMG_2100--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648746069_IMG_2100--rgov-800width.jpg" title="Instrument front view"><img src="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648746069_IMG_2100--rgov-66x44.jpg" alt="Instrument front view"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This photograph shows the full instrument in frontal view.</div> <div class="imageCredit">Torsten Hegmann</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Torsten&nbsp;Hegmann</div> <div class="imageTitle">Instrument front view</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648162418_Instrumentemptyin-situspace--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648162418_Instrumentemptyin-situspace--rgov-800width.jpg" title="Instrument front view"><img src="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648162418_Instrumentemptyin-situspace--rgov-66x44.jpg" alt="Instrument front view"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image shows the instrument with empty space for in operandi tools like the 3-D printer.</div> <div class="imageCredit">Marianne Prevot</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Torsten&nbsp;Hegmann</div> <div class="imageTitle">Instrument front view</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648303914_Instrumentwith3-Dprinter--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648303914_Instrumentwith3-Dprinter--rgov-800width.jpg" title="Instrument with 3-D printer"><img src="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648303914_Instrumentwith3-Dprinter--rgov-66x44.jpg" alt="Instrument with 3-D printer"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image shows the instrument in frontal view with the 3-D printer in the beam path.</div> <div class="imageCredit">Marianne Prevot</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Torsten&nbsp;Hegmann</div> <div class="imageTitle">Instrument with 3-D printer</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648402357_Instrumentwith3-Dprinter3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648402357_Instrumentwith3-Dprinter3--rgov-800width.jpg" title="Close-up 3-D printer in beam path"><img src="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648402357_Instrumentwith3-Dprinter3--rgov-66x44.jpg" alt="Close-up 3-D printer in beam path"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image shows a close up of the 3-D printer in the beam path.</div> <div class="imageCredit">Marianne Prevot</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Torsten&nbsp;Hegmann</div> <div class="imageTitle">Close-up 3-D printer in beam path</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648523292_withmicroscopeinsidechamberimage--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648523292_withmicroscopeinsidechamberimage--rgov-800width.jpg" title="in chamber polarized microscope"><img src="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648523292_withmicroscopeinsidechamberimage--rgov-66x44.jpg" alt="in chamber polarized microscope"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image, taken by the fish-eye camera inside the sample chamber shows the in vacuo polarized microscope setup.</div> <div class="imageCredit">Marianne Prevot</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Torsten&nbsp;Hegmann</div> <div class="imageTitle">in chamber polarized microscope</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648073219_Instrument2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648073219_Instrument2--rgov-800width.jpg" title="Instrument front view"><img src="/por/images/Reports/POR/2023/2017845/2017845_10685139_1695648073219_Instrument2--rgov-66x44.jpg" alt="Instrument front view"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image shows the complete instrument in front view.</div> <div class="imageCredit">Marianne Prevot</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Torsten&nbsp;Hegmann</div> <div class="imageTitle">Instrument front view</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This NSF award allowed the Advanced Materials and Liquid Crystal Institute the acquisition of a state-of-the-art X-ray scattering facility. This highly versatile instrument provides critical structural information for polymer, liquid crystal, and biomaterial-based materials research in Northeast Ohio to laboratories at Kent State University, the University of Akron, Cleveland State University, Case Western Reserve University, universities in southern Ontario (Canada), and regional industry partners. Established as a regional service center with a transparent fee structure to ensure maintenance and upkeep costs are supported by the user community for the entire lifespan of this instrument, this X-ray scattering facility allows for a wide range of experimental conditions to suite this wide range of users. Highlights of the instrument configuration include dual beam (Cu, Mo) setup, ultrasmall angle SAXS (USAXS), grazing incidence, polarized optical microscopy insert, 3-D robotic printing in operando tool, temperature-controlled stages (heating/cooling with and without magnetic field alignment option, tensile, shear, and controlled humidity), and dedicated SAXS and WAXS detectors. The in operando 3-D printing and polarized optical microscopy inserts are rather unique capabilities of this AMLCI X-ray scattering facility. Furthermore, this facility has already provided ample opportunities for outreach and education. These include workshops for local high school teachers, KSU-internal as well as NSF-funded summer undergraduate research experiences, and Intel-supported workforce training programs (Intel Summer School and credentials for semiconductor workforce development). Research output has steadily increased over the last three years, particularly once the complex instrument setup was finalized, and now continues to provide critical data for successful beamtime proposal at national synchrotron X-ray facilities.           Last Modified: 09/29/2023       Submitted by: Torsten Hegmann]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

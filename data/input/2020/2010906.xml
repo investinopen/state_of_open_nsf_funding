@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: Friend or foe: Neural regulation of dynamic social environments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Integrative Research Investigating the Rules of Life Governing Interactions between Genomes, Environment and Phenotypes. The fellowship supports research and training of the fellow that will contribute to the area of Rules of life in innovative ways. Social behavior is complex, individuals must use external information from a continually changing environment in order to display appropriate behavioral responses. The external social information is then applied within the current social context. Behavioral responses are thus dependent on the situation. This response dependency must also be reflected by predictable patterns within the brain. This research aims to uncover how neural (nervous system) activity orchestrates behavior in a socially and environmentally sensitive way. This work will broaden our understanding of how fundamental social behaviors are coordinated within the brain, while also providing opportunities in research training for undergraduates and high school students of underrepresented minorities.&lt;br/&gt;&lt;br/&gt;This research utilizes the convict cichlid (Amatitlania nigrofasciata) as a study system to establish the rule of life that social behavior is facilitated by predictable interactions of brain areas within the Social Decision-Making Network, specifically those sensitive to social information and those encoding reward. The convict cichlid is ideally suited to address this hypothesis, as this species displays pair bonding and parental care, two behavioral suites which contain both aggressive and affiliative elements. Parents both provision and guard eggs, and mated pairs reinforce their bond through affiliative displays, while also guarding mates against conspecifics. How are both distinct and shared behavioral displays, occurring within and across behavioral suites, regulated within the brain? This research implements compartment analysis of temporal activity by fluorescent in situ hybridization (catFISH) to compare the neuronal response of temporally isolated social stimulus events across four comparisons, within and across behavioral suites: (1a.) parental care (brood provision vs. brood guarding) and 1b.) pair bonding (mate affiliation vs. mate guarding), and second, compares similar behavioral displays, which occur in distinct behavioral suites (similar behavioral displays). 1c.) Brood provisioning vs. mate affiliation (affiliative behavior), and (1d.) brood guarding vs. mate guarding (aggressive behavior). Finally, brain regions will be dissected out and behaviorally active neurons will be tagged and selectively retrieved using ribosomal capture (PhosphoTRAP), in order to uncover the genomic signatures of neurons active in response to each independent stimulus. Hence, through integrating neural circuitry and genomics, this work will further our understating of brain-behavior relationships. The impact of the project will be broadened by involving high school and undergraduate students from underrepresented groups in the research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010906</AwardID>
+<Investigator>
+<FirstName>Ross</FirstName>
+<LastName>DeAngelis</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ross S DeAngelis</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000761659</NSF_ID>
+<StartDate>06/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DeAngelis               Ross           S</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618203176</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121188</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8049</Code>
+<Text>Biology Postdoctoral Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Background</strong></p> <p>Parental care and pair bonding are remarkable examples of how sustained social interactions change the way individuals respond to social and environmental circumstances. These social states are not unitary traits but rather represent a suite of stereotypical behavioral responses. The repertoire of displays can be incredibly diverse but share a common motivational thread. For example, parents often build nests, provide direct provisioning to offspring, and defend offspring from predators. Similarly, pair bonded males and females establish territories, show affection towards one another, and will defend against conspecific threats. Hence both pair bonding and parental care contain elements of affectionate and aggressive behaviors with distinct motivational contexts.</p> <p>&nbsp;</p> <p><strong>Major Activities</strong></p> <p>The outcomes of this NSF fellowship show that the behavioral profiles of pair-bonded and parental animals show a unique behavioral profile which depends on the social context they are in (parental vs. non-parental) and the environmental challenges they face. Pairs defending their offspring from predators are highly aggressive. Both males and females aggress towards potential threats while also providing care to offspring. In contrast pairs defending their mate and territory against conspecific rivals are also highly aggressive but in a more species-specific stereotypical way. Within a pair bonding context, while being affectionate towards one&rsquo;s partner or towards one&rsquo;s offspring share characteristics of pro social behavior the motivational context and behavioral profiles are distinct.</p> <p>&nbsp;</p> <p>Following the characterization of aggressive and affiliative displays across these two social contexts (parental vs. pair-bonding), the activation of dopaminergic neurons in six socially sensitive sub-cortical evolutionarily conserved brain areas was quantified. These include the nucleus accumbens, medial amygdala, preoptic area, ventromedial hypothalamus, ventral tegmentum area, and the periaqueductal grey. Each of the four conditions (mate defense, offspring defense, mate affiliation, partner affiliations) was characterized by a unique pattern of brain region specific dopaminergic activity. &nbsp;Offspring care was reflected by an overall increase in dopaminergic activation across brain areas. Some brain areas like the Nacc, a region associated to social motivation, show difference across all four conditions, others, like the VTA show a state dependent pattern of activity, where parenting is reflected by elevated dopamine activity. These results demonstrate how distinct components of the dopaminergic reward system are engaged in these state dependent social responses.</p> <p>&nbsp;</p> <p>While the dopaminergic system is a major component underlying social motivation, it does not operate in isolation. To garner a more complete picture on the plethora of molecular signaling pathways, cell types, and brain areas involved, single nucleus RNA sequencing and spatial transcriptomics were integrated to compare gene expression difference between two types of parenting behavior, offspring retrieval and offspring defense, with both cellular and brain region specific resolution. Oxytocin and vasopressin, two neuropeptides critical for social bonds and septically parental care were upregulated in the preoptic area during offspring defense, conversely, neuropeptide Y was increased during offspring retrieval. At a cellular level, the expression of candidate genes important in social behavior (e.g., neuropeptides, dopaminergic and opioid signaling, and sex steroid hormones, AO) were dependent not only on experimental treatment but also the specific type of neuron being compared. Additionally, the activity of different neuron types (as indexed by immediate early genes) was dependent on both the experimental treatment and the specific immediate early gene being used to index neural activity. These results illustrate the nuanced complexity of cell type specific neural complexity.</p> <p>&nbsp;</p> <p>Finally, while many animals display shared repertoires of stereotypical behaviors like parenting, pair bonding, and aggression, the extent to which the underlying neural mechanisms regulating these displays are also shared remains contentious. The Social Behavior Network and mesolimbic reward system, later integrated as the Social Decision-Making Network (SDMN), identified a collection of spatially organized socially and motivationally sensitive brain areas though to be evolutionarily conserved across vertebrates. Hence the SDMN provides an important theoretical framework to identify the extent to which individual nodes are homologous and conserved across ~450mm years of vertebrate evolution. Spatial transcriptomics presents and unprecedented opportunity to test this hypothesis by comparing gene expression with known neuroanatomical location at a genome wide scale across taxa. Here, comparisons between brain areas across mice and fish was implemented. This comparison included 10 different brain areas and results suggest similar patterns of gene expression between homologous nodes when compared between mice and fish, supporting the hypothesis of evolutionarily shared origins in the structure of the vertebrate brain.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/18/2023<br> Modified by: Ross&nbsp;S&nbsp;Deangelis</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Background   Parental care and pair bonding are remarkable examples of how sustained social interactions change the way individuals respond to social and environmental circumstances. These social states are not unitary traits but rather represent a suite of stereotypical behavioral responses. The repertoire of displays can be incredibly diverse but share a common motivational thread. For example, parents often build nests, provide direct provisioning to offspring, and defend offspring from predators. Similarly, pair bonded males and females establish territories, show affection towards one another, and will defend against conspecific threats. Hence both pair bonding and parental care contain elements of affectionate and aggressive behaviors with distinct motivational contexts.      Major Activities   The outcomes of this NSF fellowship show that the behavioral profiles of pair-bonded and parental animals show a unique behavioral profile which depends on the social context they are in (parental vs. non-parental) and the environmental challenges they face. Pairs defending their offspring from predators are highly aggressive. Both males and females aggress towards potential threats while also providing care to offspring. In contrast pairs defending their mate and territory against conspecific rivals are also highly aggressive but in a more species-specific stereotypical way. Within a pair bonding context, while being affectionate towards ones partner or towards ones offspring share characteristics of pro social behavior the motivational context and behavioral profiles are distinct.      Following the characterization of aggressive and affiliative displays across these two social contexts (parental vs. pair-bonding), the activation of dopaminergic neurons in six socially sensitive sub-cortical evolutionarily conserved brain areas was quantified. These include the nucleus accumbens, medial amygdala, preoptic area, ventromedial hypothalamus, ventral tegmentum area, and the periaqueductal grey. Each of the four conditions (mate defense, offspring defense, mate affiliation, partner affiliations) was characterized by a unique pattern of brain region specific dopaminergic activity. Offspring care was reflected by an overall increase in dopaminergic activation across brain areas. Some brain areas like the Nacc, a region associated to social motivation, show difference across all four conditions, others, like the VTA show a state dependent pattern of activity, where parenting is reflected by elevated dopamine activity. These results demonstrate how distinct components of the dopaminergic reward system are engaged in these state dependent social responses.      While the dopaminergic system is a major component underlying social motivation, it does not operate in isolation. To garner a more complete picture on the plethora of molecular signaling pathways, cell types, and brain areas involved, single nucleus RNA sequencing and spatial transcriptomics were integrated to compare gene expression difference between two types of parenting behavior, offspring retrieval and offspring defense, with both cellular and brain region specific resolution. Oxytocin and vasopressin, two neuropeptides critical for social bonds and septically parental care were upregulated in the preoptic area during offspring defense, conversely, neuropeptide Y was increased during offspring retrieval. At a cellular level, the expression of candidate genes important in social behavior (e.g., neuropeptides, dopaminergic and opioid signaling, and sex steroid hormones, AO) were dependent not only on experimental treatment but also the specific type of neuron being compared. Additionally, the activity of different neuron types (as indexed by immediate early genes) was dependent on both the experimental treatment and the specific immediate early gene being used to index neural activity. These results illustrate the nuanced complexity of cell type specific neural complexity.      Finally, while many animals display shared repertoires of stereotypical behaviors like parenting, pair bonding, and aggression, the extent to which the underlying neural mechanisms regulating these displays are also shared remains contentious. The Social Behavior Network and mesolimbic reward system, later integrated as the Social Decision-Making Network (SDMN), identified a collection of spatially organized socially and motivationally sensitive brain areas though to be evolutionarily conserved across vertebrates. Hence the SDMN provides an important theoretical framework to identify the extent to which individual nodes are homologous and conserved across ~450mm years of vertebrate evolution. Spatial transcriptomics presents and unprecedented opportunity to test this hypothesis by comparing gene expression with known neuroanatomical location at a genome wide scale across taxa. Here, comparisons between brain areas across mice and fish was implemented. This comparison included 10 different brain areas and results suggest similar patterns of gene expression between homologous nodes when compared between mice and fish, supporting the hypothesis of evolutionarily shared origins in the structure of the vertebrate brain.        Last Modified: 12/18/2023       Submitted by: RossSDeangelis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

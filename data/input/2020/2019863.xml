@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SG: Broadening biodiversity-ecosystem functioning research to include mutualist networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199998.00</AwardTotalIntnAmount>
+<AwardAmount>219920</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Wojdak</SignBlockName>
+<PO_EMAI>jwojdak@nsf.gov</PO_EMAI>
+<PO_PHON>7032928781</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The earth is rapidly losing its biodiversity. The consequences of this biodiversity loss for ecosystem functions that humanity relies on, such as water filtration, carbon storage, and pollination, are not well understood. In experiments done with simplified ecological communities, ecosystem functions can be maintained by a small number of species. However, biodiversity may be more important in nature, where ecological communities are more complex. One aspect of this complexity is that in nature, most species rely on beneficial interactions with other species, or mutualisms. For example, flowering plants need animals such as bees to pollinate them, and pollinators require flowering plants as a source of food (nectar and pollen). Yet to date, these networks of mutualist interactions have largely been left out of research on the importance of biodiversity for ecosystem functioning. Thus, the current predictions for how ecosystem functions will change with biodiversity loss might be overly simplistic. In addition to addressing an issue of critical conservation concern, the proposed work will contribute to training the STEM workforce. &lt;br/&gt;&lt;br/&gt;This research project will bring mutualism into the study of biodiversity and ecosystem function, using native bee species and the pollination they provide to wild plants as a model system. The PI will use data already collected by members of her research group in the Mid-Atlantic USA. In total, the data include 116,000 individual pollinators of 500 species, and 339 plant species. Within each of 49 plant-pollinator networks, the PI will first determine which bee species are the most important pollinators of each plant species. She will then assess how the number of bee species that are needed for the pollination of at least one plant species increases with the number of plant species considered. Thus, the project will reveal how the importance of biodiversity to ecosystem function increases when entire mutualist networks, as opposed to only one or a few target species, are included. Null models that assume random interactions among bee and plant species will be used to separate the components of this increase that are due to stochastic effects from those that are due to biology. Generalities will be sought by comparing results across the 49 networks. An explicit goal of the project is to explore the role of rare species in ecosystem function. Previous studies focused on the function delivered to one or a few species often find that rare species are not important.  However, a bee species that is rare in the overall community might still be an important pollinator of a particular plant, making rare species important to the functioning of the network as a whole. The results of this work will broaden our understanding of biodiversity and its importance to ecosystem functioning in the complex natural world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019863</AwardID>
+<Investigator>
+<FirstName>Rachael</FirstName>
+<LastName>Winfree</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachael Winfree</PI_FULL_NAME>
+<EmailAddress><![CDATA[rwinfree.rutgers@gmail.com]]></EmailAddress>
+<NSF_ID>000301037</NSF_ID>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName/>
+<StateCode>NJ</StateCode>
+<ZipCode>089018551</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1128</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199998</FUND_OBLG>
+<FUND_OBLG>2022~19922</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The biodiversity crisis highlights the importance of understanding how losing plant and animal species will affect the functioning of ecosystems. It has been observed that a small number of very common species often perform the majority of ecosystem services, implying that maintaining functional ecosystems might be possible with low biodiversity. On the other hand, a much larger number of species may be required if different species are needed to provide function in different places or times. In the context of pollination as an ecosystem function, previous research from our lab has determined that many species are indeed needed across large spatial scales, because different pollinator species are present in different areas. The current project was designed to explore this phenomenon across larger time scales, and across networks of multiple plant species.&nbsp;</p> <p>Our work on this project was divided among four research areas:</p> <p>1) quantifying the importance of bee diversity in supporting pollination over multiple years, as opposed to at a single snapshot in time</p> <p>2) quantifying the importance of bee diversity in supporting pollination of a community of plant species, as opposed to a single plant species.</p> <p>3) measuring the importance of rare bee species to pollination of crops and wild plants</p> <p>4) preparation of bee specimen and plant visitation datasets for submission as a data paper</p> <p>To investigate these questions, we developed custom analyses to determine how many species were needed to meet pollination thresholds. We incorporated data from 11 studies describing networks of bee pollinator visits to wild plants, and three studies of bee pollination of crops over time. We found that the number of wild bee species needed to maintain a desired level of crop pollination increased rapidly as longer time scales were considered. Up to three times as many bee species were needed over an entire growing season than on a single day, and twice as many species were needed over six years than in a single year. These results were published in the journal Nature Ecology &amp; Evolution. Similarly, we found that several times more bee species were needed to pollinate a whole community of plant species than were needed to pollinate a single plant species.&nbsp; These results were published in the journal Proceedings of the Royal Society of London. Overall, the findings of both papers demonstrate the importance of pollinator biodiversity to maintaining pollination services across time and across multiple plant species, and thus highlight the importance of biodiversity both to stable agricultural output and to the functioning of natural ecosystems.</p> <p>Our results also suggest that rare species, while contributing a fairly small amount on average, are indeed necessary to achieve pollination requirements in both crops and wild plants communities. In one analysis, we found that a quarter of important bee species were numerically rare, and in another analysis, we found that meeting pollination thresholds required the presence of many rare species in addition to the common ones. Together, this is one of the strongest empirical demonstrations to date of the functional importance of rare species. Our results on rare species were published in our Proceedings of the Royal Society paper and then further explored in an additional paper published in Ecology.</p> <p>Broader Impacts: During the last reporting period of the grant, we have been preparing the data used in this project for publication as a 'Data Paper" that will make our raw data, along with high-quality metadata, publicly available for anyone to use. These data will represent the largest and best-curated collection of wild bee specimens identified to the species level, along with records of what flower species the bees were visiting, for New Jersey and the surrounding region. In addition to enabling further analysis by other researchers, this dataset is of great value for evaluating bee conservation status and informing potential management decisions. A second broader impact is that throughout the grant period, we collaborated with the New Jersey Department of Environmental Protection to share with this government agency our lab's data on the bee species of New Jersey. NJ DEP has used our data to increase the number of bees species indexed for the State on Natureserve (the national online respository for biodiversity information by state) from about 40 to almost 250 species. Based on the bee abundance data contributed by our lab group, NJ DEP has also added many bees to their list of Species of Greatest Conservation Need, which makes them a target for future conservation work. Lastly, this project made an important contribution to building a strong scientific work force through supporting the Postdoctoral Associate through the Covid-impacted faculty job market. Many job postings were cancelled in 2020-2021, but a Covid-19 Suppement Award from NSF allowed this project to support the postdoc until she successfully obtained a tenure-track Assistant Professor position in 2022.</p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Rachael&nbsp;Winfree</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The biodiversity crisis highlights the importance of understanding how losing plant and animal species will affect the functioning of ecosystems. It has been observed that a small number of very common species often perform the majority of ecosystem services, implying that maintaining functional ecosystems might be possible with low biodiversity. On the other hand, a much larger number of species may be required if different species are needed to provide function in different places or times. In the context of pollination as an ecosystem function, previous research from our lab has determined that many species are indeed needed across large spatial scales, because different pollinator species are present in different areas. The current project was designed to explore this phenomenon across larger time scales, and across networks of multiple plant species.   Our work on this project was divided among four research areas:   1) quantifying the importance of bee diversity in supporting pollination over multiple years, as opposed to at a single snapshot in time   2) quantifying the importance of bee diversity in supporting pollination of a community of plant species, as opposed to a single plant species.   3) measuring the importance of rare bee species to pollination of crops and wild plants   4) preparation of bee specimen and plant visitation datasets for submission as a data paper   To investigate these questions, we developed custom analyses to determine how many species were needed to meet pollination thresholds. We incorporated data from 11 studies describing networks of bee pollinator visits to wild plants, and three studies of bee pollination of crops over time. We found that the number of wild bee species needed to maintain a desired level of crop pollination increased rapidly as longer time scales were considered. Up to three times as many bee species were needed over an entire growing season than on a single day, and twice as many species were needed over six years than in a single year. These results were published in the journal Nature Ecology & Evolution. Similarly, we found that several times more bee species were needed to pollinate a whole community of plant species than were needed to pollinate a single plant species. These results were published in the journal Proceedings of the Royal Society of London. Overall, the findings of both papers demonstrate the importance of pollinator biodiversity to maintaining pollination services across time and across multiple plant species, and thus highlight the importance of biodiversity both to stable agricultural output and to the functioning of natural ecosystems.   Our results also suggest that rare species, while contributing a fairly small amount on average, are indeed necessary to achieve pollination requirements in both crops and wild plants communities. In one analysis, we found that a quarter of important bee species were numerically rare, and in another analysis, we found that meeting pollination thresholds required the presence of many rare species in addition to the common ones. Together, this is one of the strongest empirical demonstrations to date of the functional importance of rare species. Our results on rare species were published in our Proceedings of the Royal Society paper and then further explored in an additional paper published in Ecology.   Broader Impacts: During the last reporting period of the grant, we have been preparing the data used in this project for publication as a 'Data Paper" that will make our raw data, along with high-quality metadata, publicly available for anyone to use. These data will represent the largest and best-curated collection of wild bee specimens identified to the species level, along with records of what flower species the bees were visiting, for New Jersey and the surrounding region. In addition to enabling further analysis by other researchers, this dataset is of great value for evaluating bee conservation status and informing potential management decisions. A second broader impact is that throughout the grant period, we collaborated with the New Jersey Department of Environmental Protection to share with this government agency our lab's data on the bee species of New Jersey. NJ DEP has used our data to increase the number of bees species indexed for the State on Natureserve (the national online respository for biodiversity information by state) from about 40 to almost 250 species. Based on the bee abundance data contributed by our lab group, NJ DEP has also added many bees to their list of Species of Greatest Conservation Need, which makes them a target for future conservation work. Lastly, this project made an important contribution to building a strong scientific work force through supporting the Postdoctoral Associate through the Covid-impacted faculty job market. Many job postings were cancelled in 2020-2021, but a Covid-19 Suppement Award from NSF allowed this project to support the postdoc until she successfully obtained a tenure-track Assistant Professor position in 2022.     Last Modified: 12/27/2023       Submitted by: RachaelWinfree]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NNA Track 2: Collaborative Research: Adaptable Microgrids in Arctic Communities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>97170.00</AwardTotalIntnAmount>
+<AwardAmount>97170</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>kate ruck</SignBlockName>
+<PO_EMAI>kruck@nsf.gov</PO_EMAI>
+<PO_PHON>7032928051</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Navigating the New Arctic (NNA) is one of NSF's 10 Big Ideas. NNA projects address convergence scientific challenges in the rapidly changing Arctic. The Arctic research is needed to inform the economy, security and resilience of the Nation, the larger region and the globe. NNA empowers new research partnerships from local to international scales, diversifies the next generation of Arctic researchers, enhances efforts in formal and informal education, and integrates the co-production of knowledge where appropriate. This award fulfills part of that aim by supporting planning activities with clear potential to develop novel, leading edge research ideas and approaches to address NNA goals. It integrates aspects of the built environment and social systems to addresses important societal challenges, builds significant educational opportunities, and engages with local communities. &lt;br/&gt;&lt;br/&gt;Arctic communities currently face environmental and economic changes that threaten their way of life. New ways of designing and building electric power systems might help these communities meet these challenges now and in the future. The goal of this research is to address these challenges by bringing together researchers, rural Alaska energy experts, and local people living in the Arctic. These groups are identifying needs and design research on less expensive, portable, and renewable energy-based electric systems to address changing conditions. The “adaptable microgrid” designs from this work have potential for application in other remote places around the world. The design concepts could also help people build better water and sanitation systems, thus broadening the impact of this project. &lt;br/&gt;&lt;br/&gt;Community-researcher partnerships are central to the development of feasible and socially-accepted models for microgrid design alternatives. The goal of this planning grant is to create these partnerships and build trust with Arctic community members and other rural Alaska energy stakeholders. This is being achieved through the following activities: (1) Formation of a research advisory committee composed of people from regional Alaska Native organizations, regional electric utilities, Alaska-wide renewable energy groups, and the Alaska Native Science and Engineering Program (ANSEP) at the University of Alaska Anchorage; (2) Development of two advisory committee workshops; (3) Convening meetings of the research team with Arctic communities to build relationships and gather initial information; and (4) Development of relationships with Arctic community schools and ANSEP for K-12 education and continuing participatory science projects. These activities are laying the foundation for a research agenda focused on community values on energy use, economic tradeoffs in the design and relocation of infrastructure, demand for electricity by integrated water and sewer systems, and data inputs for optimization modeling. The model output is providing communities with options for building adaptable infrastructure that meets their needs. &lt;br/&gt;.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022587</AwardID>
+<Investigator>
+<FirstName>Kristen</FirstName>
+<LastName>Schell</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristen R Schell</PI_FULL_NAME>
+<EmailAddress><![CDATA[schelk@rpi.edu]]></EmailAddress>
+<NSF_ID>000796870</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rensselaer Polytechnic Institute]]></Name>
+<CityName>Troy</CityName>
+<ZipCode>121803522</ZipCode>
+<PhoneNumber>5182766000</PhoneNumber>
+<StreetAddress><![CDATA[110 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5WBFKEBLMX3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RENSSELAER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rensselaer Polytechnic Institute]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>121803590</ZipCode>
+<StreetAddress><![CDATA[110 8th St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>104Y</Code>
+<Text>NNA-Navigating the New Arctic</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~97170</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Arctic communities facing extreme climate stress, including possible future relocation, might benefit from innovations in utility infrastructure design. The goal of this planning project is to build research relationships in order to study the possibilities of building modular, microgrid electric systems in rural Alaska. The interdisciplinary research team represented the fields of electrical, industrial and systems engineering, public policy, anthropology and economics. The team built an Advisory Committee composed of representatives from regional and state-wide Alaska Native organizations, borough and other Alaska regional government organizations, electric utility representatives, renewable energy initiatives representatives, private sector energy companies, and the Alaska Native science, engineering and mathematics (STEM) outreach organizations. Two Advisory Committee meetings were held. While the focus helped guide the research development, these meetings also enhanced communication between energy stakeholders at the community, state and federal levels.</p> <p>The Advisory Committee representatives advised the team on communities that may be interested in power system upgrades, including modular designs. The research team visited three rural Alaska communities to discuss potential collaboration on a future research project that would be conducted to: understand how at-risk communities use energy and for what; identify economic tradeoffs involved in the design and possible relocation of infrastructure; create engineering computer models for building modular, microgrid systems in Alaska; and present involved communities with costs and plans for their desired energy infrastructure. The research team recruited four community representatives from two rural Alaska communities to partner on the future research project. This future research project has been formally proposed and is currently under review.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/21/2023<br> Modified by: Kristen&nbsp;R&nbsp;Schell</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2022587/2022587_10697226_1703216212957_Wind1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022587/2022587_10697226_1703216212957_Wind1--rgov-800width.jpg" title="Wind"><img src="/por/images/Reports/POR/2023/2022587/2022587_10697226_1703216212957_Wind1--rgov-66x44.jpg" alt="Wind"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Small wind turbines on ridge</div> <div class="imageCredit">Kristen Schell</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kristen&nbsp;R&nbsp;Schell <div class="imageTitle">Wind</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022587/2022587_10697226_1703216311114_Shaktoolik3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022587/2022587_10697226_1703216311114_Shaktoolik3--rgov-800width.jpg" title="Power plant"><img src="/por/images/Reports/POR/2023/2022587/2022587_10697226_1703216311114_Shaktoolik3--rgov-66x44.jpg" alt="Power plant"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Power plant housing</div> <div class="imageCredit">Kristen Schell</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kristen&nbsp;R&nbsp;Schell <div class="imageTitle">Power plant</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Arctic communities facing extreme climate stress, including possible future relocation, might benefit from innovations in utility infrastructure design. The goal of this planning project is to build research relationships in order to study the possibilities of building modular, microgrid electric systems in rural Alaska. The interdisciplinary research team represented the fields of electrical, industrial and systems engineering, public policy, anthropology and economics. The team built an Advisory Committee composed of representatives from regional and state-wide Alaska Native organizations, borough and other Alaska regional government organizations, electric utility representatives, renewable energy initiatives representatives, private sector energy companies, and the Alaska Native science, engineering and mathematics (STEM) outreach organizations. Two Advisory Committee meetings were held. While the focus helped guide the research development, these meetings also enhanced communication between energy stakeholders at the community, state and federal levels.   The Advisory Committee representatives advised the team on communities that may be interested in power system upgrades, including modular designs. The research team visited three rural Alaska communities to discuss potential collaboration on a future research project that would be conducted to: understand how at-risk communities use energy and for what; identify economic tradeoffs involved in the design and possible relocation of infrastructure; create engineering computer models for building modular, microgrid systems in Alaska; and present involved communities with costs and plans for their desired energy infrastructure. The research team recruited four community representatives from two rural Alaska communities to partner on the future research project. This future research project has been formally proposed and is currently under review.        Last Modified: 12/21/2023       Submitted by: KristenRSchell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

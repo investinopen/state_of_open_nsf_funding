@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Simultaneous Remote Measurement of Skin and Sub-skin Temperature for USVs &amp; Buoys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>699330.00</AwardTotalIntnAmount>
+<AwardAmount>699330</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+<PO_EMAI>kbinkley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927577</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Climate change research requires knowledge of the temperature of the ocean right at the surface to estimate the transfer of heat between the air and the water.  This temperature, known as the skin temperature, can be up to a half degree Celsius (about one degree Fahrenheit) cooler than the temperature immediately below, known as the sub-skin temperature. In practice, models rather than measurements of the skin temperature are used since current technology to measure the skin temperature is expensive and complicated.  This technology uses a non-contact sensor known as an infrared radiometer that remotely measures the thermal radiation coming from the ocean. The skin temperature model needs a measure of the temperature just below the surface (known as the sub-skin temperature) in order to accurately predict the skin temperature.  When a ship is used, the sub-skin temperature can be measured by towing a thermometer along the surface.  In the future, measurements will be made from drones, where towing a thermometer is impractical.  This research will use technology improvements and insight from new research to develop an instrument that can measure both the skin and sub-skin temperature from drones, as well as from buoys.&lt;br/&gt;&lt;br/&gt;Current models for the cool skin effect provide adequate skin temperature accuracy for ocean surface fluxes required for climate research.  However, this level of performance is achieved only when the cool skin model is initialized with a contact measurement of very near surface temperature using a towed sensor known as a sea snake.  The advent of reliable unmanned surface vehicles (USVs) has fostered a growing community consensus for the need to make accurate flux measurements autonomously.  Since deployment of a sea snake from USVs is impractical, an alternative means of obtaining very near surface temperature (sub-skin) and/or the skin temperature itself is required to ensure the necessary flux accuracy.  Recent results indicates that accurate infrared (IR) measurements of skin temperature from USVs should now be practical.  Furthermore, these results show that combining an IR camera with a calibrated radiometer system can provide the sub-skin temperature remotely.  This project will develop and test IRISS (InfraRed In situ Skin and Subskin), an innovative IR-based sensor system to remotely and simultaneously measure skin and sub-skin temperature under all weather conditions for routine deployment on USVs and buoys. IRISS will be compact, low-power, and cost effective by exploiting the increased stability of commercially-available sensors and will provide measurements with accuracy comparable to current systems.  The project will include side-by-side comparisons with an existing ship-based system for each intended platform.  Widespread use on USVs and buoys will greatly increase the number and coverage of skin and sub-skin temperature measurements.  The resulting improvements to models for the cool skin and near surface temperature stratification will enhance topical oceanographic research such as gas transfer, address current operational forecast priorities, and improve satellite SST algorithm development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022750</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Jessup</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew T Jessup</PI_FULL_NAME>
+<EmailAddress><![CDATA[jessup@apl.washington.edu]]></EmailAddress>
+<NSF_ID>000323729</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Applied Physics Laboratory]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981056698</ZipCode>
+<StreetAddress><![CDATA[1013 NE 40th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~699330</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The main activity of this grant was to develop IRISS (InfraRed In situ Sea Surface), an innovative infrared-based sensor system to remotely measure the ocean surface skin temperature, <em>T<sub>skin</sub></em>. The simplified design allows measurements in rain and spray and can be deployed on USVs (Uncrewed Surface Vehicles) and buoys. IRISS was designed to be compact, low-power, and cost effective by exploiting the increased stability of commercially-available sensors. Extensive field comparisons to the Remote Ocean Radiometer System (ROSR) were used to demonstrate the design goal that IRISS provides measurements with accuracy of &plusmn; 0.10 &deg;C, which is comparable to current systems.&nbsp; A secondary activity was to install and evaluate an uncalibrated version of IRISS on a USV known as a saildrone.</p> <p>The accuracy of the IRISS is assessed by plotting <em>T<sub>skin</sub></em> for IRISS versus ROSR9 in Figure 1. The IRISS <em>T<sub>skin</sub></em> also is well correlated with the ROSR9 <em>T<sub>skin</sub></em> with a mean difference of 0.00 &deg;C and a standard deviation and root-mean-square difference (rms) of 0.09 &deg;C. This comparison demonstrates that IRISS provides accuracy comparable to that of the ROSR and by extension other systems that have demonstrated the accuracy of approximately +/- 0.1 &deg;C necessary for climate research.</p> <p>During a research cruise, the ship carrying IRISS was very close to the saildrones during a five-hour period. The simultaneous ship and saildrone tracks shown in Figure 2, color-coded by the respectively measured <em>T<sub>skin</sub></em>. The ship (dashed line) moved in a zig-zag pattern beside the saildrone (solid line) because the saildrones were moving at a slower speed than the ship could maintain. The temperature varied over a range of approximately 2 &deg;C along the track from northeast to southwest. The scatter plot in Figure3 &nbsp;of the simultaneous measurements show they are well correlated with a mean difference of -0.05 &deg;C, standard deviation of 0.10 &deg;C, and rms difference of 0.11&deg;C. Time series of skin and bulk temperature from ROSR9 (solid) and SD-1085 (dashed) are shown in Figure 4. The skin temperatures are in black lines and the bulk temperatures are in red.</p> <p>The importance of accurate measurements of<em> T<sub>skin</sub></em> is increasingly recognized for estimating heat fluxes for climate modeling, improving the accuracy of air-sea gas exchange, understanding the effect of rain on near-surface salinity, and improving operational forecast models. In the past, the small number of ship-based IR radiometer systems and their typical deployment on specific cruises have resulted in a relatively limited number of observations. The availability of routine and continuous <em>T<sub>skin</sub> </em>measurements using IRISS is potentially transformational because it would significantly increase the amount of data available for application to these areas of research that have important benefits to society.</p><br> <p>  Last Modified: 01/21/2024<br> Modified by: Andrew&nbsp;T&nbsp;Jessup</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875246706_Figure_1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875246706_Figure_1--rgov-800width.png" title="Figure 1"><img src="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875246706_Figure_1--rgov-66x44.png" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1. Comparison of T?skin for IRISS vs ROSR9 showing similarly good correlation with a mean difference of 0.00 &#61616;C and a standard deviation and root-mean-square difference (rms) of 0.09 &#61616;C. This result shows that the IRISS accuracy is comparable to that of the ROSR.</div> <div class="imageCredit">Jessup</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Jessup <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875463783_Figure_4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875463783_Figure_4--rgov-800width.png" title="Figure 4"><img src="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875463783_Figure_4--rgov-66x44.png" alt="Figure 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 4. Time series of skin and bulk temperature from ROSR9 (solid) and SD-1085 (dashed). The skin temperatures are in black lines and the bulk temperatures are in red.</div> <div class="imageCredit">Jessup</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Jessup <div class="imageTitle">Figure 4</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875378389_Figure_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875378389_Figure_2--rgov-800width.png" title="Figure 2"><img src="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875378389_Figure_2--rgov-66x44.png" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2. Ship R/V Bold Horizon and saildrone SD-1085 track during a five-hour period when they remained less than 1.2 km apart. Ship tracks are color code by Tskin.</div> <div class="imageCredit">Jessup</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Jessup <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875426685_Figure_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875426685_Figure_3--rgov-800width.png" title="FIgure 3"><img src="/por/images/Reports/POR/2024/2022750/2022750_10689061_1705875426685_Figure_3--rgov-66x44.png" alt="FIgure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3. Scatter plot of data simultaneous measurements with a mean difference of -0.05 &#61616;C, standard deviation of 0.10 &#61616;C, and rms difference of 0.11&#61616;C.</div> <div class="imageCredit">Jessup</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Jessup <div class="imageTitle">FIgure 3</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The main activity of this grant was to develop IRISS (InfraRed In situ Sea Surface), an innovative infrared-based sensor system to remotely measure the ocean surface skin temperature, Tskin. The simplified design allows measurements in rain and spray and can be deployed on USVs (Uncrewed Surface Vehicles) and buoys. IRISS was designed to be compact, low-power, and cost effective by exploiting the increased stability of commercially-available sensors. Extensive field comparisons to the Remote Ocean Radiometer System (ROSR) were used to demonstrate the design goal that IRISS provides measurements with accuracy of  0.10 C, which is comparable to current systems. A secondary activity was to install and evaluate an uncalibrated version of IRISS on a USV known as a saildrone.   The accuracy of the IRISS is assessed by plotting Tskin for IRISS versus ROSR9 in Figure 1. The IRISS Tskin also is well correlated with the ROSR9 Tskin with a mean difference of 0.00 C and a standard deviation and root-mean-square difference (rms) of 0.09 C. This comparison demonstrates that IRISS provides accuracy comparable to that of the ROSR and by extension other systems that have demonstrated the accuracy of approximately +/- 0.1 C necessary for climate research.   During a research cruise, the ship carrying IRISS was very close to the saildrones during a five-hour period. The simultaneous ship and saildrone tracks shown in Figure 2, color-coded by the respectively measured Tskin. The ship (dashed line) moved in a zig-zag pattern beside the saildrone (solid line) because the saildrones were moving at a slower speed than the ship could maintain. The temperature varied over a range of approximately 2 C along the track from northeast to southwest. The scatter plot in Figure3 of the simultaneous measurements show they are well correlated with a mean difference of -0.05 C, standard deviation of 0.10 C, and rms difference of 0.11C. Time series of skin and bulk temperature from ROSR9 (solid) and SD-1085 (dashed) are shown in Figure 4. The skin temperatures are in black lines and the bulk temperatures are in red.   The importance of accurate measurements of Tskin is increasingly recognized for estimating heat fluxes for climate modeling, improving the accuracy of air-sea gas exchange, understanding the effect of rain on near-surface salinity, and improving operational forecast models. In the past, the small number of ship-based IR radiometer systems and their typical deployment on specific cruises have resulted in a relatively limited number of observations. The availability of routine and continuous Tskin measurements using IRISS is potentially transformational because it would significantly increase the amount of data available for application to these areas of research that have important benefits to society.     Last Modified: 01/21/2024       Submitted by: AndrewTJessup]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

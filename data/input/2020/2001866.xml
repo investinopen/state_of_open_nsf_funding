@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Measuring Rayleigh Scattering of the Cosmic Microwave Background with CCAT-prime]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Prestwich</SignBlockName>
+<PO_EMAI>aprestwi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922210</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Steve Choi is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at Cornell University.  He will play a lead role in developing and deploying an instrument to measure the scattering of cosmic microwave background (CMB) photons by hydrogen atoms in space.  The measurements will advance our understanding of the physics of the early universe.  Along with this research, he will conduct physics enrichment activities for underserved elementary school kids.&lt;br/&gt;&lt;br/&gt;This project will test and integrate arrays of kinetic inductance detectors on the CCAT-prime telescope under construction in the Atacama Desert.   The arrays will allow measurements of Rayleigh scattering of CMB photons, which depends on the frequency of the photons, and is thus a potentially more sensitive probe of CMB anisotropies than Thomson scattering.  The measurements could significantly improve constraints on cosmological observables including the number of relativistic species, the current expansion rate of the universe, and the mass sum of neutrinos.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001866</AwardID>
+<Investigator>
+<FirstName>Steve</FirstName>
+<LastName>Choi</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steve K Choi</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000813093</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Choi, Steve K</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>14850</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148533501</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<FUND_OBLG>2021~100000</FUND_OBLG>
+<FUND_OBLG>2022~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-30e4bad3-7fff-673c-906f-c39af7c55e53"> </span></p> <p dir="ltr"><span>This NSF award, spanning from 2020 to 2023, played a pivotal role in advancing the development of detector and readout technologies crucial for CCAT, an upcoming astronomical observatory focused on elucidating the formation of the first stars and galaxies as well as the birth of the universe. With a new six-meter telescope, the CCAT Observatory aims to measure the properties of early galaxies and the oldest light from the Big Bang, known as the cosmic microwave background. These faint cosmic signals pose a significant observational challenge, and the new detectors and readout technologies resulting from this award are designed to provide the necessary sensitivities for characterizing them precisely.&nbsp;</span></p> <p dir="ltr"><span>Key advancements include the development of kinetic inductance detector (KID) arrays sensitive to 280 GHz light. Currently, more than 10,000 KIDs have been constructed and are undergoing testing, on track to be some of the most sensitive 280 GHz sensors ever built. The demand for large-format detector arrays is imperative for achieving cutting-edge sensitivities aligned with CCAT's scientific goals. Moreover, this award has informed the design of additional KID arrays sensitive to different frequencies, with over 67,000 detectors now in development for CCAT. The growing detector count necessitates robust readout systems, and this award has contributed to the laboratory demonstrations of new systems that can efficiently read out the detectors while meeting stringent sensitivity requirements. In summary, CCAT is poised to make some of the most precise submillimeter measurements in this decade using large arrays of state-of-the-art detectors.&nbsp;</span></p> <p dir="ltr"><span>Additionally, this award supported the Ithaca Physics Bus, a mobile exhibition designed to showcase various physics phenomena. The bus, through engaging demonstrations and exhibitions, has been instrumental in reaching local academies and elementary schools that primarily serve students from socio-economically disadvantaged backgrounds. The Physics Bus events have provided over 1,000 underserved young students with opportunities to experience physics firsthand, covering a range of topics from electromagnetism and rocket science to astrophysics.&nbsp;</span></p> <p dir="ltr"><span>These achievements underline the transformative impact of the NSF grant, which not only advanced cutting-edge technology for astronomical observations but also contributed to science outreach and education in the local community. The NSF support was integral in achieving these milestones, and the outcomes of this award will likely have far-reaching implications for the fields of cosmology and submillimeter astrophysics.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/10/2024<br> Modified by: Steve&nbsp;K&nbsp;Choi</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This NSF award, spanning from 2020 to 2023, played a pivotal role in advancing the development of detector and readout technologies crucial for CCAT, an upcoming astronomical observatory focused on elucidating the formation of the first stars and galaxies as well as the birth of the universe. With a new six-meter telescope, the CCAT Observatory aims to measure the properties of early galaxies and the oldest light from the Big Bang, known as the cosmic microwave background. These faint cosmic signals pose a significant observational challenge, and the new detectors and readout technologies resulting from this award are designed to provide the necessary sensitivities for characterizing them precisely.   Key advancements include the development of kinetic inductance detector (KID) arrays sensitive to 280 GHz light. Currently, more than 10,000 KIDs have been constructed and are undergoing testing, on track to be some of the most sensitive 280 GHz sensors ever built. The demand for large-format detector arrays is imperative for achieving cutting-edge sensitivities aligned with CCAT's scientific goals. Moreover, this award has informed the design of additional KID arrays sensitive to different frequencies, with over 67,000 detectors now in development for CCAT. The growing detector count necessitates robust readout systems, and this award has contributed to the laboratory demonstrations of new systems that can efficiently read out the detectors while meeting stringent sensitivity requirements. In summary, CCAT is poised to make some of the most precise submillimeter measurements in this decade using large arrays of state-of-the-art detectors.   Additionally, this award supported the Ithaca Physics Bus, a mobile exhibition designed to showcase various physics phenomena. The bus, through engaging demonstrations and exhibitions, has been instrumental in reaching local academies and elementary schools that primarily serve students from socio-economically disadvantaged backgrounds. The Physics Bus events have provided over 1,000 underserved young students with opportunities to experience physics firsthand, covering a range of topics from electromagnetism and rocket science to astrophysics.   These achievements underline the transformative impact of the NSF grant, which not only advanced cutting-edge technology for astronomical observations but also contributed to science outreach and education in the local community. The NSF support was integral in achieving these milestones, and the outcomes of this award will likely have far-reaching implications for the fields of cosmology and submillimeter astrophysics.             Last Modified: 01/10/2024       Submitted by: SteveKChoi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

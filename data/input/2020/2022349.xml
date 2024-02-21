@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Reinforcement Learning for Guidance and Control of Spacecraft]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is a coupled guidance and control flight software solution that enables multi-spacecraft systems to be truly autonomous in their station-keeping and self-distribution. The proposed innovation is for a deep reinforcement learning (DRL) agent to learn how to autonomously determine and command maneuvers that yield a desired spacecraft formation. The proposed project could reduce customers’ cost of operations by removing humans from the closed loop control system. The proposed innovation scales to systems of large numbers of spacecraft without scaling the cost of flight operations. Other potential benefits to customers are risk reductions: a DRL agent does not require an exact model of spacecraft subsystems and orbital dynamics and can learn in real-time, thus being robust to off-nominal system performance and unexpected perturbations. Benefits of this project may include a DRL agent discovering novel guidance and control solutions for mission designs that are not known from legacy orbital dynamics approaches. Potential broader societal impacts include enabling Deep Space Gateway operations and science missions to sample in-situ, simultaneous measurements over a large area, resulting in valuable science data returns for research or commercial applications in Earth orbit or deep space.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will demonstrate the technical feasibility of implementing DRL as a solution for truly autonomous spacecraft guidance and control. The challenge motivating this project is the control of multi-spacecraft systems, where maneuver planning is neither intuitive nor straightforward due to the nonlinear equations of relative motion. Historically, solutions are found by making simplifying assumptions of circular orbits and linearized equations of relative motion. Such assumptions are avoided in this research plan. The primary research objective is to train a DRL agent using the high-fidelity model of NASA’s General Mission Analysis Tool (GMAT). First, the problem of achieving a particular formation or distribution will be formulated as a Markov Decision Process. Next, software infrastructure will be developed using TensorFlow, Python, and GMAT. Within this framework, the DRL agent will be trained to learn a policy that maneuvers the spacecraft into a specified formation, subject to operations constraints like available propellant and actuation limits. Anticipated technical results include comparisons of on-policy versus off-policy approaches to achieving coordinated spacecraft mission, demonstration of the technical feasibility of DRL-based flight software for guidance and control, and a characterization of the limitations of DRL-based control.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022349</AwardID>
+<Investigator>
+<FirstName>Tracie</FirstName>
+<LastName>Conn</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tracie R Conn</PI_FULL_NAME>
+<EmailAddress><![CDATA[tracie@orbital-ai.com]]></EmailAddress>
+<NSF_ID>000820937</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ORBITAL AI LLC</Name>
+<CityName>GROSSE POINTE WOODS</CityName>
+<ZipCode>482361165</ZipCode>
+<PhoneNumber>5129139202</PhoneNumber>
+<StreetAddress>903 S ROSEDALE CT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YU7RXJXLEFK6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ORBITAL AI LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ORBITAL AI LLC]]></Name>
+<CityName>Grosse Pointe Woods</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>482361165</ZipCode>
+<StreetAddress><![CDATA[903 S Rosedale Ct]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The objective of the project was to design, train, and test a Deep Reinforcement Learning (DRL) agent to achieve swarm formation flying missions. DRL is a type of Machine Learning (ML) where we seek to train an agent to achieve a goal. We followed the standard Markov Decision Process framework and designed a spacecraft simulation test environment, DRL agent algorithms, and overarching Jupyter notebooks that managed training and testing our models. We designed and implemented several reward signals for various swarm mode types, ranging from a simple target-chaser mode to a more complicated &ldquo;fishbowl&rdquo; swarm. The software modules and process flowchart that we designed are shown in Figure 1. The pseudocode flowchart for how the DRL agent gains experience in the simulated environment is shown in Figure 2 and the pseudocode for how models are trained and tested is shown in Figure 3.</p> <p><br />Central to this project was the design and implementation of the DRL agent itself. Feedback from our customer interviews dictated the use of deterministic policies for predictable actions. We applied two state-of-the-art actor/critic network models: Deep Deterministic Policy Gradient (DDPG), and Twin Delayed Deep Deterministic Policy Gradients (TD3). Both model types were tested extensively and hyperparameters were tuned via ablation studies. We followed software best practices including: GitHub repo for version control of source code, adherence to a coding standard, documentation, package management with Conda, etc.</p> <p><br />Analysis of our prototype DRL models confirms that the agent is able to &ldquo;learn&rdquo; the maneuvers to complete a Hohmann transfer orbit. While this orbit has a well known solution in orbital mechanics, <span style="text-decoration: underline;"><em>it demonstrates that a machine learning algorithm &ldquo;finds&rdquo; the solution we know to be optimal, without prior knowledge of the physics of spacecraft dynamics or knowledge of the oblate Earth&rsquo;s gravitational field. </em></span>A Monte Carlo simulation study was performed to evaluate the performance of the trained agent. The initial location of the spacecraft on the starting circular orbit was sampled from a uniform distribution to conduct 50,000 simulation runs. Our results show that the agent is able to conduct the orbit transfer within the tolerances set during training 100% of the time. This gave confidence that our framework and source code is appropriate for studying more complex spacecraft swarm guidance and control scenarios.</p> <p><br />The fishbowl swarm configuration is defined as multiple spacecraft moving around a defined &ldquo;center&rdquo; spacecraft, where the spacecraft can drift in relative motion but must stay within a defined radius from the center of the swarm. The spacecraft must make maneuvers to stay within this defined virtual boundary, but cannot move so close to another spacecraft as to risk collision. We performed numerous ablation studies to optimize the performance of the DRL agent to control a fishbowl swarm, both with the DDPG and TD3 approaches. Results of our initial ablation studies demonstrate that our first prototype guidance and control models have success for simpler spacecraft swarm configurations. As the number of spacecraft and constraints increase, however, simulations show the agent has a more difficult time &ldquo;learning&rdquo; the desired goal. Training can be unstable or take millions of experiences to gain traction. Applying state-of-the-art techniques, such as normalization and hindsight experience replay, may improve performance, but extensive ablation studies are still required to find the optimal hyperparameters and network architectures to manage larger spacecraft swarm systems.</p> <p><br />Another outcome from this project included clearer understanding of customers' needs. Customers want more than a modular guidance and control software system; they are looking towards future missions where the multi-spacecraft system is &ldquo;truly intelligent,&rdquo; where the system can self-diagnose problems, be self-reliant, react to real-time in-situ conditions, coordinate to perform a commanded task, and be commanded by other AI-based models to optimize data collection, all without intervention from human flight controllers on Earth. Customers are not interested in discussing the many interesting and novel algorithms that exist only in the research/academic space. Rather, customers require that ML solutions are demonstrated to perform on the computationally constrained compute platforms of CubeSats. Therefore, performance for any ML product we develop must be demonstrated on a &ldquo;digital twin&rdquo; with testing, validation and verification in high-fidelity simulation.</p> <p><br />Our assumption that customers wanted a software application that runs autonomously onboard the spacecraft was incorrect. There are several use cases where customers would be happy with an autonomous guidance and control system that runs on computers on the ground (i.e. at the mission operations center). The tool could be used throughout the mission design and planning process, and then run on the ground during real-time mission operations. In fact, humans-in-the-loop would be acceptable for initial verification or even for the delivered product, if it meant that the maneuver planning process could be sped up faster than what is required today.</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/06/2024<br> Modified by: Tracie&nbsp;R&nbsp;Conn</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278452261_Figure_3_Training_Testing_Pseudocode--rgov-214x142.png" original="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278452261_Figure_3_Training_Testing_Pseudocode--rgov-800width.png" title="Model Training and Testing Pseudocode"><img src="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278452261_Figure_3_Training_Testing_Pseudocode--rgov-66x44.png" alt="Model Training and Testing Pseudocode"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The pseudocode for how models are trained and tested is shown in Figure 3.</div> <div class="imageCredit">Tracie Conn</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Tracie&nbsp;R&nbsp;Conn <div class="imageTitle">Model Training and Testing Pseudocode</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278397459_Figure_2_GMAT_sat_state_propagation_for_MDP_flowchart--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278397459_Figure_2_GMAT_sat_state_propagation_for_MDP_flowchart--rgov-800width.jpg" title="GMAT satellite state propagation for MDP flowchart"><img src="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278397459_Figure_2_GMAT_sat_state_propagation_for_MDP_flowchart--rgov-66x44.jpg" alt="GMAT satellite state propagation for MDP flowchart"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The pseudocode flowchart for how the DRL agent gains experience in the simulated environment is shown in Figure 2.</div> <div class="imageCredit">Tracie Conn</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Tracie&nbsp;R&nbsp;Conn <div class="imageTitle">GMAT satellite state propagation for MDP flowchart</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278336028_Figure_1_Training_and_Testing_in_Simulation_Flow_Chart--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278336028_Figure_1_Training_and_Testing_in_Simulation_Flow_Chart--rgov-800width.jpg" title="Training and Testing in Simulation Flow Chart"><img src="/por/images/Reports/POR/2024/2022349/2022349_10692735_1707278336028_Figure_1_Training_and_Testing_in_Simulation_Flow_Chart--rgov-66x44.jpg" alt="Training and Testing in Simulation Flow Chart"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The software modules and process flowchart that we designed are shown in Figure 1.</div> <div class="imageCredit">Tracie Conn</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Tracie&nbsp;R&nbsp;Conn <div class="imageTitle">Training and Testing in Simulation Flow Chart</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The objective of the project was to design, train, and test a Deep Reinforcement Learning (DRL) agent to achieve swarm formation flying missions. DRL is a type of Machine Learning (ML) where we seek to train an agent to achieve a goal. We followed the standard Markov Decision Process framework and designed a spacecraft simulation test environment, DRL agent algorithms, and overarching Jupyter notebooks that managed training and testing our models. We designed and implemented several reward signals for various swarm mode types, ranging from a simple target-chaser mode to a more complicated fishbowl swarm. The software modules and process flowchart that we designed are shown in Figure 1. The pseudocode flowchart for how the DRL agent gains experience in the simulated environment is shown in Figure 2 and the pseudocode for how models are trained and tested is shown in Figure 3.    Central to this project was the design and implementation of the DRL agent itself. Feedback from our customer interviews dictated the use of deterministic policies for predictable actions. We applied two state-of-the-art actor/critic network models: Deep Deterministic Policy Gradient (DDPG), and Twin Delayed Deep Deterministic Policy Gradients (TD3). Both model types were tested extensively and hyperparameters were tuned via ablation studies. We followed software best practices including: GitHub repo for version control of source code, adherence to a coding standard, documentation, package management with Conda, etc.    Analysis of our prototype DRL models confirms that the agent is able to learn the maneuvers to complete a Hohmann transfer orbit. While this orbit has a well known solution in orbital mechanics, it demonstrates that a machine learning algorithm finds the solution we know to be optimal, without prior knowledge of the physics of spacecraft dynamics or knowledge of the oblate Earths gravitational field. A Monte Carlo simulation study was performed to evaluate the performance of the trained agent. The initial location of the spacecraft on the starting circular orbit was sampled from a uniform distribution to conduct 50,000 simulation runs. Our results show that the agent is able to conduct the orbit transfer within the tolerances set during training 100% of the time. This gave confidence that our framework and source code is appropriate for studying more complex spacecraft swarm guidance and control scenarios.    The fishbowl swarm configuration is defined as multiple spacecraft moving around a defined center spacecraft, where the spacecraft can drift in relative motion but must stay within a defined radius from the center of the swarm. The spacecraft must make maneuvers to stay within this defined virtual boundary, but cannot move so close to another spacecraft as to risk collision. We performed numerous ablation studies to optimize the performance of the DRL agent to control a fishbowl swarm, both with the DDPG and TD3 approaches. Results of our initial ablation studies demonstrate that our first prototype guidance and control models have success for simpler spacecraft swarm configurations. As the number of spacecraft and constraints increase, however, simulations show the agent has a more difficult time learning the desired goal. Training can be unstable or take millions of experiences to gain traction. Applying state-of-the-art techniques, such as normalization and hindsight experience replay, may improve performance, but extensive ablation studies are still required to find the optimal hyperparameters and network architectures to manage larger spacecraft swarm systems.    Another outcome from this project included clearer understanding of customers' needs. Customers want more than a modular guidance and control software system; they are looking towards future missions where the multi-spacecraft system is truly intelligent, where the system can self-diagnose problems, be self-reliant, react to real-time in-situ conditions, coordinate to perform a commanded task, and be commanded by other AI-based models to optimize data collection, all without intervention from human flight controllers on Earth. Customers are not interested in discussing the many interesting and novel algorithms that exist only in the research/academic space. Rather, customers require that ML solutions are demonstrated to perform on the computationally constrained compute platforms of CubeSats. Therefore, performance for any ML product we develop must be demonstrated on a digital twin with testing, validation and verification in high-fidelity simulation.    Our assumption that customers wanted a software application that runs autonomously onboard the spacecraft was incorrect. There are several use cases where customers would be happy with an autonomous guidance and control system that runs on computers on the ground (i.e. at the mission operations center). The tool could be used throughout the mission design and planning process, and then run on the ground during real-time mission operations. In fact, humans-in-the-loop would be acceptable for initial verification or even for the delivered product, if it meant that the maneuver planning process could be sped up faster than what is required today.        Last Modified: 02/06/2024       Submitted by: TracieRConn]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ASCENT: Collaborative Research: Scaling Distributed AI Systems based on Universal Optical I/O]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>325000.00</AwardTotalIntnAmount>
+<AwardAmount>325000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032928113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Our society is rapidly becoming reliant on neural networks based artificial intelligence computation. New algorithms are invented daily, increasing the memory and computational requirements for both inference and training. This explosive growth has created an enormous demand for distributed machine learning (ML) training and inference. Estimates by OpenAI illustrate the steady growth of computational requirements of 100x every two years since 2012, which is a 50x faster than the rate of computation improvements enabled previously through Moore’s Law of semiconductor industry that we have enjoyed in the last half-century. This new computation demand has been partly met by rapid development of hardware accelerators and software stacks to support these specialized computations. Hardware accelerators have provided a significant amount of speed-up but today’s training tasks can still take days and even weeks. The reason for this: as the number of workers (e.g. compute nodes) increases, the computation time per worker decreases, but the communication requirements between the nodes increase, creating a bottleneck in the interconnect between the compute nodes. Future distributed ML systems will require 1-2 orders of magnitude higher interconnect bandwidth per node, creating a pressing need for entirely new ways to build interconnects for distributed ML systems. This proposal aims to create a new paradigm for scaling distributed ML computation, by developing a scalable interconnect solution based on advancing the integrated electronics and photonics technology that enables direct node-to-node optical fiber connectivity. The proposed cross-stack collaborative multi-disciplinary work will enable the education and training of a unique crop of engineers and scientists that cross the boundaries of machine learning, networking, and electronic-photonic systems and devices, which are in severe demand. The principal investigators have an established track record of direct engagement with high-school students providing summer internships at Berkeley Wireless Research Center and MIT’s Women’s Technology Program, as well as exemplary undergraduate research activities at Boston University. The educational and outreach activities the PIs have put in place will ensure early exposure and continued training of new generation of leaders in this field, from K-12, through undergraduate and graduate studies, and continuing workforce education, with special focus on underrepresented students.&lt;br/&gt;&lt;br/&gt;The interconnect has emerged as the key bottleneck in enabling the full potential of distributed ML. Future ML workloads are likely to require tens of Tbps of bandwidth per device. Ubiquitous deployment of logically-connected, physically distributed computation across shelf, rack and row scale can only be enabled by a new universal I/O that enables socket to socket communication at the energy, latency and bandwidth density of in-package interconnects. No such technology currently exists. Silicon-photonics based optical I/O has the potential to address this critical challenge, but fundamental advances–from chip manufacturing to routing algorithms–are still needed to ensure the scalability of these interconnect systems. To enable high-bandwidth density and energy-efficiency, dense wavelength division multiplexing must be used. High-efficiency ring resonator-based modulators and comb laser sources are needed to enable Tbps rates over each fiber connection and socket bandwidth scaling from 10s to 100s of Tbps. New link architectures like the proposed laser-forwarded coherent link are needed to enable high-efficiency external centralized comb laser sources with modest (sub-mW) power per wavelength per fiber port. The proposed work will also develop new scheduling algorithms, network architectures, and workload parallelism strategy to leverage the bandwidth density and low-latency of the universal optical I/O, to map large AI workloads with massive datasets to a scalable distributed compute system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023468</AwardID>
+<Investigator>
+<FirstName>Manya</FirstName>
+<LastName>Ghobadi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manya Ghobadi</PI_FULL_NAME>
+<EmailAddress><![CDATA[ghobadi@mit.edu]]></EmailAddress>
+<NSF_ID>000791554</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName/>
+<StateCode>MA</StateCode>
+<ZipCode>021394309</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>133Y</Code>
+<Text>ASCENT-Address-Chalg-Eng-Teams</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~325000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-965e327a-7fff-bbc0-4c10-94fd3f5031ef"> <p dir="ltr"><span>Project outcomes report:</span></p> <p dir="ltr"><span>This project aimed to create a set of technologies -- from applications and computation architectures to electronic-photonic links and new fundamental device components -- all optimized to enable scaling distributed ML computation problems. The work blended the innovation synergistically across the levels of design hierarchy, building on the capabilities of breakthrough photonic device and link technologies to create transformative compute platforms.&nbsp;</span></p> <p dir="ltr"><span>Our objectives were: (1) to lay the foundation for the scalable distributed ML platform based on photonic I/O interconnects; (2) develop underlying link device and circuit components that demonstrate the scaling potential of photonic I/Os; and (3) to build a new collaboration between four groups with leading expertise in photonic device design, electronic-photonic link design and integration, and distributed compute system design, to take this vision, and developed toolkits, forward to continue the innovations required to meet the computational demands of continuously developing ML applications and algorithms.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>The contributions of this project lie in the development of photonic components, interconnect circuits and architectural framework, to realize a scalable distributed ML computational platform:</span></p> <p dir="ltr"><span>1) We have developed the simulation frameworks for large-scale distributed machine learning (Rostam) as well as associated hardware experiments, which enabled the development of the new silicon-photonic fabric topologies tailored for machine learning systems (SiP-ML) and associated optimization frameworks (TopoOpt). The SiP-ML interconnect framework that was developed and evaluated reported speed ups up to 9.1x on large GPU clusters (scale 1024 GPUs). This represents a breakthrough justifying the use of silicon-photonic chiplet interconnects in AI/ML applications at scale; 2) Two chips were designed and fabricated in the high-volume monolithic electronic-photonic process platform, with novel devices and link sub-blocks for this ASCENT project. Chip 1: ring-based transmitters (driver and modulators) and phase-tracking coherent receivers; and Chip 2: electro-optic receiver ring-tuning (single-ring, WDM ring designs of experiments, and WDM ring receiver with backend electronics).&nbsp; A number of novel devices were designed and characterized, and papers published on the results. The infrastructure for the link experiments based on these chips has been set up demonstrating link-level sub-system functionality.</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>This project involved students ranging from undergraduate to MS and PhD level, and exposed them to the multidisciplinary nature of research &ndash; from new electronic-photonic process platforms and design tools, to novel photonic device and circuit designs, link architectures to network topologies and machine-learning algorithms, enabled by the cross-stack approach of the ASCENT program.</span></p> <br /></span></p> <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Manya&nbsp;Ghobadi</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     Project outcomes report:   This project aimed to create a set of technologies -- from applications and computation architectures to electronic-photonic links and new fundamental device components -- all optimized to enable scaling distributed ML computation problems. The work blended the innovation synergistically across the levels of design hierarchy, building on the capabilities of breakthrough photonic device and link technologies to create transformative compute platforms.   Our objectives were: (1) to lay the foundation for the scalable distributed ML platform based on photonic I/O interconnects; (2) develop underlying link device and circuit components that demonstrate the scaling potential of photonic I/Os; and (3) to build a new collaboration between four groups with leading expertise in photonic device design, electronic-photonic link design and integration, and distributed compute system design, to take this vision, and developed toolkits, forward to continue the innovations required to meet the computational demands of continuously developing ML applications and algorithms.      The contributions of this project lie in the development of photonic components, interconnect circuits and architectural framework, to realize a scalable distributed ML computational platform:   1) We have developed the simulation frameworks for large-scale distributed machine learning (Rostam) as well as associated hardware experiments, which enabled the development of the new silicon-photonic fabric topologies tailored for machine learning systems (SiP-ML) and associated optimization frameworks (TopoOpt). The SiP-ML interconnect framework that was developed and evaluated reported speed ups up to 9.1x on large GPU clusters (scale 1024 GPUs). This represents a breakthrough justifying the use of silicon-photonic chiplet interconnects in AI/ML applications at scale; 2) Two chips were designed and fabricated in the high-volume monolithic electronic-photonic process platform, with novel devices and link sub-blocks for this ASCENT project. Chip 1: ring-based transmitters (driver and modulators) and phase-tracking coherent receivers; and Chip 2: electro-optic receiver ring-tuning (single-ring, WDM ring designs of experiments, and WDM ring receiver with backend electronics). A number of novel devices were designed and characterized, and papers published on the results. The infrastructure for the link experiments based on these chips has been set up demonstrating link-level sub-system functionality.      This project involved students ranging from undergraduate to MS and PhD level, and exposed them to the multidisciplinary nature of research  from new electronic-photonic process platforms and design tools, to novel photonic device and circuit designs, link architectures to network topologies and machine-learning algorithms, enabled by the cross-stack approach of the ASCENT program.          Last Modified: 12/27/2023       Submitted by: ManyaGhobadi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

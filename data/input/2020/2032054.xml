@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Understanding the Effects of Glycosylation on Spike Vulnerabilities and the Host Range of SARS-CoV-2]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199910.00</AwardTotalIntnAmount>
+<AwardAmount>199910</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+<PO_EMAI>jmajewsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927278</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The COVID-19 pandemic is caused by the SARS-CoV-2 virus, a virus whose structure has not been fully characterized.  The spike protein of the virus is believed to play a key role in infection.  In this work computer simulations will be used to understand the role of sugar molecules that normally are present on the outside of host cells on the binding to host cells and the infectivity of the virus.  Simulations will examine host cell membranes from species that include humans, cats, ferrets and other non-human primates in order to better understand the differences between virus transmission in different species.  These simulations will provide information that is not currently accessible through experiment.  The simulations and data sharing capabilities developed in this work will improve responsiveness against future pandemics. Additionally, the project will provide a training for two postdoctoral fellows. &lt;br/&gt;&lt;br/&gt;This research will use MD (molecular dynamics) computational methodology together with experimental data, to build and simulate biologically realistic conditions for the SARS-CoV-2 virus spike protein, alone, and also in complex with various forms of the ACE2 receptor and host cell membrane components. The aim is to determine areas of spike protein vulnerabilities as well as understand the effects of glycosylation on the structure and function of the SARS-CoV-2 infection machinery. The simulations will include ACE2 receptors in cats, ferrets, and other nonhuman primates to understand the molecular underpinnings of virus host range and transmissibility. The proposed research will provide a more complete understanding of the SARS-CoV-2 infection machinery and the molecular constituents with which it interacts at different host cells. &lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Molecular Biophysics Program in the Division of Molecular and Cellular Biosciences, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032054</AwardID>
+<Investigator>
+<FirstName>Rommie</FirstName>
+<LastName>Amaro</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rommie E Amaro</PI_FULL_NAME>
+<EmailAddress><![CDATA[ramaro@ucsd.edu]]></EmailAddress>
+<NSF_ID>000616571</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199910</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="DataField11pt-Single">We developed some of the world&rsquo;s best atomic level models of the full length, fully glycosylated SARS-CoV-2 spike protein. Our first paper (Casalino and Gaieb et al., ACS Central Science, 2020) presented the first full-length model of the glycosylated SARS-CoV-2 S protein, both in the open and closed states, augmenting the available structural and biological data. Multiple microsecond-long, all-atom molecular dynamics simulations were used to provide an atomistic perspective on the roles of glycans and on the protein structure and dynamics. Our work revealed an essential structural role of&nbsp;N-glycans at sites N165 and N234 in modulating the conformational dynamics of the spike&rsquo;s receptor binding domain (RBD), which is responsible for ACE2 recognition. This finding was corroborated by biolayer interferometry experiments, which showed that deletion of these glycans through N165A and N234A mutations significantly reduces binding to ACE2 as a result of the RBD conformational shift toward the down state.&nbsp;</p> <p class="DataField11pt-Single">&nbsp;</p> <p class="DataField11pt-Single">One of the most remarkable aspects of this work was that beyond what we learned about the spike protein, this work also showed for the first time that&nbsp;<strong><em>glycans could</em>&nbsp;<em>participate in the infection mechanism itself</em></strong>. By doing so, our work provided a paradigmatic shift in our understanding of the roles that glycans can play in biomolecular systems.</p> <p class="DataField11pt-Single">&nbsp;</p> <p>We extended our spike work with weighted ensemble MD methods, which&nbsp;allowed us to characterize more than 300 continuous, kinetically unbiased RBD opening pathways. Together with ManifoldEM analysis of cryo-EM data and biolayer interferometry experiments, we reveal a gating role for the N-glycan at position N343, which facilitates RBD opening. Residues D405, R408, and D427 also participate. The atomic-level characterization of the glycosylated spike activation mechanism achieved a new high-water mark for ensemble pathway simulations and offers a foundation for understanding the fundamental mechanisms of SARS-CoV-2 viral entry and infection.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>We also developed models of the ACE2 receptor on the host cell, in order to understand the binding event that precipitates infection. We also led a tour de force effort as part of our Gordon Bell submission, where we developed a generalizable AI-driven workflow that leveraged heterogeneous HPC resources to explore the time-dependent dynamics of molecular systems. Our workflow enabled more efficient investigation of spike dynamics in a variety of complex environments, including within a complete SARS-CoV-2 viral envelope simulation, which contains 305 million atoms and showed strong scaling on ORNL Summit using NAMD. This work allowed us to demonstrate how AI can accelerate conformational sampling across different systems and pave the way for the future application of such methods to additional studies in SARS-CoV-2 and other molecular systems.&nbsp;&nbsp;For this work we were awarded the Gordon Bell Special Prize for COVID19 research, one of the most prestigious awards in supercomputing, given by the Association for Computing Machinery.</p> <p>&nbsp;</p> <p>Early in the pandemic, I led a movement in the computational chemistry community to share data, models, and methods in new ways in order for the field to globally address the pandemic threat.&nbsp;&nbsp;This effort led to the development of a shared set of principles that colleagues around the world agreed to and used in order to accelerate discovery against SARS-CoV-2. It also led to the development of a worldwide data sharing COVID19 Molecular Structure and Therapeutics Hub, a first of its kind data warehouse for computational efforts against SARS-CoV-2.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/18/2024<br> Modified by: Rommie&nbsp;E&nbsp;Amaro</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  We developed some of the worlds best atomic level models of the full length, fully glycosylated SARS-CoV-2 spike protein. Our first paper (Casalino and Gaieb et al., ACS Central Science, 2020) presented the first full-length model of the glycosylated SARS-CoV-2 S protein, both in the open and closed states, augmenting the available structural and biological data. Multiple microsecond-long, all-atom molecular dynamics simulations were used to provide an atomistic perspective on the roles of glycans and on the protein structure and dynamics. Our work revealed an essential structural role ofN-glycans at sites N165 and N234 in modulating the conformational dynamics of the spikes receptor binding domain (RBD), which is responsible for ACE2 recognition. This finding was corroborated by biolayer interferometry experiments, which showed that deletion of these glycans through N165A and N234A mutations significantly reduces binding to ACE2 as a result of the RBD conformational shift toward the down state.      One of the most remarkable aspects of this work was that beyond what we learned about the spike protein, this work also showed for the first time thatglycans couldparticipate in the infection mechanism itself. By doing so, our work provided a paradigmatic shift in our understanding of the roles that glycans can play in biomolecular systems.      We extended our spike work with weighted ensemble MD methods, whichallowed us to characterize more than 300 continuous, kinetically unbiased RBD opening pathways. Together with ManifoldEM analysis of cryo-EM data and biolayer interferometry experiments, we reveal a gating role for the N-glycan at position N343, which facilitates RBD opening. Residues D405, R408, and D427 also participate. The atomic-level characterization of the glycosylated spike activation mechanism achieved a new high-water mark for ensemble pathway simulations and offers a foundation for understanding the fundamental mechanisms of SARS-CoV-2 viral entry and infection.      We also developed models of the ACE2 receptor on the host cell, in order to understand the binding event that precipitates infection. We also led a tour de force effort as part of our Gordon Bell submission, where we developed a generalizable AI-driven workflow that leveraged heterogeneous HPC resources to explore the time-dependent dynamics of molecular systems. Our workflow enabled more efficient investigation of spike dynamics in a variety of complex environments, including within a complete SARS-CoV-2 viral envelope simulation, which contains 305 million atoms and showed strong scaling on ORNL Summit using NAMD. This work allowed us to demonstrate how AI can accelerate conformational sampling across different systems and pave the way for the future application of such methods to additional studies in SARS-CoV-2 and other molecular systems.For this work we were awarded the Gordon Bell Special Prize for COVID19 research, one of the most prestigious awards in supercomputing, given by the Association for Computing Machinery.      Early in the pandemic, I led a movement in the computational chemistry community to share data, models, and methods in new ways in order for the field to globally address the pandemic threat.This effort led to the development of a shared set of principles that colleagues around the world agreed to and used in order to accelerate discovery against SARS-CoV-2. It also led to the development of a worldwide data sharing COVID19 Molecular Structure and Therapeutics Hub, a first of its kind data warehouse for computational efforts against SARS-CoV-2.           Last Modified: 01/18/2024       Submitted by: RommieEAmaro]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

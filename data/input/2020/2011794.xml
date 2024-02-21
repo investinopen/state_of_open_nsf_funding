@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Accurate Electronic and Vibrational Structure Calculations of Metal-Containing Small Molecules of Importance to Precision Measurement and Laser Cooling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>412951.00</AwardTotalIntnAmount>
+<AwardAmount>412951</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Forrey</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The proposed research consists of computational studies of heavy-metal-containing small molecules that play important roles in the search for new physics via precision spectroscopy and research on laser cooling of polar molecules, two frontier areas in the field of atomic, molecular, and optical physics. The proposed work on computational techniques deals with the development of new algorithms and computer programs to provide enhanced capabilities for computations of molecular properties pertinent to the search for the electron electric dipole moment (eEDM) and the nuclear magnetic quadrupole moment (NMQM), intrinsic properties of an electron or nucleus of central importance to understanding new physics beyond the Standard Model. Proposed molecular applications in close collaboration with experimental groups aim to provide insights into molecules relevant to cutting-edge research in laser cooling and in search for new physics. &lt;br/&gt;&lt;br/&gt;The method-development work proposed here is focused on an analytic scheme for relativistic coupled-cluster calculations of effective electric field and the T, P-odd interaction pertinent to search of eEDM and NMQM via precision spectroscopy. The new analytic scheme is an order of magnitude more efficient than currently available techniques using numerical differentiation of electronic energies. In addition to improved efficiency, the proposed analytic scheme is also of a black-box nature and easy to use. This aims to bring a transformative impact to the research in the selection of candidate molecules for the search of new physics. The molecular application work proposed here is focused on accurate predictions of electronic and vibrational properties, including spin-orbit mixing and Franck-Condon factors, for transition-metal and f-element-containing small molecules to provide insights for their use in laser cooling and in the search for eEDM.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Physics Division and The Chemistry Division contribute funds to this award.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011794</AwardID>
+<Investigator>
+<FirstName>Lan</FirstName>
+<LastName>Cheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lan Cheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[lcheng24@jhu.edu]]></EmailAddress>
+<NSF_ID>000717058</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>3400 N CHARLES ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182685</ZipCode>
+<StreetAddress><![CDATA[3400 N. Charles Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~412951</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The work on this project has developed new computational methodologies and computer programs to advance the research on ultracold molecules and in the field of molecular precision measurement for the search of new physics Beyond the Standard Model (BSM). Computational tools to accurately treat spin-vibronic interactions in polyatomic molecules have been implemented to identify candidate molecules that are suitable for direct laser cooling. Furthermore, efficient and robust computations of symmetry-breaking sensitivity parameters of importance to the search of BSM physics have been enabled exploiting analytic gradient techniques for relativistic wavefunction-based electronic-structure methods. A novel computational method to include quantum electrodynamics (QED) corrections to the free-electron g-facotr in relativistic ab initio calculations of molecular electronic g-factors has also been developed. These new computational programs have been included in the CFOUR program package and are being distributed freely to the scientific community.</p> <p>The new computational tools have been used to study candidate molecules for laser cooling, including diatomic molecules and triatomic molecules containing heavy atoms, in close collaboration with experimental work on laser cooling of these molecules. These computational studies have elucidated subtle physics in polyatomic molecules originating from spin-orbit coupling and non-adiabatic effects that plays indispensable roles in direct laser cooling of these molecules. The computations have predicted the laser-coolability for several polyatomic molecules under experimental investigation, including YbF, CaOH, SrOH, and RaOH. The computational methods developed here have also been used to study heavy-atom-containing molecules of relevance to the BSM physics search, including the ThF+ molecular ion and the RaOH neutral molecule, which are promising molecular species for BSM physics search.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/25/2023<br> Modified by: Lan&nbsp;Cheng</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The work on this project has developed new computational methodologies and computer programs to advance the research on ultracold molecules and in the field of molecular precision measurement for the search of new physics Beyond the Standard Model (BSM). Computational tools to accurately treat spin-vibronic interactions in polyatomic molecules have been implemented to identify candidate molecules that are suitable for direct laser cooling. Furthermore, efficient and robust computations of symmetry-breaking sensitivity parameters of importance to the search of BSM physics have been enabled exploiting analytic gradient techniques for relativistic wavefunction-based electronic-structure methods. A novel computational method to include quantum electrodynamics (QED) corrections to the free-electron g-facotr in relativistic ab initio calculations of molecular electronic g-factors has also been developed. These new computational programs have been included in the CFOUR program package and are being distributed freely to the scientific community.   The new computational tools have been used to study candidate molecules for laser cooling, including diatomic molecules and triatomic molecules containing heavy atoms, in close collaboration with experimental work on laser cooling of these molecules. These computational studies have elucidated subtle physics in polyatomic molecules originating from spin-orbit coupling and non-adiabatic effects that plays indispensable roles in direct laser cooling of these molecules. The computations have predicted the laser-coolability for several polyatomic molecules under experimental investigation, including YbF, CaOH, SrOH, and RaOH. The computational methods developed here have also been used to study heavy-atom-containing molecules of relevance to the BSM physics search, including the ThF+ molecular ion and the RaOH neutral molecule, which are promising molecular species for BSM physics search.           Last Modified: 11/25/2023       Submitted by: LanCheng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

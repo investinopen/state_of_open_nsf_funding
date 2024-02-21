@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Next Generation Noble Gas Multi-collector Mass Spectrometer System to Support Fundamental and Applied Geochronology Research and Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>561870.00</AwardTotalIntnAmount>
+<AwardAmount>561870</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amanda Keen-Zebert</SignBlockName>
+<PO_EMAI>akeenzeb@nsf.gov</PO_EMAI>
+<PO_PHON>7032924984</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will fund the acquisition of a next generation instrument to measure noble gases in rock material for geochronology constraints. Geochronology can be applied to the breadth of anthropology pursuits, planetary sciences and earth process systems from the surface to the deep earth. This University of Alaska Fairbanks laboratory will be a multi-user facility to facilitate the research goals of students, researchers, Alaska’s first people corporations, government agencies, and private economic geology entities. We will pursue many avenues of study including making detrital 40Ar/39Ar geochronology more readily available to the scientific community, investigating some of the problems with dating young (younger than 10,000 years old) volcanic rock products, and increasing the precision of dating the timing of mineralization to assist economic geology interests. The overall project will increase student access to geochronology data sets and train students in advanced geochronology laboratory methods and instrument operations. Student will also be prepared for careers in the earth sciences.  &lt;br/&gt;&lt;br/&gt;This project will involve the installation, calibration, and operation of a next generation 40Ar/39Ar noble gas multi-collector sector mass spectrometer system. The system includes a custom extraction line, a CO2 laser, and a resistance furnace for degassing rock samples and cleaning up the extracted gases before measurement on the mass spectrometer. The noble gas mass spectrometer will be able to measure the five main argon isotopes concurrently leading to a 10X increase in precision over peak-hoping measurements on a single detector. The high-sensitivity and high resolution capabilities of the new instrumentation will allow measurements to be made on smaller samples sizes with a preference for single-grain applications. The instrument system will be used to further pursue the presence and causes of excess 36Ar in young volcanic rock products. The capabilities of the instrument system will also allow increased single-grain dating throughput allowing for more precise and more time efficient 40Ar/39Ar dating of detrital samples. The modern instrumentation will not only allow more access to geochronology data for students, but will provide a facility designed to enable training of future generations of geochronologists.  This project is jointly funded by the EAR Instrumentation &amp; Facilities Program, the Established Program to Stimulate Competitive Research (EPSCoR), and the Major Research Instrumentation Program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019235</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Truffer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Truffer</PI_FULL_NAME>
+<EmailAddress><![CDATA[mtruffer2@alaska.edu]]></EmailAddress>
+<NSF_ID>000472970</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Regan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sean Regan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sregan5@alaska.edu]]></EmailAddress>
+<NSF_ID>000791452</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeff</FirstName>
+<LastName>Benowitz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeff Benowitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbenowitz@alaska.edu]]></EmailAddress>
+<NSF_ID>000585940</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate>11/17/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Whalen</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael T Whalen</PI_FULL_NAME>
+<EmailAddress><![CDATA[mtwhalen@alaska.edu]]></EmailAddress>
+<NSF_ID>000217164</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Regan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sean Regan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sregan5@alaska.edu]]></EmailAddress>
+<NSF_ID>000791452</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate>11/17/2020</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Maio</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher V Maio</PI_FULL_NAME>
+<EmailAddress><![CDATA[cvmaio@alaska.edu]]></EmailAddress>
+<NSF_ID>000646514</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alaska Fairbanks Campus</Name>
+<CityName>FAIRBANKS</CityName>
+<ZipCode>997750001</ZipCode>
+<PhoneNumber>9074747301</PhoneNumber>
+<StreetAddress>2145 N TANANA LOOP</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<StateCode>AK</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AK00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FDLEQSJ8FF63</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALASKA FAIRBANKS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alaska Fairbanks Campus]]></Name>
+<CityName>Fairbanks</CityName>
+<StateCode>AK</StateCode>
+<ZipCode>997757880</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AK00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~561870</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project supported the acquisition, installation, and development of a next generation 40Ar/39Ar noble gas multi-collector sector mass spectrometer (NG-MC-MS) at the University of Alaska Fairbanks (UAF). The new instrumentation will be used for geochronologic applications &ndash; determining the absolute age(s) of specific geologic processes. This new instrument replaces a nearly 30-year-old and discontinued mass spectrometer, which was no longer operational. In the process of acquiring and installing the new mass spectrometer, the entire geochronology facility has been overhauled and updated including new electronics, computers, and a new mineral separation facility. We opted to purchase an IsotopX NG-MC-MS for the dynamic range of the detectors capable of analyzing a broader set of ratios within a single session &ndash; optimized for the diverse geologic problems of Alaska. A new furnace for diffusion experiments and CO<sub>2</sub> laser for step heating single crystals was also acquired and installed as a part of the new system.</p> <p>The specific instrument and equipment purchased through this MRI was based on the needs of users within the University of Alaska system, Federal and State entities in Alaska (USGS, ADGGS), and private industry needs. The equipment is optimized for analyzing a broad array of geologic materials, including analyzing materials not ideal for most mass spectrometers, but essential for critical minerals research in the US. We will also have high throughput capacity optimized for detrital Ar geochronology or for other high n experiments. The new instrumentation will expand the breadth of fields we are capable of collaborating with to include archeology, paleontology, tectonics, tempestology, and volcanology. &nbsp;The instrument was installed in November 2022, and leak testing took place over the next several months during final installation and calibration of a new Teledyne CO<sub>2</sub> laser. As of the fall 2023, the NG-MC-MS is operational showing excellent reproducibility. We have already begun accepting samples for processing and analysis from private, federal, state, and academic users.</p> <p>Installation of a next generation mass spectrometer has already had numerous broader impacts, and will continue to do so for years to come. Three undergraduate and one graduate student projects have resulted from working with the new lab space and personnel. Public lectures for the Dept of Geosciences, Science for Alaskans- a public lecture series, and at national/international conferences have presented the utility of the new instruments, and their importance to Alaska and beyond. The lab has been one of the leaders involved with steering UAF&rsquo;s critical mineral focus. A new faculty member was hired to oversee the day to day operations of the facility, and with the new instrumentation and expanded personnel, the lab is poised to perform cutting-edge geochronologic work for a number of private and public entities, help train the next generation of geoscientists, contribute to the economic development of Alaska, and help solve long-standing issues in the geosciences and related fields.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/13/2023<br> Modified by: Sean&nbsp;Regan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project supported the acquisition, installation, and development of a next generation 40Ar/39Ar noble gas multi-collector sector mass spectrometer (NG-MC-MS) at the University of Alaska Fairbanks (UAF). The new instrumentation will be used for geochronologic applications  determining the absolute age(s) of specific geologic processes. This new instrument replaces a nearly 30-year-old and discontinued mass spectrometer, which was no longer operational. In the process of acquiring and installing the new mass spectrometer, the entire geochronology facility has been overhauled and updated including new electronics, computers, and a new mineral separation facility. We opted to purchase an IsotopX NG-MC-MS for the dynamic range of the detectors capable of analyzing a broader set of ratios within a single session  optimized for the diverse geologic problems of Alaska. A new furnace for diffusion experiments and CO2 laser for step heating single crystals was also acquired and installed as a part of the new system.   The specific instrument and equipment purchased through this MRI was based on the needs of users within the University of Alaska system, Federal and State entities in Alaska (USGS, ADGGS), and private industry needs. The equipment is optimized for analyzing a broad array of geologic materials, including analyzing materials not ideal for most mass spectrometers, but essential for critical minerals research in the US. We will also have high throughput capacity optimized for detrital Ar geochronology or for other high n experiments. The new instrumentation will expand the breadth of fields we are capable of collaborating with to include archeology, paleontology, tectonics, tempestology, and volcanology. The instrument was installed in November 2022, and leak testing took place over the next several months during final installation and calibration of a new Teledyne CO2 laser. As of the fall 2023, the NG-MC-MS is operational showing excellent reproducibility. We have already begun accepting samples for processing and analysis from private, federal, state, and academic users.   Installation of a next generation mass spectrometer has already had numerous broader impacts, and will continue to do so for years to come. Three undergraduate and one graduate student projects have resulted from working with the new lab space and personnel. Public lectures for the Dept of Geosciences, Science for Alaskans- a public lecture series, and at national/international conferences have presented the utility of the new instruments, and their importance to Alaska and beyond. The lab has been one of the leaders involved with steering UAFs critical mineral focus. A new faculty member was hired to oversee the day to day operations of the facility, and with the new instrumentation and expanded personnel, the lab is poised to perform cutting-edge geochronologic work for a number of private and public entities, help train the next generation of geoscientists, contribute to the economic development of Alaska, and help solve long-standing issues in the geosciences and related fields.        Last Modified: 12/13/2023       Submitted by: SeanRegan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

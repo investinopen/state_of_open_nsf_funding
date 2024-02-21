@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Dynamic Onset of Magnetic Reconnection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>302354.00</AwardTotalIntnAmount>
+<AwardAmount>302354</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Plasma is the most common form of matter found in the visible universe. Plasmas occurring in space and in astrophysical environments, as well as in laboratories on Earth, often carry magnetic fields. The interaction of the plasma with the magnetic field that pervades it is highly nonlinear and complex: the magnetic field affects the plasma dynamics and, conversely, the plasma can change the magnetic field. One of the most spectacular examples of such interaction is the process of magnetic reconnection: a plasma-driven reconfiguration of the magnetic field that threads it, which results in an explosive release of energy. The most popular manifestation of this phenomenon are solar flares; but reconnection occurs ubiquitously throughout the universe. The goal of this research is to advance the understanding of how the process of reconnection is triggered in a magnetized plasma; by doing so, it will contribute to the goals of NSF's "Windows on the Universe: The Era of Multi-Messenger Astrophysics" Big Idea.&lt;br/&gt;&lt;br/&gt;Magnetic reconnection is a two-step process: an initial, slow stage of energy build-up and current-sheet formation, followed by the sudden, often explosive stage of energy release.  Reconnection studies largely tend to focus on the latter, driven by attempts to solve the critically important problems of reconnection rate and energy partition. In this regard, a prominent feature of the last decade of reconnection research has been the plasmoid instability, whose key role in addressing those questions is now widely appreciated. However, the existence of this, and other, current sheet instabilities implies that the onset and the energy release stages cannot be trivially decoupled, since such instabilities set specific conditions on the parameters of the current sheets that are physically realizable; for example, a system-size Sweet-Parker current sheet in large systems can never dynamically arise because a tearing instability will inevitably disrupt the forming sheet much before it attains the Sweet-Parker ratio. The aim of this research is to develop the theoretical (analytical and numerical) understanding of the conditions imposed on the energy release stage by the build-up stage, thus paving the route for self-consistent studies of magnetic reconnection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010136</AwardID>
+<Investigator>
+<FirstName>Nuno</FirstName>
+<LastName>Gomes Loureiro</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nuno F Gomes Loureiro</PI_FULL_NAME>
+<EmailAddress><![CDATA[nflour@MIT.EDU]]></EmailAddress>
+<NSF_ID>000711020</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>107Y</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5946</Code>
+<Text>UNITED KINGDOM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~302354</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><h1>Project Outcomes Report for NSF award no. PHY-2010136</h1> <h2>The Dynamic Onset of Magnetic Reconnection</h2> <h3>9/1/20 &ndash; 8/31/23</h3> <h3>PI: Nuno F. Loureiro, MIT</h3> <h1>1. Introduction and context</h1> <p>Magnetic reconnection is the process whereby a plasma rearranges the topology of the magnetic field that threads it. Most often, this rearrangement results in the explosive release of a significant fraction of the energy contained in the field undergoing reconnection. It is this energy release that underlies solar flares, reconnection's most popular manifestation. Equally appreciated is the role of reconnection in shaping the interaction of the Earth's magnetosphere with the incoming, magnetized, solar wind; and the several instabilities which it mediates in magnetically confined plasmas. Reconnection is one of the most fundamental building blocks of magnetized plasma dynamics, playing a determinant role in turbulence and in magnetic field generation via turbulent dynamo. An emphatic recognition of reconnection's importance are NASA's two ongoing billion-dollar-class missions: MMS, specifically devoted to the study of reconnection in the Earth's magnetosphere; and the recently launched Parker Solar Probe, whose objectives include the study of energetics and dynamics in the solar corona, where reconnection is a dominant actor. Likewise, the energetics and dynamics of a wide range of magnetized astrophysical environments are uniquely conditioned by reconnection, with flaring activity and particle acceleration two particularly important and ubiquitous aspects; magnetar giant flares, gamma-ray bursts and blazar flares are spectacular examples of astrophysical processes thought to be driven by reconnection.</p> <p>&nbsp;</p> <p>Magnetic reconnection is a two-step process: an initial, slow stage of energy build-up and current-sheet formation, followed by the sudden, often explosive stage of energy release. Reconnection studies largely tend to focus on the latter, driven by attempts to solve the critically important problems of reconnection rate and energy partition. In this regard, a prominent feature of the last decade of reconnection research has been the plasmoid instability, whose key role in addressing those questions is now widely appreciated. However, the existence of this, and other, current sheet instabilities implies that the onset and the energy release stages cannot be trivially decoupled, since such instabilities set specific conditions on the parameters of the current sheets that are physically realizable. This project aimed to shed light on this question in different contexts.</p> <h1>2. Main achievements</h1> <h2>2.1 Transport-like approach to magnetic reconnection</h2> <p>The hypothesis that reconnection onset is coupled to the triggering of instabilities in the forming current layer leads to the conjecture that, given sufficient scale separation, reconnecting sites will drive their own turbulence; and, in turn, such turbulence is critical in determining the properties of the reconnection process. Based on these ideas, and the timescale separation between the turbulence in the current sheet and the reconnection time, we proposed a transport-like formalism for the analytical and numerical study of magnetic reconnection in large 3D systems, valid both in the MHD and in the kinetic regimes [Loureiro arXiv 2023].</p> <h2>2.2 Ion acoustic instability</h2> <p>T build-up of the electrical current that inevitably occurs during reconnection onset can, under certain circumstances, lead to the onset of the ion acoustic instability (IAI). The question then becomes how this instability affects the reconnection process; prominently, whether it gives rise to an effective (anomalous) resistivity which can control the reconnection rate. Because the details of the nonlinear evolution of the IAI are poorly understood, answering this question requires first a thorough investigation of the IAI. To this effect, MIT graduate student Zhuo Liu carried out a comprehensive first-principles numerical study of this instability in the weak electric field regime (as pertains to some reconnection scenarios) [Liu et al., arXiv 2023]. Among several interesting results is the fact that the instability quickly shuts itself down by heating the ions, implying that the anomalous resistivity that it generates is very short lived and would not be capable of affecting the reconnection process.</p> <h2>2.3 Kinetic Alfv&eacute;n Turbulence</h2> <p>Motivated by ideas proposed by the PI and collaborators on the onset of magnetic reconnection in turbulence, we investigated kinetic Alfv&eacute;n wave turbulence and diagnosed the role played by magnetic reconnection in it. This led to two publications led by former MIT graduate student Muni Zhou [Zhou et al., PNAS 2023; Zhou et al., MNRAS 2023] which paint a complex picture of electron heating in such turbulence, via the weakening of nonlinearities near intermittent current sheets, which locally enables Landau damping.</p> <h1>3. Training and Professional Development</h1> <p>This award directly supported graduate student Zhuo Liu. Through his research funded by this award he acquired training in theoretical and numerical plasma physics. Zhuo Liu participated and presented his results at several conferences, and currently supervises an undergraduate research project.</p> <h1>4. Dissemination of Results</h1> <p>Results were dissemniated via scientific publications available online.&nbsp; We have also presented our results through several invited and contributed talks at international conferences and research institutions in the US and Europe.</p> <h1></h1> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/13/2023<br> Modified by: Nuno&nbsp;F&nbsp;Gomes Loureiro</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Project Outcomes Report for NSF award no. PHY-2010136 The Dynamic Onset of Magnetic Reconnection 9/1/20  8/31/23 PI: Nuno F. Loureiro, MIT 1. Introduction and context   Magnetic reconnection is the process whereby a plasma rearranges the topology of the magnetic field that threads it. Most often, this rearrangement results in the explosive release of a significant fraction of the energy contained in the field undergoing reconnection. It is this energy release that underlies solar flares, reconnection's most popular manifestation. Equally appreciated is the role of reconnection in shaping the interaction of the Earth's magnetosphere with the incoming, magnetized, solar wind; and the several instabilities which it mediates in magnetically confined plasmas. Reconnection is one of the most fundamental building blocks of magnetized plasma dynamics, playing a determinant role in turbulence and in magnetic field generation via turbulent dynamo. An emphatic recognition of reconnection's importance are NASA's two ongoing billion-dollar-class missions: MMS, specifically devoted to the study of reconnection in the Earth's magnetosphere; and the recently launched Parker Solar Probe, whose objectives include the study of energetics and dynamics in the solar corona, where reconnection is a dominant actor. Likewise, the energetics and dynamics of a wide range of magnetized astrophysical environments are uniquely conditioned by reconnection, with flaring activity and particle acceleration two particularly important and ubiquitous aspects; magnetar giant flares, gamma-ray bursts and blazar flares are spectacular examples of astrophysical processes thought to be driven by reconnection.      Magnetic reconnection is a two-step process: an initial, slow stage of energy build-up and current-sheet formation, followed by the sudden, often explosive stage of energy release. Reconnection studies largely tend to focus on the latter, driven by attempts to solve the critically important problems of reconnection rate and energy partition. In this regard, a prominent feature of the last decade of reconnection research has been the plasmoid instability, whose key role in addressing those questions is now widely appreciated. However, the existence of this, and other, current sheet instabilities implies that the onset and the energy release stages cannot be trivially decoupled, since such instabilities set specific conditions on the parameters of the current sheets that are physically realizable. This project aimed to shed light on this question in different contexts. 2. Main achievements 2.1 Transport-like approach to magnetic reconnection   The hypothesis that reconnection onset is coupled to the triggering of instabilities in the forming current layer leads to the conjecture that, given sufficient scale separation, reconnecting sites will drive their own turbulence; and, in turn, such turbulence is critical in determining the properties of the reconnection process. Based on these ideas, and the timescale separation between the turbulence in the current sheet and the reconnection time, we proposed a transport-like formalism for the analytical and numerical study of magnetic reconnection in large 3D systems, valid both in the MHD and in the kinetic regimes [Loureiro arXiv 2023]. 2.2 Ion acoustic instability   T build-up of the electrical current that inevitably occurs during reconnection onset can, under certain circumstances, lead to the onset of the ion acoustic instability (IAI). The question then becomes how this instability affects the reconnection process; prominently, whether it gives rise to an effective (anomalous) resistivity which can control the reconnection rate. Because the details of the nonlinear evolution of the IAI are poorly understood, answering this question requires first a thorough investigation of the IAI. To this effect, MIT graduate student Zhuo Liu carried out a comprehensive first-principles numerical study of this instability in the weak electric field regime (as pertains to some reconnection scenarios) [Liu et al., arXiv 2023]. Among several interesting results is the fact that the instability quickly shuts itself down by heating the ions, implying that the anomalous resistivity that it generates is very short lived and would not be capable of affecting the reconnection process. 2.3 Kinetic Alfvn Turbulence   Motivated by ideas proposed by the PI and collaborators on the onset of magnetic reconnection in turbulence, we investigated kinetic Alfvn wave turbulence and diagnosed the role played by magnetic reconnection in it. This led to two publications led by former MIT graduate student Muni Zhou [Zhou et al., PNAS 2023; Zhou et al., MNRAS 2023] which paint a complex picture of electron heating in such turbulence, via the weakening of nonlinearities near intermittent current sheets, which locally enables Landau damping. 3. Training and Professional Development   This award directly supported graduate student Zhuo Liu. Through his research funded by this award he acquired training in theoretical and numerical plasma physics. Zhuo Liu participated and presented his results at several conferences, and currently supervises an undergraduate research project. 4. Dissemination of Results   Results were dissemniated via scientific publications available online. We have also presented our results through several invited and contributed talks at international conferences and research institutions in the US and Europe.                                 Last Modified: 12/13/2023       Submitted by: NunoFGomes Loureiro]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

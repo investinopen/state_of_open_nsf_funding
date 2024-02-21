@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamical and Strong-Gravity Effects from Black-Hole Binaries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>210000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF's Laser Interferometer Gravitational-Wave Observatory (LIGO) and the Virgo detector have now observed gravitational waves from tens of pairs of merging black holes and neutron stars. These remarkable observations have opened up a new field of gravitational-wave astrophysics, and they are allowing the predictions of Einstein's theory of relativity to be tested in new ways for these dynamic and strongly gravitating binaries. Much remains to be learned from these novel observations. Through a better understanding of the predictions of Einstein's theory and through more precise calculations of the emitted gravitational waves, more of the scientific potential of these observations will be tapped. This project, therefore, outlines a research program to use a combination of foundational computations, as well as analytical and numerical modeling of black holes and neutron stars, to aid in extracting insights from gravitational-wave observations. Many of the calculations will be carried out by graduate students, who will be trained in techniques that are useful in physics research and other quantitative areas. A final component of the project involves the development of visualizations that are intended for a broad audience of non-scientists, which aim to make the generation of gravitational waves more intuitive and accessible.&lt;br/&gt;&lt;br/&gt;More specifically, the research goals of this project will be to make advances in gravitational physics on two fronts: (i) to investigate and compute the part of the gravitational waveform that is strongly constrained by the symmetries and conserved quantities of isolated radiating systems, and (ii) to compute gravitational waveforms from a range of black-hole binaries that can be used to look for deviations from relativity because of the presence of matter or the modification of the underlying gravitational theory. The main goals of direction (i) are first, to compute gravitational waveforms associated with gravitational-wave memory effects that can be evaluated rapidly; second, to understand discrepancies between two commonly used definitions of angular momentum in asymptotically flat spacetimes; and third, to compute generalized notions of memory effects in these spacetimes. For direction (ii), there are three different objectives: for the first, investigating the influence of dense distributions of matter on the gravitational waveforms from black-hole binaries with mass ratios that differ greatly from one; for the second, to explore how modifications to general relativity affect the gravitational-wave memory effect; and for the last, approximating the gravitational waveform in modified gravity theories using a combination of perturbative expansions. The outreach aims of this project revolve around creating visualizations of the warped spacetime of binaries radiating gravitational waves. The visualizations will highlight the physical stretching and squeezing effects of gravitational waves and illustrate how gravitational waves are generated. Animations of these visualizations will be posted online and could also be used as pedagogical tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011784</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Nichols</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Nichols</PI_FULL_NAME>
+<EmailAddress><![CDATA[dn2ep@virginia.edu]]></EmailAddress>
+<NSF_ID>000807183</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229044195</ZipCode>
+<StreetAddress><![CDATA[P.O.  BOX 400195]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1244</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~210000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">Gravitational waves are distortions in space and time that are produced during the collisions of the most strongly gravitating stellar remnants in our Universe: black holes and neutron stars. The NSF's Laser Interferometer Gravitational-Wave Observatory (LIGO) and the Virgo detector observed gravitational waves from nearly one-hundred pairs of merging black holes and neutron stars, and they are detecting many more mergers in their fourth observing run. These remarkable observations have opened up a new field of gravitational-wave astrophysics, and they are allowing the underlying theory of gravity that describes these objects---Einstein's theory of relativity---to be tested in new ways for these dynamic and strongly gravitating binaries. A large amount of the potential for this new field is still untapped, and more precise calculations within relativity and its generalizations can unlock this potential. This project has used a combination of foundational calculations, plus analytical and numerical modeling of black holes and neutron stars, to make novel predictions of gravitational-wave phenomena, develop new models of the waves, and assess the detection prospects of these relativistic effects.</p> <p class="p1"><strong>Intellectual Merit</strong>: The intellectual merit of the project can be categorized into two general themes:&nbsp;(i) to use conservation laws to improve the existing calculations of gravitational waves and (ii) to compute gravitational waves from black-hole binaries that differ from the canonical binaries because of the presence of additional matter or a modification of the underlying gravitational theory that describes the binary's motion and gravitational waves. The results of direction (i) were first, determining the viability of different commonly used definitions of angular momentum, both in and without the presence of gravitational waves; second, assessing the detection prospects of the two strongest persistent gravitational-wave effects; third, discovering a new class of gravitational-wave phenomena that endure after the waves pass by a detector; and fourth, the calculation of a new, rapid-to-evaluate model of the gravitational waves that produce a persistent distortion of space after the waves pass. The results of direction (ii) are first, finding that dense distributions of dark matter around massive black holes can be measured precisely with gravitational-wave observations; second, showing that the accretion of dark matter affects the evolution of a black-hole binary, modifies the distribution of dark matter, and leads to a significant change in the emitted gravitational waves; third, computing how modifications to gravitational theories change the persistent gravitational-wave effects; and fourth, modeling the gravitational waves from black-hole binaries by combining different approximation methods in new ways.</p> <p class="p1"><strong>Broader Impacts</strong>: Many of the calculations were carried out by undergraduate and graduate students, who were trained in quantitative techniques that are useful not only in physics research but also in other computational and analytical disciplines in both academia and industry. The project also produced animations of the distorted space around isolated black holes and black-hole binaries radiating gravitational waves. They illustrate the physical effects of distorted space: specifically, the stretching and squeezing effects that are analogous to the tides raised by the Moon on the Earth and relative twisting effects of nearby points in space that occur in Einstein's relativity but not Newton's gravity. These animations were made available on the PI's research website and on Youtube, where they can be viewed or used as teaching tools.</p><br> <p>  Last Modified: 12/28/2023<br> Modified by: David&nbsp;A&nbsp;Nichols</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Gravitational waves are distortions in space and time that are produced during the collisions of the most strongly gravitating stellar remnants in our Universe: black holes and neutron stars. The NSF's Laser Interferometer Gravitational-Wave Observatory (LIGO) and the Virgo detector observed gravitational waves from nearly one-hundred pairs of merging black holes and neutron stars, and they are detecting many more mergers in their fourth observing run. These remarkable observations have opened up a new field of gravitational-wave astrophysics, and they are allowing the underlying theory of gravity that describes these objects---Einstein's theory of relativity---to be tested in new ways for these dynamic and strongly gravitating binaries. A large amount of the potential for this new field is still untapped, and more precise calculations within relativity and its generalizations can unlock this potential. This project has used a combination of foundational calculations, plus analytical and numerical modeling of black holes and neutron stars, to make novel predictions of gravitational-wave phenomena, develop new models of the waves, and assess the detection prospects of these relativistic effects.   Intellectual Merit: The intellectual merit of the project can be categorized into two general themes:(i) to use conservation laws to improve the existing calculations of gravitational waves and (ii) to compute gravitational waves from black-hole binaries that differ from the canonical binaries because of the presence of additional matter or a modification of the underlying gravitational theory that describes the binary's motion and gravitational waves. The results of direction (i) were first, determining the viability of different commonly used definitions of angular momentum, both in and without the presence of gravitational waves; second, assessing the detection prospects of the two strongest persistent gravitational-wave effects; third, discovering a new class of gravitational-wave phenomena that endure after the waves pass by a detector; and fourth, the calculation of a new, rapid-to-evaluate model of the gravitational waves that produce a persistent distortion of space after the waves pass. The results of direction (ii) are first, finding that dense distributions of dark matter around massive black holes can be measured precisely with gravitational-wave observations; second, showing that the accretion of dark matter affects the evolution of a black-hole binary, modifies the distribution of dark matter, and leads to a significant change in the emitted gravitational waves; third, computing how modifications to gravitational theories change the persistent gravitational-wave effects; and fourth, modeling the gravitational waves from black-hole binaries by combining different approximation methods in new ways.   Broader Impacts: Many of the calculations were carried out by undergraduate and graduate students, who were trained in quantitative techniques that are useful not only in physics research but also in other computational and analytical disciplines in both academia and industry. The project also produced animations of the distorted space around isolated black holes and black-hole binaries radiating gravitational waves. They illustrate the physical effects of distorted space: specifically, the stretching and squeezing effects that are analogous to the tides raised by the Moon on the Earth and relative twisting effects of nearby points in space that occur in Einstein's relativity but not Newton's gravity. These animations were made available on the PI's research website and on Youtube, where they can be viewed or used as teaching tools.     Last Modified: 12/28/2023       Submitted by: DavidANichols]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

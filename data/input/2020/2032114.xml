@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Covid-19 Hotspot Network Size and Node Counting using Consensus Estimation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>99995.00</AwardTotalIntnAmount>
+<AwardAmount>107995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huaiyu Dai</SignBlockName>
+<PO_EMAI>hdai@nsf.gov</PO_EMAI>
+<PO_PHON>7032924568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In order to open up the economy in light of the reality of COVID-19, a suite of solutions are needed to minimize the spread of COVID-19 which include providing tools for businesses to minimize the risk for their employees and customers. It is important to detect transmission hotspots where the contact between infected and uninfected persons is higher than average. This project will provide information to assess precisely the size, density and locations of COVID-19 hotspots and enable issuing well-informed advisories based on data-driven continuous risk assessment. Every step will be taken to ensure privacy and network security and specific algorithms will be developed for secure access and information transfer. The project will access databases at CDC, Johns Hopkins and the WHO, and create a comprehensive website to disseminate real-time localized COVID-19 hotspot data, while maintaining privacy. The project will create new algorithms and embed them in iOS and Android apps that will continuously interact with databases. The software for mobile devices as well as central hubs will be made publicly available through APIs for use by the broader community.&lt;br/&gt;&lt;br/&gt;The project will use advanced consensus-based methods for estimating network area/size, node locations and node counts in a network based on minimal transmit-receive data. The proposed methods will lead to significant improvements compared to existing algorithms. The project will design consensus-based algorithms to estimate (a) the center, radius, and consequently, the size of the network, and (b) the number of users in the network. Localization algorithms will be designed that work with noisy and incomplete data. The proposed work is different from the contact-tracing technology used by Google and Apple which is limited to newer devices. The proposed algorithms and software will advance the state of the art while retaining compatibility with emerging and existing mobile technology. The project will help reduce COVID-19 infections and save lives. The research will also have applicability to other fields such as the E911 system, indoor user tracking, infrastructure-free implementations applicable to robotics, autonomous systems and vehicle fleets, and location-aware patient care and other mobile health applications. The developed algorithms can be used in other emergency situations, such as locating clusters of sheltering groups in the case of earthquakes and tsunamis, to assist first responders in finding survivors after an event, and for detection of transmission nodes in the case of future pandemics or future waves of COVID-19. Outreach activities will be integrated with the research and include the creation of software and web content for dissemination.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032114</AwardID>
+<Investigator>
+<FirstName>cihan</FirstName>
+<LastName>tepedelenlioglu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>cihan tepedelenlioglu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cihan@asu.edu]]></EmailAddress>
+<NSF_ID>000496188</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Spanias</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andreas S Spanias</PI_FULL_NAME>
+<EmailAddress><![CDATA[spanias@asu.edu]]></EmailAddress>
+<NSF_ID>000248204</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852876011</ZipCode>
+<StreetAddress><![CDATA[P.O. Box 876011]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99995</FUND_OBLG>
+<FUND_OBLG>2021~8000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>(1) We developed a system to identify the&nbsp;<span><span>COVID</span></span>&nbsp;<span><span>hotspots</span></span>&nbsp;and build&nbsp;<span><span>SEIR</span></span>&nbsp;models to estimate the probability of getting&nbsp;<span><span>COVID</span></span>&nbsp;and estimate future confirmed cases.</p> <p>(2) We worked on a consensus-based distributed algorithm for estimating network area and size, node locations, and node count in a network based on minimal transmit and receive data. We added extra features such as wall and floor detection algorithms so that we can separate nodes that are located on different floors and rooms. Developed advanced clustering techniques to cluster nodes efficiently.</p> <p>(3) Our&nbsp;&nbsp;<span><span>SEIR</span></span>&nbsp;model was developed to determine&nbsp; the probabilities of getting&nbsp;<span><span>COVID</span></span>&nbsp;before or after visiting&nbsp; outdoor places. We can also use this model to predict future confirmed and recovered cases for any town, city, or state.</p> <p>(4) We modified the simple&nbsp;<span><span>SEIR</span></span>&nbsp;model by using machine learning algorithms and adding some extra compartments. By introducing machine learning algorithms inside the&nbsp;<span><span>SEIR</span></span>&nbsp;model that can predict approximate future confirmed and recovered cases for 3&ndash;4 weeks in advance, one&nbsp; may estimate the peak time of the pandemic.</p> <p>(5) Apart from finding the density of the&nbsp;<span><span>COVID</span></span>&nbsp;<span><span>hotspots</span></span>, our algorithm can be useful in other fields such as 5G+ communications, accuracy of location information, indoor user tracking, robotics, location-aware patient care, and mobile health applications.&nbsp;</p> <p>(6) We developed with&nbsp;<span><span>Clarkson</span></span>&nbsp;visualization modules on consensus estimation algorithms which we embedded in the project web site.&nbsp; These visualization modules were also presented at IEEE&nbsp;<span><span>ICASSP</span></span>&nbsp;2021.</p> <p>(7) We developed a joint paper with&nbsp;<span><span>Clarkson</span></span>&nbsp;university and submitted it to&nbsp;the 2023 IEEE&nbsp; Asilomar Conference.&nbsp; The paper was accepted and will be presented at the conference in Monterrey in&nbsp;November&nbsp;2023..</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/04/2023<br>      Modified by: Andreas&nbsp;S&nbsp;Spanias</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401423532_ScreenShot2023-10-03at11.31.29PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401423532_ScreenShot2023-10-03at11.31.29PM--rgov-800width.jpg" title="Block diagram of prediction algorithm."><img src="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401423532_ScreenShot2023-10-03at11.31.29PM--rgov-66x44.jpg" alt="Block diagram of prediction algorithm."></a> <div class="imageCaptionContainer"> <div class="imageCaption">The diagram shows the various stages of the Covid risk prediction algorithm.</div> <div class="imageCredit">ASU and Clarkson University</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Andreas&nbsp;S&nbsp;Spanias</div> <div class="imageTitle">Block diagram of prediction algorithm.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401620654_ScreenShot2023-10-03at11.33.45PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401620654_ScreenShot2023-10-03at11.33.45PM--rgov-800width.jpg" title="SEIR Compartmental Model."><img src="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401620654_ScreenShot2023-10-03at11.33.45PM--rgov-66x44.jpg" alt="SEIR Compartmental Model."></a> <div class="imageCaptionContainer"> <div class="imageCaption">The diagram shows the various states of SEIR..</div> <div class="imageCredit">ASU and Clarkson University</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Andreas&nbsp;S&nbsp;Spanias</div> <div class="imageTitle">SEIR Compartmental Model.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401940593_ScreenShot2023-10-03at11.43.24PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401940593_ScreenShot2023-10-03at11.43.24PM--rgov-800width.jpg" title="The SEIMLR algorithm."><img src="/por/images/Reports/POR/2023/2032114/2032114_10677274_1696401940593_ScreenShot2023-10-03at11.43.24PM--rgov-66x44.jpg" alt="The SEIMLR algorithm."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Machine Learning inside the SEIR model.</div> <div class="imageCredit">ASU and Clarkson University</div> <div class="imageSubmitted">Andreas&nbsp;S&nbsp;Spanias</div> <div class="imageTitle">The SEIMLR algorithm.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ (1) We developed a system to identify the COVID hotspots and build SEIR models to estimate the probability of getting COVID and estimate future confirmed cases.  (2) We worked on a consensus-based distributed algorithm for estimating network area and size, node locations, and node count in a network based on minimal transmit and receive data. We added extra features such as wall and floor detection algorithms so that we can separate nodes that are located on different floors and rooms. Developed advanced clustering techniques to cluster nodes efficiently.  (3) Our  SEIR model was developed to determine  the probabilities of getting COVID before or after visiting  outdoor places. We can also use this model to predict future confirmed and recovered cases for any town, city, or state.  (4) We modified the simple SEIR model by using machine learning algorithms and adding some extra compartments. By introducing machine learning algorithms inside the SEIR model that can predict approximate future confirmed and recovered cases for 3&ndash;4 weeks in advance, one  may estimate the peak time of the pandemic.  (5) Apart from finding the density of the COVID hotspots, our algorithm can be useful in other fields such as 5G+ communications, accuracy of location information, indoor user tracking, robotics, location-aware patient care, and mobile health applications.   (6) We developed with Clarkson visualization modules on consensus estimation algorithms which we embedded in the project web site.  These visualization modules were also presented at IEEE ICASSP 2021.  (7) We developed a joint paper with Clarkson university and submitted it to the 2023 IEEE  Asilomar Conference.  The paper was accepted and will be presented at the conference in Monterrey in November 2023..             Last Modified: 10/04/2023       Submitted by: Andreas S Spanias]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

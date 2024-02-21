@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research in DRMS: Resilience for Whom: A Climate Mobility Framework for Evaluating Equity Outcomes in Climate Resilience Decision Making]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>22715.00</AwardTotalIntnAmount>
+<AwardAmount>22715</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert O'Connor</SignBlockName>
+<PO_EMAI>roconnor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927263</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Sea level rise is increasing extreme sea level events, including high-tide and storm-associated floods, which will drive migration and displacement of residents within coastal communities. Recent studies have focused on the macro-economic implications of climate-driven migration and displacement, but there remains a large research gap in our understanding of the multiplicities of climate related movement, or climate mobilities within a given locality. Mobility considerations encompass the social and economic disparities within coastal communities that may impede the ability of residents to cope with climate migration outcomes. There is a pressing need to understand local dynamics of climate migration as experienced across the spectrum of vulnerability to highlight equity considerations in sea level rise adaptation planning.&lt;br/&gt; &lt;br/&gt;The purpose of this research is to examine the intersection of sea level rise related exposure risk and socio-economic vulnerability and their combined impact on potential future climate migration outcomes through the creation of a novel climate mobility framework. The climate mobility framework distinguishes between four sets of communities - stable, migrating, displaced, and trapped- to assess potential inequities within sea level rise adaptation planning given deep uncertainty and competing societal demands for funding. This research has three primary objectives: (1) develop a conceptual framework that considers the multiplicities of sea level rise related movement, (2) test this framework among current residents of Miami-Dade County, FL though a mixed methods approach that includes spatial analysis and primary data collection through interviews and surveys, and (3) facilitate a process of co-production with government officials and community leaders to understand how the framework can advance equitable decision making for future climate resilience policy. This research employs publicly accessible datasets such as the U.S Census American Community Survey to develop socio-economic indicators of vulnerability, and integrates novel measures of exposure risk such as the Parallel Raster Inundation Model, or PRIMo, which provides high resolution regional compound flooding assessments for robust decision making. The climate mobility framework should be transferable to coastal communities in the United States and other societies where property rights and land-use tenure exist. The conclusions and proposed solutions that emerge from all phases of this research are likely to be relevant for coastal communities globally.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049887</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Anderson</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth P Anderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[epanders@fiu.edu]]></EmailAddress>
+<NSF_ID>000753463</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nadia</FirstName>
+<LastName>Seeteram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nadia Seeteram</PI_FULL_NAME>
+<EmailAddress><![CDATA[nseet001@fiu.edu]]></EmailAddress>
+<NSF_ID>000834025</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>Miami</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8th St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~22715</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Climate migration will increase over time as the risks posed by sea-level rise and other climate-related hazards intensify. However, the impacts of these risks will not be felt equally across society, as populations exposed to risks will also change though time and communities of varying socio-economic capabilities will find it more difficult adapt to these impacts. In this project, we created a framework (featured below) to help identify communities that will be more directly impacted (<em>Migrating and Trapped</em>), indirectly impacted (<em>Displaced</em>), and least impacted (<em>Stable</em>) by sea-level rise and related flooding through understanding their potential for climate mobility in the future. Applying this framework across coastal communities can help identify both the timing and types of adaptation-specific policies needed to promote a more resilient and equitable future.</p> <p>&nbsp;We applied this framework to Miami-Dade County, Florida, USA, a region with substantial risks to sea-level rise and high income and wealth inequality. We created a residential property-level dataset to understand how populations would be impacted in their homes under projections of street-level flooding (that simulated flooding from groundwater, precipitation, and storm surge across 0-3 meters of sea-level rise). We combined this future flood exposure information with social vulnerability information to produce household, municipal, and county level assessments of the four types of climate mobility pressures. We found under 1 m SLR, 56% of current residents in areas of low flood hazard may experience displacement, whereas 26% of the current population risks being trapped (19%) in or migrating (7%) from areas of high flood hazard, and concerns of depopulation and fiscal stress increase within at least 9 municipalities where 50% or more of their total population is exposed to flooding. As SLR increases from 1 to 2 m, populations exposed to inundation from groundwater rises from 2.8% to 54.7% highlighting a major shift in which both inland and coastal residents are affected by sea-level rise. At 3 m of sea-level rise, only 3% of current residents would be considered Stable or Displaced (5%), indicating how few areas would be unflooded under high sea-level rise scenarios and where development pressures could be greatest now. This framework offers a powerful tool for understanding how and where the intersection of flood exposure and socio-economic vulnerability combine to produce climate mobility pressures, given current population and socio-economic conditions.</p> <p>&nbsp;</p> <p>We also conducted 40 in-depth interviews and 597 online surveys with residents across Miami-Dade County to understand how well current experiences of flood exposure and socio-economic considerations were contributing to climate mobility decisions. We found sea-level rise and related flooding are reshaping decisions to move now, a finding that has the power to reshape future housing markets and development. Up to 75% of respondents reported experiencing a flooding event, driven primarily by rainfall over the years (2016-2022), and these experiences of chronic rainfall are contributing to willingness to move in the future. Four interviewees indicated that climate concerns factored into their decisions to move now, but affordability, retirement, and job opportunities were also primary considerations in their decisions to move. Despite the attitudinal shifts observed in the interviews, 57% of survey respondents preferred to adapt-in-place over moving away, highlighting a need for society-wide commitments to long-term adaptation. Our framework captured climate mobility considerations well as socioeconomic pressures dominated the responses across interviews and respondents. Understanding the ways in climate mobility may exacerbate social and economic inequality are critical to engaging with potential climate futures to design preventative policy interventions.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/31/2024<br> Modified by: Nadia&nbsp;Seeteram</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2049887/2049887_10715281_1706714251209_Figure_1_Redo_01312024_NSF--rgov-214x142.png" original="/por/images/Reports/POR/2024/2049887/2049887_10715281_1706714251209_Figure_1_Redo_01312024_NSF--rgov-800width.png" title="Conceptual model of exposure and vulnerability related to climate mobility."><img src="/por/images/Reports/POR/2024/2049887/2049887_10715281_1706714251209_Figure_1_Redo_01312024_NSF--rgov-66x44.png" alt="Conceptual model of exposure and vulnerability related to climate mobility."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Exposure to sea-level rise and related flooding (horizontal) and socioeconomic vulnerability (vertical) shape sea-level rise risks, adaptive capacity, and potential drivers of climate-related mobility. Four categories of climate-related mobility drivers and outcomes are illustrated.</div> <div class="imageCredit">Nadia Seeteram</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Nadia&nbsp;Seeteram <div class="imageTitle">Conceptual model of exposure and vulnerability related to climate mobility.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Climate migration will increase over time as the risks posed by sea-level rise and other climate-related hazards intensify. However, the impacts of these risks will not be felt equally across society, as populations exposed to risks will also change though time and communities of varying socio-economic capabilities will find it more difficult adapt to these impacts. In this project, we created a framework (featured below) to help identify communities that will be more directly impacted (Migrating and Trapped), indirectly impacted (Displaced), and least impacted (Stable) by sea-level rise and related flooding through understanding their potential for climate mobility in the future. Applying this framework across coastal communities can help identify both the timing and types of adaptation-specific policies needed to promote a more resilient and equitable future.   We applied this framework to Miami-Dade County, Florida, USA, a region with substantial risks to sea-level rise and high income and wealth inequality. We created a residential property-level dataset to understand how populations would be impacted in their homes under projections of street-level flooding (that simulated flooding from groundwater, precipitation, and storm surge across 0-3 meters of sea-level rise). We combined this future flood exposure information with social vulnerability information to produce household, municipal, and county level assessments of the four types of climate mobility pressures. We found under 1 m SLR, 56% of current residents in areas of low flood hazard may experience displacement, whereas 26% of the current population risks being trapped (19%) in or migrating (7%) from areas of high flood hazard, and concerns of depopulation and fiscal stress increase within at least 9 municipalities where 50% or more of their total population is exposed to flooding. As SLR increases from 1 to 2 m, populations exposed to inundation from groundwater rises from 2.8% to 54.7% highlighting a major shift in which both inland and coastal residents are affected by sea-level rise. At 3 m of sea-level rise, only 3% of current residents would be considered Stable or Displaced (5%), indicating how few areas would be unflooded under high sea-level rise scenarios and where development pressures could be greatest now. This framework offers a powerful tool for understanding how and where the intersection of flood exposure and socio-economic vulnerability combine to produce climate mobility pressures, given current population and socio-economic conditions.      We also conducted 40 in-depth interviews and 597 online surveys with residents across Miami-Dade County to understand how well current experiences of flood exposure and socio-economic considerations were contributing to climate mobility decisions. We found sea-level rise and related flooding are reshaping decisions to move now, a finding that has the power to reshape future housing markets and development. Up to 75% of respondents reported experiencing a flooding event, driven primarily by rainfall over the years (2016-2022), and these experiences of chronic rainfall are contributing to willingness to move in the future. Four interviewees indicated that climate concerns factored into their decisions to move now, but affordability, retirement, and job opportunities were also primary considerations in their decisions to move. Despite the attitudinal shifts observed in the interviews, 57% of survey respondents preferred to adapt-in-place over moving away, highlighting a need for society-wide commitments to long-term adaptation. Our framework captured climate mobility considerations well as socioeconomic pressures dominated the responses across interviews and respondents. Understanding the ways in climate mobility may exacerbate social and economic inequality are critical to engaging with potential climate futures to design preventative policy interventions.        Last Modified: 01/31/2024       Submitted by: NadiaSeeteram]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Entropy and Phase Transformations in Stable Nanocrystalline Alloys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>425518.00</AwardTotalIntnAmount>
+<AwardAmount>425518</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Madison</SignBlockName>
+<PO_EMAI>jmadison@nsf.gov</PO_EMAI>
+<PO_PHON>7032922937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Non-Technical Summary&lt;br/&gt;Nanocrystalline alloys are next-generation materials that are composed of many very small crystal grains, adhered together at disordered "grain boundaries". These materials have a variety of exceptional properties like extreme strength and wear resistance. They are also beginning to transition from laboratory curiosities to widely-adopted engineering materials thanks to a critically enabling concept: the stabilization of their grain boundaries by adding alloying elements. Traditional alloy science ignores the effect of grain boundaries, but these cannot be ignored in nanocrystalline metals where they are so prominent. Therefore, new alloy science is needed for these materials, with a focus on integrating the interactions between grain boundaries and alloying additions. This project studies the alloy science of nanocrystalline materials, with a special focus on the effects of temperature and maintaining stability at high temperatures. The project uses computer simulations at the atomic scale to explore the stability of various alloys in nanostructured form, and identifies limits to the compositions and conditions under which nanocrystalline structures can be formed.  Experiments are conducted to make and test these new theoretical advances, and to produce the first prototype samples of new nanocrystalline alloys. These developments are expected to lead to a predictive scientific toolkit for the future design of new families of nanocrystalline alloys, for use in a wide array of applications ranging from electronics, to machine components, to 3D printing. The research in this project is carried out by undergraduate, graduate, and postdoctoral students at MIT as part of their training in materials science. The project team also engages with industry scientists to focus the work on relevant materials and applications, and to align the research for impact through future technology transfer.&lt;br/&gt;&lt;br/&gt;Technical Summary&lt;br/&gt;The intellectual merits of this research program center on resolving the role of entropy in nanostructured alloys. Specifically, the project is developing a full view of configurational and vibrational entropy on grain boundary segregation in polycrystals, through atomistic computations that can separate these two contributions in a system with a full polycrystalline spectrum of grain boundary sites. This information in turn enables a full analysis of the free energy competition between bulk phases and nanostructured states, including details like boundary structural transitions (or complexion transitions) and allotropic phase transformations in the bulk. The overarching goal of the project is to achieve sufficiently quantitative thermodynamic calculations to be able to predict alloy phase diagrams complete with equilibrium and metastable nanocrystalline structures, and then to provide experimental tests of those predictions. The broader impacts of this program comprise a variety of training, outreach and dissemination activities. Undergraduate, graduate, and postdoctoral researchers are trained on topics at the intersection of classical materials science core concepts (alloy thermodynamics, phase equilibria) and new topics in nanoscience (nanostructure stabilization). The research results are published in the open literature and also disseminated widely to industry through the outreach activities of the PI. In particular, industrial interactions are used to guide the research efforts towards relevant materials and temperatures of interest for practical purposes, facilitating future technology transfer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002860</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Schuh</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher A Schuh</PI_FULL_NAME>
+<EmailAddress><![CDATA[schuh@mit.edu]]></EmailAddress>
+<NSF_ID>000340304</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1771</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~133060</FUND_OBLG>
+<FUND_OBLG>2021~146522</FUND_OBLG>
+<FUND_OBLG>2022~145936</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Most of the engineering alloys used for structural applications, such as energy and infrastructure components, are polycrystalline systems that consist of crystal &ldquo;grains&rdquo; that are joined together at seams called grain boundaries (see Fig. part a). These boundaries have a great influence on the properties of the material overall; they can sometimes be weak points, but can also improve many bulk properties like strength, hardness, and wear resistance. This leads to the engineering concept of &ldquo;nanocrystalline alloys&rdquo;, which have a very high density of grain boundaries. However, predicting material behavior including a high density of grain boundaries requires a vast spectrum of physical data due to the disordered configurational space of atoms in these regions (Fig. part a). Therefore this project aims to help fill this gap of understanding by exploring alloying behavior in this continuous configurational space. By performing detailed thermodynamic predictions at varying crystal sizes, doping concentrations and temperatures, we achieve a better understanding of how to design stable nanocrystalline alloys.</p> <p>We first consider size effects from triple junctions in nanocrystalline systems (shown in (b)); these are the junctions where grain boundaries meet, and are lines of considerable atomic disorder and complexity. These junctions are very important in nanocrystalline alloys with a crystallite size of less than ~40 nm. The method of quantifying triple junction spectra has been demonstrated and applied to study Al-based alloys in this project.</p> <p>At realistic temperatures, atoms are constantly vibrating, and those vibrational effects can influence the stability of grain boundaries. We therefore quantified vibrational spectra (c) for solute segregation via a computational framework for use in alloy design. By adapting thermodynamic models for alloys to include this new &ldquo;vibrational entropy&rdquo;, we make considerably more accurate predictions of alloy stability.</p> <p>As we increase the level of alloying (the concentration of alloying elements, or solutes), eventually those alloying species interact with each other. In other words, &nbsp;solute-solute bonds become significant in real alloys. Therefore, we had to develop new corrections for bond energetic changes. The model results in a more rigorous grain boundary model at finite concentrations that can capture the tendency of solute separation (repulsive interactions between solute atoms) or solute clustering (solute atoms are attracted to one another).</p> <p>With all the calculated spectral thermodynamic data above, we can predict thermodynamic states across the size-temperature-concentration space in the spirit of traditional &ldquo;phase diagrams&rdquo; used to design alloys in materials science. Our developments include grain boundaries in these diagrams, so they can serve as an alloy design tool for modern engineering alloys with controlled nanostructures.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2023<br> Modified by: Christopher&nbsp;A&nbsp;Schuh</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Most of the engineering alloys used for structural applications, such as energy and infrastructure components, are polycrystalline systems that consist of crystal grains that are joined together at seams called grain boundaries (see Fig. part a). These boundaries have a great influence on the properties of the material overall; they can sometimes be weak points, but can also improve many bulk properties like strength, hardness, and wear resistance. This leads to the engineering concept of nanocrystalline alloys, which have a very high density of grain boundaries. However, predicting material behavior including a high density of grain boundaries requires a vast spectrum of physical data due to the disordered configurational space of atoms in these regions (Fig. part a). Therefore this project aims to help fill this gap of understanding by exploring alloying behavior in this continuous configurational space. By performing detailed thermodynamic predictions at varying crystal sizes, doping concentrations and temperatures, we achieve a better understanding of how to design stable nanocrystalline alloys.   We first consider size effects from triple junctions in nanocrystalline systems (shown in (b)); these are the junctions where grain boundaries meet, and are lines of considerable atomic disorder and complexity. These junctions are very important in nanocrystalline alloys with a crystallite size of less than ~40 nm. The method of quantifying triple junction spectra has been demonstrated and applied to study Al-based alloys in this project.   At realistic temperatures, atoms are constantly vibrating, and those vibrational effects can influence the stability of grain boundaries. We therefore quantified vibrational spectra (c) for solute segregation via a computational framework for use in alloy design. By adapting thermodynamic models for alloys to include this new vibrational entropy, we make considerably more accurate predictions of alloy stability.   As we increase the level of alloying (the concentration of alloying elements, or solutes), eventually those alloying species interact with each other. In other words, solute-solute bonds become significant in real alloys. Therefore, we had to develop new corrections for bond energetic changes. The model results in a more rigorous grain boundary model at finite concentrations that can capture the tendency of solute separation (repulsive interactions between solute atoms) or solute clustering (solute atoms are attracted to one another).   With all the calculated spectral thermodynamic data above, we can predict thermodynamic states across the size-temperature-concentration space in the spirit of traditional phase diagrams used to design alloys in materials science. Our developments include grain boundaries in these diagrams, so they can serve as an alloy design tool for modern engineering alloys with controlled nanostructures.        Last Modified: 11/29/2023       Submitted by: ChristopherASchuh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

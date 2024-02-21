@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Sparsity in Local Computation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Consider a setting in which inputs to and outputs from a computational problem are so large that there is not enough time to read them in their entirety.  However, if  a user is interested only in small parts of the output at any given time, it may be possible to provide partial answers to the user in much less time than it would take to compute the whole answer, and even, perhaps, less than the time necessary to read the whole input.  Such fast algorithms that compute only the specific parts of the output needed by the user are referred to as "local computation algorithms" (LCAs).  There have been many successes at designing such algorithms for a variety of problems.  However, most of these successes have been for inputs that are in some sense "sparse" -- for example, for social networks in which the average number of "friends" is small, or optimization problems in which at each decision point there are few possibilities to choose from.  This project aims to broaden the scope of these techniques to the more common "dense" scenario.  This project will include the organization of a regular workshop "Workshop on Local Algorithms (WOLA)," as well as incorporate training for graduate students, research opportunities for undergraduates, and produce material that is incorporated into the investigator's "Sublinear Time Algorithms" course.&lt;br/&gt;&lt;br/&gt;In more detail, the goal of the proposed research is to develop new tools for designing LCAs.  A main focus of this project is on techniques for designing LCAs for dense problems via sparsification techniques.  One success of the field of algorithms has been to show that many computations on dense graphs can be performed by first finding a sparse graph which has approximately the same solution as the dense graph, and then solving the problem on the sparse graph.  This project investigates such techniques in the setting of LCAs.  Furthermore, this project studies how to do such sparsification in a local manner -- without solving the whole problem up front.  For example, this project will develop fast LCAs which allow a user to determine which edges are part of a sparse approximating subgraph of the original graph.  The research will mine rich sources of techniques from distributed algorithms, massively parallel computation, and sublinear algorithms.  A wide range of optimization problems will be considered, including problems related to finding sparse subgraphs which capture the essential connectivity features of the input graph, coloring, and the class of problems captured by covering and packing linear programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006664</AwardID>
+<Investigator>
+<FirstName>Ronitt</FirstName>
+<LastName>Rubinfeld</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronitt Rubinfeld</PI_FULL_NAME>
+<EmailAddress><![CDATA[ronitt@csail.mit.edu]]></EmailAddress>
+<NSF_ID>000322655</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute Of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual merit:</p> <p>This project studies the setting in which inputs to and outputs from a computational problem are so large, that there is no time to read them in their entirety. However, if a user is only interested in small parts of the output at any given time, it may be possible to provide partial answers to the user in time that is much more efficient than what it would take to compute the whole answer, and even, perhaps, faster than the time necessary to read the whole input. Such fast algorithms that compute only the specific parts of the output needed by the user are referred to as local computation algorithms (LCAs).<br /><br />This project has shown that LCAs can be important in the context of learning: While nearly optimal learning algorithms for monotone Boolean functions have been known since the mid-1990's, the hypothesis returned by the learning algorithms were not necessarily monotone themselves.&nbsp; An algorithm that returns a hypothesis that is a member of the class of functions being learned is referred to as ``proper".&nbsp; This project has developed the first agnostic proper learning algorithm for&nbsp; monotone Boolean functions whose running time is nearly that of the previous nonproper algorithms.&nbsp;&nbsp; This achieved via a new connection with LCAs, by showing that LCAs for the classic graph matching problem can be used as a key&nbsp; component to design algorithms which can correct functions to make them monotone in a "local" manner.&nbsp; In further improvements, this project has shown that the scope of LCAs has been extended to solve certain convex optimization problems.<br /><br />An important set of problems that occurs in algorithms for social networks and for biological networks is to count the number of motifs, which are&nbsp; small fixed subgraphs. Examples of motifs that are of interest include edges,triangles and four-cycles.&nbsp;&nbsp; This project has developed new sublinear time algorithms for motif counting.&nbsp;&nbsp; First, a new sublinear time algorithm is given that uses a combinatorial decomposition of the graph to speed up the motif counting algorithms. Second, a new one-pass streaming algorithm, using sublinear space, for estimating the number of triangles and four cycles is given.&nbsp; The latter algorithm uses a "learned oracle" which indicates which edges might be in many triangles (resp. four-cycles) to gain efficiency and improved accuracy.&nbsp; Third, improved algorithms for sampling multiple edges in a graph are given which are more efficient than performing several instantiations<br />of an algorithm that samples one edge at a time.<br /><br />Recent work shows that the expressive power of Graph Neural Networks (GNNs) in distinguishing non-isomorphic graphs is exactly the same as that of the Weisfeiler-Lehman (WL) graph test. In particular, the WL test can be simulated by GNNs, as it is a locally computable test. However, those simulations involve neural networks that are of size polynomial or even exponential in the number of graph nodes n,&nbsp; as well as feature vectors of length linear in n. This project presents an improved simulation of the WL test on GNNs with exponentially lower complexity, and shows that the new construction is nearly optimal.<br /><br />A second thrust explored by this project is to find fast local ways of testing distributional assumptions of learning algorithms. Many important high dimensional function classes have fast agnostic learning&nbsp; algorithms when strong assumptions on the distribution of examples can be made, such as Gaussianity or uniformity over the domain.&nbsp; How can one be sufficiently confident that the data indeed satisfies the distributional assumption, so that one can trust in&nbsp; the output quality of the agnostic learning algorithm? Unfortunately, directly testing that the distribution satisfies the distributional assumption requires too many samples. This project introduces the framework of tester-learner pairs (T,A), such that a tester T is applied to the sample distribution, and if T passes, then one can safely trust the output of the&nbsp; agnostic learner A on the data.&nbsp;&nbsp;&nbsp; Note that the tester T is allowed to pass input distributions that do not satisfy the distributional assumption, as long as the algorithm is guaranteed to perform well on the input distribution.&nbsp; The project shows that this paradigm can be applied to the classical problem of agnostically learning halfspaces under the&nbsp; standard Gaussian distribution and the Boolean hypercube,&nbsp; presenting&nbsp; tester-learner pairs with combined run-times that are competitive with the best known agnostic learning algorithm.&nbsp;&nbsp; Thus, very little overhead is required for safely using these algorithms that make distributional assumptions. Several more recent works by others have extended the scope of the framework to apply to a number of other agnostic learning problems.</p> <p>&nbsp;</p> <p>Broader Impacts:</p> <p>The project has organized the yearly "Workshop on Local Algorithms" (WOLA) as a long term way of bringing together the communities of researchers in sublinear time, streaming, distributed and parallel algorithms that have similar goals but a variety of approaches and techniques.</p><br> <p>            Last Modified: 10/14/2023<br>      Modified by: Ronitt&nbsp;Rubinfeld</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual merit:  This project studies the setting in which inputs to and outputs from a computational problem are so large, that there is no time to read them in their entirety. However, if a user is only interested in small parts of the output at any given time, it may be possible to provide partial answers to the user in time that is much more efficient than what it would take to compute the whole answer, and even, perhaps, faster than the time necessary to read the whole input. Such fast algorithms that compute only the specific parts of the output needed by the user are referred to as local computation algorithms (LCAs).  This project has shown that LCAs can be important in the context of learning: While nearly optimal learning algorithms for monotone Boolean functions have been known since the mid-1990's, the hypothesis returned by the learning algorithms were not necessarily monotone themselves.  An algorithm that returns a hypothesis that is a member of the class of functions being learned is referred to as ``proper".  This project has developed the first agnostic proper learning algorithm for  monotone Boolean functions whose running time is nearly that of the previous nonproper algorithms.   This achieved via a new connection with LCAs, by showing that LCAs for the classic graph matching problem can be used as a key  component to design algorithms which can correct functions to make them monotone in a "local" manner.  In further improvements, this project has shown that the scope of LCAs has been extended to solve certain convex optimization problems.  An important set of problems that occurs in algorithms for social networks and for biological networks is to count the number of motifs, which are  small fixed subgraphs. Examples of motifs that are of interest include edges,triangles and four-cycles.   This project has developed new sublinear time algorithms for motif counting.   First, a new sublinear time algorithm is given that uses a combinatorial decomposition of the graph to speed up the motif counting algorithms. Second, a new one-pass streaming algorithm, using sublinear space, for estimating the number of triangles and four cycles is given.  The latter algorithm uses a "learned oracle" which indicates which edges might be in many triangles (resp. four-cycles) to gain efficiency and improved accuracy.  Third, improved algorithms for sampling multiple edges in a graph are given which are more efficient than performing several instantiations of an algorithm that samples one edge at a time.  Recent work shows that the expressive power of Graph Neural Networks (GNNs) in distinguishing non-isomorphic graphs is exactly the same as that of the Weisfeiler-Lehman (WL) graph test. In particular, the WL test can be simulated by GNNs, as it is a locally computable test. However, those simulations involve neural networks that are of size polynomial or even exponential in the number of graph nodes n,  as well as feature vectors of length linear in n. This project presents an improved simulation of the WL test on GNNs with exponentially lower complexity, and shows that the new construction is nearly optimal.  A second thrust explored by this project is to find fast local ways of testing distributional assumptions of learning algorithms. Many important high dimensional function classes have fast agnostic learning  algorithms when strong assumptions on the distribution of examples can be made, such as Gaussianity or uniformity over the domain.  How can one be sufficiently confident that the data indeed satisfies the distributional assumption, so that one can trust in  the output quality of the agnostic learning algorithm? Unfortunately, directly testing that the distribution satisfies the distributional assumption requires too many samples. This project introduces the framework of tester-learner pairs (T,A), such that a tester T is applied to the sample distribution, and if T passes, then one can safely trust the output of the  agnostic learner A on the data.    Note that the tester T is allowed to pass input distributions that do not satisfy the distributional assumption, as long as the algorithm is guaranteed to perform well on the input distribution.  The project shows that this paradigm can be applied to the classical problem of agnostically learning halfspaces under the  standard Gaussian distribution and the Boolean hypercube,  presenting  tester-learner pairs with combined run-times that are competitive with the best known agnostic learning algorithm.   Thus, very little overhead is required for safely using these algorithms that make distributional assumptions. Several more recent works by others have extended the scope of the framework to apply to a number of other agnostic learning problems.     Broader Impacts:  The project has organized the yearly "Workshop on Local Algorithms" (WOLA) as a long term way of bringing together the communities of researchers in sublinear time, streaming, distributed and parallel algorithms that have similar goals but a variety of approaches and techniques.       Last Modified: 10/14/2023       Submitted by: Ronitt Rubinfeld]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

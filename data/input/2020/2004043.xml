@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Novel Implementations, Analytical Targets, and Mechanistic Studies of Negative Ion Electron Capture Dissociation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>549935.00</AwardTotalIntnAmount>
+<AwardAmount>549935</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Kristina Hakansson and her group at the University of Michigan are working to improve our ability to characterize the chemical structure of molecules, including especially biomolecules such as proteins.  Such structural analysis is essential to help us understand the function (and dysfunction) of molecules in complex samples, e.g., biofluids, cells, and tissues.  The Hakansson approach employs the attachment of electrons to gaseous anions (negatively charged molecules), inducing diagnostic fragmentation of the target molecule in a process termed negative ion electron capture dissociation (niECD).  Adding electrons (which bear a negative charge) to anions (which also are negatively charged) is challenging, due to charge repulsion.  Having developed this method, Dr. Hakansson is now working to improve our understanding and broaden the applicability and availability of niECD.  The research is providing new approaches to biomolecular structural characterization with important implications for drug discovery and enhanced understanding of the molecular basis of living organisms.  Students involved gain exposure to highly interdisciplinary research.  Dr. Hakansson also works to bring appreciation for these concepts and for broader STEM opportunities to middle school students in an effort to boost interest in the scientific method at a young age.  &lt;br/&gt;&lt;br/&gt;The Hakansson group is exploring novel niECD instrument configurations, including extension to matrix-assisted laser desorption/ionization and nano-electrospray ionization.  They are working to implement niECD in a high pressure cell, enabling use with mass analyzers other than Fourier transform ion cyclotron resonance (FT-ICR).  In pursuit of improved insight into the fundamental chemistry underlying niECD, they are pursuing two approaches (drift tube ion mobility and cross-sectional areas by FT-ICR, or CRAFTI (cross-sectional areas by FT-ICR) to testing Dr. Hakansson’s recent findings that compact, presumably salt-bridged structures are required for effective niECD of peptides.  These efforts are supported by molecular modeling and density functional theory calculations, with a special focus on novel analyte classes such as carbohydrates and lipids, which were recently discovered by the Hakansson group to undergo niECD despite not fitting the previously proposed zwitterion mechanism.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004043</AwardID>
+<Investigator>
+<FirstName>Kristina</FirstName>
+<LastName>Hakansson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristina Hakansson</PI_FULL_NAME>
+<EmailAddress><![CDATA[kicki@umich.edu]]></EmailAddress>
+<NSF_ID>000483345</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName/>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~549935</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This award by the Chemical Measurement and Imaging (CMI) program supported work by Professor Kristina Hakansson at the University of Michigan to improve our ability to characterize the chemical structure of biological molecules, including proteins, sugars, lipids, and RNA.&nbsp; Such structural analysis is essential to help us understand the function (and malfunction) of molecules in complex samples, e.g., biofluids, cells, and tissues.&nbsp; The Hakansson approach employs the attachment of electrons to gaseous anions (negatively charged molecules), inducing diagnostic, structurally informative fragmentation of the target molecule in a process termed negative ion electron capture dissociation (niECD).&nbsp; niECD occurs inside a mass spectrometer, which measures mass-to-charge (m/z) ratios of charged molecules and their charged fragments under vacuum.&nbsp; Many molecules of interest prefer to be negatively charged based on their chemical nature; however, adding electrons (which also bear a negative charge) is challenging due to charge repulsion.&nbsp; Having developed this method, Dr. Hakansson worked to improve our understanding, improve the efficiency, and broaden the applicability and availability of niECD.&nbsp; Students involved in the research gained exposure to highly interdisciplinary research.&nbsp; Dr. Hakansson also worked to bring appreciation for these concepts and for broader STEM opportunities to middle school students in an effort to boost interest in the scientific method at a young age.&nbsp; Furthermore, she led discussions with other female scientists on how to balance parenting and an academic career.</p> <p>Because the most common analyte charging method for mass spectrometry analysis, electrospray ionization, typically adds multiple charges to analyte molecules, the difficulty of electron attachment to negatively charged analytes is exacerbated.&nbsp; This award allowed the Hakansson laboratory to add matrix-assisted laser desorption/ionization (MALDI), another Nobel Prize winning charging method, to their high end mass spectrometer.&nbsp; This upgrade enabled generation of singly charged biomolecules at high m/z ratios.&nbsp; Such biomolecular ions were found to undergo highly efficient niECD, i.e., fulfilling the goal of improving niECD efficiency.&nbsp; Another notable result from the research is that niECD allows differentiation of peptides with a sulfate modification at different positions.&nbsp; Sulfate groups in proteins have important biological roles, including receptor binding, blood coagulation, and male fertility, thus, it is of high interest to determine where such modifications are located.&nbsp; By contrast, conventional mass spectrometry-based methods were unable to generate such information.&nbsp; Another approach to improving niECD efficiency, i.e., attachment of &ldquo;fixed&rdquo; negatively charged chemical groups, was also shown to rescue niECD ability for peptides refractory to niECD in the absence of chemical modification.&nbsp; &nbsp;In addition, the researchers explored the effectiveness of niECD for new classes of molecules, including sulfated sugars and gangliosides that often carry acidic groups that prefer to be negatively charged.&nbsp; Results showed that electron energy needs to be carefully controlled to generate the highest number of structurally informative fragments for these types of molecules.&nbsp;</p> <p>The niECD reaction requires highly specialized equipment, including a strong magnetic field provided by a superconducting magnet, which is expensive.&nbsp; Thus, the researchers are working towards implementing niECD in more commonly available mass spectrometers.&nbsp; While this work is ongoing, the team also sought to develop alternative approaches to using more straightforward electron irradiation of positively charged molecules, even for molecules that prefer to be negatively charged.&nbsp; They showed that introduction of so called &ldquo;supercharging&rdquo; reagents was effective in this regard.&nbsp; In particular, peptides bearing large sugar moieties, which typically do not charge sufficiently to generate useful structural information, showed increased positive charge with this approach and, thus, improved structural characterization.&nbsp; Notably, conventional data analysis tools were not able to adequately annotate such mass spectra.&nbsp; However, a combination of supercharging and the recently developed open search tool MSFragger was highly successful.&nbsp; Furthermore, electron detachment dissociation (EDD), which involves higher energy electron irradiation compared with niECD and is therefore more easily implemented in alternative instrumentation, was coupled with liquid chromatography to enable the LC-EDD of RNA for the first time.&nbsp; Overall, the research provided several new approaches to biomolecular structural characterization with important implications for drug discovery and enhanced understanding of the molecular basis of living organisms.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/15/2023<br> Modified by: Kristina&nbsp;Hakansson</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This award by the Chemical Measurement and Imaging (CMI) program supported work by Professor Kristina Hakansson at the University of Michigan to improve our ability to characterize the chemical structure of biological molecules, including proteins, sugars, lipids, and RNA. Such structural analysis is essential to help us understand the function (and malfunction) of molecules in complex samples, e.g., biofluids, cells, and tissues. The Hakansson approach employs the attachment of electrons to gaseous anions (negatively charged molecules), inducing diagnostic, structurally informative fragmentation of the target molecule in a process termed negative ion electron capture dissociation (niECD). niECD occurs inside a mass spectrometer, which measures mass-to-charge (m/z) ratios of charged molecules and their charged fragments under vacuum. Many molecules of interest prefer to be negatively charged based on their chemical nature; however, adding electrons (which also bear a negative charge) is challenging due to charge repulsion. Having developed this method, Dr. Hakansson worked to improve our understanding, improve the efficiency, and broaden the applicability and availability of niECD. Students involved in the research gained exposure to highly interdisciplinary research. Dr. Hakansson also worked to bring appreciation for these concepts and for broader STEM opportunities to middle school students in an effort to boost interest in the scientific method at a young age. Furthermore, she led discussions with other female scientists on how to balance parenting and an academic career.   Because the most common analyte charging method for mass spectrometry analysis, electrospray ionization, typically adds multiple charges to analyte molecules, the difficulty of electron attachment to negatively charged analytes is exacerbated. This award allowed the Hakansson laboratory to add matrix-assisted laser desorption/ionization (MALDI), another Nobel Prize winning charging method, to their high end mass spectrometer. This upgrade enabled generation of singly charged biomolecules at high m/z ratios. Such biomolecular ions were found to undergo highly efficient niECD, i.e., fulfilling the goal of improving niECD efficiency. Another notable result from the research is that niECD allows differentiation of peptides with a sulfate modification at different positions. Sulfate groups in proteins have important biological roles, including receptor binding, blood coagulation, and male fertility, thus, it is of high interest to determine where such modifications are located. By contrast, conventional mass spectrometry-based methods were unable to generate such information. Another approach to improving niECD efficiency, i.e., attachment of fixed negatively charged chemical groups, was also shown to rescue niECD ability for peptides refractory to niECD in the absence of chemical modification. In addition, the researchers explored the effectiveness of niECD for new classes of molecules, including sulfated sugars and gangliosides that often carry acidic groups that prefer to be negatively charged. Results showed that electron energy needs to be carefully controlled to generate the highest number of structurally informative fragments for these types of molecules.   The niECD reaction requires highly specialized equipment, including a strong magnetic field provided by a superconducting magnet, which is expensive. Thus, the researchers are working towards implementing niECD in more commonly available mass spectrometers. While this work is ongoing, the team also sought to develop alternative approaches to using more straightforward electron irradiation of positively charged molecules, even for molecules that prefer to be negatively charged. They showed that introduction of so called supercharging reagents was effective in this regard. In particular, peptides bearing large sugar moieties, which typically do not charge sufficiently to generate useful structural information, showed increased positive charge with this approach and, thus, improved structural characterization. Notably, conventional data analysis tools were not able to adequately annotate such mass spectra. However, a combination of supercharging and the recently developed open search tool MSFragger was highly successful. Furthermore, electron detachment dissociation (EDD), which involves higher energy electron irradiation compared with niECD and is therefore more easily implemented in alternative instrumentation, was coupled with liquid chromatography to enable the LC-EDD of RNA for the first time. Overall, the research provided several new approaches to biomolecular structural characterization with important implications for drug discovery and enhanced understanding of the molecular basis of living organisms.        Last Modified: 12/15/2023       Submitted by: KristinaHakansson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

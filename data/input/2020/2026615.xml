@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FW-HTF-P: Design of Tools and Technologies for Industry 4.0 Manufacturing Work]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexandra Medina-Borja</SignBlockName>
+<PO_EMAI>amedinab@nsf.gov</PO_EMAI>
+<PO_PHON>7032927557</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As information technology has matured, a Fourth Industrial Revolution—often referred to as Industry 4.0—is emerging. Industry 4.0 aims to use technology to integrate design, manufacturing, and consumer activities seamlessly, resulting in increased productivity, reliability and customer satisfaction. However, the process of transitioning to Industry 4.0 can be challenging to both companies and workers. Companies cannot stop operating while their production systems and processes are being updated. Due to the cost of the technology and the need to train the workforce, the transition may need to take place over a period of years. Workers who cannot adapt to the new technologies and processes risk losing their jobs.  This project will bring manufacturing industry representatives and researchers together to develop a plan for future research. The research plan will lay the groundwork for development of tools and technologies to make the transition to Industry 4.0 more straightforward and cost-effective for companies and more successful for workers.  Examples of possible research topics include road maps for transitioning from conventional manufacturing systems to Industry 4.0 systems; tools for ergonomic design of workstations and assembly lines; cognitive virtual assistants for workers; guidance for human interface design; and automated generation of knowledge and skill “crosswalks” to help companies identify existing skills that will still be needed and new skills that workers need to learn.&lt;br/&gt;&lt;br/&gt;The proposed planning grant aims to develop a research agenda related to the implementation of Industry 4.0 within the manufacturing industry. The work domain is manufacturing; sub-domains could include smart design, smart machining, smart assembly, smart monitoring, smart control and smart scheduling. The workplace is the factory, which could include production lines, engineering design, and inspection and testing areas. The workers include the engineers and operators who work in these areas. The proposed planning activities will focus on gaining a better understanding of industry needs which, together with a convergent research approach, will lay the groundwork for development of tools and technologies that can enhance the human-technology partnership and augment human performance in Industry 4.0 manufacturing work. Major tasks will include: (1) survey Industry 4.0 manufacturing system development, applications, and constraints; and (2) develop a convergent research agenda in close collaboration with representatives from a variety of manufacturing sectors and researchers with expertise in manufacturing engineering, human factors, human resource development, sociology, and computer science. Intellectual merit:  Although Industry 4.0 has many potential benefits, at this time, the process of transitioning from a traditional manufacturing system to an Industrial 4.0 manufacturing system is expensive and fraught with risk to both the company and its workers.  The proposed convergent approach will allow scientists to learn from plant technical managers about the operational challenges of implementing Industry 4.0 within their companies. Involving researchers with diverse areas of expertise will provide a richer understanding of the issues and convergent approaches to problem-solving.  Broader impacts:  Industry 4.0 is projected to add $2.2 trillion to domestic GDP by 2025. The value of the operational transformation to the global manufacturing industry is estimated to be $3.7T/year. To remain competitive, manufacturers need to be able to rapidly adapt to changing markets, which requires having a well-prepared workforce. The proposed planning activities will identify tools and technologies that could be developed to enable successful implementation of Industry 4.0, and thereby enhance work environments, position workers to be successful at their jobs, and increase competitiveness of U.S. companies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026615</AwardID>
+<Investigator>
+<FirstName>Sheng-Jen</FirstName>
+<LastName>Hsieh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheng-Jen Hsieh</PI_FULL_NAME>
+<EmailAddress><![CDATA[hsieh@tamu.edu]]></EmailAddress>
+<NSF_ID>000374111</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433367</ZipCode>
+<StreetAddress><![CDATA[3367 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>103Y</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>076Z</Code>
+<Text>FET: Foundations of Emerging Technologie</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As information technology has become robust and mature, developed countries such as Germany have advanced the concept of the Fourth Industrial Revolution, often referred to as Industry 4.0. The intent is to integrate design, manufacturing, and consumer activities seamlessly to increase productivity, reliability, and customer satisfaction. Industry 4.0 is projected to add $2.2 trillion to domestic GDP by 2025 and the value of the operational transformation to the global manufacturing industry is estimated to be $3.7T/year. To remain competitive, manufacturers need to be able to rapidly adapt to changing markets, which requires having a well-prepared workforce; 27% of U.S. manufacturers report they are not able to expand production due to lack of a properly skilled workforce. This challenge is exacerbated by a declining baby-boomer workforce, with an estimated 10,000 boomers retiring each day through 2029. The transition to new technology could potentially lead to current workers losing their jobs if they are unable to adapt.</p> <p>Although Industry 4.0 has many potential benefits, the process of transitioning from a traditional manufacturing system to an Industrial 4.0 manufacturing system is not straightforward. First, companies are not able to completely stop work while their production systems and processes undergo transition--the show must go on. Second, transitioning to new technologies is expensive; in many cases, changes in work sequence, workstations, and workforce training will need to be incremental, and development of new tools and gadgets will take place over a period of years. Third, there is no one-size-fits-all Industry 4.0 solution. Different industries have different needs, and even companies in the same industry may have different needs based on factors such as size and location.</p> <p>This FW-HTF planning grant developed a research agenda related tools and technologies to enhance the human-technology partnership and augment human performance in Industry 4.0 manufacturing work. To develop this agenda, the project team surveyed 71 companies, led seven workshops focusing on I4.0 implementation in industry reaching out to 55 companies, reviewed I4.0 technology implementations by industry, led five workshops focusing in I4.0 research agenda development that reached out to 65 academic researchers, and conducted seven individual interviews with industry.</p> <p>The team found that Industry 4.0 technologies are most often used by large corporations. Small companies face significant barriers to entry including cost of implementing new technology, the need to redesign production systems and processes, and inability to stop work while production systems and processes undergo transition, and inability to hire/retain skilled workers. planning tools such as a road map of the process for transforming a traditional manufacturing system into a cyber-physical system with the least amount of disruption to production and to the workforce, methods for calculating the trade-offs between the additional resources that will be needed in smart factories and the potential generated savings, and tools to help decide which I4.0 technologies to implement would be helpful. Workers need to be able to use computers and new technological tools such as smart glasses. Training is needed both to help current workers to update their skills and to prepare future workers. Technical skills and critical thinking skills are particularly important.</p> <p>Over 50 potential research topics were proposed, relating to five Industry 4.0 technology areas: augmented/virtual reality, digital twin/cyber physical systems, collaborative robots, Internet of Things, and data analytics/machine learning. The topics relate to making these technologies easier to use, more easy to plug-and-play with existing system and processes, more secure (both in terms of physical safety and protecting information from cyber-attacks), more transparent, and more reliable and powerful. In addition, barriers to acceptance such as lack of training, fear of losing one&rsquo;s job, and lack of understanding of the benefits of the technology need to be addressed.</p> <p>The research agenda developed from this project will increase opportunities for convergent multidisciplinary collaborations. The impact will extend beyond the research community, to manufacturing industries, and ultimately the economy as whole.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Sheng-Jen&nbsp; &nbsp;Hsieh</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660657100_Workshop--rgov-214x142.jpeg" original="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660657100_Workshop--rgov-800width.jpeg" title="Workshop presentation"><img src="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660657100_Workshop--rgov-66x44.jpeg" alt="Workshop presentation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">One of seven industry workshops sponsored by this project. Workshop participants each gave a short presentation about their company's involvement in Industry 4.0.</div> <div class="imageCredit">Sheng-Jen Hsieh</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sheng-Jen&nbsp; &nbsp;Hsieh <div class="imageTitle">Workshop presentation</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660517381_Booth--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660517381_Booth--rgov-800width.jpg" title="Table at conference"><img src="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660517381_Booth--rgov-66x44.jpg" alt="Table at conference"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The project team staffed a table at the 2022 Mary Kay O'Connor Process Safety Center conference.</div> <div class="imageCredit">Sheng-Jen Hsieh</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sheng-Jen&nbsp; &nbsp;Hsieh <div class="imageTitle">Table at conference</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660341940_Smart_system_example--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660341940_Smart_system_example--rgov-800width.jpg" title="Smart system for irrigation"><img src="/por/images/Reports/POR/2023/2026615/2026615_10694281_1703660341940_Smart_system_example--rgov-66x44.jpg" alt="Smart system for irrigation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of Industry 4.0 cyber physical system for irrigation</div> <div class="imageCredit">Sheng-Jen Hsieh</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sheng-Jen&nbsp; &nbsp;Hsieh <div class="imageTitle">Smart system for irrigation</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  As information technology has become robust and mature, developed countries such as Germany have advanced the concept of the Fourth Industrial Revolution, often referred to as Industry 4.0. The intent is to integrate design, manufacturing, and consumer activities seamlessly to increase productivity, reliability, and customer satisfaction. Industry 4.0 is projected to add $2.2 trillion to domestic GDP by 2025 and the value of the operational transformation to the global manufacturing industry is estimated to be $3.7T/year. To remain competitive, manufacturers need to be able to rapidly adapt to changing markets, which requires having a well-prepared workforce; 27% of U.S. manufacturers report they are not able to expand production due to lack of a properly skilled workforce. This challenge is exacerbated by a declining baby-boomer workforce, with an estimated 10,000 boomers retiring each day through 2029. The transition to new technology could potentially lead to current workers losing their jobs if they are unable to adapt.   Although Industry 4.0 has many potential benefits, the process of transitioning from a traditional manufacturing system to an Industrial 4.0 manufacturing system is not straightforward. First, companies are not able to completely stop work while their production systems and processes undergo transition--the show must go on. Second, transitioning to new technologies is expensive; in many cases, changes in work sequence, workstations, and workforce training will need to be incremental, and development of new tools and gadgets will take place over a period of years. Third, there is no one-size-fits-all Industry 4.0 solution. Different industries have different needs, and even companies in the same industry may have different needs based on factors such as size and location.   This FW-HTF planning grant developed a research agenda related tools and technologies to enhance the human-technology partnership and augment human performance in Industry 4.0 manufacturing work. To develop this agenda, the project team surveyed 71 companies, led seven workshops focusing on I4.0 implementation in industry reaching out to 55 companies, reviewed I4.0 technology implementations by industry, led five workshops focusing in I4.0 research agenda development that reached out to 65 academic researchers, and conducted seven individual interviews with industry.   The team found that Industry 4.0 technologies are most often used by large corporations. Small companies face significant barriers to entry including cost of implementing new technology, the need to redesign production systems and processes, and inability to stop work while production systems and processes undergo transition, and inability to hire/retain skilled workers. planning tools such as a road map of the process for transforming a traditional manufacturing system into a cyber-physical system with the least amount of disruption to production and to the workforce, methods for calculating the trade-offs between the additional resources that will be needed in smart factories and the potential generated savings, and tools to help decide which I4.0 technologies to implement would be helpful. Workers need to be able to use computers and new technological tools such as smart glasses. Training is needed both to help current workers to update their skills and to prepare future workers. Technical skills and critical thinking skills are particularly important.   Over 50 potential research topics were proposed, relating to five Industry 4.0 technology areas: augmented/virtual reality, digital twin/cyber physical systems, collaborative robots, Internet of Things, and data analytics/machine learning. The topics relate to making these technologies easier to use, more easy to plug-and-play with existing system and processes, more secure (both in terms of physical safety and protecting information from cyber-attacks), more transparent, and more reliable and powerful. In addition, barriers to acceptance such as lack of training, fear of losing ones job, and lack of understanding of the benefits of the technology need to be addressed.   The research agenda developed from this project will increase opportunities for convergent multidisciplinary collaborations. The impact will extend beyond the research community, to manufacturing industries, and ultimately the economy as whole.        Last Modified: 12/27/2023       Submitted by: Sheng-Jen Hsieh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Modeling and measuring critical data literacies in informal learning environments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>314271.00</AwardTotalIntnAmount>
+<AwardAmount>314271</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joan Walker</SignBlockName>
+<PO_EMAI>jowalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Society’s reliance on digital technologies has resulted in enormous amounts of data being recorded, sorted, and analyzed. While improving human efficiency and life quality, data analytics can also reproduce inequities and further marginalize those from non-dominant populations, including women, people of color, and those who live in poverty. This two-year Building Capacity in STEM Education Research Individual Investigator Development project addresses this issue by developing a data science education program for middle school students that examines the social and ethical dimensions of digital technologies. By engaging over 100 counselors, parents, students, and researchers as co-designers of the data science education program at an after-school community-based program, the project has potential to educate a range of stakeholders in computing education. Moreover, it has potential to broaden participation in STEM by providing youth who are traditionally underrepresented in STEM with rich and culturally relevant experiences that may motivate them to pursue STEM majors and careers.&lt;br/&gt;&lt;br/&gt;Specific project research objectives are to: (1) measure and model youth’s data science knowledge and practices in the context of social, ethical, and political issues related to digital technologies; and (2) measure youth’s sense of empowerment to enact change in their communities in terms of the ethical use of digital technologies. The project integrates data science education research and sociocultural learning theories to build new theoretical understandings about the nature of data science learning in the context of social/ethical/political issues. This approach can advance knowledge and understanding of how middle school aged youth engage in data practices in ways that are valued within their own cultures and within broader STEM communities. The project also supports the long-term goal of developing theories of critical data science learning and how to engage youth in community programs that promote ethical, culturally responsive, and critical STEM learning opportunities. The professional development objectives are to develop the Principal Investigator’s understanding of participatory design, ability to design for youth in informal learning environments and access to quantitative ethnography tools and methods.&lt;br/&gt;&lt;br/&gt;The project is supported through the EHR Core Research: Building Capacity in STEM Education Research (ECR: BCSER) competition that is designed to build individuals’ capacity to carry out high quality fundamental STEM education research in STEM learning and learning environments, broadening participation in STEM fields, and STEM workforce development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024965</AwardID>
+<Investigator>
+<FirstName>Golnaz</FirstName>
+<LastName>Arastoopour Irgens</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Golnaz Arastoopour Irgens</PI_FULL_NAME>
+<EmailAddress><![CDATA[garasto@clemson.edu]]></EmailAddress>
+<NSF_ID>000818477</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>201 SIKES HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[230 Kappa Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>162Y</Code>
+<Text>ECR:BCSER Capcity STEM Ed Rscr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8055</Code>
+<Text>Capacity-Building Projects</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8212</Code>
+<Text>Broaden Particip STEM Resrch</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8816</Code>
+<Text>Workforce Development</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~314271</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In 2020, Clemson University received a $<span id="docs-internal-guid-1147dc1e-7fff-72be-a91f-1595cf6ff51c"><span>314,271 BCSER</span></span>&nbsp;award entitled &ldquo;<span>Modeling and measuring critical data literacies in informal learning environments" with Golnaz Arastoopour Irgens as the Project Investigator (PI).&nbsp;</span></p> <p><strong>Motivation</strong></p> <p>This project was motivated by the recent increase in digital data being recorded, sorted, and analyzed. <span id="docs-internal-guid-7d9f1e27-7fff-1b37-54cd-cd794607fd35"><span>Big Data and algorithmic design influence many aspects of life such as how police officers are allocated to different neighborhoods, what political ads are present in different contexts, who gets healthcare coverage and housing loans, and who has access to higher education. The designs and data have potential to be biased and exclusive, and often, the individuals most negatively affected by this are vulnerable and minoritized populations.</span></span>&nbsp;As big data algorithm usage and dependency become more ubiquitous, it will become critical for all young people, and in particular those from historically marginalized populations, to have a deep understanding of data science that empowers them to enact change in their communities.</p> <p>The goals of this project were research oriented and related to the professional development of the PI.</p> <p><strong>Research Outcomes</strong></p> <p>(1) Develop research-based critical data literacies activities with and for elementary and middle school aged children using participatory design frameworks</p> <p>Drawing from participatory design frameworks with children, we co-designed a Critical Machine Learning (CML) program that is publicly available on Clemson's IDEA lab website. The program provides suggestions for how to continually involve children both in the design of ethical machine learning-powered robots, as well as in the design of their own learning activities. The program is ideally implemented in informal settings but can be adapted for classrooms.&nbsp;</p> <p>(2) Measure and model elementary and middle school aged children's data science knowledge and practices in the context of social, ethical, and political issues related to digital technologies</p> <p>In this project we used quantitative ethnography methodology to model how children developed computational knowledge and skills and understood how technologies can be harmful and discriminatory. We found that after participating in our CML program, children between the ages of 9 and 13 developed an understanding of how people train&nbsp;machine learning algorithms that could exclude or harm others. Children learned about the differences between training datasets and test datasets and how bias can be introduced to training datasets, which can have large social consequences.&nbsp;Some children were also able to articulate how people in positions of power can design machine learning algorithms&nbsp;that misclassify those who are not in positions to design&nbsp;them. Those misclassifications can lead to further disadvantaging&nbsp;underprivileged populations.</p> <p>In addition to increasing their critical machine learning knowledge, children built their own machine learning-powered robots to address social issues important to them and their local communities. We saw evidence of children drawing on four computational practices: experimenting and iterating, testing and debugging, reusing and remixing, and abstracting and modularizing when programming their robots.&nbsp;</p> <p>For example, one group of children designed a robot named "Ted," who would be an empathetic companion for people during the height of the COVID-19 pandemic. They used a voice classification system to program Ted to ask "How are you?", listen to the person's response, and then respond accordingly to empathize with them.&nbsp;</p> <p>(3) Develop a theoretical framework for critical data literacies&nbsp;</p> <p class="p1">Based on our studies, we characterize critical computing education as 1) posing and answering questions about the roles of producers and consumers of technologies, specifically who designs technologies, for what purposes, who benefits, who is harmed, and what are the histories embedded in the data being used, and 2) identifying how people design technologies and applying this knowledge to build applications for marginalized populations. This is an ongoing theoretical framework that we will continue to develop.&nbsp;</p> <p><strong>Broader Impacts</strong></p> <p><span id="docs-internal-guid-8a562385-7fff-7ba9-6f6c-0b1a2647700a"><span>This project involved over 100 counselors, youth, and researchers in the co-design of a CML education program in after-school community youth centers. This broad reach exposed multiple stakeholders to computing education. Moreover, many of the youth in this project were from populations who are underrepresented in STEM: African American, Latinx, and living in poverty. Because of our participatory approach, the research team is still in contact with and volunteering at these centers.&nbsp;</span></span></p> <p><span id="docs-internal-guid-8a562385-7fff-7ba9-6f6c-0b1a2647700a"><span>The publicly available CML program</span><span>&nbsp;provides ways for children to enact agency over their learning and provides the means to approach instructional tasks through a participatory and critical lens for elementary and middle school computer science and computational thinking disciplines.</span></span></p> <p><span><span><span id="docs-internal-guid-c674d92e-7fff-ad60-afba-ac0f4eec73ac"><span>This project served youth by providing culturally-relevant experiences that may motivate them to pursue STEM majors and careers, thus broadening participation in STEM. Youth from minoritized populations have been impacted by this program by developing a critical lens and becoming aware of those who are marginalized by digital technologies, including people who look like them. Because the program centers on social, ethical, and political issues, this project contributed to the development of an ethical and well-prepared STEM workforce.</span></span><br /></span></span></p><br> <p>  Last Modified: 11/30/2023<br> Modified by: Golnaz&nbsp;Arastoopour Irgens</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701301954087_Screenshot_2023_11_29_at_6.48.13_PM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701301954087_Screenshot_2023_11_29_at_6.48.13_PM--rgov-800width.png" title="Discourse network of children after participation in the program"><img src="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701301954087_Screenshot_2023_11_29_at_6.48.13_PM--rgov-66x44.png" alt="Discourse network of children after participation in the program"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This summary network of children's discourse provides a model for how children connect machine learning concepts (grey) to a critical lens (red).</div> <div class="imageCredit">Clemson University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Golnaz&nbsp;Arastoopour Irgens <div class="imageTitle">Discourse network of children after participation in the program</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701365014055_code--rgov-214x142.png" original="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701365014055_code--rgov-800width.png" title="example of block-based programming code from children"><img src="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701365014055_code--rgov-66x44.png" alt="example of block-based programming code from children"></a> <div class="imageCaptionContainer"> <div class="imageCaption">One group's partial block-baed program for their robot. Their program integrated voice classification machine learning trained algorithms.</div> <div class="imageCredit">Clemson University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Golnaz&nbsp;Arastoopour Irgens <div class="imageTitle">example of block-based programming code from children</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701301225341_robots_on_floor--rgov-214x142.jpeg" original="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701301225341_robots_on_floor--rgov-800width.jpeg" title="Researcher and two children testing a robot on the floor"><img src="/por/images/Reports/POR/2023/2024965/2024965_10695492_1701301225341_robots_on_floor--rgov-66x44.jpeg" alt="Researcher and two children testing a robot on the floor"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Arastoopour Irgens (PI) and two elementary-school children testing and debugging their programmed robot which used machine learning algorithms.</div> <div class="imageCredit">Clemson University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Golnaz&nbsp;Arastoopour Irgens <div class="imageTitle">Researcher and two children testing a robot on the floor</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In 2020, Clemson University received a $314,271 BCSERaward entitled Modeling and measuring critical data literacies in informal learning environments" with Golnaz Arastoopour Irgens as the Project Investigator (PI).   Motivation   This project was motivated by the recent increase in digital data being recorded, sorted, and analyzed. Big Data and algorithmic design influence many aspects of life such as how police officers are allocated to different neighborhoods, what political ads are present in different contexts, who gets healthcare coverage and housing loans, and who has access to higher education. The designs and data have potential to be biased and exclusive, and often, the individuals most negatively affected by this are vulnerable and minoritized populations.As big data algorithm usage and dependency become more ubiquitous, it will become critical for all young people, and in particular those from historically marginalized populations, to have a deep understanding of data science that empowers them to enact change in their communities.   The goals of this project were research oriented and related to the professional development of the PI.   Research Outcomes   (1) Develop research-based critical data literacies activities with and for elementary and middle school aged children using participatory design frameworks   Drawing from participatory design frameworks with children, we co-designed a Critical Machine Learning (CML) program that is publicly available on Clemson's IDEA lab website. The program provides suggestions for how to continually involve children both in the design of ethical machine learning-powered robots, as well as in the design of their own learning activities. The program is ideally implemented in informal settings but can be adapted for classrooms.   (2) Measure and model elementary and middle school aged children's data science knowledge and practices in the context of social, ethical, and political issues related to digital technologies   In this project we used quantitative ethnography methodology to model how children developed computational knowledge and skills and understood how technologies can be harmful and discriminatory. We found that after participating in our CML program, children between the ages of 9 and 13 developed an understanding of how people trainmachine learning algorithms that could exclude or harm others. Children learned about the differences between training datasets and test datasets and how bias can be introduced to training datasets, which can have large social consequences.Some children were also able to articulate how people in positions of power can design machine learning algorithmsthat misclassify those who are not in positions to designthem. Those misclassifications can lead to further disadvantagingunderprivileged populations.   In addition to increasing their critical machine learning knowledge, children built their own machine learning-powered robots to address social issues important to them and their local communities. We saw evidence of children drawing on four computational practices: experimenting and iterating, testing and debugging, reusing and remixing, and abstracting and modularizing when programming their robots.   For example, one group of children designed a robot named "Ted," who would be an empathetic companion for people during the height of the COVID-19 pandemic. They used a voice classification system to program Ted to ask "How are you?", listen to the person's response, and then respond accordingly to empathize with them.   (3) Develop a theoretical framework for critical data literacies   Based on our studies, we characterize critical computing education as 1) posing and answering questions about the roles of producers and consumers of technologies, specifically who designs technologies, for what purposes, who benefits, who is harmed, and what are the histories embedded in the data being used, and 2) identifying how people design technologies and applying this knowledge to build applications for marginalized populations. This is an ongoing theoretical framework that we will continue to develop.   Broader Impacts   This project involved over 100 counselors, youth, and researchers in the co-design of a CML education program in after-school community youth centers. This broad reach exposed multiple stakeholders to computing education. Moreover, many of the youth in this project were from populations who are underrepresented in STEM: African American, Latinx, and living in poverty. Because of our participatory approach, the research team is still in contact with and volunteering at these centers.   The publicly available CML programprovides ways for children to enact agency over their learning and provides the means to approach instructional tasks through a participatory and critical lens for elementary and middle school computer science and computational thinking disciplines.   This project served youth by providing culturally-relevant experiences that may motivate them to pursue STEM majors and careers, thus broadening participation in STEM. Youth from minoritized populations have been impacted by this program by developing a critical lens and becoming aware of those who are marginalized by digital technologies, including people who look like them. Because the program centers on social, ethical, and political issues, this project contributed to the development of an ethical and well-prepared STEM workforce.      Last Modified: 11/30/2023       Submitted by: GolnazArastoopour Irgens]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

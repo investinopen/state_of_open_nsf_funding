@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Enhancing the executive functions of neurodiverse children through technology-mediated sociodramatic play]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>133737.00</AwardTotalIntnAmount>
+<AwardAmount>133737</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Executive functions (EF) are cognitive processes needed for goal-oriented behaviors such as attentional control, information processing, and goal setting.  They are critical for success in school and throughout life, but neurodiverse children have difficulty with EF.  Tools of the Mind (ToM) style sociodramatic play (in which groups of children engage in make-believe with common goals for planning, role playing, interactive social dialogue and negotiation, improvisation, and use of generic props) has been shown to be a successful approach to developing EF with neurodiverse children, but implementation can be challenging due to the substantial training required for adult facilitators.  The goal of this exploratory research is to invent technologies to lower this barrier.  Project outcomes will yield artifact, empirical, and methodological contributions to equally serve children diagnosed with autism and intellectual disabilities and who display a range of complementary strengths and weaknesses in their EF skills, thereby providing teachers and therapists with the customizable tools necessary to support each child so as to improve their learning outcomes and enhance their quality of life.  Software and hardware instructions will be published online, and the findings will be presented both at Computer Science venues and Down Syndrome and Autism conventions so different audiences are aware of them.  Additional broad impacts will derive from the inclusion of neurodiverse children in participatory design sessions with one female Ph.D. student and four undergraduate students, as well as summer undergraduate researchers who are female and/or with disabilities through CRA-W DREU or AccessComputing programs.&lt;br/&gt; &lt;br/&gt;The project will leverage the team's prior work on StoryCarnival, a system designed to lower barriers to ToM for typically developing 3-4-year old children, which includes interactive visual stories to promote sociodramatic play, a play planner app to help children transition from experiencing a story to role playing, and tangible voice agents controlled by adult facilitators to keep children engaged.  StoryCarnivalU will expand the reach of StoryCarnival to a universal set of children (with intellectual disabilities and autism), increasing our understanding of how quality content, interactive media scaffolds, and voice agents support collaborative activities in physical spaces for the target community and thereby lower barriers to evidence-based activities to promote EF skills.  StoryCarnivalU will be developed iteratively through a series of 18 design sessions with families having at least one child diagnosed with autism or an intellectual disability along with siblings.  Novel approaches to customization will enable the target populations to receive help from ToM-style play, with special emphasis on story content, play planning, and voice agent design and control, with additional focus on the ecology surrounding technology use including optimal group sizes, incorporating behavioral goals and expectations, and providing support for the symbolic use of props during play.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040204</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Rector</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle K Rector</PI_FULL_NAME>
+<EmailAddress><![CDATA[kyle-rector@uiowa.edu]]></EmailAddress>
+<NSF_ID>000754390</NSF_ID>
+<StartDate>07/31/2020</StartDate>
+<EndDate>06/02/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juan Pablo</FirstName>
+<LastName>Hourcade</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juan Pablo Hourcade</PI_FULL_NAME>
+<EmailAddress><![CDATA[juanpablo-hourcade@uiowa.edu]]></EmailAddress>
+<NSF_ID>000241963</NSF_ID>
+<StartDate>06/02/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juan Pablo</FirstName>
+<LastName>Hourcade</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juan Pablo Hourcade</PI_FULL_NAME>
+<EmailAddress><![CDATA[juanpablo-hourcade@uiowa.edu]]></EmailAddress>
+<NSF_ID>000241963</NSF_ID>
+<StartDate>07/31/2020</StartDate>
+<EndDate>06/02/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>105 JESSUP HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>Iowa City</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421320</ZipCode>
+<StreetAddress><![CDATA[2 Gilmore Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~133737</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project addressed the confluence of the increasing incidence of autism and the ubiquitous use of technologies by young children. When mobile touchscreen technologies became widely available, they significantly lowered barriers to computing for young children, who previously faced cognitive and motor challenges due to the need to use a mouse and keyboard. The new opportunities afforded by this change have been accompanied by prevailing uses that typically involve passive consumption of media, social isolation, and a general lack of control over the activities (e.g., in terms of time, data). We propose that these prevailing uses are not beneficial to children, and even more so for children who face challenges in areas such as self-regulation and social skills, such as children diagnosed with autism spectrum conditions.</p> <p>StoryCarnival was designed as an instantiation of a 4Cs technology that supports <strong>c</strong>reativity, <strong>c</strong>ommunication, <strong>c</strong>onnections, and <strong>c</strong>ontrol. The 4Cs approach is intended as an answer to current prevailing uses of technology by young children. StoryCarnival supports social roleplay for young children through 1) interactive stories intended to serve as inspiration for roleplay with generic props (e.g., blocks) 2) a character selection tool to support children in planning their play, and 3) an adult-operated tangible voice agent to provide parents, teachers, or other caregivers an alternate channel of communication with children during play. StoryCarnival is publicly available at <a href="http://storycarnival.org/">storycarnival.org</a>. The stories are available as either e-books or printable PDFs, allowing for intentional disengagement from screen-based technology when appropriate. There are also story templates that allow children an extra degree of control over the content of the stories, providing options to select from for settings, characters, and objects or events in the stories. StoryCarnival uses technology to set up and support social play, but the main activity supported by the system consists of children engaging with each other and with the non-electronic physical space and objects around them.</p> <p>While StoryCarnival was originally designed for typically developing preschool children, this project studied the feasibility of extending its use to neurodivergent children. The first significant activity for this project was a zoom study conducted during the COVID-19 pandemic with the families of six neurodivergent children where they used the version of StoryCarnival designed for use in preschool classrooms. The study provided us with multiple insights on StoryCarnival use in this home family setting, as well as useful feedback that led to a major redesign of the user interface to control the tangible, teleoperated voice agent.</p> <p>The next significant activity was engaging with therapists at a therapy center that serves children with a broad range of disabilities. They expressed interest in using StoryCarnival in group therapy sessions to help children diagnosed with autism spectrum conditions develop social skills. Based on their recommendations, we developed a new set of stories that focused on the skills that were the target of the group therapy sessions. The therapists then used StoryCarnival during a set of summer 2023 sessions with a group of 5-6-year-old children diagnosed with autism spectrum conditions, without any intervention or help from investigators. The therapists found StoryCarnival very useful in that it helped them achieve their goals and reduced the time they needed to prepare for the sessions, while the children enjoyed the activities. This therapy center has now adopted StoryCarnival for this type of sessions and is planning to use it again during the next set of therapy sessions during the 23-24 winter break (they typically conduct these when school is not in session).</p> <p>Overall, the project points at StoryCarnival, with the adaptations made for neurodivergent children, as a promising technology for developing social skills for neurodivergent children, in particular those diagnosed with autism spectrum conditions. Further research is needed to validate results with more groups of children and other therapists and better understand long-term impact. Likewise, there are many opportunities for further exploring 4Cs technologies and expanding StoryCarnival with the use of technologies such as large language models, which could help customize content to make it more relevant for specific groups and children.</p><br> <p>  Last Modified: 11/24/2023<br> Modified by: Juan Pablo&nbsp;Hourcade</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843128166_Screenshot_2023_11_24_at_10.19.07_AM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843128166_Screenshot_2023_11_24_at_10.19.07_AM--rgov-800width.png" title="eBook page showing four animal characters (a horse, a cat, a monkey, and a bear) listening to a bird introduce himself."><img src="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843128166_Screenshot_2023_11_24_at_10.19.07_AM--rgov-66x44.png" alt="eBook page showing four animal characters (a horse, a cat, a monkey, and a bear) listening to a bird introduce himself."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Screen capture from story introducing how to participate in StoryCarnival role play activities</div> <div class="imageCredit">Juan Pablo Hourcade</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Juan Pablo&nbsp;Hourcade <div class="imageTitle">eBook page showing four animal characters (a horse, a cat, a monkey, and a bear) listening to a bird introduce himself.</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843264142_Screenshot_2023_11_24_at_10.19.42_AM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843264142_Screenshot_2023_11_24_at_10.19.42_AM--rgov-800width.png" title="Window in app showing an eBook page with two animal characters cleaning up a living room, and a description of the skills children may develop through the story activity"><img src="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843264142_Screenshot_2023_11_24_at_10.19.42_AM--rgov-66x44.png" alt="Window in app showing an eBook page with two animal characters cleaning up a living room, and a description of the skills children may develop through the story activity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Story preview information for one of the stories focusing on social skills.</div> <div class="imageCredit">Juan Pablo Hourcade</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Juan Pablo&nbsp;Hourcade <div class="imageTitle">Window in app showing an eBook page with two animal characters cleaning up a living room, and a description of the skills children may develop through the story activity</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700844510215_Screenshot_2023_11_24_at_10.46.23_AM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700844510215_Screenshot_2023_11_24_at_10.46.23_AM--rgov-800width.png" title="Table describing 3Cs approach to young children's technology with an emphasis on supporting creativity, communication, and a connection with the social and physical context"><img src="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700844510215_Screenshot_2023_11_24_at_10.46.23_AM--rgov-66x44.png" alt="Table describing 3Cs approach to young children's technology with an emphasis on supporting creativity, communication, and a connection with the social and physical context"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Non 3Cs versus 3Cs activity characteristics</div> <div class="imageCredit">Juan Pablo Hourcade</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Juan Pablo&nbsp;Hourcade <div class="imageTitle">Table describing 3Cs approach to young children's technology with an emphasis on supporting creativity, communication, and a connection with the social and physical context</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700844568419_Screenshot_2023_11_24_at_10.46.40_AM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700844568419_Screenshot_2023_11_24_at_10.46.40_AM--rgov-800width.png" title="Table describing ways to add control to children's technologies"><img src="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700844568419_Screenshot_2023_11_24_at_10.46.40_AM--rgov-66x44.png" alt="Table describing ways to add control to children's technologies"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Characteristics of technologies that lack or include the 4th C: control</div> <div class="imageCredit">Juan Pablo Hourcade</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Juan Pablo&nbsp;Hourcade <div class="imageTitle">Table describing ways to add control to children's technologies</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843353859_Screenshot_2023_11_24_at_10.20.14_AM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843353859_Screenshot_2023_11_24_at_10.20.14_AM--rgov-800width.png" title="Set of buttons with categories of speech and and text box"><img src="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843353859_Screenshot_2023_11_24_at_10.20.14_AM--rgov-66x44.png" alt="Set of buttons with categories of speech and and text box"></a> <div class="imageCaptionContainer"> <div class="imageCaption">User interface for controlling the tangible, teleoperated voice agent. Tapping on a speech category on the top fills in text in the textbox, which can be modified.</div> <div class="imageCredit">Juan Pablo Hourcade</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Juan Pablo&nbsp;Hourcade <div class="imageTitle">Set of buttons with categories of speech and and text box</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843428396_Screenshot_2023_11_24_at_10.22.26_AM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843428396_Screenshot_2023_11_24_at_10.22.26_AM--rgov-800width.png" title="Hand holding tangible, teleoperated voice agent with artwork for a bird"><img src="/por/images/Reports/POR/2023/2040204/2040204_10691675_1700843428396_Screenshot_2023_11_24_at_10.22.26_AM--rgov-66x44.png" alt="Hand holding tangible, teleoperated voice agent with artwork for a bird"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Latest version of the tangible, teleoperated voice agent.</div> <div class="imageCredit">Juan Pablo Hourcade</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Juan Pablo&nbsp;Hourcade <div class="imageTitle">Hand holding tangible, teleoperated voice agent with artwork for a bird</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project addressed the confluence of the increasing incidence of autism and the ubiquitous use of technologies by young children. When mobile touchscreen technologies became widely available, they significantly lowered barriers to computing for young children, who previously faced cognitive and motor challenges due to the need to use a mouse and keyboard. The new opportunities afforded by this change have been accompanied by prevailing uses that typically involve passive consumption of media, social isolation, and a general lack of control over the activities (e.g., in terms of time, data). We propose that these prevailing uses are not beneficial to children, and even more so for children who face challenges in areas such as self-regulation and social skills, such as children diagnosed with autism spectrum conditions.   StoryCarnival was designed as an instantiation of a 4Cs technology that supports creativity, communication, connections, and control. The 4Cs approach is intended as an answer to current prevailing uses of technology by young children. StoryCarnival supports social roleplay for young children through 1) interactive stories intended to serve as inspiration for roleplay with generic props (e.g., blocks) 2) a character selection tool to support children in planning their play, and 3) an adult-operated tangible voice agent to provide parents, teachers, or other caregivers an alternate channel of communication with children during play. StoryCarnival is publicly available at storycarnival.org. The stories are available as either e-books or printable PDFs, allowing for intentional disengagement from screen-based technology when appropriate. There are also story templates that allow children an extra degree of control over the content of the stories, providing options to select from for settings, characters, and objects or events in the stories. StoryCarnival uses technology to set up and support social play, but the main activity supported by the system consists of children engaging with each other and with the non-electronic physical space and objects around them.   While StoryCarnival was originally designed for typically developing preschool children, this project studied the feasibility of extending its use to neurodivergent children. The first significant activity for this project was a zoom study conducted during the COVID-19 pandemic with the families of six neurodivergent children where they used the version of StoryCarnival designed for use in preschool classrooms. The study provided us with multiple insights on StoryCarnival use in this home family setting, as well as useful feedback that led to a major redesign of the user interface to control the tangible, teleoperated voice agent.   The next significant activity was engaging with therapists at a therapy center that serves children with a broad range of disabilities. They expressed interest in using StoryCarnival in group therapy sessions to help children diagnosed with autism spectrum conditions develop social skills. Based on their recommendations, we developed a new set of stories that focused on the skills that were the target of the group therapy sessions. The therapists then used StoryCarnival during a set of summer 2023 sessions with a group of 5-6-year-old children diagnosed with autism spectrum conditions, without any intervention or help from investigators. The therapists found StoryCarnival very useful in that it helped them achieve their goals and reduced the time they needed to prepare for the sessions, while the children enjoyed the activities. This therapy center has now adopted StoryCarnival for this type of sessions and is planning to use it again during the next set of therapy sessions during the 23-24 winter break (they typically conduct these when school is not in session).   Overall, the project points at StoryCarnival, with the adaptations made for neurodivergent children, as a promising technology for developing social skills for neurodivergent children, in particular those diagnosed with autism spectrum conditions. Further research is needed to validate results with more groups of children and other therapists and better understand long-term impact. Likewise, there are many opportunities for further exploring 4Cs technologies and expanding StoryCarnival with the use of technologies such as large language models, which could help customize content to make it more relevant for specific groups and children.     Last Modified: 11/24/2023       Submitted by: Juan PabloHourcade]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

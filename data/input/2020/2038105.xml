@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Timescales of Crystallization, Ore Formation, and]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>153566.00</AwardTotalIntnAmount>
+<AwardAmount>153566</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Wade</SignBlockName>
+<PO_EMAI>jwade@nsf.gov</PO_EMAI>
+<PO_PHON>7032924739</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The thermal evolution of a magma chamber is the primary control on the geochemical evolution of a magma, its eruption potential, and the development of valuable PGE and hydrothermal ore bodies. Traditionally, large magma chambers are thought to cool and crystallize very slowly, allowing for significant physical and chemical reorganization to occur.  New geochronologic age data from U-Pb in the mineral zircon and Ar-Ar in the minerals biotite and plagioclase from the world?s largest exposed magma chamber, the Bushveld Complex of South Africa, have recently challenged this long-standing assumption, and suggested that the Bushveld cooled very rapidly from its molten state (approximately 1200-1300°C) down to the ambient crustal temperature (between 150- 300°C).  The work proposed here will specifically test several possible cooling paths from the liquid state to the point at which the magma is completely solidified (between 800-900°C) as well as cooling paths from the solid state down to the ambient crustal geotherm.  The results will have major implications for two societally relevant issues.  First, quantification of the timescale of solidification in large magma chambers will inform modern day volcanic hazard monitoring during magma recharge events and volcanic eruptions.  Second, quantifying how fast magmas solidify and evolve will inform our understanding of when and how valuable and strategic metal deposits form (the Bushveld Complex of South Africa contains over 70% of the world?s proven Platinum reserves and numerous other important and strategic metals). In addition, the mid-low temperature cooling rate results will also provide an estimate of the rate of paleo-magnetic reversals (of which there are 7 in the Bushveld Complex) over 2 billion years ago.  The rate of magnetic reversals is related to the dynamics of inner core solidification and formation of the geodynamo, which is not well understood beyond the last 500 million years.  &lt;br/&gt;&lt;br/&gt;The proposed work will employ a combination of six separate geothermometers and geochronometers with a range of closure temperatures (Tc).  The PI and students will quantify the liquidus temperature at each level of stratigraphy using the plagioclase-pyroxene and/or pyroxene-pyroxene REE thermometer (Study 1).  The high-temperature cooling rate will be determined using the Ca in orthopyroxene and Ca-Mg exchange in two pyroxenes thermometers (Study 2).  The solidus temperature and absolute age of the solidus will be quantified by U-Pb zircon thermochronology already in progress, and the Ti-in-zircon thermometer (Study 3).  The mid-low temperature cooling history will be quantified by Ca diffusion in olivine (Study 4) and Fe-Ti oxides (Study 5).  The low-temperature cooling ages will be determined by Ar-Ar thermochronology in plagioclase, biotite, and hornblende mineral pairs (Study 6).  The advantage of this approach is that the cooling rates determined by diffusion and solvus thermometry will be bracketed at high and low temperature by absolute ages from U-Pb and Ar-Ar thermochronology.  Additional implications not mentioned above include: quantification of the evolution of oxygen fugacity during fractional crystallization; and, investigation of the rates and processes of hydrothermal ore formation (specifically Zn, F, Sn) during mid-low temperature hydrothermal circulation and contact metamorphism.  &lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038105</AwardID>
+<Investigator>
+<FirstName>Jill</FirstName>
+<LastName>VanTongeren</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jill A VanTongeren</PI_FULL_NAME>
+<EmailAddress><![CDATA[jill.vantongeren@tufts.edu]]></EmailAddress>
+<NSF_ID>000667126</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442401</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>169 HOLLAND ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WL9FLBRVPJJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>S6ZWCYHRQQB3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021111817</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1573</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~66839</FUND_OBLG>
+<FUND_OBLG>2019~86727</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The major goal of the project "Timescales of crystallization, ore formation, and cooling of the Bushveld Complex layered mafic intrusion" was to quantify the thermal evolution of the world's largest magmatic intrusion, the Bushveld Complex of South Africa, with time.&nbsp; Mafic-ultramafic magmas generated in the mantle are emplaced into the shallow crust and crystallize at high temperatures (1000-1250&deg;C).&nbsp; As the magma solidifies several different minerals will "lock in" isotopic compositions that allow us to determine the age of the crystallization and geochemical (elemental) signatures that allow us to determine the temperature at which crystallization took place.&nbsp; Other elements and isotopes in minerals do not lock in until lower temperatures (500-150&deg;C), and therefore record the cooling path that the magma took until today.&nbsp;&nbsp;</span></p> <p><span><span>Our work quantified the thermal evolution of the intrusion with time - from high T crystallization, to low T cooling and metasomatism - and linked the timing of each temperature stage to mineralization processes within the intrusion (e.g. PGE, Fe-Ti-V deposits) as well as the surrounding host rocks (e.g. Sn, Zn, F deposits).</span></span></p> <p>Over the course of the award period, the PI, student, and collaborators :</p> <p>(1) Obtained new high precision zircon U-Pb ages on the crystallization of the Bushveld intrusion showing that some of the samples (particularly those within or surrounding PGE mineralization horizons!) recorded out-of-sequence ages that were up to 5 million years older than the cumulates above and below them.&nbsp; This resulted in the publication of Scoates et al. (2021, Journal of Petrology) which postulates a new framework for magma emplacement into the Bushveld as a series of stacked sills, rather than a big open-tank magma chamber model as has been traditionally considered.&nbsp;&nbsp;</p> <p>(2) Obtained crystallization temperatures for gabbros from the Main Zone and Upper Zone of the Bushveld Complex using plagioclase-pyroxene REE thermometry.&nbsp; Crystallization temperatures of the rocks increase dramatically just below the Upper Zone in the intrusion, suggesting that there was a large new pulse of magma that entered the system at this level.&nbsp; Our work showed that the new pulse of magma likely intruded initially in the north of the present day outcrop area and migrated towards the south, shedding light on the likely source region for magmatism and the ability of new pulses to migrate several hundred kms.&nbsp; This work was published by Rutgers PhD student, Jake Setera (Setera et al., 2018, Journal of Petrology).&nbsp;</p> <p>(3) Obtained Ar-Ar ages on hornblende, biotite, and plagioclase minerals throughout the stratigraphy of the Bushveld Complex.&nbsp; Ar-Ar ages have closure temperatures between 500 - 150 &deg;C depending on the mineral used, and are therefore ideal records of the low Temperature thermal evolution of the magma chamber.&nbsp; Our work showed that the high T crystallization age of the Bushveld (from U-Pb zircon) is indistinguishable from the low T (~400&deg;C) cooling age on the same sample from Ar-Ar in biotite, suggesting&nbsp;that the Bushveld cooled very quickly from ~750&deg;C to 400&deg;C and requiring an active hydrothermal circulation system within the intrusion and surrounding host rocks to advect heat efficiently&nbsp;(Setera et al., 2020a, Geology).&nbsp; Additionally, the Ar-Ar ages from plagioclase (closure T =~150&deg;C) from the same samples is markedly younger, in some samples by as much as 50 myrs!&nbsp; This suggests that low T cooling (from 400-150&deg;C) was significantly slower than that experienced at the high temperature interval, and did not involve signficant advective heat transport (Setera et al., 2023, Contributions to Mineralogy and Petrology).&nbsp; Our results imply that the vast Sn, Zn, and F deposits found within the host rocks of the Transvaal must have been generated by extensive fluid flow within ~1 Myr of the emplacement of the Bushveld mafic magmas.&nbsp;</p> <p>The award funded the PhD dissertation of Jacob Setera (Rutgers, 2019), the training of 6 Rutgers undergraduate students in research projects on the Bushveld Complex, attendance at several national and international conferences in order to disseminate results, as well as the publication of 8 peer-reviewed manuscripts.&nbsp;&nbsp;</p> <p>The major 'transformative' contribution of our work is in providing the first ever quantification of the low temperature cooling ages of a layered mafic intrusion.&nbsp; Our work places tight constraints on the crystallization temperatures of vast PGE, Fe-Ti-V deposits that the Bushveld Complex is famous for, as well as the likely formation ages of associated Sn, Zn, F deposits in the host rocks.&nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/14/2023<br> Modified by: Jill&nbsp;A&nbsp;Vantongeren</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The major goal of the project "Timescales of crystallization, ore formation, and cooling of the Bushveld Complex layered mafic intrusion" was to quantify the thermal evolution of the world's largest magmatic intrusion, the Bushveld Complex of South Africa, with time. Mafic-ultramafic magmas generated in the mantle are emplaced into the shallow crust and crystallize at high temperatures (1000-1250C). As the magma solidifies several different minerals will "lock in" isotopic compositions that allow us to determine the age of the crystallization and geochemical (elemental) signatures that allow us to determine the temperature at which crystallization took place. Other elements and isotopes in minerals do not lock in until lower temperatures (500-150C), and therefore record the cooling path that the magma took until today.   Our work quantified the thermal evolution of the intrusion with time - from high T crystallization, to low T cooling and metasomatism - and linked the timing of each temperature stage to mineralization processes within the intrusion (e.g. PGE, Fe-Ti-V deposits) as well as the surrounding host rocks (e.g. Sn, Zn, F deposits).   Over the course of the award period, the PI, student, and collaborators :   (1) Obtained new high precision zircon U-Pb ages on the crystallization of the Bushveld intrusion showing that some of the samples (particularly those within or surrounding PGE mineralization horizons!) recorded out-of-sequence ages that were up to 5 million years older than the cumulates above and below them. This resulted in the publication of Scoates et al. (2021, Journal of Petrology) which postulates a new framework for magma emplacement into the Bushveld as a series of stacked sills, rather than a big open-tank magma chamber model as has been traditionally considered.   (2) Obtained crystallization temperatures for gabbros from the Main Zone and Upper Zone of the Bushveld Complex using plagioclase-pyroxene REE thermometry. Crystallization temperatures of the rocks increase dramatically just below the Upper Zone in the intrusion, suggesting that there was a large new pulse of magma that entered the system at this level. Our work showed that the new pulse of magma likely intruded initially in the north of the present day outcrop area and migrated towards the south, shedding light on the likely source region for magmatism and the ability of new pulses to migrate several hundred kms. This work was published by Rutgers PhD student, Jake Setera (Setera et al., 2018, Journal of Petrology).   (3) Obtained Ar-Ar ages on hornblende, biotite, and plagioclase minerals throughout the stratigraphy of the Bushveld Complex. Ar-Ar ages have closure temperatures between 500 - 150 C depending on the mineral used, and are therefore ideal records of the low Temperature thermal evolution of the magma chamber. Our work showed that the high T crystallization age of the Bushveld (from U-Pb zircon) is indistinguishable from the low T (~400C) cooling age on the same sample from Ar-Ar in biotite, suggestingthat the Bushveld cooled very quickly from ~750C to 400C and requiring an active hydrothermal circulation system within the intrusion and surrounding host rocks to advect heat efficiently(Setera et al., 2020a, Geology). Additionally, the Ar-Ar ages from plagioclase (closure T =~150C) from the same samples is markedly younger, in some samples by as much as 50 myrs! This suggests that low T cooling (from 400-150C) was significantly slower than that experienced at the high temperature interval, and did not involve signficant advective heat transport (Setera et al., 2023, Contributions to Mineralogy and Petrology). Our results imply that the vast Sn, Zn, and F deposits found within the host rocks of the Transvaal must have been generated by extensive fluid flow within ~1 Myr of the emplacement of the Bushveld mafic magmas.   The award funded the PhD dissertation of Jacob Setera (Rutgers, 2019), the training of 6 Rutgers undergraduate students in research projects on the Bushveld Complex, attendance at several national and international conferences in order to disseminate results, as well as the publication of 8 peer-reviewed manuscripts.   The major 'transformative' contribution of our work is in providing the first ever quantification of the low temperature cooling ages of a layered mafic intrusion. Our work places tight constraints on the crystallization temperatures of vast PGE, Fe-Ti-V deposits that the Bushveld Complex is famous for, as well as the likely formation ages of associated Sn, Zn, F deposits in the host rocks.        Last Modified: 11/14/2023       Submitted by: JillAVantongeren]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

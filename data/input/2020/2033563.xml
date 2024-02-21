@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GEM: Magnetosheath Transport from Local Kinetics to Global Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>426406.00</AwardTotalIntnAmount>
+<AwardAmount>426406</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The geospace environment is complex. Changes in the solar wind affect the magnetosphere, the outer layer of the atmosphere that consists of relativistic particles influenced by the geomagnetic field. This in turn leads to changes further down in the ionosphere. This solar wind-magnetosphere-ionosphere system is the crucial set of regions where space weather occurs. This work will model the energetics of the geospace environment to understand important plasma physics processes that lead to quantifiable effects of space weather. Additionally, the project supports junior scientists (a graduate student and post-doctoral researcher) in a diverse international collaboration, creates animations of the geospace environment for public presentations, and develops improved risk metrics for space weather processes.&lt;br/&gt;&lt;br/&gt;The work will quantitatively assess the solar wind-magnetosphere-ionosphere energetics including effects of solar wind and magnetosheath fluctuations to resolve the energy dissipation processes and paths under a variety of solar wind and interplanetary magnetic field conditions. The Space Weather Modeling Framework Geospace model, Geospace with local particle in cell code, and the Vlasiator global Vlasov simulation codes will be used. Methods will be developed to evaluate the energy flux through plasma boundaries, assess energy entry to and exit from the magnetosphere, and energy dissipation in the ionosphere and magnetosphere. The kinetic effects are assessed by model comparisons.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033563</AwardID>
+<Investigator>
+<FirstName>Tuija</FirstName>
+<LastName>Pulkkinen</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tuija I Pulkkinen</PI_FULL_NAME>
+<EmailAddress><![CDATA[tuija@umich.edu]]></EmailAddress>
+<NSF_ID>000819669</NSF_ID>
+<StartDate>10/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName/>
+<StateCode>MI</StateCode>
+<ZipCode>481092143</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~426406</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The aims of this project was to use numerical simulations to study the energy transfer between the solar wind and the Earth's magnetosphere. The three science questions set were (1) to resolve where along the magnetospheric boundary (magnetopause) energy transfer occurs, (2) how solar wind fluctuations impact the boundary processes, and (3) how small-scale kinetic effects impact the energy transfer processes.</p> <p>&nbsp;</p> <p>(1) The energy transfer across the magnetopause was studied focusing especially on periods of geomagnetic storms, when significant energy transport from the solar wind driver explosive and longer-term variations in the Earth's space environment. It was found that at all times, there is significant energy outflow and inflow, and the net energy input from the solar wind is the difference of the input and output - and always much smaller than either one separately. This led to the discovery of the importance of the internal magnetospheric state on defining when and where energy flows (figure 1).</p> <p>&nbsp;</p> <p>(2) Higher-frequency solar wind fluctuations were shown to have a relatively minor role in the energy transport, while they can penetrate the boundary and cause other dynamic processes. However, lower-frequency fluctuations were shown to have an important impact on where and when in the Earth's magnetotail explosive reconnection processes occur - these are the processes that cause space weather hazards closer to the Earth.</p> <p>&nbsp;</p> <p>(3) The small-scale effects were studied using the Vlasiator code. We showed that when the boundary is modeled with sufficient resolution and kinetic effects, it develops small-scale flux transfer events, which travel across the boundary and dominate the energy transport. The first-ever kinetic simulations covering the entire magnetosphere were run, and shown to develop multiple instabilities contributing to the energy transport and dissipation processes (figure 2). &nbsp;</p> <p>&nbsp;</p> <p>The project involved a doctoral student, whose thesis on solar wind - magnetosphere energy transfer was completed. They will continue as a postdoc for another year to follow interesting new research avenues found during the thesis. He also has developed initial collaboration with the US Space Force to use the models in space weather prediction and education.</p> <p>&nbsp;</p> <p>The project involved two post-doctoral scientists. One will transfer to a next postdoc position, while the other one transitioned to a research scientist position. &nbsp;</p> <p>&nbsp;</p> <p>The project methodologies are included in the Space Weather Modeling Framework, and will be available for other researchers and space weather forecasters to use. The simulations are freely available. The results were published in several scientific articles and numerous conference presentations.</p> <p>&nbsp;</p> <p>This research has been conducted in close collaboration with the National Science Foundation Geospace Environment Modeling (GEM) community. This work has contributed to several of the focus groups, most notably on those focusing on dayside kinetic processes in global solar wind - magnetosphere interaction, and magnetic reconnection in the age of the Heliophysics System Observatory. The project results have been presented biannually at the summer workshop and mini-meeting held in conjunction with the American Geophysical Union meeting.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/18/2023<br> Modified by: Tuija&nbsp;I&nbsp;Pulkkinen</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2033563/2033563_10708349_1702934181978_Fig3--rgov-214x142.png" original="/por/images/Reports/POR/2023/2033563/2033563_10708349_1702934181978_Fig3--rgov-800width.png" title="Figure 2: Kinetic simulations of magnetospheric boundary"><img src="/por/images/Reports/POR/2023/2033563/2033563_10708349_1702934181978_Fig3--rgov-66x44.png" alt="Figure 2: Kinetic simulations of magnetospheric boundary"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(Left) Energy transport across the magnetospheric boundary was examined using the ion-kinetic Vlasiator simulation. The yellow arrows depict the energy flow into and out of the magnetosphere. (Right) the dark blue circular forms at the dayside boundary indicate flux transfer events.</div> <div class="imageCredit">Ala-Lahti, M., Pulkkinen, T. I., Pfau-Kempf, Y., Grandin, M., Palmroth, M. (2022). Energy flux through the magnetopause during flux transfer events in hybrid-Vlasov 2D simulations. Geophysical Research Letters, 49, e2022GL100079, 2022.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Tuija&nbsp;I&nbsp;Pulkkinen <div class="imageTitle">Figure 2: Kinetic simulations of magnetospheric boundary</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2033563/2033563_10708349_1702933968394_fig1--rgov-214x142.png" original="/por/images/Reports/POR/2023/2033563/2033563_10708349_1702933968394_fig1--rgov-800width.png" title="Figure 1: Energy transport through boundary"><img src="/por/images/Reports/POR/2023/2033563/2033563_10708349_1702933968394_fig1--rgov-66x44.png" alt="Figure 1: Energy transport through boundary"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(Left) The internal (green arrows) and external (yellow arrows) energy circulations using the Geospace simulation. (Right) the external energy cycle: Integrated energy inflow (maroon) and outflow rate (magenta). The total energy transport is shown as the gray shading.</div> <div class="imageCredit">Austin Brenner</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Tuija&nbsp;I&nbsp;Pulkkinen <div class="imageTitle">Figure 1: Energy transport through boundary</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The aims of this project was to use numerical simulations to study the energy transfer between the solar wind and the Earth's magnetosphere. The three science questions set were (1) to resolve where along the magnetospheric boundary (magnetopause) energy transfer occurs, (2) how solar wind fluctuations impact the boundary processes, and (3) how small-scale kinetic effects impact the energy transfer processes.      (1) The energy transfer across the magnetopause was studied focusing especially on periods of geomagnetic storms, when significant energy transport from the solar wind driver explosive and longer-term variations in the Earth's space environment. It was found that at all times, there is significant energy outflow and inflow, and the net energy input from the solar wind is the difference of the input and output - and always much smaller than either one separately. This led to the discovery of the importance of the internal magnetospheric state on defining when and where energy flows (figure 1).      (2) Higher-frequency solar wind fluctuations were shown to have a relatively minor role in the energy transport, while they can penetrate the boundary and cause other dynamic processes. However, lower-frequency fluctuations were shown to have an important impact on where and when in the Earth's magnetotail explosive reconnection processes occur - these are the processes that cause space weather hazards closer to the Earth.      (3) The small-scale effects were studied using the Vlasiator code. We showed that when the boundary is modeled with sufficient resolution and kinetic effects, it develops small-scale flux transfer events, which travel across the boundary and dominate the energy transport. The first-ever kinetic simulations covering the entire magnetosphere were run, and shown to develop multiple instabilities contributing to the energy transport and dissipation processes (figure 2).       The project involved a doctoral student, whose thesis on solar wind - magnetosphere energy transfer was completed. They will continue as a postdoc for another year to follow interesting new research avenues found during the thesis. He also has developed initial collaboration with the US Space Force to use the models in space weather prediction and education.      The project involved two post-doctoral scientists. One will transfer to a next postdoc position, while the other one transitioned to a research scientist position.       The project methodologies are included in the Space Weather Modeling Framework, and will be available for other researchers and space weather forecasters to use. The simulations are freely available. The results were published in several scientific articles and numerous conference presentations.      This research has been conducted in close collaboration with the National Science Foundation Geospace Environment Modeling (GEM) community. This work has contributed to several of the focus groups, most notably on those focusing on dayside kinetic processes in global solar wind - magnetosphere interaction, and magnetic reconnection in the age of the Heliophysics System Observatory. The project results have been presented biannually at the summer workshop and mini-meeting held in conjunction with the American Geophysical Union meeting.        Last Modified: 12/18/2023       Submitted by: TuijaIPulkkinen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

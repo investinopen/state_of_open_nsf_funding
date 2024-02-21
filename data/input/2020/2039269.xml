@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Nanoscale Elastocaloric Effect in  Phase-Change Nanowires for Solid-State Cooling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>99995.00</AwardTotalIntnAmount>
+<AwardAmount>99995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Currently, most cooling devices (refrigerators, air-conditioning units) employ environmentally-harmful fluids, known as refrigerants. They are also hard to miniaturize, preventing their implementation in electronic devices, which due to continued miniaturization and increase of processing power, necessitate novel cooling mechanisms for the semiconductor industry to keep progressing. The proposed research aims to investigate the nanoscale elastocaloric effect, a cooling mechanism where deformation causes an atomic-level change in a solid, which results in significant changes in its temperature. This effect promises to eliminate the need for harmful fluids used as refrigerants, and to be applicable both in miniaturized, cooling devices integrated inside electronic chips, and in consumer products such as self-cooling fabrics and smart coatings. Mentoring, research and outreach opportunities for graduate, undergraduate and K-12 students will also be enabled by this proposal. The graduate students will mentor undergraduates and high-school students hosted in the investigator’s lab. By doing meaningful research related to this project, they will be inspired to pursue careers in science and technology.&lt;br/&gt;&lt;br/&gt;The overall goal is to pioneer the exploration of the elastocaloric effect in nanoscale structures by assessing its promise in a model system: vanadium dioxide (VO2) nanowires. The proposed research is experimental and aims to directly characterize the effect’s output (temperature change) by infrared imaging, thus proving its existence in VO2. Similarly, measurements of the deformation of the nanowires as a function of temperature will provide metrics to put bounds on the magnitude of the effect in VO2, thus assessing the promise of the material for novel cooling devices, and the need for deeper investigations. Nanowires will be deposited in flexible substrates by self-assembly and microfluidic patterning methods, in order to align them in one direction and obtain a macroscale nanostructured film. These films will then be deformed along the alignment direction to trigger the elastocaloric effect. The resulting temperature changes will be measured using infrared imaging. Finally, using state-of-the-art nanomechanical testing, individual nanowires will be deformed in order to characterize their response at two representative temperatures, thereby quantifying bounds for the energetics of the phase transformation (i.e. its entropy change).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039269</AwardID>
+<Investigator>
+<FirstName>Rodrigo</FirstName>
+<LastName>Bernal Montoya</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rodrigo Bernal Montoya</PI_FULL_NAME>
+<EmailAddress><![CDATA[bernal@utdallas.edu]]></EmailAddress>
+<NSF_ID>000755348</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>Richardson</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 West Campbell Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99995</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project studied the elastocaloric effect in nanowires, with potential applications for nanoscale solid state cooling. The semiconductor industry continues to miniaturize chips, yet the demand for processing power increases at the same time. As a result, the power dissipated as heat per area of the chip (power density) is at a very high level and is a bottleneck for continued miniaturization. Exploration of new refrigerant substances is also important for more environmentally friendly cooling systems.</p> <p>Towards contributing to these challenges, this project studied the elastocaloric effect. The elastocaloric effect is a change in temperature created by deforming a material. When the material undergoes a rearrangement of its internal atomic structure, known as a phase change, this change in temperature can be large. This temperature change can thus be leveraged for cooling applications. We studied this phenomenon in vanadium dioxide (VO2) nanowires, nanoscale rods of this material with a dimension on the order of 500 nanometers in width, and tens of microns in length.</p> <p>One outcome of the project was the measurement of the deformation response of the nanowires. Using a micro electromechanical system (MEMS) that can measure minute forces, and an electron microscope that allows high resolution, researchers stretched and released a single VO2 nanowire (Image 1), while measuring the needed force. The differences between the stretch and release (Image 2) indicate the energy efficiency of the phase change: the smaller the difference, the better the efficiency. The results highlight the importance of producing nanowires with less surface defects, as the phase change dissipates energy due to them.</p> <p>Another outcome of the project was the characterization of a complementary phase change as a function of temperature. By looking at the nanowires with a high-resolution thermal camera while the phase change occurs, the researchers were able to measure the emissivity of the nanowires as they undergo the phase change. Emissivity is a property that indicates how well the material absorbs and emits infrared radiation. When the phase change occurs, the emissivity changes as well. Researchers measured the amount of this change for several nanowires. This information will be useful for other researchers in the community, that aim to utilize these materials in applications such as coatings for smart windows, where the emissivity change can be leveraged to reflect or absorb solar radiation depending on the seasons, to regulate temperature and reduce air conditioning energy consumption and costs.</p> <p>Finally, the project enabled the training and engagement of students (Image 4). PhD students were trained in various techniques under the direction of the principal investigator. Furthermore, local high-school students learned about the elastocaloric effect, by designing and building an elastocaloric cooling device using rubber, another elastocaloric material. The high-school students worked on this project for a complete academic year and presented it in a year-end poster competition. They earned 2<sup>nd</sup> place. The principal investigator (PI) mentored this team throughout the academic year, and 1 graduate, and 1 undergraduate student, who also assisted the high school team.</p><br> <p>  Last Modified: 12/15/2023<br> Modified by: Rodrigo&nbsp;Bernal Montoya</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665797367_Image_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665797367_Image_2--rgov-800width.jpg" title="Hysteresis"><img src="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665797367_Image_2--rgov-66x44.jpg" alt="Hysteresis"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Energy dissipation by the phase transformation of the nanowires</div> <div class="imageCredit">Image created by PI</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Rodrigo&nbsp;Bernal Montoya <div class="imageTitle">Hysteresis</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665864108_Image_4--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665864108_Image_4--rgov-800width.jpg" title="Outreach and training"><img src="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665864108_Image_4--rgov-66x44.jpg" alt="Outreach and training"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Outreach activities conducted by the PI</div> <div class="imageCredit">Image created by PI</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Rodrigo&nbsp;Bernal Montoya <div class="imageTitle">Outreach and training</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665757061_Image_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665757061_Image_1--rgov-800width.jpg" title="Mechanical testing setup"><img src="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665757061_Image_1--rgov-66x44.jpg" alt="Mechanical testing setup"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Experimental setup used to test the deformation response of nanowires</div> <div class="imageCredit">Pictures taken by PI</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Rodrigo&nbsp;Bernal Montoya <div class="imageTitle">Mechanical testing setup</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665832922_Image_3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665832922_Image_3--rgov-800width.jpg" title="Thermography"><img src="/por/images/Reports/POR/2023/2039269/2039269_10685303_1702665832922_Image_3--rgov-66x44.jpg" alt="Thermography"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Thermography characterization of nanowires</div> <div class="imageCredit">Image created by PI</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Rodrigo&nbsp;Bernal Montoya <div class="imageTitle">Thermography</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project studied the elastocaloric effect in nanowires, with potential applications for nanoscale solid state cooling. The semiconductor industry continues to miniaturize chips, yet the demand for processing power increases at the same time. As a result, the power dissipated as heat per area of the chip (power density) is at a very high level and is a bottleneck for continued miniaturization. Exploration of new refrigerant substances is also important for more environmentally friendly cooling systems.   Towards contributing to these challenges, this project studied the elastocaloric effect. The elastocaloric effect is a change in temperature created by deforming a material. When the material undergoes a rearrangement of its internal atomic structure, known as a phase change, this change in temperature can be large. This temperature change can thus be leveraged for cooling applications. We studied this phenomenon in vanadium dioxide (VO2) nanowires, nanoscale rods of this material with a dimension on the order of 500 nanometers in width, and tens of microns in length.   One outcome of the project was the measurement of the deformation response of the nanowires. Using a micro electromechanical system (MEMS) that can measure minute forces, and an electron microscope that allows high resolution, researchers stretched and released a single VO2 nanowire (Image 1), while measuring the needed force. The differences between the stretch and release (Image 2) indicate the energy efficiency of the phase change: the smaller the difference, the better the efficiency. The results highlight the importance of producing nanowires with less surface defects, as the phase change dissipates energy due to them.   Another outcome of the project was the characterization of a complementary phase change as a function of temperature. By looking at the nanowires with a high-resolution thermal camera while the phase change occurs, the researchers were able to measure the emissivity of the nanowires as they undergo the phase change. Emissivity is a property that indicates how well the material absorbs and emits infrared radiation. When the phase change occurs, the emissivity changes as well. Researchers measured the amount of this change for several nanowires. This information will be useful for other researchers in the community, that aim to utilize these materials in applications such as coatings for smart windows, where the emissivity change can be leveraged to reflect or absorb solar radiation depending on the seasons, to regulate temperature and reduce air conditioning energy consumption and costs.   Finally, the project enabled the training and engagement of students (Image 4). PhD students were trained in various techniques under the direction of the principal investigator. Furthermore, local high-school students learned about the elastocaloric effect, by designing and building an elastocaloric cooling device using rubber, another elastocaloric material. The high-school students worked on this project for a complete academic year and presented it in a year-end poster competition. They earned 2nd place. The principal investigator (PI) mentored this team throughout the academic year, and 1 graduate, and 1 undergraduate student, who also assisted the high school team.     Last Modified: 12/15/2023       Submitted by: RodrigoBernal Montoya]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

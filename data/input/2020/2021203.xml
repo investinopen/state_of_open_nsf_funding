@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Increasing Career Competencies in Computer Networking Courses using Simulation, Hands-On Learning, and Project-Based Learning Within a Cognitive Apprenticeship Framework]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>298681.00</AwardTotalIntnAmount>
+<AwardAmount>298681</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huihui Wang</SignBlockName>
+<PO_EMAI>hhwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924894</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project aims to serve the national interest by improving undergraduate learning in computer networking and communications courses. To be prepared for jobs in these fields, college graduates must be able to think critically, solve problems, work well with others, and communicate effectively. This project will apply a new approach for teaching computer networking that enables students to learn technical skills and improve employability skills. The teaching approach will combine simulation-based learning, hands-on learning, and project-based learning within a cognitive apprenticeship framework.  This framework describes a learning environment designed to help a novice move toward expertise through guided learning experiences that emphasize cognitive and metacognitive processes and skills.  Students in the redesigned courses will use networking and digital communications simulation software to design real-world networks and will then create a working physical model of the network they designed. Throughout the process, students will practice metacognition, so that they become aware of and can purposefully strengthen their own problem-solving strategies.  It is expected that this teaching approach will prepare graduates for careers in networking and digital communications, and that other institutions will be able to successfully use the approach.   &lt;br/&gt; &lt;br/&gt;The project aims to produce graduates who have the domain knowledge, practical and career readiness skills, and independent problem-solving capability needed for workplace success in computer networking and communications. The research component of the project will examine student progress in: (a) networking and digital communication concept knowledge and practical skills; (b) self-efficacy in networking and digital communications; (c) career readiness competencies level; and (d) higher-order and metacognitive thinking skills. The teaching approach will be implemented in three courses at Hampton University, an Historically Black College or University. Existing survey instruments, including the Student Assessment of their Learning Gains, the Metacognitive Awareness Inventory, and surveys from the STELAR STEM Learning and Research Center, will be used to assess the effectiveness of the approach. This work is expected to contribute to building a highly capable, diverse workforce in the high-demand field of networking and communications. The NSF IUSE: EHR Program supports research and development projects to improve the effectiveness of STEM education for all students. Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021203</AwardID>
+<Investigator>
+<FirstName>Moayed</FirstName>
+<LastName>Daneshyari</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Moayed D Daneshyari</PI_FULL_NAME>
+<EmailAddress><![CDATA[moayed.daneshyari@csueastbay.edu]]></EmailAddress>
+<NSF_ID>000692177</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate>09/10/2021</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Chittenden</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce C Chittenden</PI_FULL_NAME>
+<EmailAddress><![CDATA[bruce.chittenden@hamptonu.edu]]></EmailAddress>
+<NSF_ID>000837284</NSF_ID>
+<StartDate>09/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Janett</FirstName>
+<LastName>Walters-Williams</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Janett Walters-Williams</PI_FULL_NAME>
+<EmailAddress><![CDATA[janett.williams@hamptonu.edu]]></EmailAddress>
+<NSF_ID>000789015</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hampton University</Name>
+<CityName>HAMPTON</CityName>
+<ZipCode>236694561</ZipCode>
+<PhoneNumber>7577275363</PhoneNumber>
+<StreetAddress>200 WILLIAM R HARVEY WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KSJKE3KVNBB4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HAMPTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Hampton University]]></Name>
+<CityName>hampton</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>236680108</ZipCode>
+<StreetAddress><![CDATA[100 E Queen St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~298681</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Research has shown that employers expect university graduates who are not only competent in their knowledge area but also able to think critically, solve problems, work well with others and communicate effectively - Higher Order Thinking Skills (HOTS). Unfortunately, many graduates fall short of this expectation. For networking and digital communications graduates there is also the demand for technical and practical skills. This project sought to address these deficiencies through the use of a new integrated teaching method called<strong><span>&nbsp;CAP-B that incorporates Project Based Learning ((PBL) and a hybrid of Simulation Based Learning (SBL) and Hands-on Learning (HOL) within a Cognitive Apprenticeship (CA) Framework</span></strong>. This methodology&nbsp;provides the practicality of PBL (assessment, collaboration and real-world exercises) and Blended Learning (real-world practical experience) grounded in CA that focuses on using teaching and learning methods that increase student expertise in a real-world environment.&nbsp;</span></p> <p><span>Addressing the issue of a diverse workforce, the research was conducted in a HBCU&nbsp;<em><span>producing graduates from the African American minority group and by extension African American women</span></em>&nbsp;who have competencies in networking and digital communications&nbsp;as well as the required HOTS skills.</span></p> <p><span>CAP-B was utilized in 4&nbsp;undergraduate Computer Science courses from Fall 2020 through Spring 2023. These courses were taught to students from their 2nd to final year in the program. Throughout the time of this research new course materials were developed that incorporated the use of PBL real-world projects that required students to use both SBL and HOL to create and develop appropriate solutions.</span></p> <p><span>CAP-B effectiveness on achieving the research 1st and 3rd goals of increasing students networking and digital communication concept knowledge and practical skills as well as increasing student career readiness competencies level were determined based on student performance. This performance evaluation was based on their (i) declarative knowledge (retention of facts, principles, and their interrelationship) (ii) procedural knowledge (knowledge/skills students acquired while executing SBL and HOL activities) and (iii) retention (how much declarative and procedural knowledge students had retained at the end of a course). Students were tested three times - at the beginning of the course, in the middle and at the end of each course to determine their performance. Evaluation of these performance has shown that for each course there has been significant increase in student performances each year.</span></p> <p><span>Research has shown that&nbsp;there is a linear, positive, and strong relationship between HOTS and student overall academic performances where students with high HOTS competency levels are expected to succeed in their academic program. As such examination of student performances for the tested courses shows an increase in the progression throughout each semester indicating increase in HOTS competency level as the course progressed. This shows that CAP-B has achieved the 4th goal of the research.</span></p> <p><span>An additional benefit for this methodology is the increase in&nbsp;students&rsquo; self-efficacy (SE). Literature has repeatedly shown that&nbsp;the examination of student academic performances reflects SE levels. This means that the higher the academic performance, the stronger the SE. Like with HOTS the progressive increase performance reflects the increase in SE levels.&nbsp;This shows that CAP-B has achieved the 2nd goal of the research.</span></p> <p><span>Many educators have worked with Problem-Based Learning (PrBL) where students are given short assignments to accomplish specific steps and case studies rather than a complex problem or question that has multiple potential solutions and possibilities for exploration. In so doing PrBL focuses on a specific skill or group of skills. Because of this foundation it is easy for educators to learn PBL. Educators also have experience with HOL, SBL and some aspects of the CA framework such as Coaching, Modeling, Scaffolding and Articulation. Depending on the course, it may include aspects of Exploration. As such CAP-B is transferable and can be used&nbsp;in other non-networking related fields and in so doing universities can produce graduates who are career ready in terms of their competencies as well as their SE.</span></p> <p><span>The research has been disseminated through workshops, conference and poster presentations, as well as journal publications.&nbsp;</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 01/04/2024<br> Modified by: Janett&nbsp;Walters-Williams</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484612582_nsfpic8--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484612582_nsfpic8--rgov-800width.jpg" title="Building a Computer"><img src="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484612582_nsfpic8--rgov-66x44.jpg" alt="Building a Computer"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Student putting together the different parts that make a working computer</div> <div class="imageCredit">Janett Walters-Willliams</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janett&nbsp;Walters-Williams <div class="imageTitle">Building a Computer</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484886418_nsfpic7--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484886418_nsfpic7--rgov-800width.jpg" title="Knowing the Computer"><img src="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484886418_nsfpic7--rgov-66x44.jpg" alt="Knowing the Computer"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students are identifying the different parts and their locations withing a computer</div> <div class="imageCredit">Janett Walters-Willliams</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janett&nbsp;Walters-Williams <div class="imageTitle">Knowing the Computer</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484811334_nsfpic4--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484811334_nsfpic4--rgov-800width.jpg" title="Visiting Server Room"><img src="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484811334_nsfpic4--rgov-66x44.jpg" alt="Visiting Server Room"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students visited the Server Room where they had dialog with the System Adminstrator</div> <div class="imageCredit">Janett Walters-Willliams</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janett&nbsp;Walters-Williams <div class="imageTitle">Visiting Server Room</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484675641_nsfpic2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484675641_nsfpic2--rgov-800width.jpg" title="Testing Parallel Computer"><img src="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484675641_nsfpic2--rgov-66x44.jpg" alt="Testing Parallel Computer"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students are running a test on the OctaPi Computer they built</div> <div class="imageCredit">Janett Walters-Willliams</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janett&nbsp;Walters-Williams <div class="imageTitle">Testing Parallel Computer</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702485017897_nsfpic6--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702485017897_nsfpic6--rgov-800width.jpg" title="Presenting My Network"><img src="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702485017897_nsfpic6--rgov-66x44.jpg" alt="Presenting My Network"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Student presenting the simulation of design network solution</div> <div class="imageCredit">Janett Walters-Willliams</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janett&nbsp;Walters-Williams <div class="imageTitle">Presenting My Network</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484749708_nsfpic1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484749708_nsfpic1--rgov-800width.jpg" title="Opening Data Communication box"><img src="/por/images/Reports/POR/2023/2021203/2021203_10694730_1702484749708_nsfpic1--rgov-66x44.jpg" alt="Opening Data Communication box"></a> <div class="imageCaptionContainer"> <div class="imageCaption">tudents are getting ready to start their Data Communication PBL project.</div> <div class="imageCredit">Janett Walters-Willliams</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janett&nbsp;Walters-Williams <div class="imageTitle">Opening Data Communication box</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Research has shown that employers expect university graduates who are not only competent in their knowledge area but also able to think critically, solve problems, work well with others and communicate effectively - Higher Order Thinking Skills (HOTS). Unfortunately, many graduates fall short of this expectation. For networking and digital communications graduates there is also the demand for technical and practical skills. This project sought to address these deficiencies through the use of a new integrated teaching method calledCAP-B that incorporates Project Based Learning ((PBL) and a hybrid of Simulation Based Learning (SBL) and Hands-on Learning (HOL) within a Cognitive Apprenticeship (CA) Framework. This methodologyprovides the practicality of PBL (assessment, collaboration and real-world exercises) and Blended Learning (real-world practical experience) grounded in CA that focuses on using teaching and learning methods that increase student expertise in a real-world environment.   Addressing the issue of a diverse workforce, the research was conducted in a HBCUproducing graduates from the African American minority group and by extension African American womenwho have competencies in networking and digital communicationsas well as the required HOTS skills.   CAP-B was utilized in 4undergraduate Computer Science courses from Fall 2020 through Spring 2023. These courses were taught to students from their 2nd to final year in the program. Throughout the time of this research new course materials were developed that incorporated the use of PBL real-world projects that required students to use both SBL and HOL to create and develop appropriate solutions.   CAP-B effectiveness on achieving the research 1st and 3rd goals of increasing students networking and digital communication concept knowledge and practical skills as well as increasing student career readiness competencies level were determined based on student performance. This performance evaluation was based on their (i) declarative knowledge (retention of facts, principles, and their interrelationship) (ii) procedural knowledge (knowledge/skills students acquired while executing SBL and HOL activities) and (iii) retention (how much declarative and procedural knowledge students had retained at the end of a course). Students were tested three times - at the beginning of the course, in the middle and at the end of each course to determine their performance. Evaluation of these performance has shown that for each course there has been significant increase in student performances each year.   Research has shown thatthere is a linear, positive, and strong relationship between HOTS and student overall academic performances where students with high HOTS competency levels are expected to succeed in their academic program. As such examination of student performances for the tested courses shows an increase in the progression throughout each semester indicating increase in HOTS competency level as the course progressed. This shows that CAP-B has achieved the 4th goal of the research.   An additional benefit for this methodology is the increase instudents self-efficacy (SE). Literature has repeatedly shown thatthe examination of student academic performances reflects SE levels. This means that the higher the academic performance, the stronger the SE. Like with HOTS the progressive increase performance reflects the increase in SE levels.This shows that CAP-B has achieved the 2nd goal of the research.   Many educators have worked with Problem-Based Learning (PrBL) where students are given short assignments to accomplish specific steps and case studies rather than a complex problem or question that has multiple potential solutions and possibilities for exploration. In so doing PrBL focuses on a specific skill or group of skills. Because of this foundation it is easy for educators to learn PBL. Educators also have experience with HOL, SBL and some aspects of the CA framework such as Coaching, Modeling, Scaffolding and Articulation. Depending on the course, it may include aspects of Exploration. As such CAP-B is transferable and can be usedin other non-networking related fields and in so doing universities can produce graduates who are career ready in terms of their competencies as well as their SE.   The research has been disseminated through workshops, conference and poster presentations, as well as journal publications.        Last Modified: 01/04/2024       Submitted by: JanettWalters-Williams]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

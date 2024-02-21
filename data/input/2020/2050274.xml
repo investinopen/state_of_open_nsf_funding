@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  A Precision Autonomous Fluid Planting System for Pre-Germinated Vegetable, Flower and Specialty Crops]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide economic benefits to farmers and consumers as well as broader societal benefits in the U.S. and globally for many different farm operations (e.g., vegetable, flower, and herb growers as well as greenhouse operations) and farm customers.  Higher farm productivity directly benefits society by expanding the availability of nutritious, affordable food. Vegetables are vital U.S. crops in terms of food sources and farm profitability.  One of the main challenges for vegetable farmers that limits productivity and total yield is the need to grow starter plants for the vegetables in greenhouses (or to purchase them) and then transplant them into tilled soil, which is highly labor-intensive and expensive.  This system replaces that process with a system that plants pre-germinated seeds directly into the field with precision at a projected cost of 26% of the incumbent methods.  The technology is an all-electric system that reduces the use of fossil fuels used in planting 100% and is 75% lighter weight than incumbent transplanting solutions using diesel tractors. The technology also addresses the increasing scarcity of farm labor with an autonomous planting system using automatic guidance and machine learning.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will work to solve the problem of separating pre-germinated seeds in a batch of thixotropic gel such that one and only one pre-germinated seed is planted at each desired location in real-time under actual field planting conditions.  Plant scientists have proven in numerous scientific studies that planting pre-germinated seeds increases production and lowers costs.  Reliable field planters have not been successful, however. The primary research objective is to prove that an autonomous seed-singulation system combining flow controls, seed detection, active machine learning, singulation, and extrusion in real-time can meet the requirements of the field to prove commercial viability.  The project research will begin by using discrete event simulation to model the singulation process used to obtain optimal parameters for the system. The model’s output will be used to develop control algorithms and programs.  A prototype autonomous system will be developed to test the algorithms in actual field conditions. The anticipated result of this research is that the system can reliably plant one and only one seed at each desired location at least 90% of the time.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050274</AwardID>
+<Investigator>
+<FirstName>Walter</FirstName>
+<LastName>Cromer</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Walter A Cromer</PI_FULL_NAME>
+<EmailAddress><![CDATA[walterc@edenconceptsllc.com]]></EmailAddress>
+<NSF_ID>000803939</NSF_ID>
+<StartDate>07/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Wilkerson</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John B Wilkerson</PI_FULL_NAME>
+<EmailAddress><![CDATA[johnw@edenconceptsllc.com]]></EmailAddress>
+<NSF_ID>000346831</NSF_ID>
+<StartDate>06/30/2021</StartDate>
+<EndDate>07/23/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>EDEN CONCEPTS LLC</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379223152</ZipCode>
+<PhoneNumber>8657198881</PhoneNumber>
+<StreetAddress>621 SUMMIT LAKE CT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CBEDCN6BMMZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EDEN CONCEPTS, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[EDEN CONCEPTS LLC]]></Name>
+<CityName>Lenoir City</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>377713356</ZipCode>
+<StreetAddress><![CDATA[487 Sam Rayburn Pkwy]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7632</Code>
+<Text>HUMAN-ROBOT INTERACTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overall goal of this multi-phase SBIR effort is to develop, validate, and commercialize a precision planting system to plant germinated seeds precisely into a growing medium. We aim to reduce labor and energy requirements for planting vegetable, flower and specialty crops without reducing yield by replacing the current labor-intensive approach of transplanting seedlings with planting seeds that are germinated on the farm directly into the growing media.</p> <p>Planting germinated seeds has been proven by plant scientists to improve plant stands and yields. However, germinating large volumes of vegetable seeds for field scales above a few short rows produces thousands of randomly dispersed, delicate seeds in many gallons of fluid. Precise seed spacing and planting depths produce the best crop result. &nbsp;This precision requires a method to transform the random batch into precisely planted seeds, known as "singulation." This precise technique <strong>must be affordable for growers</strong> and withstand the field environments where vegetables are grown. The germinated seeds must be processed with as little contact as possible to avoid damage to the wet, growing seeds.&nbsp; <strong>The specific Phase I goal was to establish the feasibility of an affordable autonomous singulation method for fields over 1 acre, which we accomplished.&nbsp; </strong>This method is the core functionality required for a feasible field planter of germinated seeds.<strong>&nbsp;</strong></p> <p>The <strong>broader impacts</strong> of this work are <strong>enabling growers to plant important food crops with substantially less labor and on-farm fossil fuel use</strong>.&nbsp; As the global population continues to grow, the demand for quality food will also grow.&nbsp; This work provides technology that will help meet that demand.&nbsp;</p> <p>The completed system will be an autonomous, all-electric system with much lighter weight than conventional semi-automatic transplanters and their associated support equipment (tractors, tractor-trailers, etc.).&nbsp;&nbsp; Thus, an additional <strong>impact is improved soil health</strong> by reducing<strong> soil compaction</strong>.&nbsp;&nbsp; In addition, this research discovered a feature of the system that is also required that will enable the precise application of agricultural chemicals such as fertilizer, fungicides, and herbicides so that the amount of these chemicals is reduced.&nbsp;&nbsp; This is good for the environment, reduces production costs, and raises farmer profitability and safety.&nbsp;&nbsp; Also, the lighter weight enables growers to plant in fields that may be too wet for incumbent transplanting equipment.</p> <p>This system will help automate the entire cycle of growing vegetable crops, including automated weeding, pest control, water management, and harvesting developments by other organizations.</p> <p><strong>As climate changes globally, an additional impact of this work is to provide the technology to enable planting crops in areas where the climate may not previously have been suitable for planting transplants.</strong>&nbsp;&nbsp; The process of germinating and planting germinated seeds does not require large capital investment and it requires few human resources.&nbsp; Therefore, it can be implemented quickly and easily in any area suitable for growing the target crops.&nbsp; Further, the core technology can be applied to equipment that can serve operations of all sizes, from home gardening to large-scale field operations.&nbsp; It can also be used in greenhouses to support indoor agriculture.&nbsp;&nbsp; Finally, the technology is not limited to planting only vegetable seeds but can be used with any financially feasible crop, such as peppers, seedless watermelons, lettuce, Pima cotton, hemp, indigo, or high-value, hard-to-establish flower and specialty crops.</p> <p>The primary objectives of this SBIR Phase I project were to</p> <ul> <li> Develop a control algorithm that has an input of a batch of randomly dispersed seeds in a fluid and outputs only 1-seed at each planting location and simulate this process with discrete event simulation to determine the key parameters for building a prototype</li> <li>Build and test a prototype autonomous singulation system in the lab based on the key parameters identified in the first objective, and</li> <li>Build and test a prototype autonomous singulation system on a mobile platform to evaluate operation under conditions similar to field operations.</li> </ul> <ol> </ol> <p>All three objectives were achieved using tomato seeds, and the resulting prototype singulation system could singulate seeds from a random batch at a performance level that will meet commercial requirements.&nbsp; Failure analysis identified additional areas that will be used to further improve the module's performance.</p><br> <p>  Last Modified: 12/06/2023<br> Modified by: Walter&nbsp;A&nbsp;Cromer</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701890216611_IMG_2489_cropped--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701890216611_IMG_2489_cropped--rgov-800width.JPG" title="Tomato seeds and bubbles in carrier gel"><img src="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701890216611_IMG_2489_cropped--rgov-66x44.JPG" alt="Tomato seeds and bubbles in carrier gel"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Tomato seeds are shown in the carrier gel used in the process.  Several typical bubbles, which were determined in the research to be an issue, can be seen in this image.</div> <div class="imageCredit">Eden Concepts LLC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Walter&nbsp;A&nbsp;Cromer <div class="imageTitle">Tomato seeds and bubbles in carrier gel</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701890364487_IMG_2526_cropped--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701890364487_IMG_2526_cropped--rgov-800width.JPG" title="Research prototype singulation system on mobile cart"><img src="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701890364487_IMG_2526_cropped--rgov-66x44.JPG" alt="Research prototype singulation system on mobile cart"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The singulation system developed in this research was mounted on this mobile cart that was used to run tests outside under simulated field conditions.</div> <div class="imageCredit">Eden Concepts LLC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Walter&nbsp;A&nbsp;Cromer <div class="imageTitle">Research prototype singulation system on mobile cart</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701889973382_IMG_3391_cropped--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701889973382_IMG_3391_cropped--rgov-800width.JPG" title="Germinated tomato seeds in carrier gel"><img src="/por/images/Reports/POR/2023/2050274/2050274_10744123_1701889973382_IMG_3391_cropped--rgov-66x44.JPG" alt="Germinated tomato seeds in carrier gel"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A batch of germinated tomato seeds contained in a bottle used in the research conducted in this project.</div> <div class="imageCredit">Eden Concepts LLC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Walter&nbsp;A&nbsp;Cromer <div class="imageTitle">Germinated tomato seeds in carrier gel</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The overall goal of this multi-phase SBIR effort is to develop, validate, and commercialize a precision planting system to plant germinated seeds precisely into a growing medium. We aim to reduce labor and energy requirements for planting vegetable, flower and specialty crops without reducing yield by replacing the current labor-intensive approach of transplanting seedlings with planting seeds that are germinated on the farm directly into the growing media.   Planting germinated seeds has been proven by plant scientists to improve plant stands and yields. However, germinating large volumes of vegetable seeds for field scales above a few short rows produces thousands of randomly dispersed, delicate seeds in many gallons of fluid. Precise seed spacing and planting depths produce the best crop result. This precision requires a method to transform the random batch into precisely planted seeds, known as "singulation." This precise technique must be affordable for growers and withstand the field environments where vegetables are grown. The germinated seeds must be processed with as little contact as possible to avoid damage to the wet, growing seeds. The specific Phase I goal was to establish the feasibility of an affordable autonomous singulation method for fields over 1 acre, which we accomplished. This method is the core functionality required for a feasible field planter of germinated seeds.   The broader impacts of this work are enabling growers to plant important food crops with substantially less labor and on-farm fossil fuel use. As the global population continues to grow, the demand for quality food will also grow. This work provides technology that will help meet that demand.   The completed system will be an autonomous, all-electric system with much lighter weight than conventional semi-automatic transplanters and their associated support equipment (tractors, tractor-trailers, etc.). Thus, an additional impact is improved soil health by reducing soil compaction. In addition, this research discovered a feature of the system that is also required that will enable the precise application of agricultural chemicals such as fertilizer, fungicides, and herbicides so that the amount of these chemicals is reduced. This is good for the environment, reduces production costs, and raises farmer profitability and safety. Also, the lighter weight enables growers to plant in fields that may be too wet for incumbent transplanting equipment.   This system will help automate the entire cycle of growing vegetable crops, including automated weeding, pest control, water management, and harvesting developments by other organizations.   As climate changes globally, an additional impact of this work is to provide the technology to enable planting crops in areas where the climate may not previously have been suitable for planting transplants. The process of germinating and planting germinated seeds does not require large capital investment and it requires few human resources. Therefore, it can be implemented quickly and easily in any area suitable for growing the target crops. Further, the core technology can be applied to equipment that can serve operations of all sizes, from home gardening to large-scale field operations. It can also be used in greenhouses to support indoor agriculture. Finally, the technology is not limited to planting only vegetable seeds but can be used with any financially feasible crop, such as peppers, seedless watermelons, lettuce, Pima cotton, hemp, indigo, or high-value, hard-to-establish flower and specialty crops.   The primary objectives of this SBIR Phase I project were to   Develop a control algorithm that has an input of a batch of randomly dispersed seeds in a fluid and outputs only 1-seed at each planting location and simulate this process with discrete event simulation to determine the key parameters for building a prototype Build and test a prototype autonomous singulation system in the lab based on the key parameters identified in the first objective, and Build and test a prototype autonomous singulation system on a mobile platform to evaluate operation under conditions similar to field operations.      All three objectives were achieved using tomato seeds, and the resulting prototype singulation system could singulate seeds from a random batch at a performance level that will meet commercial requirements. Failure analysis identified additional areas that will be used to further improve the module's performance.     Last Modified: 12/06/2023       Submitted by: WalterACromer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

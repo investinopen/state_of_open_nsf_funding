@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Arizona K-8 Consortium: Building Computer Science and Computational Thinking Capacity in Rural K-8 Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299620.00</AwardTotalIntnAmount>
+<AwardAmount>299620</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Ford</SignBlockName>
+<PO_EMAI>miford@nsf.gov</PO_EMAI>
+<PO_PHON>7032925153</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will establish the Arizona K-8 Consortium Hub, a network of Researcher-Practitioner Partnerships (RPPs) that will work to integrate computer science (CS) and computational thinking (CT) into rural and tribal K-8 education. The Hub will work with practitioners and researchers to establish five regional RPPs across Arizona. The Hub’s primary role will be to support regional RPPs logistically (partnership building, grant writing) as well as by developing and implementing an integrated Professional Development (PD) and Professional Learning Community (PLC) platform that builds local capacity. During the 18-month development phase, RPPs will work with the Hub to: &lt;br/&gt;&lt;br/&gt;1) Assess the current state of CS/CT education and PD in their K-8 schools, including CS/CT interventions and curriculum and K-8 student CS/CT assessment tools, and identify gaps and issues to be addressed.&lt;br/&gt;&lt;br/&gt;2) Articulate what high-quality CS/CT looks like in rural schools serving underserved, underrepresented youth, and what PD/PLC supports and work are needed to support and sustain implementation.&lt;br/&gt;&lt;br/&gt;3) Co-design and support integrated research/evaluation studies to address gaps and issues along with building capacity.&lt;br/&gt;&lt;br/&gt;4) Build strong integrated PD/PLCs that support RPPs in designing and implementing CS and CT interventions in rural preK-8 classrooms and future proposal development to the NSF CS for All program’s PreK-8 Strand, among others. &lt;br/&gt;&lt;br/&gt;The long-term goals of the AZ K-8 Consortium Hub include developing a) an integrated PD/PLC platform that builds local capacity, and b) an RPP model for transformational change in rural K-8 education. The Hub will support RPPs in exploring and implementing evidence-based K-8 CS/CT education interventions that help meet state and federal education standards and be shared widely with other rural and underserved regions. Lessons learned from this work will inform future NSF CS for All medium-and large-scale PreK-8 proposals. Project outcomes include four rural RPPs, an overview of rural Arizona's current CS/CT interventions and self-efficacy in rural K-8 educators, and a roadmap for joint research around the integration of CS/CT education in rural K-8 schools. This project is funded by the CS for All: Research and RPPs program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031527</AwardID>
+<Investigator>
+<FirstName>Kalman</FirstName>
+<LastName>Mannis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kalman Mannis</PI_FULL_NAME>
+<EmailAddress><![CDATA[mannisk@azscience.org]]></EmailAddress>
+<NSF_ID>000816895</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Barnard</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wendy Barnard</PI_FULL_NAME>
+<EmailAddress><![CDATA[Wendy.Barnard@asu.edu]]></EmailAddress>
+<NSF_ID>000743135</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Babendure</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeremy R Babendure</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbabendure@scitechinstitute.org]]></EmailAddress>
+<NSF_ID>000708704</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Kurz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Kurz</PI_FULL_NAME>
+<EmailAddress><![CDATA[Alexander.Kurz@asu.edu]]></EmailAddress>
+<NSF_ID>000637686</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eugene</FirstName>
+<LastName>Judson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eugene Judson</PI_FULL_NAME>
+<EmailAddress><![CDATA[Eugene.Judson@asu.edu]]></EmailAddress>
+<NSF_ID>000421648</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona Technology Council Foundation]]></Name>
+<CityName>PHOENIX</CityName>
+<ZipCode>850041007</ZipCode>
+<PhoneNumber>6023438324</PhoneNumber>
+<StreetAddress><![CDATA[2800 NORTH CENTRAL AVENUE]]></StreetAddress>
+<StreetAddress2><![CDATA[SUITE 1530]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UKF9QR56MMK5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA TECHNOLOGY COUNCIL FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona Technology Council Foundation DBA SciTech Institute]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852821173</ZipCode>
+<StreetAddress><![CDATA[1438 W. Broadway Rd. Suite 101]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>134Y</Code>
+<Text>CSforAll-Computer Sci for All</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~299620</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-5a304ec6-7fff-08b5-cf76-8f8a2e796a54"> </span></p> <p dir="ltr"><span>BACKGROUND</span></p> <p dir="ltr"><span>An initial statewide survey of rural district personnel, administrators, teachers, and paraprofessionals showed a high need for support of Computer Science (CS) integration and a high desire for CS education embedded in the school day. The background survey set the stage for developing a CS Implementation Roadmap using a Research Practitioner Partnership (RPP) model to gather best practice data.</span></p> <p dir="ltr"><span>This Project started with 5 rural and remote K8 districts. 2 left the project at the end of Year 1 due to personnel loss. Three of the districts remained active for the second school year.</span></p> <p dir="ltr"><span>ROADMAP &amp; SCRIPT</span></p> <p>In year one, the Project, Research, and Participant teams used surveys and district focus groups to develop a roadmap with milestones indicators that serve as guides for those interested in CS Integration. Feedback from the participating districts was used to iteratively improve the roadmap, which was made publicly available on the program webpage. Once the district teams were established (approximately 3 months) each participated in a SCRIPT strategic planning workshop. This tool provided each district with a focus, measurable goals, and a clear vision based on their unique learning ecosystem.</p> <p dir="ltr"><span>RESEARCH PRACTITIONER PARTNERSHIP</span></p> <p>Using the SCRIPT materials as a guide, the RPP teams continued their journey with surveys of in-district peers, students, and adult guardians. The instruments were co-developed with the project?s research mentors and district teams.&nbsp;</p> <p>Since a core driver was capacity building, all data collected stayed with the districts while the research mentors provided analysis and interpretation. This enabled the RPP teams to serve as CS mentors for their peers.</p> <p dir="ltr"><span>PROGRAM IMPLEMENTATION</span></p> <p dir="ltr"><span>From the SCRIPT and survey data, the RPP teams identified site-specific approaches and processes for CS integration, developed timelines, and updated district calendars. The teams then identified professional learning and community engagement opportunities to support the integration efforts. Professional learning took on three distinct models 1) The district teams met monthly and received information from CS education professionals, 2) The RPP teams identified knowledge gaps for district teachers and designed or facilitated requested programs, and 3) Community engagement programs engaged the teachers and students in co-developing tabling activities for family STEM nights.&nbsp;</span></p> <p dir="ltr"><span>While identifying district-level professional learning, the project team recognized that teachers needed to better understand where CS fits into their scope and how to sequence CS activities. To address this need, the team conceptualized and implemented a cross-walk standards workshop to align grade-level standards with CS standards. Workshop development also included the creation of an ?unplugged? activity reference guide with over 100 activities sorted by grade bank. This workshop was conceived of as a way to lower the barriers to CS integration which often occur when a teacher?s priorities do not include CS. Following the standards workshop, all teams requested Code.org fundamentals training, as it provided the greatest learning and implementation support.&nbsp;</span></p> <p dir="ltr"><span>ANNUAL OUTCOMES</span></p> <p dir="ltr"><span>At the conclusion of year 1 each of the continuing districts made internal system changes. One district shifted from a general education to a STEM-focused school, one hired a CS teacher, and the third refocused its library to a media and CS center with specially trained staff.&nbsp;</span></p> <p dir="ltr"><span>In year two, the RPPs used student and peer surveys as a guide for continued learning. It was in this part of the project that each site reflected on its learning ecosystems. Each group facilitated a Minecraft for Education workshop as well as continued CS integration mentoring. At the end of year 2, each of the districts chose to maintain their CS integration efforts and requested that the mentoring continue digitally.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 10/02/2023<br>      Modified by: Jeremy&nbsp;R&nbsp;Babendure</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   BACKGROUND An initial statewide survey of rural district personnel, administrators, teachers, and paraprofessionals showed a high need for support of Computer Science (CS) integration and a high desire for CS education embedded in the school day. The background survey set the stage for developing a CS Implementation Roadmap using a Research Practitioner Partnership (RPP) model to gather best practice data. This Project started with 5 rural and remote K8 districts. 2 left the project at the end of Year 1 due to personnel loss. Three of the districts remained active for the second school year. ROADMAP &amp; SCRIPT  In year one, the Project, Research, and Participant teams used surveys and district focus groups to develop a roadmap with milestones indicators that serve as guides for those interested in CS Integration. Feedback from the participating districts was used to iteratively improve the roadmap, which was made publicly available on the program webpage. Once the district teams were established (approximately 3 months) each participated in a SCRIPT strategic planning workshop. This tool provided each district with a focus, measurable goals, and a clear vision based on their unique learning ecosystem. RESEARCH PRACTITIONER PARTNERSHIP  Using the SCRIPT materials as a guide, the RPP teams continued their journey with surveys of in-district peers, students, and adult guardians. The instruments were co-developed with the project?s research mentors and district teams.   Since a core driver was capacity building, all data collected stayed with the districts while the research mentors provided analysis and interpretation. This enabled the RPP teams to serve as CS mentors for their peers. PROGRAM IMPLEMENTATION From the SCRIPT and survey data, the RPP teams identified site-specific approaches and processes for CS integration, developed timelines, and updated district calendars. The teams then identified professional learning and community engagement opportunities to support the integration efforts. Professional learning took on three distinct models 1) The district teams met monthly and received information from CS education professionals, 2) The RPP teams identified knowledge gaps for district teachers and designed or facilitated requested programs, and 3) Community engagement programs engaged the teachers and students in co-developing tabling activities for family STEM nights.  While identifying district-level professional learning, the project team recognized that teachers needed to better understand where CS fits into their scope and how to sequence CS activities. To address this need, the team conceptualized and implemented a cross-walk standards workshop to align grade-level standards with CS standards. Workshop development also included the creation of an ?unplugged? activity reference guide with over 100 activities sorted by grade bank. This workshop was conceived of as a way to lower the barriers to CS integration which often occur when a teacher?s priorities do not include CS. Following the standards workshop, all teams requested Code.org fundamentals training, as it provided the greatest learning and implementation support.  ANNUAL OUTCOMES At the conclusion of year 1 each of the continuing districts made internal system changes. One district shifted from a general education to a STEM-focused school, one hired a CS teacher, and the third refocused its library to a media and CS center with specially trained staff.  In year two, the RPPs used student and peer surveys as a guide for continued learning. It was in this part of the project that each site reflected on its learning ecosystems. Each group facilitated a Minecraft for Education workshop as well as continued CS integration mentoring. At the end of year 2, each of the districts chose to maintain their CS integration efforts and requested that the mentoring continue digitally.          Last Modified: 10/02/2023       Submitted by: Jeremy R Babendure]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

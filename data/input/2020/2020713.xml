@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research: Sign language spatial modulation across sociohiohistorical contexts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>12723.00</AwardTotalIntnAmount>
+<AwardAmount>12723</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jorge Valdes Kroff</SignBlockName>
+<PO_EMAI>jvaldesk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927920</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Sign languages (SLs) are situated in the visual-spatial modality, and the body and hands are directly visible during communication. This affords SLs the use of three-dimensional space in fundamental ways. Space is used, or modulated, to refer to locations in an iconic way, allowing signers to place or move referents based on their real world locations or relative spatial configurations. Space is also modulated to track grammatical arguments—i.e., to introduce and maintain discourse referents. How signers weave both person and location referents throughout a discourse has been of great theoretical interest in the sign language linguistics literature. Among proposed frameworks, some reconcile these two uses of space within a single linguistic agreement analysis, while others employ both linguistic (morphemic) and non-linguistic (gestural) analyses rather than an entirely linguistic one.&lt;br/&gt;&lt;br/&gt;In order to better understand the origins and development of these two referent functions in differing linguistic environments, this research analyzes the distribution of spatial modulations (locative and argument) across three languages–American Sign Language (ASL) a well-established sign language over 300 years old, Nicaraguan Sign Language (NSL) young sign language of approximately 50 years old that is developing autonomously without outside influence, and Lengua de Señas Costarricense (LESCO) a young sign language that is developing in a situation with strong language contact with ASL. The student researcher will obtain language samples from three sub-groups of NSL and LESCO that represent earlier stages of grammatical development, using the “apparent time” hypothesis, and compare them with equivalent samples from the well-established sign language, ASL. The goal of this work is to tease apart the factors involved in deictic reference tracking in spatial events from its use in argument structure. The proposed research will also serve to further document under-studied sign languages, and to archive the data collected in a permanent, institutionally-maintained repository.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020713</AwardID>
+<Investigator>
+<FirstName>Diane</FirstName>
+<LastName>Brentari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Diane Brentari</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbrentari@uchicago.edu]]></EmailAddress>
+<NSF_ID>000211416</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Montemurro</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathryn Montemurro</PI_FULL_NAME>
+<EmailAddress><![CDATA[kmontemurro@uchicago.edu]]></EmailAddress>
+<NSF_ID>000806271</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Linguistics Department]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606371511</ZipCode>
+<StreetAddress><![CDATA[1115 East 58th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>123Y</Code>
+<Text>DLI DDRIG-DynLangInfrast DDRIG</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1311</Code>
+<Text>Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5904</Code>
+<Text>COSTA RICA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7719</Code>
+<Text>DEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~12723</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project structures were compared across American Sign Language (ASL, approximately 350 years old) and Nicaraguan Sign Language (LSN, approximately 50 years old). Data from Costa Rican Sign Language (LESCO, approximately 50 years old) will be included in the future. This project had two major goals. The first goal was to understand how participant roles are expressed in verb agreement, comparing ASL and LSN with regard to <strong>animacy</strong> (is the participant alive) and <strong>agency</strong> (is the participant active) used for verb agreement. The second goal was to create an archive of LSN and LESCO, which would include video clips collected for the verb agreement analysis, as well as narratives data.</p> <p><strong><span style="text-decoration: underline;">Intellectual Merit:</span></strong></p> <p>Regarding the first goal of the project (to analyze verb agreement) two studies were conducted across ASL and&nbsp;and three groups of LSN with different language experience: LSN1, LSN2 and LSN3. The first study focused on animacy, and the second studied agency. The following specific questions were analyzed across groups:</p> <p>(i)&nbsp; <strong>Which</strong> <strong>types of</strong> <strong>nouns are more likely to be expressed in a sentence?</strong> Signers in all groups studied were more likely to explicitly produce a noun that was lower on a scale of animacy: inanimate participants are more likely to be expressed than animate ones. For example, in a comparison of sentences such as <strong><em>The machine</em></strong><em> blew bubbles vs. <strong>The girl</strong> blew bubbles</em>, the machine is more likely to be explicitly produced. Also, when animacy is held constant the undergoer, experiencer or patient are more likely to be expressed than the agent. In a sentence such as <em>the <strong>girl</strong> blew bubbles at the <strong>boy</strong>,</em> &ldquo;boy&rdquo; is more likely to be explicitly stated than &ldquo;girl&rdquo;.</p> <p>(ii)&nbsp;<strong>How many verbs are in the predicate&mdash;one or many?</strong> Signers in all groups studied are more likely to use predicates with multiple verbs than predicates with a single verb to describe scenes with two animate participants. For example, a description of a boy giving a girl a book is likely to be expressed as <em>book</em>, <em>boy give, girl receive</em>.</p> <p>(iii) <strong>How do signers express agreement with their bodies? </strong>(a) In all groups studied the movement of the verb is more likely to start or end near the body when there is an animate participant; and (b) Shifting the torso from side-to-side emerges as an agreement marker occurs first in Cohort 2 of LSN. &nbsp;We argue that is one of the first indications of verb agreement.</p> <p>In <strong>Study 2</strong>, the agency of the participants (as opposed to animacy) was investigated. Descriptions of the following type were compared: <em>The girl gave the boy a book [and he accepted it] vs. the girl gave the boy a book [and the book lay in the boy&rsquo;s lap.]</em>) Across all groups studied a distinction was found to mark agents in the type of handshape used in the verb. A handling handshape (which shows how an object is manipulated) was more frequently used in clauses with an agentive object (e.g., <em>The girl gave the boy a book [and he accepted it]</em><em>)</em>, while an object handshape (which shows properties of the object itself) was more frequently used in clauses with non-agentive objects(<em>the girl gave the boy a book [and the book lay in the boy&rsquo;s lap.]</em><em>)</em>. The agentive/non-agentive distinction can thus be analyzed as a sub-distinction of animate.</p> <p>The findings of Study 1 shed light on a period of the language emergence that is  not accessible in spoken languages, since spoken languages originated  too long ago for scholars to access this period.This work o reveals that the animate/inanimate distinction and the agent/no-agent distinction are present at the earliest stages of grammatical development.</p> <p>With regard to Goal 2 (creating an accessible archive of LSN and LESCO,) data LSN data have already been curated and archived; the work on LESCO is ongoing.</p> <!-- @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;  mso-font-charset:0;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;  mso-font-charset:0;  mso-generic-font-family:swiss;  mso-font-pitch:variable;  mso-font-signature:-469750017 -1073732485 9 0 511 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal  {mso-style-unhide:no;  mso-style-qformat:yes;  mso-style-parent:";  margin:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  mso-bidi-font-size:10.0pt;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:Calibri;  mso-fareast-theme-font:minor-latin;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:Arial;  mso-bidi-theme-font:minor-bidi;  mso-bidi-language:AR-SA;}p  {mso-style-priority:99;  mso-margin-top-alt:auto;  margin-right:0in;  mso-margin-bottom-alt:auto;  margin-left:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Times New Roman",serif;  mso-fareast-font-family:"Times New Roman";}.MsoChpDefault  {mso-style-type:export-only;  mso-default-props:yes;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:Calibri;  mso-fareast-theme-font:minor-latin;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:Arial;  mso-bidi-theme-font:minor-bidi;  mso-font-kerning:0pt;  mso-ligatures:none;  mso-bidi-language:AR-SA;}div.WordSection1  {page:WordSection1;} --> <p><strong><span style="text-decoration: underline;">Broader Impact</span></strong>:</p> <p>Within the purview of this project, a group of Deaf LSN signers who live in Managua and use LSN as their primary language were recruited and trained as research assistants to collect data during the COVID pandemic. This initiative has had the effect of (i) infusing the community with awareness and pride, (ii) providing a rare research opportunity for Deaf individuals in Nicaragua, and (iii) enhancing the quality of the data collected by making participants feel maximally at ease in the context of data collection. Given the enhanced scientific and social outcomes of this procedure, we will continue to use this data collection method in the future.</p> <p>Several young scholars (both Deaf and hearing) participated in various  aspects of data collection, annotation, analysis, and manuscript  preparation.</p><br> <p>  Last Modified: 12/11/2023<br> Modified by: Diane&nbsp;Brentari</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this project structures were compared across American Sign Language (ASL, approximately 350 years old) and Nicaraguan Sign Language (LSN, approximately 50 years old). Data from Costa Rican Sign Language (LESCO, approximately 50 years old) will be included in the future. This project had two major goals. The first goal was to understand how participant roles are expressed in verb agreement, comparing ASL and LSN with regard to animacy (is the participant alive) and agency (is the participant active) used for verb agreement. The second goal was to create an archive of LSN and LESCO, which would include video clips collected for the verb agreement analysis, as well as narratives data.   Intellectual Merit:   Regarding the first goal of the project (to analyze verb agreement) two studies were conducted across ASL andand three groups of LSN with different language experience: LSN1, LSN2 and LSN3. The first study focused on animacy, and the second studied agency. The following specific questions were analyzed across groups:   (i) Which types of nouns are more likely to be expressed in a sentence? Signers in all groups studied were more likely to explicitly produce a noun that was lower on a scale of animacy: inanimate participants are more likely to be expressed than animate ones. For example, in a comparison of sentences such as The machine blew bubbles vs. The girl blew bubbles, the machine is more likely to be explicitly produced. Also, when animacy is held constant the undergoer, experiencer or patient are more likely to be expressed than the agent. In a sentence such as the girl blew bubbles at the boy, boy is more likely to be explicitly stated than girl.   (ii)How many verbs are in the predicateone or many? Signers in all groups studied are more likely to use predicates with multiple verbs than predicates with a single verb to describe scenes with two animate participants. For example, a description of a boy giving a girl a book is likely to be expressed as book, boy give, girl receive.   (iii) How do signers express agreement with their bodies? (a) In all groups studied the movement of the verb is more likely to start or end near the body when there is an animate participant; and (b) Shifting the torso from side-to-side emerges as an agreement marker occurs first in Cohort 2 of LSN. We argue that is one of the first indications of verb agreement.   In Study 2, the agency of the participants (as opposed to animacy) was investigated. Descriptions of the following type were compared: The girl gave the boy a book [and he accepted it] vs. the girl gave the boy a book [and the book lay in the boys lap.]) Across all groups studied a distinction was found to mark agents in the type of handshape used in the verb. A handling handshape (which shows how an object is manipulated) was more frequently used in clauses with an agentive object (e.g., The girl gave the boy a book [and he accepted it]), while an object handshape (which shows properties of the object itself) was more frequently used in clauses with non-agentive objects(the girl gave the boy a book [and the book lay in the boys lap.]). The agentive/non-agentive distinction can thus be analyzed as a sub-distinction of animate.   The findings of Study 1 shed light on a period of the language emergence that is  not accessible in spoken languages, since spoken languages originated  too long ago for scholars to access this period.This work o reveals that the animate/inanimate distinction and the agent/no-agent distinction are present at the earliest stages of grammatical development.   With regard to Goal 2 (creating an accessible archive of LSN and LESCO,) data LSN data have already been curated and archived; the work on LESCO is ongoing.    Broader Impact:   Within the purview of this project, a group of Deaf LSN signers who live in Managua and use LSN as their primary language were recruited and trained as research assistants to collect data during the COVID pandemic. This initiative has had the effect of (i) infusing the community with awareness and pride, (ii) providing a rare research opportunity for Deaf individuals in Nicaragua, and (iii) enhancing the quality of the data collected by making participants feel maximally at ease in the context of data collection. Given the enhanced scientific and social outcomes of this procedure, we will continue to use this data collection method in the future.   Several young scholars (both Deaf and hearing) participated in various  aspects of data collection, annotation, analysis, and manuscript  preparation.     Last Modified: 12/11/2023       Submitted by: DianeBrentari]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

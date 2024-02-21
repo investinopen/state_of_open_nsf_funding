@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Improvement Grant: The Environmental Context of Urban Development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>25136.00</AwardTotalIntnAmount>
+<AwardAmount>25136</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Yellen</SignBlockName>
+<PO_EMAI>jyellen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research undertakes a geoarchaeological investigation of human-environment interactions in a lowland region, where water in the form of rivers, wetlands, and sea encouraged the location, timing, and configuration of the first urban communities. Geoarchaeology is well suited to investigate the environmental context of early cities because it combines the geological sciences with archaeological datasets to examine the intersection of society with the natural world. The team will conduct their research in an area that was once part of a dynamic estuarine delta where the size and physical arrangement of cities coevolved with their environment. The research investigates these phenomena through the collection and analysis of paleoenvironmental datasets to provide a deep-time perspective on urban adaptation to watery settings. STEM diversity is supported through the involvement of graduate students and senior research scientists while the interdisciplinary integration of earth systems scientists with archaeologists will benefit an increasingly inter-dependent and urban global society facing climate instability and sea-level rise. An open source and web-based database application will store and synthesize the geoarchaeological information by joining new data with previously published work from adjoining areas. &lt;br/&gt;&lt;br/&gt;Though archaeology has both supported and challenged the notion that societies shaped and were shaped by their environments, there is broad consensus that sociopolitical complexity first arose in communities associated with river valleys and coastal plains. This project will extract sediment cores by hand auger and percussion drill from predetermined locations, including off-site sampling of relict levees, crevasse-splays and floodplain, as well as on-site sampling of ancient canals, harbors, and clay-filled pits. Radiography and XRF-scanning will be used to identify past fluvial, deltaic, and marine environments through visual description, sedimentology, and chemostratigraphy. Isotope studies and trace element analysis will be used to differentiate between aerobic and anaerobic settings, as well as the location and flood characteristics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022977</AwardID>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Ristvet</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lauren M Ristvet</PI_FULL_NAME>
+<EmailAddress><![CDATA[lristvet@sas.upenn.edu]]></EmailAddress>
+<NSF_ID>000480429</NSF_ID>
+<StartDate>07/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reed</FirstName>
+<LastName>Goodman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Reed Goodman</PI_FULL_NAME>
+<EmailAddress><![CDATA[reedg@sas.upenn.edu]]></EmailAddress>
+<NSF_ID>000801986</NSF_ID>
+<StartDate>07/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046324</ZipCode>
+<StreetAddress><![CDATA[3260 South Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>7606</Code>
+<Text>Archaeology DDRI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1391</Code>
+<Text>ARCHAEOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~25136</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cities emerged in Mesopotamia between six and five thousand years ago. By the first half of the 3rd-millennium BCE, urban settlements like Uruk and Lagash exceeded 400 haectares in size. To explain the early and extraordinary sociodemographic shift to city life in an extreme environment, scholars have advanced a variety of theories over the years, including many that incorporate an ecological component. Still, outstanding and fundamental questions remain: Did the world's first cities form under conditions of too much or too little water? How did the evolution of the Mesopotamian delta, built by the Tigris and Euphrates rivers, overlap in time and space with urbanization in Mesopotamia? Was the coastline of the Persian Gulf farther north in the past? If it was, how did sea level changes shape deltaic development and ecourage reorganizations in human settlement? Finally, how did environmental changes impact social strategies, from subsistence and transportation to the establishment of city-state networks?</p> <p>Despite two centuries of such questions, fundamental concepts around the causes and nature of urban development across environmental, political and socioeconomic domains during urban growth remain hypothetical, as the biases of past excavations and a multi-decadal lull in active fieldwork have left us with more theory than evidence. Fundamentally, we have lacked a high resolution and chronologically precise dataset that records local ecological change at the interface of an important archaeological site and area in Lower Mesopotamia.</p> <p>We therefore set out to investigate settlement changes around the ancient city of Lagash, modern Tell al-Hiba, and the geomorphological development of the surrounding landscape. Specifically, we drilled geoarchaeological sediment cores to investigate the relationship between environmental change and the establishment of the city around 3,000 BCE, its continued development into a city-state capital by 2,500 BCE and its political decline by the end of Sumer&rsquo;s Early Dynastic period, around 2,350 BCE.&nbsp;</p> <p>Results from this grant, combined with legacy geological reports and digital elevation data, provide critical geomorphological context for understanding the political ecology of city and state formation in the Lower Tigris region of Mesopotamia. The biogeochemical&nbsp;characterization and dating of sampled sediments (both on and off the site of Lagash) have established a complete Holocene deltaic sequence, showing that the future Lagash city-state was underwater during sea level rise until the latter half of the 5th-millennium BCE. Following rapid sedimentation, the delta began its advance south and east over the course of the 4th-millennium, resulting in the environment&rsquo;s transition from coastal marsh and intertidal mudflat to floodplain. By the end of the first half of the Early Dynastic period (c.2,500 BCE), the city and city-state of Lagash lay ever more landwards of the delta&rsquo;s front. Underlying these transformations was a shift from tide- to river-dominated deltaic architecture. The consequent realignment in the directionality of irrigation regimes from downstream (tidal) to upstream (fluvial) demanded increasing adherence to a poorly timed flood calendar. As a result, agricultural risk increased substantially throughout the 3rd-millennium BCE, leading to an unprecedented investment in landscape engineering through the artificial construction, extensification and maintenance of waterways, along with the establishment and integration of new political communities through historically unique urban institutions related to production and exchange.</p><br> <p>  Last Modified: 12/13/2023<br> Modified by: Reed&nbsp;Goodman</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Cities emerged in Mesopotamia between six and five thousand years ago. By the first half of the 3rd-millennium BCE, urban settlements like Uruk and Lagash exceeded 400 haectares in size. To explain the early and extraordinary sociodemographic shift to city life in an extreme environment, scholars have advanced a variety of theories over the years, including many that incorporate an ecological component. Still, outstanding and fundamental questions remain: Did the world's first cities form under conditions of too much or too little water? How did the evolution of the Mesopotamian delta, built by the Tigris and Euphrates rivers, overlap in time and space with urbanization in Mesopotamia? Was the coastline of the Persian Gulf farther north in the past? If it was, how did sea level changes shape deltaic development and ecourage reorganizations in human settlement? Finally, how did environmental changes impact social strategies, from subsistence and transportation to the establishment of city-state networks?   Despite two centuries of such questions, fundamental concepts around the causes and nature of urban development across environmental, political and socioeconomic domains during urban growth remain hypothetical, as the biases of past excavations and a multi-decadal lull in active fieldwork have left us with more theory than evidence. Fundamentally, we have lacked a high resolution and chronologically precise dataset that records local ecological change at the interface of an important archaeological site and area in Lower Mesopotamia.   We therefore set out to investigate settlement changes around the ancient city of Lagash, modern Tell al-Hiba, and the geomorphological development of the surrounding landscape. Specifically, we drilled geoarchaeological sediment cores to investigate the relationship between environmental change and the establishment of the city around 3,000 BCE, its continued development into a city-state capital by 2,500 BCE and its political decline by the end of Sumers Early Dynastic period, around 2,350 BCE.   Results from this grant, combined with legacy geological reports and digital elevation data, provide critical geomorphological context for understanding the political ecology of city and state formation in the Lower Tigris region of Mesopotamia. The biogeochemicalcharacterization and dating of sampled sediments (both on and off the site of Lagash) have established a complete Holocene deltaic sequence, showing that the future Lagash city-state was underwater during sea level rise until the latter half of the 5th-millennium BCE. Following rapid sedimentation, the delta began its advance south and east over the course of the 4th-millennium, resulting in the environments transition from coastal marsh and intertidal mudflat to floodplain. By the end of the first half of the Early Dynastic period (c.2,500 BCE), the city and city-state of Lagash lay ever more landwards of the deltas front. Underlying these transformations was a shift from tide- to river-dominated deltaic architecture. The consequent realignment in the directionality of irrigation regimes from downstream (tidal) to upstream (fluvial) demanded increasing adherence to a poorly timed flood calendar. As a result, agricultural risk increased substantially throughout the 3rd-millennium BCE, leading to an unprecedented investment in landscape engineering through the artificial construction, extensification and maintenance of waterways, along with the establishment and integration of new political communities through historically unique urban institutions related to production and exchange.     Last Modified: 12/13/2023       Submitted by: ReedGoodman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

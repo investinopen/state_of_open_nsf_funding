@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[COMBUSTION CHEMISTRY OF LI-ION BATTERY ELECTROLYTES, THEIR PYROLYSIS PRODUCTS, AND POSSIBLE FIRE SUPPRESSANTS FOR ELECTRIC VEHICLE SAFETY]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299814.00</AwardTotalIntnAmount>
+<AwardAmount>299814</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+<PO_EMAI>hchellia@nsf.gov</PO_EMAI>
+<PO_PHON>7032927281</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Lithium-ion batteries are globally used to power the ever-growing number of mobile devices and will play a significant role in the transportation industry for decades to come. The movement toward electric mobility is of strategic importance, as the electricity used to power these vehicles can be produced from a large blend of renewable (solar, wind, biofuels), carbon-free (nuclear) energies, and from fossil fuels within large centralized plants, allowing for higher efficiency, better emissions control, and carbon capture. However, these batteries contain a flammable electrolyte in their battery cells which makes them a safety hazard if they are damaged, such as during a collision of an electric vehicle or in case of default in their conception. Many fire incidents related to electric vehicles have been reported over the past few years. Since Lithium-ion batteries are becoming so important in our lives, the fire safety hazard associated with their usage is also increasing with their size and ubiquity. This project aims at reducing the flammability of the electrolyte by adding specific fire suppressants, an area where a fundamental approach at the chemistry level has never been followed.  &lt;br/&gt;&lt;br/&gt;In the proposed project, the combustion properties of the typical components found in Lithium-ion battery electrolytes and of a mixture of the typical gases ejected during a battery thermal runaway will be investigated experimentally. These combustion properties will be measured using accurate chemical kinetics markers obtained from well-defined experimental techniques and optical diagnostics such as laser absorption spectrometry. Many of these components from the lithium-ion battery electrolyte will be studied for the first time. Similarly, the high-temperature chemistry of specific fire suppressant agents will be investigated, and their fire-suppressing potential will be investigated experimentally as well. The experimental results obtained during the course of this study will be used to develop or refine detailed chemical kinetics mechanisms for the electrolyte components and for the fire suppressants. The successful completion of the project will greatly advance the predictive capabilities on the flammability of LiBs and will potentially allow for reducing their flammability without reducing their performance. A safer use of lithium-ion batteries in many industries could be experienced based on the proposed research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037795</AwardID>
+<Investigator>
+<FirstName>Olivier</FirstName>
+<LastName>Mathieu</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Olivier E Mathieu</PI_FULL_NAME>
+<EmailAddress><![CDATA[olivier.mathieu@tamu.edu]]></EmailAddress>
+<NSF_ID>000805494</NSF_ID>
+<StartDate>11/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433123</ZipCode>
+<StreetAddress><![CDATA[Turbomachinery Laboratory, 1485]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1407</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~299814</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary goals of the project consisted in investigating the combustion and pyrolysis chemistries of battery electrolytes in fundamental experiments. The potential of several types of fire suppressants was explored as well, to help mitigating fire risks assocuated with lithium-ion batteries.</p> <p>In more details, the project was focused on improving our understanding of the combustion chemistry of Li-ion battery electrolytes (constituted of linear and cyclic carbonates) for enhancing electric vehicle safety. Specific fire suppressants were studied, including a Fluorine-containing agent with as structure similar to one of the electrolyte component (for seamless integration), a Phosphorus-containing agent with a simple structure to understand better its mechanism, and a Fluorine- and Phospghorus-containing agent to maximize the fire suppressant efficiency (meaning that a smaller amount of agent woud need to be added, hence limiting the impact on the battery performance).</p> <p>Experiments were conducted in shock tubes to measure ignition delay times and CO time histories, as well as in closed vessels to measure the laminar flame speed. These well establsihed methods and diagnostics allowed to characterize and probe the combustion chemistry of the electrolyte components, the fire suppressants, and their interactions. Significant progresses were made on the combustion chemistry of the electrolyte components and fire suppressants. The model for some fire suppressants were unique and presented for the first time.</p> <p>These findings could be useful to the industry to integrate fire suppressants to the electrolyte of lithium-ion batteries, which would enhance electric vehicle safety and have an impact for the broader implications for battery technology and fire safety measures in various industries.</p> <p>In terms of intellectual merit and broader impacts, the project has led to the publication of a relatively large number of papers in peer-reviewed journals and to several presentations in international conferences. The results could be used by the industry to design safer batteries, which could have a noticeable societal impact by reducing the number of fire accidents and casualties associated with batteries and promote the adoption of electric vehicles to help mitigating climate change.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/25/2023<br> Modified by: Olivier&nbsp;E&nbsp;Mathieu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary goals of the project consisted in investigating the combustion and pyrolysis chemistries of battery electrolytes in fundamental experiments. The potential of several types of fire suppressants was explored as well, to help mitigating fire risks assocuated with lithium-ion batteries.   In more details, the project was focused on improving our understanding of the combustion chemistry of Li-ion battery electrolytes (constituted of linear and cyclic carbonates) for enhancing electric vehicle safety. Specific fire suppressants were studied, including a Fluorine-containing agent with as structure similar to one of the electrolyte component (for seamless integration), a Phosphorus-containing agent with a simple structure to understand better its mechanism, and a Fluorine- and Phospghorus-containing agent to maximize the fire suppressant efficiency (meaning that a smaller amount of agent woud need to be added, hence limiting the impact on the battery performance).   Experiments were conducted in shock tubes to measure ignition delay times and CO time histories, as well as in closed vessels to measure the laminar flame speed. These well establsihed methods and diagnostics allowed to characterize and probe the combustion chemistry of the electrolyte components, the fire suppressants, and their interactions. Significant progresses were made on the combustion chemistry of the electrolyte components and fire suppressants. The model for some fire suppressants were unique and presented for the first time.   These findings could be useful to the industry to integrate fire suppressants to the electrolyte of lithium-ion batteries, which would enhance electric vehicle safety and have an impact for the broader implications for battery technology and fire safety measures in various industries.   In terms of intellectual merit and broader impacts, the project has led to the publication of a relatively large number of papers in peer-reviewed journals and to several presentations in international conferences. The results could be used by the industry to design safer batteries, which could have a noticeable societal impact by reducing the number of fire accidents and casualties associated with batteries and promote the adoption of electric vehicles to help mitigating climate change.        Last Modified: 12/25/2023       Submitted by: OlivierEMathieu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

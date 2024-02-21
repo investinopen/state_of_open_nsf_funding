@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FSML: SERC Visiting Scientist Cottages]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>405804.00</AwardTotalIntnAmount>
+<AwardAmount>405804</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Smithsonian Environmental Research Center (SERC) provides field, lab and convening facilities at its 1,000 ha property on the shores of Chesapeake Bay in support of research on the interactions among ecosystems of the coastal landscape in response to climate and human impacts. With this award, SERC will build on-site short-term housing for visiting scientists relieving presently inadequate and deteriorating housing facilities that lack ADA accommodations. This investment is part of a much broader master plan for growing accommodation at SERC; it will ensure continued access for critical on-going research and will enable expanded opportunities for outreach. SERC is unique in its combined estuarine and terrestrial research that provides important long-term and large-scale data and unique experiments on land-sea interactions and responses to environmental change. It hosts numerous major research projects including participation in the National Ecological Observatory Network; long-term research on the effects of elevated CO2, stream discharge and water quality, estuarine fish &amp; invertebrate community dynamics, tree demography; and experimental research on tree species diversity and ecosystem function. Access to these resources provide rich and diverse opportunities for visiting scientists to conduct both new research within the context of extensive background data and synthesis of multifactorial interactions. Access to SERC resources also provide unique opportunities for undergraduate intern training and graduate dissertations.&lt;br/&gt;&lt;br/&gt;Approximately 60 active extramural research projects leverage an array of long-term datasets, and the datasets are highly valued by our academic and governmental sponsors and collaborators. SERC Facilities support a 50-year history of both providing access to visiting scientists and informing environmental policy makers on emerging environmental issues. Short-term housing enables visiting researchers and educators to use SERC’s unique resources and site most efficiently and cost-effectively. SERC’s site is also hosts numerous tours for Congressional staff members and politicians from nearby Washington, DC, and the Maryland capital Annapolis. U.S. State Department often features SERC in tours of international visitors working on environmental resource management. SERC Facilities are also an important resource for SERC’s diverse array of collaborative research and training programs for academic partners. The Facility is a central feature of SERC’s professional training that annually supports 55 interns, 10 grad students, 25 postdocs and 570 visiting scientists for short and long periods. Approximately 130 of these visiting scientists actively conduct research on the site for multiple days at a time, and over 400 attend meetings, workshops and training annually. For more information on SERC, see https://serc.si.edu/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/06/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>12/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039743</AwardID>
+<Investigator>
+<FirstName>Anson</FirstName>
+<LastName>Hines</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anson H Hines</PI_FULL_NAME>
+<EmailAddress><![CDATA[hinesa@si.edu]]></EmailAddress>
+<NSF_ID>000457397</NSF_ID>
+<StartDate>12/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Smithsonian Institution</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>205600008</ZipCode>
+<PhoneNumber>2026337110</PhoneNumber>
+<StreetAddress>1000 JEFFERSON DR SW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KQ1KJG78NNS9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SMITHSONIAN INSTITUTION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NW2RJN8TQQW1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Smithsonian Institution]]></Name>
+<CityName>Arlington</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>222023709</ZipCode>
+<StreetAddress><![CDATA[Office of Sponsored Projects]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>169Y</Code>
+<Text>Capacity: Field Stations</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~405804</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Green Village Visitor Cottage Features</strong></p> <p>&nbsp;Green Village Visitor Cottages at the Smithsonian Environmental Research Center (SERC) provide short-term housing for visiting researchers, educators, natural resource managers, policy makers, business leaders, conservationists, and others who come to SERC for field research, training, and convening cross-disciplinary teams to solve difficult environmental problems. The Cottages provide leadership in sustainable facilities and are the first LEED Platinum and Passive House certified buildings in the Smithsonian. They are the only net-positive energy (also net zero carbon emissions) buildings in the Smithsonian. Here are features:</p> <p><strong>Cottage Size:</strong>&nbsp;&nbsp;&nbsp;&nbsp; 1,472 sf interior conditioned area, with 3bedrooms, 2 baths for up to 5 people.</p> <p>&nbsp;<strong>Prefabrication Construction Technology </strong>by Blueprint Robotics includes factory-installed doors and windows, HVAC, electric, plumbing and insulation in framing delivered to site, resulting in:</p> <ul> <li>Reduced construction carbon footprint with much less material waste &amp; transportation energy. </li> <li>Efficient, low-cost replication of construction and reduced project management.</li> </ul> <p><strong>LEED Platinum Certified:</strong>&nbsp; Certified by U.S. Green Building Counsel to Leadership in Energy and Environmental Design (LEED) Platinum level. Along with Mathias Lab, these are the Smithsonian&rsquo;s first and only LEED Platinum Certified buildings.</p> <p>&nbsp;<strong>Passive House Certified: 50 percent less energy use</strong> (6,626 kwh per year)) than a typical U.S. or Maryland house.&nbsp; Smithsonian&rsquo;s first Passive House Institute of U.S. (PHIUS) certified to ultra-high energy efficiency with extra insulation and very tight air-exchange envelope</p> <p>&nbsp;<strong>101 Percent Net-Positive Energy</strong>:&nbsp; Solar panels produce 13,314 kwh per year, or 6,667.7 kwh more than a cottage uses. Smithsonian&rsquo;s first &ldquo;net positive&rdquo; energy buildings.</p> <p>&nbsp;<strong>Energy Star:</strong> Cottages use Energy Star Certified electric appliances.</p> <p>&nbsp;<strong>ADA compliant:</strong>&nbsp; Cottages meet standards for American Disability Act.</p> <p>&nbsp;<strong>Water Conservation:</strong> Sewage treated to tertiary level to support reclaimed water system, and cottages use reclaimed water system to flush toilets and provide fire suppression. Stormwater managed by nature-based wetland design.</p> <p>&nbsp;<strong>Access:</strong>&nbsp; Located in the Green Village for short-term housing adjacent to SERC&rsquo;s core research complex with easy walk to administration, security office, main Mathias Laboratory, dock and waterfront, as well as to Trails and many research sites.&nbsp; Easy bicycling distance to restaurants, grocery stores and shops in Edgewater.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/25/2024<br> Modified by: Anson&nbsp;H&nbsp;Hines</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Green Village Visitor Cottage Features   Green Village Visitor Cottages at the Smithsonian Environmental Research Center (SERC) provide short-term housing for visiting researchers, educators, natural resource managers, policy makers, business leaders, conservationists, and others who come to SERC for field research, training, and convening cross-disciplinary teams to solve difficult environmental problems. The Cottages provide leadership in sustainable facilities and are the first LEED Platinum and Passive House certified buildings in the Smithsonian. They are the only net-positive energy (also net zero carbon emissions) buildings in the Smithsonian. Here are features:   Cottage Size: 1,472 sf interior conditioned area, with 3bedrooms, 2 baths for up to 5 people.   Prefabrication Construction Technology by Blueprint Robotics includes factory-installed doors and windows, HVAC, electric, plumbing and insulation in framing delivered to site, resulting in:  Reduced construction carbon footprint with much less material waste & transportation energy.  Efficient, low-cost replication of construction and reduced project management.    LEED Platinum Certified: Certified by U.S. Green Building Counsel to Leadership in Energy and Environmental Design (LEED) Platinum level. Along with Mathias Lab, these are the Smithsonians first and only LEED Platinum Certified buildings.   Passive House Certified: 50 percent less energy use (6,626 kwh per year)) than a typical U.S. or Maryland house. Smithsonians first Passive House Institute of U.S. (PHIUS) certified to ultra-high energy efficiency with extra insulation and very tight air-exchange envelope   101 Percent Net-Positive Energy: Solar panels produce 13,314 kwh per year, or 6,667.7 kwh more than a cottage uses. Smithsonians first net positive energy buildings.   Energy Star: Cottages use Energy Star Certified electric appliances.   ADA compliant: Cottages meet standards for American Disability Act.   Water Conservation: Sewage treated to tertiary level to support reclaimed water system, and cottages use reclaimed water system to flush toilets and provide fire suppression. Stormwater managed by nature-based wetland design.   Access: Located in the Green Village for short-term housing adjacent to SERCs core research complex with easy walk to administration, security office, main Mathias Laboratory, dock and waterfront, as well as to Trails and many research sites. Easy bicycling distance to restaurants, grocery stores and shops in Edgewater.        Last Modified: 01/25/2024       Submitted by: AnsonHHines]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

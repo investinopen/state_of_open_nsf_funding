@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Design and Development: Solving Community Problems with Engineering (SCoPE)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>342993.00</AwardTotalIntnAmount>
+<AwardAmount>342993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jumoke Ladeji-Osias</SignBlockName>
+<PO_EMAI>jladejio@nsf.gov</PO_EMAI>
+<PO_PHON>7032927708</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Engineering participation in rural communities is a critical need to bolster economic opportunity and meet workforce needs. Students enrolled in rural schools across the United States face barriers to accessing high-quality engineering education, such as lack of resources, lack of attention from reformers, researchers, and legislation, and lack of awareness of the diversity of engineering careers. Given the rapid growth of available engineering jobs, the shortage of talent to fill these roles, and the 9 million students enrolled in rural public schools,  it is prudent to create a curriculum that can engage rural students in personally-relevant engineering problems that can spark interest in further engineering pursuits. Yet, many public schools lack engineering courses. There is an immense opportunity to use place-based learning to not only integrate engineering into science courses, but also increase students’ understanding of the relevance of engineering to their everyday lives and societal change. WGBH Educational Foundation (GBH)—a major producer of educational STEM media—will develop Solving Community Problems with Engineering (SCoPE), a three-week, seventh-grade capstone project that will empower middle school students in rural and agricultural communities to integrate design thinking in engineering with their existing understanding of science concepts to solve problems that are relevant and meaningful within their community. Students will plan and test their own engineering solutions for alleviating the impact of nutrient pollution on the local ecosystem by addressing point sources of nutrients. Over the course of the design process, they will use models and a simulation to conceptualize relationships among variables in a complex system, predict potential benefits of their engineering interventions over time, and test their solutions. Throughout the project, we will collect data through interviews, surveys, and classroom observations. A pilot study at the conclusion of resource development will utilize pre-post content knowledge and engineering interest and attitude assessments, data embedded in the digital tools, and student artifacts to evaluate the potential impact of the project on students’ science and engineering knowledge and interests. SCoPE aims to: (1) create instructional materials that support rural students in developing a deep understanding of engineering ideas and how they relate to what they learn in science; (2) increase students’ interest in engineering, and their understanding of how engineering practices can be applied to relevant problems in their daily lives; and (3) build our understanding to further develop resources and best practices for implementing engineering pedagogy that is contextualized in local communities.&lt;br/&gt;&lt;br/&gt;The study poses three research questions:  (1) How can a school, nonprofit, and community organization work together to create relevant engineering curricula for students? (2) How do students’ perceptions of and interest in engineering change after participating in SCoPE? (3) What aspects of SCoPE have the greatest potential to support students in developing a deep understanding of core engineering skills and processes? The project will be conducted in partnership with a regional middle school and the Pleasant Bay Community Boating Marine Science Education Center in Cape Cod, Massachusetts. We will leverage GBH’s extensive national networks and existing platforms to ensure that the resources and findings from SCoPE will reach classrooms across the country. As an organization and as a research and outreach team, we are deeply connected to local and state school systems and can host materials, freely accessible, on PBS LearningMedia.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/26/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028076</AwardID>
+<Investigator>
+<FirstName>Shawn</FirstName>
+<LastName>Stevens</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shawn Stevens</PI_FULL_NAME>
+<EmailAddress><![CDATA[shawn_stevens@wgbh.org]]></EmailAddress>
+<NSF_ID>000556019</NSF_ID>
+<StartDate>01/26/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Littenberg-Tobias</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua Littenberg-Tobias</PI_FULL_NAME>
+<EmailAddress><![CDATA[joshua_tobias@wgbh.org]]></EmailAddress>
+<NSF_ID>000847593</NSF_ID>
+<StartDate>06/02/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>WGBH Educational Foundation</Name>
+<CityName>BRIGHTON</CityName>
+<ZipCode>021352016</ZipCode>
+<PhoneNumber>6173002000</PhoneNumber>
+<StreetAddress>1 GUEST ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GKSJF1SPLXX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WGBH EDUCATIONAL FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[WGBH Educational Foundation]]></Name>
+<CityName>Brighton</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021352016</ZipCode>
+<StreetAddress><![CDATA[One Guest Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1340</Code>
+<Text>EngEd-Engineering Education</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1340</Code>
+<Text>ENGINEERING EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~342993</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Traditional K-12 approaches to engineering often emphasize constructing and optimizing simple solutions to a problem. While this may appeal to some students, it may alienate others who then view engineering simply as "building things." This approach often focuses primarily on the creative aspect of solving problems, which can isolate the concept of engineering so students may not see the deep connections among engineering, science, and math. We hypothesized that expanding students' ideas about engineering and the types of problems engineers solve may lead more students to have increased interest in the field. To address this issue, we worked with a middle school science teacher to develop and test Solving Community Problems with Engineering (SCoPE), a three-week curriculum that engages students in engineering design through a real-world problem relevant to their communities.</p> <p>SCoPE engages middle school students with the complex environmental problem of nutrient pollution (excess levels of nitrogen and/or phosphorus in a body of water from sources such as fertilizer and wastewater). Nutrient pollution is a significant environmental problem that affects almost 50% of all lakes and rivers in the U.S., so it is relevant in most regions of the country. In particular, it is a problem that also impacts rural communities. Rural youth tend to remain very connected to their communities throughout their lives and may be more interested in engineering if they recognize that it could be a viable career near home.</p> <p>Students engage with the nutrient pollution problem through a familiar phenomenon, a green algae-covered lake, and a news article about local nutrient pollution issues. After investigating the sources and effects of nutrient pollution, students use tools for visualizing data to characterize the local problem and define the criteria and constraints. They conduct hands-on investigations and use a simulation to characterize how land cover influences how much water runs off or enters the soil. The Nutrient Pollution Management Simulation, developed for this project, then allows students to test and optimize categories of strategies for managing nutrient pollution to help make evidence-based recommendations to address the problem. Students model the effects of seven categories of strategies to help manage nutrient pollution (individual strategies are too numerous to model), use the results to develop recommendations on how to reduce the nutrient pollution problem in their watershed, and then present their findings. During the pilot study, student artifacts, daily teacher logs, pre/post surveys, and classroom observations were collected.</p> <p>After completing the SCoPE curriculum, students' ideas about the types of problems engineers solve and the activities in which they engage were broadened. After working though the unit, students were more likely to believe that engineers can protect the environment and solve problems to help the community. Additionally, while boys' interest in science and engineering did not significantly change, girls' interest in engineering and confidence in becoming an engineer significantly increased (Cohen's D = 0.28, p&lt;0.05). Finally, students had a deeper understanding of engineering design and the important role research and planning play in defining the problem and designing solutions. While these results are promising, future work must investigate whether the approach to developing K-12 engineering educational materials is generalizable by testing the SCoPE curriculum more widely and using the same design principles to create curriculum materials focusing on different community problems and other types of engineering. The SCoPE curriculum will be available for the foreseeable future on PBS LearningMedia, a free digital platform for K-12 educational resources with 14 million users annually, including many teachers working among high-needs populations (https://www.pbslearningmedia.org/collection/solving-community-problems-with-engineering/).</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: Shawn&nbsp;Stevens</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Traditional K-12 approaches to engineering often emphasize constructing and optimizing simple solutions to a problem. While this may appeal to some students, it may alienate others who then view engineering simply as "building things." This approach often focuses primarily on the creative aspect of solving problems, which can isolate the concept of engineering so students may not see the deep connections among engineering, science, and math. We hypothesized that expanding students' ideas about engineering and the types of problems engineers solve may lead more students to have increased interest in the field. To address this issue, we worked with a middle school science teacher to develop and test Solving Community Problems with Engineering (SCoPE), a three-week curriculum that engages students in engineering design through a real-world problem relevant to their communities.  SCoPE engages middle school students with the complex environmental problem of nutrient pollution (excess levels of nitrogen and/or phosphorus in a body of water from sources such as fertilizer and wastewater). Nutrient pollution is a significant environmental problem that affects almost 50% of all lakes and rivers in the U.S., so it is relevant in most regions of the country. In particular, it is a problem that also impacts rural communities. Rural youth tend to remain very connected to their communities throughout their lives and may be more interested in engineering if they recognize that it could be a viable career near home.  Students engage with the nutrient pollution problem through a familiar phenomenon, a green algae-covered lake, and a news article about local nutrient pollution issues. After investigating the sources and effects of nutrient pollution, students use tools for visualizing data to characterize the local problem and define the criteria and constraints. They conduct hands-on investigations and use a simulation to characterize how land cover influences how much water runs off or enters the soil. The Nutrient Pollution Management Simulation, developed for this project, then allows students to test and optimize categories of strategies for managing nutrient pollution to help make evidence-based recommendations to address the problem. Students model the effects of seven categories of strategies to help manage nutrient pollution (individual strategies are too numerous to model), use the results to develop recommendations on how to reduce the nutrient pollution problem in their watershed, and then present their findings. During the pilot study, student artifacts, daily teacher logs, pre/post surveys, and classroom observations were collected.  After completing the SCoPE curriculum, students' ideas about the types of problems engineers solve and the activities in which they engage were broadened. After working though the unit, students were more likely to believe that engineers can protect the environment and solve problems to help the community. Additionally, while boys' interest in science and engineering did not significantly change, girls' interest in engineering and confidence in becoming an engineer significantly increased (Cohen's D = 0.28, p&lt;0.05). Finally, students had a deeper understanding of engineering design and the important role research and planning play in defining the problem and designing solutions. While these results are promising, future work must investigate whether the approach to developing K-12 engineering educational materials is generalizable by testing the SCoPE curriculum more widely and using the same design principles to create curriculum materials focusing on different community problems and other types of engineering. The SCoPE curriculum will be available for the foreseeable future on PBS LearningMedia, a free digital platform for K-12 educational resources with 14 million users annually, including many teachers working among high-needs populations (https://www.pbslearningmedia.org/collection/solving-community-problems-with-engineering/).       Last Modified: 09/29/2023       Submitted by: Shawn Stevens]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

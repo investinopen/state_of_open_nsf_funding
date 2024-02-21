@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Pilot Study: Intentionally Delivered Effective Accommodation (IDEA) at Elizabeth City State University (ECSU) - IDEA@ECSU]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>143822.00</AwardTotalIntnAmount>
+<AwardAmount>143822</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leroy Jones II</SignBlockName>
+<PO_EMAI>ljones@nsf.gov</PO_EMAI>
+<PO_PHON>7032924684</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) at the National Science Foundation supports faculty supports at historically black colleges and universities (HBCUs) that aspire to build research capacity in science, technology, engineering and mathematics (STEM) undergraduate education and research. It is expected that the pilot awards will further the faculty member's research capability, improve research and teaching at the institution. and involve undergraduate students in research experiences. The project at Elizabeth City State University will study the impact of extenuating circumstances on the performance of students who major in STEM fields and/or who take STEM courses, develop appropriate interventions to support those students in those targeted courses, and determine how those interventions reduce attrition rates in the stated circumstances. &lt;br/&gt;&lt;br/&gt;This project seeks to understand the feasibility and effectiveness of Intentionally Delivered Effective Accommodation (IDEA) at Elizabeth City State University (ECSU). IDEA @ ECSU is a novel instructional paradigm intended to promote student persistence and reduce attrition from STEM programs by addressing individual student-level extenuating education burdens that are not formally recognized and traditionally unaccommodated within the conventional academic STEM instruction as a means of improving educational outcomes. This is a pilot project with a goal of building upon preliminary findings of a recent small-scale study suggesting that inadequate accommodations of students bearing extenuating education burdens - such as student athletes - is a possible contributor to attrition from STEM programs. The IDEA instructional approach proactively solicits student input regarding their educational needs and relies on course syllabi intentionally designed to maximize reasonable accommodation for all students in the course without compromising learning goals. The project will evaluate the impact of utilizing IDEA-infused course syllabi in two introductory level STEM courses notable for high rates of failing grades and withdrawals at the Elizabeth City State University for two academic years. The project will also explore issues around HBCU student educational needs, burdens, and accommodations from the perspectives of both students and HBCU STEM faculty. Information generated from this study will advance goal-oriented STEM pedagogy by providing a novel guide and perspective to STEM instruction.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011434</AwardID>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Emekalam</LastName>
+<PI_MID_INIT>U</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anthony U Emekalam</PI_FULL_NAME>
+<EmailAddress><![CDATA[auemekalam@ecsu.edu]]></EmailAddress>
+<NSF_ID>000808444</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Elizabeth City State University]]></Name>
+<CityName>ELIZABETH CITY</CityName>
+<ZipCode>279099913</ZipCode>
+<PhoneNumber>2523353222</PhoneNumber>
+<StreetAddress><![CDATA[1704 WEEKSVILLE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K2QMZUVDPKW1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ELIZABETH CITY STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Elizabeth City State University]]></Name>
+<CityName>Elizabeth City</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>279097806</ZipCode>
+<StreetAddress><![CDATA[1704 Weeksville Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~143822</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intentionally Delivered Effective Accommodation at the Elizabeth City State University ? IDEA @ ECSU Pilot Study.</strong></p> <p><strong>&nbsp;</strong></p> <p><strong>FINAL PROJECT REPORT:</strong></p> <p><strong>&nbsp;</strong></p> <p>The Intentionally Delivered Effective Accommodation at the Elizabeth City State University - IDEA@ECSU Pilot study was motivated by preliminary findings of a small small-scale study suggesting that inadequate considerations for students that have issues or concerns that can impact their education in a negative way such as being a student athlete - is a possible reason why some students leave a STEM program for other programs (Emekalam, 2019).</p> <p>This pilot study therefore was intended to evaluate the possibility of implementing a strategy that asks students who are enrolled in targeted STEM courses to share known personal issues or concerns that could hinder their abilities to do well in the course to the instructor ahead of starting the course.&nbsp; The purpose of this practice is to guide instructors to develop and teach these courses in a manner that considers those concerns adequately thereby increasing the chance of students succeeding in these courses and helping to increase the number of minority students who graduate from STEM programs.</p> <p><strong>Intellectual Merit</strong></p> <p>This pilot study was conducted with the hopes of identifying a teaching practice that is suitable for students who cannot learn effectively because of difficulties that are unrelated to their abilities to understand a STEM course.&nbsp; Another purpose was to raise awareness and conversations about issues minority and underrepresented students face that are not often considered as possible obstacles to success in STEM courses.</p> <p>The pilot study sought to understand and describe practical ways of including this process into current STEM instructional methods so that instructors who are interested in using the approach in their courses can use them without moving too far away from how they currently teach. For this purpose, the study evaluated the value of the IDEA @ ECSU student feedback surveys as a way of identifying and documenting relevant concerns of students that were enrolled in a STEM course.&nbsp;</p> <p>The IDEA @ ECSU student feedback surveys contained items intended to uncover the types of challenges students perceived facing on their paths to academic success. Students were presented a list of nine potential challenges ? all of which were unrelated to the difficulty of the course or the students? level of preparation entering the course ? and asked to rate each in terms of the degree to which they believed the challenge would negatively impact their performance in the course. Additionally, the survey asked students to provide information about networks of support systems that are critical for them to succeed in a STEM major. In total, 160 students enrolled in 9 STEM courses completed the survey across four administrations from spring 2021 through summer 2023.</p> <p><strong>Outcomes/Impact</strong></p> <ul> <li>59% of 107 students that      completed the IDEA @ ECSU student feedback survey in fall 2022 and Spring      2023 reported testing anxiety as having strong or moderate negative      impacts on their performance in targeted STEM course. Less than 17% of      respondents reported that testing anxiety had no or positive impact on      their performance.</li> <li>Surveys also showed that a      student?s perception of instructor?s respect/concern for them correlated      to both their prediction of their final course grade and the grade that      they received in the course.</li> <li>Whereas tutoring is a core      practice of accommodating student deficiencies in a STEM course, some      students identified quality tutoring as either inconvenient to access or      completely inaccessible.</li> <li>According to 75% of respondents,      strong support network of friends and family are critical to their efforts      to succeed in a STEM Major.</li> <li>The PI and 2 STEM faculty members      used the IDEA @ ECSU student feedback survey approach to identify student      concerns that they successfully accommodated in their courses.</li> </ul> <p><strong>&nbsp;</strong></p> <p><strong>Key study findings</strong></p> <p>The student feedback approach is effective, convenient, and efficient in identifying student concerns that instructors are likely to overlook while deciding on how to teach their courses. Many of the identified concerns can be reasonably accommodated within the current framework of STEM instruction. For instance, when asked to provide guidance on how to minimize negative impacts of testing anxiety on students? performance in STEM courses, the students provided these options:</p> <ul> <li>Allow students to take exams within a 3?5-day period.</li> <li>Offering additional instructor-led review sessions prior to exams.</li> <li>Replacing some exams with alternative high-stakes assessments.</li> </ul> <p>&nbsp;</p> <p><strong>Cited references:</strong></p> <p>Emekalam, Anthony. "Reducing Attrition from STEM Disciplines: Understanding the Student Athletes Perspective." <em>Peer Review</em>, vol. 21, no. 1-2, winter-spring 2019, pp. 34+</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/02/2023<br>      Modified by: Anthony&nbsp;U&nbsp;Emekalam</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intentionally Delivered Effective Accommodation at the Elizabeth City State University ? IDEA @ ECSU Pilot Study.     FINAL PROJECT REPORT:     The Intentionally Delivered Effective Accommodation at the Elizabeth City State University - IDEA@ECSU Pilot study was motivated by preliminary findings of a small small-scale study suggesting that inadequate considerations for students that have issues or concerns that can impact their education in a negative way such as being a student athlete - is a possible reason why some students leave a STEM program for other programs (Emekalam, 2019).  This pilot study therefore was intended to evaluate the possibility of implementing a strategy that asks students who are enrolled in targeted STEM courses to share known personal issues or concerns that could hinder their abilities to do well in the course to the instructor ahead of starting the course.  The purpose of this practice is to guide instructors to develop and teach these courses in a manner that considers those concerns adequately thereby increasing the chance of students succeeding in these courses and helping to increase the number of minority students who graduate from STEM programs.  Intellectual Merit  This pilot study was conducted with the hopes of identifying a teaching practice that is suitable for students who cannot learn effectively because of difficulties that are unrelated to their abilities to understand a STEM course.  Another purpose was to raise awareness and conversations about issues minority and underrepresented students face that are not often considered as possible obstacles to success in STEM courses.  The pilot study sought to understand and describe practical ways of including this process into current STEM instructional methods so that instructors who are interested in using the approach in their courses can use them without moving too far away from how they currently teach. For this purpose, the study evaluated the value of the IDEA @ ECSU student feedback surveys as a way of identifying and documenting relevant concerns of students that were enrolled in a STEM course.   The IDEA @ ECSU student feedback surveys contained items intended to uncover the types of challenges students perceived facing on their paths to academic success. Students were presented a list of nine potential challenges ? all of which were unrelated to the difficulty of the course or the students? level of preparation entering the course ? and asked to rate each in terms of the degree to which they believed the challenge would negatively impact their performance in the course. Additionally, the survey asked students to provide information about networks of support systems that are critical for them to succeed in a STEM major. In total, 160 students enrolled in 9 STEM courses completed the survey across four administrations from spring 2021 through summer 2023.  Outcomes/Impact  59% of 107 students that      completed the IDEA @ ECSU student feedback survey in fall 2022 and Spring      2023 reported testing anxiety as having strong or moderate negative      impacts on their performance in targeted STEM course. Less than 17% of      respondents reported that testing anxiety had no or positive impact on      their performance. Surveys also showed that a      student?s perception of instructor?s respect/concern for them correlated      to both their prediction of their final course grade and the grade that      they received in the course. Whereas tutoring is a core      practice of accommodating student deficiencies in a STEM course, some      students identified quality tutoring as either inconvenient to access or      completely inaccessible. According to 75% of respondents,      strong support network of friends and family are critical to their efforts      to succeed in a STEM Major. The PI and 2 STEM faculty members      used the IDEA @ ECSU student feedback survey approach to identify student      concerns that they successfully accommodated in their courses.      Key study findings  The student feedback approach is effective, convenient, and efficient in identifying student concerns that instructors are likely to overlook while deciding on how to teach their courses. Many of the identified concerns can be reasonably accommodated within the current framework of STEM instruction. For instance, when asked to provide guidance on how to minimize negative impacts of testing anxiety on students? performance in STEM courses, the students provided these options:  Allow students to take exams within a 3?5-day period. Offering additional instructor-led review sessions prior to exams. Replacing some exams with alternative high-stakes assessments.      Cited references:  Emekalam, Anthony. "Reducing Attrition from STEM Disciplines: Understanding the Student Athletes Perspective." Peer Review, vol. 21, no. 1-2, winter-spring 2019, pp. 34+             Last Modified: 11/02/2023       Submitted by: Anthony U Emekalam]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

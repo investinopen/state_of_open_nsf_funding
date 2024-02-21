@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF2026: EAGER: Emergent Collective Behavior in a Developmental Model]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>367200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Herron</SignBlockName>
+<PO_EMAI>mherron@nsf.gov</PO_EMAI>
+<PO_PHON>7032925361</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the Division of Environmental Biology (BIO/DEB) and the NSF 2026 Fund Program in the Office of Integrated Activities, Professor Alison Patteson of Syracuse University is awarded this EAGER grant. This project addresses the NSF 2026 Idea Machine topic of Emergence of Complexity from the Bottom Up, focusing on a subfield of the biological sciences. The overarching goal of this project is to identify the underlying principles governing emergent collective behavior in the model bacteria Myxococcus xanthus. Bacteria are often thought of as single celled, but many species act as multi-celled groups. Behaviors such as aggregation, swarming, and predation require cells to coordinate their actions. We know that the capacity for these behaviors is genetically controlled, but it is not yet possible to understand the resulting patterns from genetics alone. Cells rely on complex signaling pathways to sense, integrate, and respond to a variety of signals from other cells and from environmental cues to coordinate their behaviors. This project will produce a publicly available video archive of swarming behaviors in genetically distinct bacteria. This will provide a unique resource for developing models of emergent collective action and provide insights into the evolution of multicellularity.&lt;br/&gt;&lt;br/&gt;This project employs two approaches. The first is to assemble a large video database of collective fruiting body aggregation in wild-type and mutant strains using a high-throughput video microscope. The second approach is to develop and extend self-propelled particle models of Myxococcus xanthus aggregation based on the effects of genetic knockdown on the resultant collective behavior. Identifying how bacteria self-organize from interacting signaling networks would be a significant step forward in understanding emergence in living materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033942</AwardID>
+<Investigator>
+<FirstName>Alison</FirstName>
+<LastName>Patteson</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alison E Patteson</PI_FULL_NAME>
+<EmailAddress><![CDATA[aepattes@syr.edu]]></EmailAddress>
+<NSF_ID>000600758</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132440001</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>900 S CROUSE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4BXLBC11LC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYRACUSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>132441270</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>081Y</Code>
+<Text>NSF 2026 Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1127</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7744</Code>
+<Text>RAHSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9261</Code>
+<Text>RESRCH ASSIST-MINORITY H.S. ST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<FUND_OBLG>2022~33600</FUND_OBLG>
+<FUND_OBLG>2023~33600</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project aims to identify the underlying principles that govern emergent collective behavior in multicellular bacterial systems. Self-organization is a hallmark example of emergent behavior?complex patterns that arise from simpler interacting components. Bacteria are an attractive model system for emergent collective behavior. <em>Myxococcus xanthus</em> in particular exhibits a remarkedly diverse range of emergent multicellular behaviors including swarming, predation, and fruiting body formation that are similar to those found in higher organisms. The formation and reorganization of multi-cellular <em>M. xanthus</em> colonies is considered a form of development, which depends on the ability of the cells to sense, integrate, and respond to a variety of intercellular and environmental cues that coordinate multicellular structure. To identify how complex phenotypes emerge from coordinated cell-cell interactions, we have been developed a novel high-throughput imaging methods for large-scale mutant analysis under varying environmental conditions. The high-throughput imaging method involves an array of 200 3D printed microscopes, wired and controlled by a central computer processing unit, to simultaneously run hundreds of independent samples. Using this approach, we have mapped over 500 movies of wild-type<em> M. xanthas</em> fruiting body behavior, which we found spontaneously form in two distinct modes. Further, we investigated the functional redundancy of proteins in the signaling networks that modulate M. xanthus fruiting body formation. Using mutants with disrupted genes from four gene families, we observed multicellular development using time-lapse microscopy and analyzed the characteristics of mutant strains with principal component analysis. Our results showed that mutant strains from the same gene family failed in forming fruiting body in similar ways, indicating the presence of extensive functional redundancy networks in fruiting body development.</p> <p>This project has produced a large video dataset on emergent <em>M. xanthus</em> development with well-supported genetic information, publicly available by request to the authors, offering an unrivaled recourse for developing models of emergent collective motion and providing unique insights into the origins of multicellularity. Further broader impacts associated with this project is the experimental hands-on training of 8 high school students from Urban Syracuse City.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/30/2023<br>      Modified by: Alison&nbsp;E&nbsp;Patteson</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2033942/2033942_10696545_1695840109212_3DScopePanorama--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2033942/2033942_10696545_1695840109212_3DScopePanorama--rgov-800width.jpg" title="Array of 3D printed microscopes"><img src="/por/images/Reports/POR/2023/2033942/2033942_10696545_1695840109212_3DScopePanorama--rgov-66x44.jpg" alt="Array of 3D printed microscopes"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Array of 200 3D printed microscopes for large-scale development studies of M. xanthus fruiting body aggregation.</div> <div class="imageCredit">Eddie Caro and Merrill Asp</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alison&nbsp;E&nbsp;Patteson</div> <div class="imageTitle">Array of 3D printed microscopes</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project aims to identify the underlying principles that govern emergent collective behavior in multicellular bacterial systems. Self-organization is a hallmark example of emergent behavior?complex patterns that arise from simpler interacting components. Bacteria are an attractive model system for emergent collective behavior. Myxococcus xanthus in particular exhibits a remarkedly diverse range of emergent multicellular behaviors including swarming, predation, and fruiting body formation that are similar to those found in higher organisms. The formation and reorganization of multi-cellular M. xanthus colonies is considered a form of development, which depends on the ability of the cells to sense, integrate, and respond to a variety of intercellular and environmental cues that coordinate multicellular structure. To identify how complex phenotypes emerge from coordinated cell-cell interactions, we have been developed a novel high-throughput imaging methods for large-scale mutant analysis under varying environmental conditions. The high-throughput imaging method involves an array of 200 3D printed microscopes, wired and controlled by a central computer processing unit, to simultaneously run hundreds of independent samples. Using this approach, we have mapped over 500 movies of wild-type M. xanthas fruiting body behavior, which we found spontaneously form in two distinct modes. Further, we investigated the functional redundancy of proteins in the signaling networks that modulate M. xanthus fruiting body formation. Using mutants with disrupted genes from four gene families, we observed multicellular development using time-lapse microscopy and analyzed the characteristics of mutant strains with principal component analysis. Our results showed that mutant strains from the same gene family failed in forming fruiting body in similar ways, indicating the presence of extensive functional redundancy networks in fruiting body development.  This project has produced a large video dataset on emergent M. xanthus development with well-supported genetic information, publicly available by request to the authors, offering an unrivaled recourse for developing models of emergent collective motion and providing unique insights into the origins of multicellularity. Further broader impacts associated with this project is the experimental hands-on training of 8 high school students from Urban Syracuse City.          Last Modified: 10/30/2023       Submitted by: Alison E Patteson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

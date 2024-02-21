@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a High-Field NMR Spectrometer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>240379.00</AwardTotalIntnAmount>
+<AwardAmount>240379</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Carter</SignBlockName>
+<PO_EMAI>krcarter@nsf.gov</PO_EMAI>
+<PO_PHON>7032922335</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. The University of Dayton is acquiring a 400 MHz nuclear magnetic resonance (NMR) spectrometer equipped with an automatic sample changer to support Professor Jeremy Erb and colleague Vladimir Benin. This spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as those permitting study of biologically relevant species. In general, NMR spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution or in the solid state.  The NMR spectrometer is an integral part of teaching as well as research and research training of undergraduate students in chemistry and biochemistry at the University of Dayton and nearby Sinclair Community College. &lt;br/&gt;&lt;br/&gt;The award of the NMR spectrometer is aimed at enhancing research and education at all levels. The acquisition especially impacts discovery of stereospecific reactions for the synthesis of chiral organophosphates and their derivatives of relevance to pesticides. The instrumentation is also used for studying biological mechanisms of cold-acclimation in the southern gray tree frog dryophytes chrysoscelis. In addition, the instrument provides information to aid the design, preparation, and studies of flame retardants. The spectrometer is also used to explore polymer synthesis and biodegradation mechanisms and the use of polyenes in biodegradation. Finally, the NMR spectrometer is also utilized to identify synthetic fluorescent dyes having boron dipyrromethene.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018678</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Erb</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeremy Erb</PI_FULL_NAME>
+<EmailAddress><![CDATA[jerb01@udayton.edu]]></EmailAddress>
+<NSF_ID>000700933</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Benin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir Benin</PI_FULL_NAME>
+<EmailAddress><![CDATA[vbenin1@udayton.edu]]></EmailAddress>
+<NSF_ID>000795864</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Dayton</Name>
+<CityName>DAYTON</CityName>
+<ZipCode>454690001</ZipCode>
+<PhoneNumber>9372292919</PhoneNumber>
+<StreetAddress>300 COLLEGE PARK</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V62NC51F7YV1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DAYTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V62NC51F7YV1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Dayton]]></Name>
+<CityName>Dayton</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>454690800</ZipCode>
+<StreetAddress><![CDATA[300 College Park]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~240379</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;&nbsp;&nbsp;The major goals of the project were to purchase and install a 400 MHz NMR (nuclear magnetic resonance) spectrometer equipped with an autosampler to serve as a cornerstone piece of equipment to facilitate research at the University of Dayton (UD), to provide training of students with a research grade spectrometer, and to broaden usage of the equipment to an extended circle of investigators from other institutions such as Sinclair Community College.&nbsp;The instrument was installed in the summer of 2021 and Dr. Erb has received training by Bruker through their course offerings.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The NMR instrument has been integrated into several different course offerings such as organic chemistry lab (CHM 314L at UD and&nbsp;CHE 2121<strong>&nbsp;</strong>at Sinclair), spectroscopic identification of organic compounds (CHM 317), and advanced synthesis laboratory (CHM 319L). The next generation of researchers was able to use the NMR instrument to learn important foundational 1D techniques such as&nbsp;<sup>1</sup>H and&nbsp;<sup>13</sup>C experiments as well as more advanced 2D techniques like COSY and HETCOR experiments. Students at UD and Sinclair were able to have access to the instrument. Students at both UD and Sinclair were provided with a training session on data management, use of the instrument, and processing of data.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition to providing instrument time for scientific training, research activities have also been supported across two themed areas: 1) synthesis and study of biomolecules and bioactive compounds and 2) enhancing environmental sustainability and safety. The ongoing projects that fall within the area of synthesis and study of biomolecules and bioactive compounds include the following:&nbsp;<em>Discovery of Novel Stereospecific Synthetic Reactions in the Synthesis of Chiral Organophosphates and their Derivatives</em>&nbsp;(Dr. Jeremy Erb); and&nbsp;<em>Biological Mechanisms of Cold-acclimation in Dryophytes chrysoscelis&nbsp;</em>(Dr. Carissa Krane). The ongoing projects that fall within the area of enhancing environmental sustainability and safety include the following:&nbsp;<em>Design, Preparation, and Studies of Novel Flame Retardants</em>&nbsp;(Dr. Vladimir Benin);&nbsp;<em>Polymer Synthesis and Biodegradation Mechanisms</em>&nbsp;(Dr. Justin Biffinger);&nbsp;<em>Polyenes in Biodegradation</em>&nbsp;(Dr. Mark Masthay); and&nbsp;<em>Synthesis of Boron Dipyrromethene Fluorescent Dyes&nbsp;</em>(Dr. Shawn Swavey).&nbsp;The research activities of faculty at Wright State University have also been supported since they used the NMR at UD during an extended downtime for repairs of their own NMR. Three successful external contracts and grants among our faculty have been obtained since installation totaling over $2 million. Several papers have been published based on work performed on the instrument since installation&nbsp;including the article&nbsp;&ldquo;Calculation of the Relative Basicity of Three&nbsp;&alpha;,&omega;- Diphenylpolyenes with Trifluoroacetic&nbsp;&nbsp;Acid&rdquo; that was accepted in the Journal of Physical Organic&nbsp;Chemistry (<a href="https://doi.org/10.1002/poc.4412"><strong>https://doi.org/10.1002/poc.4412</strong></a>),&nbsp;&ldquo;Synthesis of a phosphorus-based epoxy reactive flame retardant analog to diglycidyl ether of bisphenol A (DGEBA) and its behavior as a matrix in a carbon fiber composite&rdquo;&nbsp;that was published in&nbsp;<em>Polymer Degradation and Stability&nbsp;&nbsp;</em><strong>(</strong><a href="https://doi.org/10.1016/j.polymdegradstab.2022.110144" target="_blank">doi.org/10.1016/j.polymdegradstab.2022.110144</a>), and &ldquo;Synthesis and characterization of thermoplastic poly(piperazine succinate) metallopolymers coordinated to ruthenium(III) or iron(III)&rdquo; that was published in the&nbsp;<em>Journal of Polymer Science</em>. Several additional publications have been submitted for publication or are in preparation.&nbsp;</p> <p>Additionally, results have been disseminated by presentations at local, regional, national, or international meetings as well as through media outlets. For example,&nbsp;research by Dr. Krane and Dr. Erb has been disseminated to the public to increase interest in science through an article written by a graduate student of Dr. Krane in the Life Lines blog that is sponsored by the American Physiological Society titled &ldquo;Stranger than science fiction: treefrogs that freeze and live to tell the story&rdquo; (https://tinyurl.com/yckpkcf9) as well as a press release by the University of Dayton in video format on the University of Dayton YouTube Channel titled &ldquo;Frozen Alive: Deciphering Animal Freeze Tolerance&rdquo; (<a href="https://tinyurl.com/yeykbntb">https://tinyurl.com/yeykbntb</a>). Their research has also been shared the results at the American Physiology Summit (lightning talk during the&nbsp;<em>August Krogh Distinguished Lecture and Trainee Highlights Session</em>). Numerous presentations have been done by undergraduate and graduate students at local, regional, national, and international meetings.</p> <p>Lastly, the instrument has supported activities that have broadened participation among institutions and underrepresented groups. Not only have students from Sinclair had the opportunity to get their samples run on UD&rsquo;s instrument and analyze the data, but the connection between UD and Sinclair Community College was strengthened by the placement&nbsp;of a student researcher from Sinclair in Dr. Erb&rsquo;s laboratory as part of the NSF sponsored&nbsp;Louis Stokes Alliance for Minority Participation&nbsp;in STEM program&nbsp;(LSAMP). In addition, students from underrepresented groups had the ability to participate in the Chemistry Research Encounter (CRE), which combined the high-impact practices of undergraduate research experiences with peer mentoring for underrepresented students in STEM before they start their first year at UD. Although small in size, over 90% of students that participated in the program are still enrolled in a STEM major.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/25/2023<br>      Modified by: Jeremy&nbsp;Erb</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    The major goals of the project were to purchase and install a 400 MHz NMR (nuclear magnetic resonance) spectrometer equipped with an autosampler to serve as a cornerstone piece of equipment to facilitate research at the University of Dayton (UD), to provide training of students with a research grade spectrometer, and to broaden usage of the equipment to an extended circle of investigators from other institutions such as Sinclair Community College. The instrument was installed in the summer of 2021 and Dr. Erb has received training by Bruker through their course offerings.              The NMR instrument has been integrated into several different course offerings such as organic chemistry lab (CHM 314L at UD and CHE 2121 at Sinclair), spectroscopic identification of organic compounds (CHM 317), and advanced synthesis laboratory (CHM 319L). The next generation of researchers was able to use the NMR instrument to learn important foundational 1D techniques such as 1H and 13C experiments as well as more advanced 2D techniques like COSY and HETCOR experiments. Students at UD and Sinclair were able to have access to the instrument. Students at both UD and Sinclair were provided with a training session on data management, use of the instrument, and processing of data.              In addition to providing instrument time for scientific training, research activities have also been supported across two themed areas: 1) synthesis and study of biomolecules and bioactive compounds and 2) enhancing environmental sustainability and safety. The ongoing projects that fall within the area of synthesis and study of biomolecules and bioactive compounds include the following: Discovery of Novel Stereospecific Synthetic Reactions in the Synthesis of Chiral Organophosphates and their Derivatives (Dr. Jeremy Erb); and Biological Mechanisms of Cold-acclimation in Dryophytes chrysoscelis (Dr. Carissa Krane). The ongoing projects that fall within the area of enhancing environmental sustainability and safety include the following: Design, Preparation, and Studies of Novel Flame Retardants (Dr. Vladimir Benin); Polymer Synthesis and Biodegradation Mechanisms (Dr. Justin Biffinger); Polyenes in Biodegradation (Dr. Mark Masthay); and Synthesis of Boron Dipyrromethene Fluorescent Dyes (Dr. Shawn Swavey). The research activities of faculty at Wright State University have also been supported since they used the NMR at UD during an extended downtime for repairs of their own NMR. Three successful external contracts and grants among our faculty have been obtained since installation totaling over $2 million. Several papers have been published based on work performed on the instrument since installation including the article "Calculation of the Relative Basicity of Three &alpha;,&omega;- Diphenylpolyenes with Trifluoroacetic  Acid" that was accepted in the Journal of Physical Organic Chemistry (https://doi.org/10.1002/poc.4412), "Synthesis of a phosphorus-based epoxy reactive flame retardant analog to diglycidyl ether of bisphenol A (DGEBA) and its behavior as a matrix in a carbon fiber composite" that was published in Polymer Degradation and Stability  (doi.org/10.1016/j.polymdegradstab.2022.110144), and "Synthesis and characterization of thermoplastic poly(piperazine succinate) metallopolymers coordinated to ruthenium(III) or iron(III)" that was published in the Journal of Polymer Science. Several additional publications have been submitted for publication or are in preparation.   Additionally, results have been disseminated by presentations at local, regional, national, or international meetings as well as through media outlets. For example, research by Dr. Krane and Dr. Erb has been disseminated to the public to increase interest in science through an article written by a graduate student of Dr. Krane in the Life Lines blog that is sponsored by the American Physiological Society titled "Stranger than science fiction: treefrogs that freeze and live to tell the story" (https://tinyurl.com/yckpkcf9) as well as a press release by the University of Dayton in video format on the University of Dayton YouTube Channel titled "Frozen Alive: Deciphering Animal Freeze Tolerance" (https://tinyurl.com/yeykbntb). Their research has also been shared the results at the American Physiology Summit (lightning talk during the August Krogh Distinguished Lecture and Trainee Highlights Session). Numerous presentations have been done by undergraduate and graduate students at local, regional, national, and international meetings.  Lastly, the instrument has supported activities that have broadened participation among institutions and underrepresented groups. Not only have students from Sinclair had the opportunity to get their samples run on UD’s instrument and analyze the data, but the connection between UD and Sinclair Community College was strengthened by the placement of a student researcher from Sinclair in Dr. Erb’s laboratory as part of the NSF sponsored Louis Stokes Alliance for Minority Participation in STEM program (LSAMP). In addition, students from underrepresented groups had the ability to participate in the Chemistry Research Encounter (CRE), which combined the high-impact practices of undergraduate research experiences with peer mentoring for underrepresented students in STEM before they start their first year at UD. Although small in size, over 90% of students that participated in the program are still enrolled in a STEM major.          Last Modified: 10/25/2023       Submitted by: Jeremy Erb]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

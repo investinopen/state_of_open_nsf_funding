@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FoMR: Microarchitecture mechanisms for handling conditional branches that are (a) very hard to predict accurately or (b) impossible to predict accurately]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>105000.00</AwardTotalIntnAmount>
+<AwardAmount>105000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Danella Zhao</SignBlockName>
+<PO_EMAI>dzhao@nsf.gov</PO_EMAI>
+<PO_PHON>7032924434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computers are playing a continually increasing role in supporting a better quality of life, including targeted health care, autonomous vehicles, and weather prediction. Their effectiveness in doing so, however, depends on how fast these computers can execute the programs that do more accurate and quicker decisions and predictions. A computer program that predicts a tsunami will hit tomorrow is of no value if the computer produces its result three days from now. This speed and accuracy are tightly coupled with a basic logical step: How fast can a computer process conditional branch instruction, such as an if-then-else. Conditional branch instructions are commands in a computer program that direct the computer to choose between executing alternate tasks. This basic function can end up being a bottleneck in modern systems that have to make millions of decisions as part of complex models. This research addresses that bottleneck, and can greatly improve the capabilities of modern computer processors. &lt;br/&gt;&lt;br/&gt;To improve performance of the microarchitecture, assembly lines (aka pipelines) were introduced long ago to process each instruction. Like all assembly lines, most instructions benefit greatly from this assembly line. However, not so with conditional branch instructions, since they require the computer to decide at the front of the assembly line what to do next (aka branch prediction). The problem is that a wrong guess means trashing everything on the assembly line, which degrades performance enormously. This research minimizes that from happening by recognizing that conditional branches are of three types: those predicted accurately, those not predicted well today, but can benefit significantly from some the first type, by using the well-known Tagged Geometric history length branch predictor (TAGE). For the second type, TAGE is augmented with the results of information learned from machine learning. For the third type, not predict at all, but perform other tasks while waiting for the necessary information to reach the end of the assembly line instead of guessing incorrectly and then trashing all the useless work already performed as a result of the wrong guess.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011145</AwardID>
+<Investigator>
+<FirstName>Yale</FirstName>
+<LastName>Patt</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yale N Patt</PI_FULL_NAME>
+<EmailAddress><![CDATA[patt@ece.utexas.edu]]></EmailAddress>
+<NSF_ID>000790911</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>787121532</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~105000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Computers enable the solution of a problem by executing computer programs<br />necessary to solving that problem.&nbsp; How good a computer is at solving a<br />particular problem is often determined by how long it takes the computer<br />to execute the necessary programs.&nbsp; For example, programs that enable<br />driverless automobiles are not yet ready for prime time because the time it<br />takes the computer to execute the programs necessary to decide what the car should do next is currently too long to be of use in places of dense<br />populatoins and substantial automobile traffic.&nbsp; But hopefully improvements<br />in execution time of computer programs will in time change that.&nbsp; We have already seen that computers can execute programs fast enough to enable individualized medical care in many situations.&nbsp; We look forward to the day when we can execute programs fast enough that we can use the results to cure cancer before the patient dies!<br /><br />There are two main obstacles to executing computer programs faster: latency<br />and branch mispredictions.&nbsp; This project addresses branch mispredictions.</p> <p>Computer programs consist of computer instructions which tell the computer<br />what to do.&nbsp; About 75% of instructions execute in order, first the first<br />instruction executes, then the second, after that the third, etc.&nbsp; The other 25% of instructions (i.e, contol instructions) specify which instruction to execute next, where that instruction is not usually the next instruction in the program.&nbsp; Approximately 80% of these (i.e., conditional branch instructions) specify two "next" instructions and a condition to be computed which determines which of the two to execute next.&nbsp; Unfortunately, the next instruction can not proceed until the condition is calcuated, which adds to the program's execution time,<br /><br />The computer has two choices in dealing with this: (1) do nothing until the<br />condition is computed, which results in much time wasted while waiting, or (2)<br />predict what the condition will be.&nbsp; Most computers today do the latter.&nbsp; If<br />the prediction is correct, no time is wasted.&nbsp; If the prediction is incorrect,<br />all the time spent executing instructions until the condition is known is<br />wasted.&nbsp; Also the time needed to return the computer to a postion where it<br />can execute the correct next instruction is additional time wasted.<br /><br />This project focuses on those conditional branches that are impossible to<br />predict and those that are very hard to predict because they incur<br />the largest waste of execution time of the program.&nbsp; Eliminating the waste<br />caused by mispredicting the conditions associated with those banches will<br />substantially lower the execution time of computer programs, making their<br />usage much more effective.<br /><br />We have developed and/or enhanced three techniques for dealing with impossible to predict and very hard to predict conditional branches: machine learning, precomputation, and dynamic predication.</p> <p>Machine Learning<br /><br />The best current branch predictor is TAGE, the work of Andre Seznec.<br />As expected it is a history based, run-time predictor.&nbsp; Run-time because<br />compile-time would need the profile data to be representative of the actual<br />data once in service.&nbsp; Also, compile-time would not be able to handle<br />different phases of program behavior.&nbsp; However, TAGE's history for the same<br />basic execution flow can vary slightly due to characteristics of the<br />computer's structure, producing "noisy" history.&nbsp; Noisy history can throw<br />off history based predictors, degrading TAGE's accuracy.&nbsp; Machine Learning,<br />on the other hand, does not degrade peformance on noisy history. Small<br />variations of history are easily accommodated by the clustering notion of<br />Machine Learning.&nbsp; Unfortunately, the training phase of machine learning<br />takes too long to do at run time.&nbsp; However, we discovered that the lack of<br />representativeness of data was not a problem for handling very hard or<br />impossible to predict banches.&nbsp; The result: BranchNet, whose handling of<br />"noisy" history provides a big win for impossible and very hard to predict<br />branches.&nbsp; We augment TAGE with BranchNet.&nbsp; Most branches are easy to predict with TAGE, so TAGE handles them.&nbsp; The hard to predict branches do better with BranchNet, so BranchNet intercepts and handles them.&nbsp; The combination provides a better predictor than TAGE alone.</p> <p>Precomputation.<br /><br />Precomputation is a well-known technique for handling impossible to predict<br />branches.&nbsp; Instructions from an instruction flow that do not contribute to<br />determining the condition needed by the conditional branch that terminates<br />the flow are removed from the flow.&nbsp; The remaining instructions form the<br />precomputation flow.&nbsp; If the precomputation flow has not completed execution<br />by the time the actual flow needs the condition, we allow the precomputation<br />flow to conitnue until it finishes execution.&nbsp; At that point the condition is<br />supplied to the terminating branch of the actual flow.<br /><br />Dynamic Predication.<br /><br />Dynamic Predication removes an impossible to predict branch at run-itme, and instead processes the flows starting with both next instructions from the<br />conditional branch, and continuing until their merge point.&nbsp; At the time the<br />hard to predict branch is predicated, the merge point is predicted.&nbsp; Starting<br />at the merge point, we revert to a single flow.&nbsp; An important component of this<br />mechanism is the accuracy of the merge point predictor.&nbsp; We invented a dynamic merge point predictor having prediction accuracy of better than 95%, greatly outstripping the previous best known merge predictor.</p><br> <p>  Last Modified: 02/07/2024<br> Modified by: Yale&nbsp;N&nbsp;Patt</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Computers enable the solution of a problem by executing computer programs necessary to solving that problem. How good a computer is at solving a particular problem is often determined by how long it takes the computer to execute the necessary programs. For example, programs that enable driverless automobiles are not yet ready for prime time because the time it takes the computer to execute the programs necessary to decide what the car should do next is currently too long to be of use in places of dense populatoins and substantial automobile traffic. But hopefully improvements in execution time of computer programs will in time change that. We have already seen that computers can execute programs fast enough to enable individualized medical care in many situations. We look forward to the day when we can execute programs fast enough that we can use the results to cure cancer before the patient dies!  There are two main obstacles to executing computer programs faster: latency and branch mispredictions. This project addresses branch mispredictions.   Computer programs consist of computer instructions which tell the computer what to do. About 75% of instructions execute in order, first the first instruction executes, then the second, after that the third, etc. The other 25% of instructions (i.e, contol instructions) specify which instruction to execute next, where that instruction is not usually the next instruction in the program. Approximately 80% of these (i.e., conditional branch instructions) specify two "next" instructions and a condition to be computed which determines which of the two to execute next. Unfortunately, the next instruction can not proceed until the condition is calcuated, which adds to the program's execution time,  The computer has two choices in dealing with this: (1) do nothing until the condition is computed, which results in much time wasted while waiting, or (2) predict what the condition will be. Most computers today do the latter. If the prediction is correct, no time is wasted. If the prediction is incorrect, all the time spent executing instructions until the condition is known is wasted. Also the time needed to return the computer to a postion where it can execute the correct next instruction is additional time wasted.  This project focuses on those conditional branches that are impossible to predict and those that are very hard to predict because they incur the largest waste of execution time of the program. Eliminating the waste caused by mispredicting the conditions associated with those banches will substantially lower the execution time of computer programs, making their usage much more effective.  We have developed and/or enhanced three techniques for dealing with impossible to predict and very hard to predict conditional branches: machine learning, precomputation, and dynamic predication.   Machine Learning  The best current branch predictor is TAGE, the work of Andre Seznec. As expected it is a history based, run-time predictor. Run-time because compile-time would need the profile data to be representative of the actual data once in service. Also, compile-time would not be able to handle different phases of program behavior. However, TAGE's history for the same basic execution flow can vary slightly due to characteristics of the computer's structure, producing "noisy" history. Noisy history can throw off history based predictors, degrading TAGE's accuracy. Machine Learning, on the other hand, does not degrade peformance on noisy history. Small variations of history are easily accommodated by the clustering notion of Machine Learning. Unfortunately, the training phase of machine learning takes too long to do at run time. However, we discovered that the lack of representativeness of data was not a problem for handling very hard or impossible to predict banches. The result: BranchNet, whose handling of "noisy" history provides a big win for impossible and very hard to predict branches. We augment TAGE with BranchNet. Most branches are easy to predict with TAGE, so TAGE handles them. The hard to predict branches do better with BranchNet, so BranchNet intercepts and handles them. The combination provides a better predictor than TAGE alone.   Precomputation.  Precomputation is a well-known technique for handling impossible to predict branches. Instructions from an instruction flow that do not contribute to determining the condition needed by the conditional branch that terminates the flow are removed from the flow. The remaining instructions form the precomputation flow. If the precomputation flow has not completed execution by the time the actual flow needs the condition, we allow the precomputation flow to conitnue until it finishes execution. At that point the condition is supplied to the terminating branch of the actual flow.  Dynamic Predication.  Dynamic Predication removes an impossible to predict branch at run-itme, and instead processes the flows starting with both next instructions from the conditional branch, and continuing until their merge point. At the time the hard to predict branch is predicated, the merge point is predicted. Starting at the merge point, we revert to a single flow. An important component of this mechanism is the accuracy of the merge point predictor. We invented a dynamic merge point predictor having prediction accuracy of better than 95%, greatly outstripping the previous best known merge predictor.     Last Modified: 02/07/2024       Submitted by: YaleNPatt]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AI Institute: Planning: Construction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexis Lewis</SignBlockName>
+<PO_EMAI>alewis@nsf.gov</PO_EMAI>
+<PO_PHON>7032922624</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Improvements in the design, construction and operation of buildings and infrastructure projects will have a tremendous impact on the competitiveness of the U.S. Construction industry, by making projects more efficient, cheaper, faster, safer and more equitable.   Nevertheless, enhancing project workflows poses problems that challenge current understanding of Artificial Intelligence (AI).  This National Artificial Intelligence Research Institutes Planning award supports research and coordination activities to build collaborations among AI researchers, construction researchers, and industry partners, with the aim of forming an Institute for AI in Construction. Key goals are the identification of critical scientific problems, performance metrics, data sources, and future grand challenges.  The team will also develop opportunities for educational activities that attract and retain skilled workforce in the industry. To do so, the team will offer a new course on Construction AI, formulate a new "CS+Construction" major, and design a Masters' capstone project sponsorship program, each with a strong element of entrepreneurship education. A mentoring program that aids students from underrepresented groups will be established particularly around their engagement in construction projects in the form of Women and Minority-Owned Business Enterprise (WMBE) firms.&lt;br/&gt; &lt;br/&gt;Many planning, monitoring, and control workflows involved in the design, construction, and operation of the built environment expose new challenges and opportunities for research in computer vision, natural language processing, and machine learning.   Key technical problems, as identified by the National Academy of Engineering, include data-driven construction planning, monitoring work in progress, and real-time worker safety assessment.  Solving these problems requires fundamental research in AI, such as: machine learning with many interconnected small-data problems; optimizing for application-specific objectives; leveraging both recognition and correspondence to recover geometry from images; and learning from loosely structured text documents.  This research will identify AI problems in the construction domain that can serve as model problems, uncover novel conceptual challenges to AI research from construction applications, and identify likely dataset needs to support future research on AI in construction.  Research findings will be disseminated through publications, presentations, and posting of datasets and software through a central project website.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020227</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Forsyth</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Forsyth</PI_FULL_NAME>
+<EmailAddress><![CDATA[daf@cs.uiuc.edu]]></EmailAddress>
+<NSF_ID>000391155</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Hockenmaier</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia C Hockenmaier</PI_FULL_NAME>
+<EmailAddress><![CDATA[juliahmr@illinois.edu]]></EmailAddress>
+<NSF_ID>000237005</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Hoiem</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Derek Hoiem</PI_FULL_NAME>
+<EmailAddress><![CDATA[dhoiem@illinois.edu]]></EmailAddress>
+<NSF_ID>000516153</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mani</FirstName>
+<LastName>Golparvar-Fard</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mani Golparvar-Fard</PI_FULL_NAME>
+<EmailAddress><![CDATA[mgolpar@illinois.edu]]></EmailAddress>
+<NSF_ID>000586985</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Trustees of the University of Illinois]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132Y</Code>
+<Text>AI Research Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>091Z</Code>
+<Text>Data Initiatives</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The&nbsp;<span><strong>overarching goal of this planning grant</strong></span>&nbsp;involved coalition-building between AI researchers, construction researchers</span><span>, and industry partners to develop the community required to found an Institute for AI in Construction</span><span>.&nbsp;&nbsp;Improvements in the design, construction, and operation of buildings and infrastructure projects will have&nbsp;a tremendous impact on the competitiveness of the U.S. Construction industry, by making projects more efficient, cheaper, faster, safer, and more equitable. Nevertheless, enhancing project workflows poses problems&nbsp;that challenge the current understanding of Artificial Intelligence (AI). For example, monitoring ongoing construction&nbsp;using visual data requires building many accurate visual recognition systems from relatively small&nbsp;amounts of training data. As another example, modeling planning and scheduling knowledge to build&nbsp;a record of what works and what does not requires understanding complex and specialized technical language, often recorded in a precise form within construction scheduling documents. AI researchers need to know&nbsp;what is important to the construction industry, and construction professionals need to be educated in what&nbsp;AI can supply.&nbsp;</span></p> <p><span>In the context of our overarching goal to build this coalition, key&nbsp;<span><strong>research goals</strong></span>&nbsp;were to identify important problems, performance metrics, and data sources so that we can</span><span>&nbsp;identify valuable future grand challenges.&nbsp;</span></p> <p><span>Key&nbsp;<span><strong>educational goals</strong></span>&nbsp;were to identify what programs are best to (a) train the next generation of students who are supplied with technical and managerial knowledge to bring AI-driven solutions to the construction industry; (b) educate the current workforce in the construction, construction tech, and the AI community on the value of AI-driven solutions in the construction industry and engage them with the researchers to identify research problems that balance rigor and relevance; (c) educate the key decision-makers in the industry at the C-level to help them measure the value of AI-driven solution, scale the implementation of AI-driven solution and in turn provide for&nbsp;<span>small improvements in the $1.9 trillion construction industry to save billions of dollars and many lives.</span></span></p> <p>We successfully conducted about a dozen of meetings after two 1.5-day-long workshops with industry collaborators -- as workshop attendees -- themed around a project&rsquo;s lifecycle: AI for Design, AI for Construction, and AI for Operation and Preventive Maintenance. For each meeting that followed up the main workshops, we engaged particular representatives from the industry, advanced technology companies, startups, the investment community, federal and local government, core AI researchers from UIUC and CMU, and other national/international academic partners. The specific objectives of these meetings were to explore:</p> <ol> <li>Common areas for basic AI research that can impact use-inspired research in 5-15 years (particularly those that have long-term impact)</li> <li>User-inspired research that can transition to the industry in 3-5 years while substantially contributing to basic AI research&nbsp;(particularly those that have a short-term impact, the type that the industry can directly sponsor),</li> <li>Educational AI-driven programs at the undergraduate, graduate and professional levels address the grand challenges of the American Society of Civil Engineers (ASCE) in attracting and retaining talent in the construction industry, particularly in a post-COVID market where there is a shortage of skilled labor,</li> <li>Explore use-inspired datasets, as well as benchmark and validation metrics that matter (as opposed to the ones common in the AI community that are driven by the data), and</li> <li>Formulating research and implementation on ethics and governance of AI systems, particularly given the sensitivity around workers' safety and privacy.&nbsp;&nbsp;</li> </ol> <p>We also conducted a number of pilot projects around AI-driven research that solves short-term problems, and the results of some of these works are disseminated through publications, seminars, educational materials, among others. The core team and partners have been expanded and we plan to pursue transforming this planning grant into a multi-year institute that addresse both foundational AI needs as well as use-inspired research needs of the built environment.</p><br> <p>  Last Modified: 12/29/2023<br> Modified by: Mani&nbsp;Golparvar-Fard</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2020227/2020227_10701549_1702927424322_Screenshot_2023_12_18_at_1.22.08_PM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2020227/2020227_10701549_1702927424322_Screenshot_2023_12_18_at_1.22.08_PM--rgov-800width.png" title="AI Institute for the Built Environment"><img src="/por/images/Reports/POR/2023/2020227/2020227_10701549_1702927424322_Screenshot_2023_12_18_at_1.22.08_PM--rgov-66x44.png" alt="AI Institute for the Built Environment"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our Mission: Create the foundational ideas, technologies and technical workforce that allow   AI research to support safe, productive, efficient design, construction and maintenance of   buildings and infrastructure systems</div> <div class="imageCredit">Mani Golparvar-Fard</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mani&nbsp;Golparvar-Fard <div class="imageTitle">AI Institute for the Built Environment</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Theoverarching goal of this planning grantinvolved coalition-building between AI researchers, construction researchers, and industry partners to develop the community required to found an Institute for AI in Construction.Improvements in the design, construction, and operation of buildings and infrastructure projects will havea tremendous impact on the competitiveness of the U.S. Construction industry, by making projects more efficient, cheaper, faster, safer, and more equitable. Nevertheless, enhancing project workflows poses problemsthat challenge the current understanding of Artificial Intelligence (AI). For example, monitoring ongoing constructionusing visual data requires building many accurate visual recognition systems from relatively smallamounts of training data. As another example, modeling planning and scheduling knowledge to builda record of what works and what does not requires understanding complex and specialized technical language, often recorded in a precise form within construction scheduling documents. AI researchers need to knowwhat is important to the construction industry, and construction professionals need to be educated in whatAI can supply.   In the context of our overarching goal to build this coalition, keyresearch goalswere to identify important problems, performance metrics, and data sources so that we canidentify valuable future grand challenges.   Keyeducational goalswere to identify what programs are best to (a) train the next generation of students who are supplied with technical and managerial knowledge to bring AI-driven solutions to the construction industry; (b) educate the current workforce in the construction, construction tech, and the AI community on the value of AI-driven solutions in the construction industry and engage them with the researchers to identify research problems that balance rigor and relevance; (c) educate the key decision-makers in the industry at the C-level to help them measure the value of AI-driven solution, scale the implementation of AI-driven solution and in turn provide forsmall improvements in the $1.9 trillion construction industry to save billions of dollars and many lives.   We successfully conducted about a dozen of meetings after two 1.5-day-long workshops with industry collaborators -- as workshop attendees -- themed around a projects lifecycle: AI for Design, AI for Construction, and AI for Operation and Preventive Maintenance. For each meeting that followed up the main workshops, we engaged particular representatives from the industry, advanced technology companies, startups, the investment community, federal and local government, core AI researchers from UIUC and CMU, and other national/international academic partners. The specific objectives of these meetings were to explore:  Common areas for basic AI research that can impact use-inspired research in 5-15 years (particularly those that have long-term impact) User-inspired research that can transition to the industry in 3-5 years while substantially contributing to basic AI research(particularly those that have a short-term impact, the type that the industry can directly sponsor), Educational AI-driven programs at the undergraduate, graduate and professional levels address the grand challenges of the American Society of Civil Engineers (ASCE) in attracting and retaining talent in the construction industry, particularly in a post-COVID market where there is a shortage of skilled labor, Explore use-inspired datasets, as well as benchmark and validation metrics that matter (as opposed to the ones common in the AI community that are driven by the data), and Formulating research and implementation on ethics and governance of AI systems, particularly given the sensitivity around workers' safety and privacy.    We also conducted a number of pilot projects around AI-driven research that solves short-term problems, and the results of some of these works are disseminated through publications, seminars, educational materials, among others. The core team and partners have been expanded and we plan to pursue transforming this planning grant into a multi-year institute that addresse both foundational AI needs as well as use-inspired research needs of the built environment.     Last Modified: 12/29/2023       Submitted by: ManiGolparvar-Fard]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

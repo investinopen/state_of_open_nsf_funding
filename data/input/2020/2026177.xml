@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Solar Concentrator Unit for Low-Cost Metal Additive Manufacturing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>950618.00</AwardTotalIntnAmount>
+<AwardAmount>1140533</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project comes from the development of a concentrated solar 3D printer capable of operating on the Moon. The 3D printer efficiently harnesses the heat of the Sun to fuse lunar soil into custom parts for producing mechanical components and structures. The resources on the Moon, particularly sunlight and soil, enable in situ parts production without the expensive step of launching materials from Earth. This capability for in-space manufacturing could be used for many applications. Furthermore, the proposed technology can be used to develop a low-cost, consumer 3D printer capable of fabricating custom components of metal, glass, and many previously inaccessible materials. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will advance development of a Solar Additive Manufacturing (SAM) test platform. This project will explore several feedstock materials, including lunar soil simulants, glass, and a select metal. Test coupons will be produced to characterize part quality and strength and iterative testing will be performed to optimize printer performance. Custom mechanical components will then be produced from lunar soil simulants as a demonstration of practical parts for lunar manufacturing. The final stage of the project will be to reduce system complexity and design a lightweight, purpose-built solar 3D printer. This effort will produce a low-cost solar printer ready for the consumer market as well as a lunar payload prototype design for testing in a lunar environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026177</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Brewer</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew T Brewer</PI_FULL_NAME>
+<EmailAddress><![CDATA[abrewer@outward.tech]]></EmailAddress>
+<NSF_ID>000781210</NSF_ID>
+<StartDate>09/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[BLUESHIFT, LLC]]></Name>
+<CityName>BROOMFIELD</CityName>
+<ZipCode>800202243</ZipCode>
+<PhoneNumber>8504453431</PhoneNumber>
+<StreetAddress><![CDATA[155 COMMERCE ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JX78FHVFSHY3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BLUESHIFT LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>K86SSMF5LMN3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[BLUESHIFT, LLC]]></Name>
+<CityName>Broomfield</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>800201666</ZipCode>
+<StreetAddress><![CDATA[575 Burbank St., Unit G]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>169E</Code>
+<Text>SBIR Tech Enhan Partner (TECP)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~950618</FUND_OBLG>
+<FUND_OBLG>2023~189915</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Outward Technologies, through the assistance of the National Science Foundation, has developed a mobile solar concentrator capable of harnessing the heat of the sun to power precision high temperature processes. This marks the first time that a small-scale solar concentrator has achieved reliable results for heating materials to greater than 2,000?F while independently controlling temperature, the size of the heated area, and the location on a target surface which is being heated. These added capabilities enable a wide range of high temperature applications including solar 3D printing of parts made from glass, metal, and sandy soil. Outward Technologies? solar concentrator and solar additive manufacturing system provides individuals, companies, and underserved communities with a low-cost and versatile tool for manufacturing on-demand parts and custom components from the resources which are most readily available to them.</p> <p>Further through this work, Outward Technologies has shown that their solar additive manufacturing technology is capable of melting and fusing space-based materials and the process was optimized to produce high strength mechanical and structural components out of lunar soil (also known as lunar regolith) without binders or additives. By utilizing local resources for lunar and in-space manufacturing, the amount materials that must be sent from Earth is drastically reduced leading to significant launch cost savings.</p> <p>The solar additive manufacturing technology was advanced to Technology Readiness Level 4, as defined by NASA, and the ability to produce lunar regolith components with strength properties equivalent to M25 grade concrete (25 MPa compressive strength, 3.5 MPa flexural strength) was demonstrated. Such properties can be utilized in an array of practical applications to support infrastructure development on the Moon including, but not limited to, rover components, structural members for towers and habitats, roads, bricks, and landing pad pavers. Outward also developed a lunar system architecture and paved a path toward space deployment.</p> <p>These added capabilities unlock the true potential of space by enabling the near limitless production of goods and consumables from the resources already found in space. Through the funding and support of the National Science Foundation, Outward Technologies is embarking on a new era for humanity where space will no longer be viewed as a harsh and foreboding environment, but one filled with abundant resources and endless potential.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/30/2023<br>      Modified by: Andrew&nbsp;T&nbsp;Brewer</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2026177/2026177_10706519_1698699585158_LunarOutpostUtilizingOutwardsSolarAdditiveManufacturingTechnology--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026177/2026177_10706519_1698699585158_LunarOutpostUtilizingOutwardsSolarAdditiveManufacturingTechnology--rgov-800width.jpg" title="Lunar Outpost Utilizing Outwards Solar Additive Manufacturing Technology"><img src="/por/images/Reports/POR/2023/2026177/2026177_10706519_1698699585158_LunarOutpostUtilizingOutwardsSolarAdditiveManufacturingTechnology--rgov-66x44.jpg" alt="Lunar Outpost Utilizing Outwards Solar Additive Manufacturing Technology"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Lunar Outpost Utilizing Outwards Solar Additive Manufacturing Technology</div> <div class="imageCredit">Outward Technologies</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Brewer</div> <div class="imageTitle">Lunar Outpost Utilizing Outwards Solar Additive Manufacturing Technology</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2026177/2026177_10706519_1698699895558_RoverUsingLunarRegolithGrousers--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2026177/2026177_10706519_1698699895558_RoverUsingLunarRegolithGrousers--rgov-800width.jpg" title="Rover Using Lunar Regolith Grousers"><img src="/por/images/Reports/POR/2023/2026177/2026177_10706519_1698699895558_RoverUsingLunarRegolithGrousers--rgov-66x44.jpg" alt="Rover Using Lunar Regolith Grousers"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Rover using grousers made by Outward's solar additive manufacturing system with lunar regolith simulant as the feedstock.</div> <div class="imageCredit">Outward Technologies</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Brewer</div> <div class="imageTitle">Rover Using Lunar Regolith Grousers</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Outward Technologies, through the assistance of the National Science Foundation, has developed a mobile solar concentrator capable of harnessing the heat of the sun to power precision high temperature processes. This marks the first time that a small-scale solar concentrator has achieved reliable results for heating materials to greater than 2,000?F while independently controlling temperature, the size of the heated area, and the location on a target surface which is being heated. These added capabilities enable a wide range of high temperature applications including solar 3D printing of parts made from glass, metal, and sandy soil. Outward Technologies? solar concentrator and solar additive manufacturing system provides individuals, companies, and underserved communities with a low-cost and versatile tool for manufacturing on-demand parts and custom components from the resources which are most readily available to them.  Further through this work, Outward Technologies has shown that their solar additive manufacturing technology is capable of melting and fusing space-based materials and the process was optimized to produce high strength mechanical and structural components out of lunar soil (also known as lunar regolith) without binders or additives. By utilizing local resources for lunar and in-space manufacturing, the amount materials that must be sent from Earth is drastically reduced leading to significant launch cost savings.  The solar additive manufacturing technology was advanced to Technology Readiness Level 4, as defined by NASA, and the ability to produce lunar regolith components with strength properties equivalent to M25 grade concrete (25 MPa compressive strength, 3.5 MPa flexural strength) was demonstrated. Such properties can be utilized in an array of practical applications to support infrastructure development on the Moon including, but not limited to, rover components, structural members for towers and habitats, roads, bricks, and landing pad pavers. Outward also developed a lunar system architecture and paved a path toward space deployment.  These added capabilities unlock the true potential of space by enabling the near limitless production of goods and consumables from the resources already found in space. Through the funding and support of the National Science Foundation, Outward Technologies is embarking on a new era for humanity where space will no longer be viewed as a harsh and foreboding environment, but one filled with abundant resources and endless potential.          Last Modified: 10/30/2023       Submitted by: Andrew T Brewer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

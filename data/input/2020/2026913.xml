@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SaTC: TTP: Medium: NextGenPQ: Post-quantum Schemes for Next Generation Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rob Beverly</SignBlockName>
+<PO_EMAI>rbeverly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927068</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The proliferation of advances in quantum computing has put traditional cryptography and our entire computing and communications infrastructure in danger. The threat is so urgent that the US National Institute of Standards and Technology (NIST) started a standardization competition in 2018 to select one or more so-called Post-Quantum (PQ) schemes. Traditional cryptographic techniques are expected to be replaced by PQ-schemes in applications during the next decade. Unfortunately, the upgrade comes at a cost since PQ-schemes require significant increases in digital signature and public key sizes. The team of researchers tackle this very problem. The project's novelties are new techniques to enable aggregation of PQ signatures. The project's impacts are reduced energy consumption and spectrum efficiency in applications such as sensor networks, 5G systems, IoT devices, and Blockchains.&lt;br/&gt;&lt;br/&gt;The investigation is structured in two research modules. The first module focuses on developing aggregation extensions to existing PQ signature algorithms. The work in this module includes a thorough security analysis of the extensions, and selection of parameters for secure and efficient construction. The second module investigates new PQ signature schemes that allow more efficient aggregation. This module will build on the recent works on homomorphic signature schemes. The security and performance of the developed signature schemes will be scrutinized and compared to existing schemes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026913</AwardID>
+<Investigator>
+<FirstName>Berk</FirstName>
+<LastName>Sunar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Berk Sunar</PI_FULL_NAME>
+<EmailAddress><![CDATA[sunar@wpi.edu]]></EmailAddress>
+<NSF_ID>000434676</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yarkin</FirstName>
+<LastName>Doroz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yarkin Doroz</PI_FULL_NAME>
+<EmailAddress><![CDATA[ydoroz@wpi.edu]]></EmailAddress>
+<NSF_ID>000819732</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>Worcester</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 Institute Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The emergence of quantum computers imposes a threat on currently  deployed cryptosystems. To address this issue the United States National  Institute of Standards and Technology (NIST) has developed new  standards to replace traditional cryptography with newly emerging  cryptosysyems referred to as post-quantum (PQ) schemes across our  computing infrastructure.</p> <p><br />This project investigated the  security and efficiency of next generation cryptographic schemes for&nbsp;  desirable extended features such as the ability to compress keys as well  as to aggregate multiple signatures, to compress thousands or millions  of signatures into one short one while retaining verifiability.</p> <p><br />Project  Year 1 activities included a review of NIST Round 3 PQ signature scheme  submissions. The team reviewed the Dilithium and Facon Signature  Schemes with the goal of finding a way to define aggregation extensions  similar to those used in an earlier scheme called MMSAT proposed by the  team members. Unlike MMSAT, the NIST Submissions were found to be not  amenable for implementation of extensions due to extensive  customizations included in the schemes. The team further investigated  MMSAT signature aggregation extension for efficiency and security.  Specifically, the parameter sets were updated based on our latest  security analysis and feedback from practicioners in the area. <br /><br />&nbsp;In  addition to signature schemes, another class of primitives important  for applications, e.g. in Blockchains, is verifiable random functions  and verifiable delay functions. These primitives allow a node to  generate randomness/or introduce fixed delay in a way that is publicly  and efficiently verifiable by the other nodes. For instance, these  functions allow nodes in a Blockchain to syncrhonize more efficiently.  The team developed a number of candidate lattice verifiable function  schemes with potential for quantum security with security reductions  left for future work. <br /><br />In project Year 2 the team continued to  work on the MMSAT signature aggregation extension. A vulnerability in  MMSAT was discovered by a Japanese resercher. In collaboration with  researchers from France and Australia the project team analyzed a number  of possible modifications to the MMSAT scheme to mitigate the  vulnerability. These exchanges significantly improved our understanding  of the security requirements of aggregation schemes.</p> <p>The team  had also earlier proposed a new homomorphic encryption scheme  based on  the hardness of the finite field inversion (FFI) problem  conjectured to  be hard. The FFI problem was used to build a new signature scheme. The  project team investigated the possibility of compressions of many  signatures into one for FFI based signature schemes. During this work  the team became aware of a newly discovered attack by a French  cryptohrapher that directly challenges the hardness of the FFI problem. <br /><br />Further  in Project Year 2 during the review of lattice based NIST finalist  post-quantum schemes of Dilithium and Falcon, the researchers found a  new vulnerability that takes advantage of software faults which is then  when mathematically analyzed yields to full recovery of the key. The  technique was named Signature Correction Attack (SCA). The team  demonstrated with a practical implementation that this attack it is  indeed possible for reastically attacking Dilithium with current key  sizes. Dilithium is one of the schemes chosen by NIST to replace the old  digital signature standard across our instrastructure. The results of  this attack were shared with the greater research community with  workshop presentations. This work also motivated some newer PQ proposals  to implement fault checking as a countermeasure. <br /><br />The project  was extended for a another year to give time for the staff to complete  their research work. The investigation studied another target scheme,  Falcon, selected by NIST for a similar a signature correction attack.  While partial recovery is possible, a full key recovery appears to be  harder due to the way Falcon is implementated suggesting a new  mitigation strategy. The team noticed that the Signature Correction  Attack, discovered while studying PQ schemes, could also be adapted to  work with traditional signature schemes such as such as RSA, DSA and  ECDSA. These cryptographic schemes currently make up the cryptographic  backbone of our the computing and communications infrastructure. The  team analyzed a number popular cryptgraphic libraries used in millions  of computers randing from personal computers to cloud servers, and  determined indeed they were vulnerable to the same attack. The team  filed vulnerability disclosured and worked with libary vendors to  develop, test and deploy security patches.<br /><br />Beyond the research  findings, the project provided a perfect opportunity for the training of  the next generation security professionals. The project partially  funded the studies of several doctoral and masters students, among which  two were from underreprested groups. The project supported two doctoral  dissertations and one masters thesis. Findings and experiences gained  from the project, especially regarding of the type of new cryptography  resilient against quantum computers, was not only shared with fellow  researchers and industry participants, but also made it into graduate  level courses offered at the institute. <br /><br /><br /><br /><br /><br /><br /><br /></p><br> <p>  Last Modified: 01/30/2024<br> Modified by: Berk&nbsp;Sunar</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The emergence of quantum computers imposes a threat on currently  deployed cryptosystems. To address this issue the United States National  Institute of Standards and Technology (NIST) has developed new  standards to replace traditional cryptography with newly emerging  cryptosysyems referred to as post-quantum (PQ) schemes across our  computing infrastructure.    This project investigated the  security and efficiency of next generation cryptographic schemes for  desirable extended features such as the ability to compress keys as well  as to aggregate multiple signatures, to compress thousands or millions  of signatures into one short one while retaining verifiability.    Project  Year 1 activities included a review of NIST Round 3 PQ signature scheme  submissions. The team reviewed the Dilithium and Facon Signature  Schemes with the goal of finding a way to define aggregation extensions  similar to those used in an earlier scheme called MMSAT proposed by the  team members. Unlike MMSAT, the NIST Submissions were found to be not  amenable for implementation of extensions due to extensive  customizations included in the schemes. The team further investigated  MMSAT signature aggregation extension for efficiency and security.  Specifically, the parameter sets were updated based on our latest  security analysis and feedback from practicioners in the area.   In  addition to signature schemes, another class of primitives important  for applications, e.g. in Blockchains, is verifiable random functions  and verifiable delay functions. These primitives allow a node to  generate randomness/or introduce fixed delay in a way that is publicly  and efficiently verifiable by the other nodes. For instance, these  functions allow nodes in a Blockchain to syncrhonize more efficiently.  The team developed a number of candidate lattice verifiable function  schemes with potential for quantum security with security reductions  left for future work.   In project Year 2 the team continued to  work on the MMSAT signature aggregation extension. A vulnerability in  MMSAT was discovered by a Japanese resercher. In collaboration with  researchers from France and Australia the project team analyzed a number  of possible modifications to the MMSAT scheme to mitigate the  vulnerability. These exchanges significantly improved our understanding  of the security requirements of aggregation schemes.   The team  had also earlier proposed a new homomorphic encryption scheme  based on  the hardness of the finite field inversion (FFI) problem  conjectured to  be hard. The FFI problem was used to build a new signature scheme. The  project team investigated the possibility of compressions of many  signatures into one for FFI based signature schemes. During this work  the team became aware of a newly discovered attack by a French  cryptohrapher that directly challenges the hardness of the FFI problem.   Further  in Project Year 2 during the review of lattice based NIST finalist  post-quantum schemes of Dilithium and Falcon, the researchers found a  new vulnerability that takes advantage of software faults which is then  when mathematically analyzed yields to full recovery of the key. The  technique was named Signature Correction Attack (SCA). The team  demonstrated with a practical implementation that this attack it is  indeed possible for reastically attacking Dilithium with current key  sizes. Dilithium is one of the schemes chosen by NIST to replace the old  digital signature standard across our instrastructure. The results of  this attack were shared with the greater research community with  workshop presentations. This work also motivated some newer PQ proposals  to implement fault checking as a countermeasure.   The project  was extended for a another year to give time for the staff to complete  their research work. The investigation studied another target scheme,  Falcon, selected by NIST for a similar a signature correction attack.  While partial recovery is possible, a full key recovery appears to be  harder due to the way Falcon is implementated suggesting a new  mitigation strategy. The team noticed that the Signature Correction  Attack, discovered while studying PQ schemes, could also be adapted to  work with traditional signature schemes such as such as RSA, DSA and  ECDSA. These cryptographic schemes currently make up the cryptographic  backbone of our the computing and communications infrastructure. The  team analyzed a number popular cryptgraphic libraries used in millions  of computers randing from personal computers to cloud servers, and  determined indeed they were vulnerable to the same attack. The team  filed vulnerability disclosured and worked with libary vendors to  develop, test and deploy security patches.  Beyond the research  findings, the project provided a perfect opportunity for the training of  the next generation security professionals. The project partially  funded the studies of several doctoral and masters students, among which  two were from underreprested groups. The project supported two doctoral  dissertations and one masters thesis. Findings and experiences gained  from the project, especially regarding of the type of new cryptography  resilient against quantum computers, was not only shared with fellow  researchers and industry participants, but also made it into graduate  level courses offered at the institute.              Last Modified: 01/30/2024       Submitted by: BerkSunar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

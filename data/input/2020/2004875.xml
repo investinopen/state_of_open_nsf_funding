@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS:Scalable platform for materials fabrication from genetically engineered bacterial biomass]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>458276.00</AwardTotalIntnAmount>
+<AwardAmount>458276</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nitsa Rosenzweig</SignBlockName>
+<PO_EMAI>nirosenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927256</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Non-technical summary:&lt;br/&gt;&lt;br/&gt;The purpose of this project is to investigate the use of proteins derived from bacterial biofilms as a new class of biopolymers for bioplastics production. There is an urgent need for alternatives to conventional plastics, whose manufacture is projected to increase, despite its significant contributions to global greenhouse gas emissions, and the environmental damage caused by its lack of biodegradability. Although a few biodegradable bioplastics exist, they lack the required physical properties to be suitable as replacements for most conventional plastics because they are made from a limited set of naturally occurring biopolymers. An attractive solution leverages recent advances in the field of synthetic biology to create entirely new biopolymers using engineered microbes. With a previous NSF-funded grant, the investigators developed a method to produce customizable protein polymers using engineered non-pathogenic E. coli. This technology enables the molecular structure of the protein polymers to be tailored to exhibit a desired set of properties, analogous to the way that synthetic chemistry can be used to tailor the structures of conventional polymers. For this project, they will further investigate the use of this platform for the production of bioplastics with enhanced material properties. Their approach will involve three aims: 1) engineering the structures of the protein polymers themselves, in order to make them tougher; 2) engineering the microbes that produce the protein polymers to maximize the amount that they produce; and, 3) fabricating bioplastics from the microbial biomass and characterizing their properties. The results from this work will help push the boundaries of national biomanufacturing capabilities, helping shift them toward more sustainable paradigms that will address the imminent challenges of climate change and plastic pollution. The technical research plan is integrated with a plan to introduce emerging topics related to biomanufacturing in coursework targeted toward university students and enable them to advance the engineering of biological systems with hands-on training and creative problem solving.&lt;br/&gt;&lt;br/&gt;Technical summary:&lt;br/&gt;&lt;br/&gt;This proposal describes an integrated research and teaching effort that will push the frontiers of biomaterials and biomanufacturing technologies and encompass the training of science and engineering students at multiple skill levels. The proposed research addresses an urgent need for biodegradable bioplastics with enhanced material properties. Conventional plastics are a major source of pollution in our waterways and landfills, and their manufacture contributes significantly to global greenhouse gas emissions. Microbially derived biodegradable bioplastics are an attractive way to address these problems because they are amenable to scaled-up production via fermentation and can rely on renewable feedstocks. However, existing methods for making microbially derived bioplastics rely exclusively on a limited set of naturally occurring biopolymers that exhibit sub-optimal material properties and require cumbersome purification and downstream processing in order to be functional. This project investigates the use of engineered microbes capable of producing protein polymers, whose structure can be tuned through genetic engineering, as a means for producing biodegradable bioplastics with enhanced material properties. In a manner that is analogous to the use of synthetic chemistry to create petroleum-derived polymers with structures highly tailored for specific applications, this project will use synthetic biology to create new biopolymers with tunable properties. The project aims focus on investigating complementary aspects of this new biomanufacturing approach: 1) engineering recombinant protein fibers produced by E. coli to exhibit increased mechanical robustness, 2) engineering the E. coli chassis to maximize the production of these protein fibers; and, 3) developing protocols that make use of whole microbial biomass in order to streamline the bioplastic fabrication process in a manner that is suitable for scaled-up manufacturing. The work will advance fundamental research in protein engineering, metabolic engineering, and biomaterials science to advance its aims. The proposal will also incorporate foundational aspects of biomaterials and biomanufacturing theory and practice into new coursework to be developed at Northeastern University (NEU), and the re-establishment of an iGEM team at NEU.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004875</AwardID>
+<Investigator>
+<FirstName>Neel</FirstName>
+<LastName>Joshi</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neel S Joshi</PI_FULL_NAME>
+<EmailAddress><![CDATA[ne.joshi@northeastern.edu]]></EmailAddress>
+<NSF_ID>000566553</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NORTHEASTERN UNIVERSITY]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7623</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8249</Code>
+<Text>Sustainable Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<FUND_OBLG>2021~79138</FUND_OBLG>
+<FUND_OBLG>2022~79138</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Conventional plastics have a life-cycle that is detrimental to human sustainability on earth. They are sourced from petroleum ? a non-renewable resource that fuels the ongoing climate change disaster. The vast majority of the ~10 billion tons of plastic produced cumulatively by humans is disposed of, after which it accumulates in landfills, waterways, and the ocean, causing harm to ecology and human health. Solutions to this planet-wide problem will necessarily be multi-pronged, but a significant contributor will have to be the replacement of virgin plastics with biodegradable plastics. Although many factors will affect the speed of this transition, including local and federal policy, one major technical hurdle is that biodegradable bioplastics that are currently available cannot match the range of mechanical performance exhibited by conventional plastics. One source of this discrepancy comes from the limited range of molecular structures present in naturally occurring biopolymers. Conventional plastics can be composed of polymers representing a wide range of chemical structures, many of which have been designed by human scientists and engineers to lead to specific types of performance (e.g., rigidity, flexibility, stretchiness, water resistance, oxygen permeability). In contrast, naturally occurring biopolymers were created by evolutionary processes for entirely different purposes, and their molecular structure is fixed. This project sought to change this paradigm by genetically engineering microbes to produce new biopolymers that have never existed in nature before. We thought we could use genetic engineering techniques to tailor biopolymer structure, thereby prescribing specific material properties from the materials we made out of them.&nbsp;</p> <p>&nbsp;</p> <p>The biological system we used to investigate this possibility was the curli system, derived from the most well-studied organism on the planet ? E. coli. The curli system is a set of biological machinery that secretes a structural protein called CsgA during biofilm formation. The CsgA protein, once secreted, self-assembles into ?curli? nanofibers that are extremely robust and resistant to mechanical or chemical degradation, while remaining biodegradable by soil microbes. We had previously demonstrated that curli fibers could be harvested from bacterial cultures in sufficient quantities and dried to create macroscopic thin film materials. These films, while transparent and stiff, were brittle ? they cracked easily, precluding their use for practical applications. We hypothesized that this was due to the rigid, beta-sheet-rich molecular structure of CsgA. During this project, we used genetic engineering tools to modify the molecular structure of CsgA to also include flexible protein chains. In parallel, we investigated eco-friendly plasticizer additives like glycerol to create less stiff (lower modulus) and more stretchable/flexible films. We found that the thin films we could make with our engineered CsgA variants were transparent, plastic-like films with a consistency similar to conventional plastic wrap used in food packaging. Further testing on our films confirmed that they were as biodegradable as cellulose-based materials, the gold standard for biodegradability. This represented one of the first demonstration of this approach ? using rational design and genetic engineering to tune the properties of bulk materials.&nbsp;</p> <p>&nbsp;</p> <p>Other efforts funded by this award focused on scaling up production of this new biodegradable bioplastic. We took two parallel approaches: 1) increasing the protein produced per cell, and 2) using larger filtration membranes that allowed us to harvest biomass from tens of liters of bacterial culture in a single run. Using advanced genetic analysis techniques, we identified the bottleneck in curli fiber production and the main source of cellular stress to be periplasmic accumulation of the CsgA during rapid production. We found that slower protein production over longer time periods yielded more total protein. Our larger-scale filtration also allowed us to reduce the time required to produce materials ten-fold.&nbsp;</p> <p>&nbsp;</p> <h1>This funded project supported a portion of the salaries and stipends of one postdoctoral researcher and three Ph.D. students over its duration. It also indirectly supported the research of at least 4 masters students and three undergraduate researchers who were often gaining their first exposure to original research. It led directly to at least four publications in reputable peer-reviewed scholarly journals, with additional publications pending. Some of our published work also garnered attention in national news media outlets, including the Washington Post and New York Times. In addition to the aforementioned publications, the knowledge gained from this funded project was disseminated to the broader research community through many invited talks and poster presentations at various universities and annual national conferences. The project also yielded new DNA material that is routinely requested by other researchers who are interested in furthering their own projects. Our group is continuing to develop these unique materials for the sustainable packaging applications that motivated the original work, and also for new applications, for example in wearable devices.&nbsp;</h1> <p>&nbsp;</p><br> <p>            Last Modified: 10/27/2023<br>      Modified by: Neel&nbsp;S&nbsp;Joshi</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418625811_Fig2-AquaPlastic2.0--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418625811_Fig2-AquaPlastic2.0--rgov-800width.jpg" title="AquaPlastic 2.0 properties"><img src="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418625811_Fig2-AquaPlastic2.0--rgov-66x44.jpg" alt="AquaPlastic 2.0 properties"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our second-generation AquaPlastic prototypes can be fabricated on larger scales, leading to prototypes that are flexible, transparent, and have the consistency of conventional plastic wrap. They are also as biodegradable as toilet paper in soil tests and exhibit tunable mechanical properties.</div> <div class="imageCredit">Avinash Manjula-Basavanna</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Neel&nbsp;S&nbsp;Joshi</div> <div class="imageTitle">AquaPlastic 2.0 properties</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418344042_Fig3-crosslinking--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418344042_Fig3-crosslinking--rgov-800width.jpg" title="Genetically programmed cross linking"><img src="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418344042_Fig3-crosslinking--rgov-66x44.jpg" alt="Genetically programmed cross linking"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We demonstrated that genetic engineering can be used to tune the mechanical properties of a macroscopic material. In this case, a protein binding interaction was used to induce protein fiber bundling.</div> <div class="imageCredit">Avinash Manjula-Basavanna</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Neel&nbsp;S&nbsp;Joshi</div> <div class="imageTitle">Genetically programmed cross linking</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418457218_Fig4-bio-ink--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418457218_Fig4-bio-ink--rgov-800width.jpg" title="LIving microbial bio-ink"><img src="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418457218_Fig4-bio-ink--rgov-66x44.jpg" alt="LIving microbial bio-ink"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our genetic cross linking scheme enables the production of a hydrogel that is stiffer than the uncrosslinked version. This hydrogel can be used directly as an "ink" for 3D printing applications.</div> <div class="imageCredit">Avinash Manjula-Basavanna</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Neel&nbsp;S&nbsp;Joshi</div> <div class="imageTitle">LIving microbial bio-ink</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418095760_Fig1-AquaPlasticworkflow--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418095760_Fig1-AquaPlasticworkflow--rgov-800width.jpg" title="AquaPlastic fabrication protocol"><img src="/por/images/Reports/POR/2023/2004875/2004875_10677351_1698418095760_Fig1-AquaPlasticworkflow--rgov-66x44.jpg" alt="AquaPlastic fabrication protocol"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We developed a streamlined protocol for converting bacteria engineered to produce protein nanofibers into biodegradable plastic-like materials. The image shows a 1st generation protocol. A 2nd generation protocol ("AquaPlastic 2.0") eliminates filtration.</div> <div class="imageCredit">Avinash Manjula-Basavanna</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Neel&nbsp;S&nbsp;Joshi</div> <div class="imageTitle">AquaPlastic fabrication protocol</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Conventional plastics have a life-cycle that is detrimental to human sustainability on earth. They are sourced from petroleum ? a non-renewable resource that fuels the ongoing climate change disaster. The vast majority of the ~10 billion tons of plastic produced cumulatively by humans is disposed of, after which it accumulates in landfills, waterways, and the ocean, causing harm to ecology and human health. Solutions to this planet-wide problem will necessarily be multi-pronged, but a significant contributor will have to be the replacement of virgin plastics with biodegradable plastics. Although many factors will affect the speed of this transition, including local and federal policy, one major technical hurdle is that biodegradable bioplastics that are currently available cannot match the range of mechanical performance exhibited by conventional plastics. One source of this discrepancy comes from the limited range of molecular structures present in naturally occurring biopolymers. Conventional plastics can be composed of polymers representing a wide range of chemical structures, many of which have been designed by human scientists and engineers to lead to specific types of performance (e.g., rigidity, flexibility, stretchiness, water resistance, oxygen permeability). In contrast, naturally occurring biopolymers were created by evolutionary processes for entirely different purposes, and their molecular structure is fixed. This project sought to change this paradigm by genetically engineering microbes to produce new biopolymers that have never existed in nature before. We thought we could use genetic engineering techniques to tailor biopolymer structure, thereby prescribing specific material properties from the materials we made out of them.      The biological system we used to investigate this possibility was the curli system, derived from the most well-studied organism on the planet ? E. coli. The curli system is a set of biological machinery that secretes a structural protein called CsgA during biofilm formation. The CsgA protein, once secreted, self-assembles into ?curli? nanofibers that are extremely robust and resistant to mechanical or chemical degradation, while remaining biodegradable by soil microbes. We had previously demonstrated that curli fibers could be harvested from bacterial cultures in sufficient quantities and dried to create macroscopic thin film materials. These films, while transparent and stiff, were brittle ? they cracked easily, precluding their use for practical applications. We hypothesized that this was due to the rigid, beta-sheet-rich molecular structure of CsgA. During this project, we used genetic engineering tools to modify the molecular structure of CsgA to also include flexible protein chains. In parallel, we investigated eco-friendly plasticizer additives like glycerol to create less stiff (lower modulus) and more stretchable/flexible films. We found that the thin films we could make with our engineered CsgA variants were transparent, plastic-like films with a consistency similar to conventional plastic wrap used in food packaging. Further testing on our films confirmed that they were as biodegradable as cellulose-based materials, the gold standard for biodegradability. This represented one of the first demonstration of this approach ? using rational design and genetic engineering to tune the properties of bulk materials.      Other efforts funded by this award focused on scaling up production of this new biodegradable bioplastic. We took two parallel approaches: 1) increasing the protein produced per cell, and 2) using larger filtration membranes that allowed us to harvest biomass from tens of liters of bacterial culture in a single run. Using advanced genetic analysis techniques, we identified the bottleneck in curli fiber production and the main source of cellular stress to be periplasmic accumulation of the CsgA during rapid production. We found that slower protein production over longer time periods yielded more total protein. Our larger-scale filtration also allowed us to reduce the time required to produce materials ten-fold.     This funded project supported a portion of the salaries and stipends of one postdoctoral researcher and three Ph.D. students over its duration. It also indirectly supported the research of at least 4 masters students and three undergraduate researchers who were often gaining their first exposure to original research. It led directly to at least four publications in reputable peer-reviewed scholarly journals, with additional publications pending. Some of our published work also garnered attention in national news media outlets, including the Washington Post and New York Times. In addition to the aforementioned publications, the knowledge gained from this funded project was disseminated to the broader research community through many invited talks and poster presentations at various universities and annual national conferences. The project also yielded new DNA material that is routinely requested by other researchers who are interested in furthering their own projects. Our group is continuing to develop these unique materials for the sustainable packaging applications that motivated the original work, and also for new applications, for example in wearable devices.           Last Modified: 10/27/2023       Submitted by: Neel S Joshi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

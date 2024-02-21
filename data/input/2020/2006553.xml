@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[El Nino-Southern Oscillation (ENSO) Interactions with Tropical Atlantic and Indian Oceans]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>599339.00</AwardTotalIntnAmount>
+<AwardAmount>599339</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020106</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yolande L. Serra</SignBlockName>
+<PO_EMAI>yserra@nsf.gov</PO_EMAI>
+<PO_PHON>7032922651</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The El Niño-Southern Oscillation (ENSO) is the dominant interannual variability in the Earth’s climate. Current understanding of the interactions between ENSO and tropical Atlantic and Indian Ocean is limited. However, these interactions are seemingly crucial for accurate prediction of ENSO structure and evolution and its global impact. Current operational models have difficulty accurately predicting ENSO and its interactions with climate modes in other ocean basins. Through observational analyses and numerical modeling tasks, results from this award may reveal key physical processes behind these interactions and advance our current knowledge of ENSO dynamics, pan-tropical climate interactions, and general large-scale atmosphere-ocean interactions. This in turn may provide additional metrics to assess and improve global model representations of ENSO and its influence on weather events.&lt;br/&gt;&lt;br/&gt;The award has three research thrusts. The first thrust investigates the relative roles of ENSO-induced extratropical and tropical forcing of sea surface temperature anomaly (SSTA) in the tropical North Atlantic (TNA) and how the TNA SSTA may feedback to ENSO through induced Rossby and Kelvin wave responses. Observational analyses and idealized model experiments will be performed. The second thrust examines the interaction between Atlantic Niño and ENSO. A composite analysis will be conducted to elucidate the formation mechanisms of Atlantic Niño under preceding El Niño and La Niña conditions. Coupled and uncoupled model experiments will be carried out to investigate how ENSO influences Atlantic Niño and how Atlantic Niño impacts subsequent ENSO evolution and to what extent model bias in sea surface temperature affects the remote Atlantic forcing. The third thrust investigates how ENSO influences the Indian Ocean dipole (IOD) and to what extent Indian Ocean basin warming contributes to El Niño turnabout. Focus will be placed on the effect of equatorially symmetric and antisymmetric circulation responses to El Niño during its developing summer and linear and nonlinear wind responses to the boreal winter IDO rainfall pattern.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006553</AwardID>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tim Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[timli@hawaii.edu]]></EmailAddress>
+<NSF_ID>000474603</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222247</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress><![CDATA[2425 CAMPUS RD SINCLAIR RM 1]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>HI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NSCKLFSSABF2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HAWAII</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<StateCode>HI</StateCode>
+<ZipCode>968222327</ZipCode>
+<StreetAddress><![CDATA[1680 East-West Road, POST 409B]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>HI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5740</Code>
+<Text>Climate &amp; Large-Scale Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~599339</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>El Nino-Southern Oscillation (ENSO) is a dominant interannual variability in the Earth climate system. Its main activity center is in tropical Pacific. Understanding and predicting ENSO is critical for seasonal climate prediction. Current knowledge in understanding ENSO interactions with climate modes in other ocean basins such as tropical Atlantic and Indian Ocean is limited. Current operational models have difficulty to accurately predict ENSO amplitude, structure and evolution and its interactions with climate modes in other ocean basins. The goal of this project is&nbsp;to investigate ENSO interactions with climate modes in tropical Atlantic and Indian Oceans and interactions with the climate mean state. Three research thrusts are proposed. The first thrust investigates how and to what extent sea surface temperature anomalies (SSTA) in tropical North Atlantic (TNA) and equatorial Atlantic affect ENSO evolution and structure. The second thrust examines how ENSO affects the formation of Atlantic SSTA. The third thrust investigates to what extent the Indian Ocean SSTA affect the ENSO evolution.</p> <p>The major findings are listed below.</p> <p>1. Impact of Tropical North and Equatorial Atlantic SST Anomalies on ENSO</p> <p>The SSTA in tropical Atlantic during boreal spring and summer show two dominant patterns: a basin-warming and a meridional dipole mode, respectively. Observational analyses and coupled model simulations by Jiang and Li (2021) indicate that the former induces a Pacific La Ni&ntilde;a in the succeeding winter whereas the latter cannot. The basin-warming forcing induces a La Ni&ntilde;a through a Kelvin wave response and the associated wind-evaporation-SST-convection (WESC) feedback over the northern Indian Ocean (NIO) and Maritime Continent (MC). Anomalous Kelvin wave easterly interacts with the monsoonal westerly, leading to a warm SSTA and a northwest-southeast oriented heating anomaly in NIO/MC, which further induces easterly and cold SSTA over the equatorial Pacific. In contrast, the dipole forcing has little impact on the Indian and Pacific Oceans due to the offsetting of the Kelvin wave to the asymmetric Atlantic heating.</p> <p>Further observational and modeling studies indicate that the Tropical North Atlantic (TNA) and Equatorial Atlantic (EA) SSTA modes can induce a CP- (EP-) type ENSO. In both cases, the Kelvin wave response and the WESC feedback over the NIO/MC are important in conveying the Atlantic&rsquo;s impact. The difference lies in distinctive Rossby wave responses &ndash; A marked westerly anomaly appears in the equatorial eastern Pacific (EEP) for the TNA forcing (due to its westward location) while no significant wind response is observed in EEP for the EA forcing. The westerly anomaly prevents a cooling tendency in EEP through anomalous zonal and vertical advection.</p> <p>2. Asymmetric impacts of El Ni&ntilde;o and La Ni&ntilde;a on the formation of Atlantic Ni&ntilde;o</p> <p>Despite a statistically insignificant relation between boreal summer equatorial Atlantic (EA) SSTA and preceding winter Nino3.4 index, an EA warming or Atlantic Ni&ntilde;o was preceded by either an El Ni&ntilde;o or a La Ni&ntilde;a. Physical mechanisms through which ENSO induced Atlantic Ni&ntilde;o were investigated through combined observational and modeling studies (Jiang et al. 2022). An El Ni&ntilde;o induces warm SSTA in the South Atlantic during El Ni&ntilde;o developing fall and mature winter via a Pacific&ndash;South American (PSA) pattern. The induced extratropical SSTA further extend to the equator through local air-sea interaction processes. In contrast, a La Ni&ntilde;a cannot cause negative SSTA in subtropical South Atlantic in northern fall due to its weaker strength. It is until La Ni&ntilde;a decaying spring and summer that it generates a significant westerly anomaly and thus warm SSTA in the equatorial Atlantic through the remote Gill-type response. The distinctive El Ni&ntilde;o and La Ni&ntilde;a evolutions, with a fast transition during El Ni&ntilde;o but persistence for La Ni&ntilde;a, contribute to the asymmetric Atlantic response. The persistence of La Ni&ntilde;a makes a stronger equatorial Atlantic response during ENSO&rsquo;s decaying spring. Besides, SSTA over the Maritime Continent and Indian Ocean also contribute to the asymmetric Atlantic responses between El Ni&ntilde;o and La Ni&ntilde;a in the developing fall and decaying spring, respectively. Our results suggest that ENSO-induced SSTA precondition in the South Atlantic and the ENSO evolution are key to explain the asymmetric impact of El Ni&ntilde;o and La Ni&ntilde;a on the formation of the Atlantic Ni&ntilde;o.</p> <p>&nbsp;</p> <p>Jiang, L.-S., and T. Li, 2021: Impacts of Tropical North Atlantic and Equatorial Atlantic SST Anomalies on ENSO. J. Climate, 34, 5635-5655. DOI: 10.1175/JCLI-D-20-0835.1</p> <p>Jiang, L.-S., Li, T., &amp; Ham, Y.-G. (2022b). Asymmetric impacts of El Ni&ntilde;o and La Ni&ntilde;a on Equatorial Atlantic warming. Journal of Climate. 36(1), 1-39. https://doi.org/10.1175/JCLI-D-22-0158.1</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/16/2023<br>      Modified by: Tim&nbsp;Li</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ El Nino-Southern Oscillation (ENSO) is a dominant interannual variability in the Earth climate system. Its main activity center is in tropical Pacific. Understanding and predicting ENSO is critical for seasonal climate prediction. Current knowledge in understanding ENSO interactions with climate modes in other ocean basins such as tropical Atlantic and Indian Ocean is limited. Current operational models have difficulty to accurately predict ENSO amplitude, structure and evolution and its interactions with climate modes in other ocean basins. The goal of this project is to investigate ENSO interactions with climate modes in tropical Atlantic and Indian Oceans and interactions with the climate mean state. Three research thrusts are proposed. The first thrust investigates how and to what extent sea surface temperature anomalies (SSTA) in tropical North Atlantic (TNA) and equatorial Atlantic affect ENSO evolution and structure. The second thrust examines how ENSO affects the formation of Atlantic SSTA. The third thrust investigates to what extent the Indian Ocean SSTA affect the ENSO evolution.  The major findings are listed below.  1. Impact of Tropical North and Equatorial Atlantic SST Anomalies on ENSO  The SSTA in tropical Atlantic during boreal spring and summer show two dominant patterns: a basin-warming and a meridional dipole mode, respectively. Observational analyses and coupled model simulations by Jiang and Li (2021) indicate that the former induces a Pacific La Ni&ntilde;a in the succeeding winter whereas the latter cannot. The basin-warming forcing induces a La Ni&ntilde;a through a Kelvin wave response and the associated wind-evaporation-SST-convection (WESC) feedback over the northern Indian Ocean (NIO) and Maritime Continent (MC). Anomalous Kelvin wave easterly interacts with the monsoonal westerly, leading to a warm SSTA and a northwest-southeast oriented heating anomaly in NIO/MC, which further induces easterly and cold SSTA over the equatorial Pacific. In contrast, the dipole forcing has little impact on the Indian and Pacific Oceans due to the offsetting of the Kelvin wave to the asymmetric Atlantic heating.  Further observational and modeling studies indicate that the Tropical North Atlantic (TNA) and Equatorial Atlantic (EA) SSTA modes can induce a CP- (EP-) type ENSO. In both cases, the Kelvin wave response and the WESC feedback over the NIO/MC are important in conveying the Atlantic’s impact. The difference lies in distinctive Rossby wave responses &ndash; A marked westerly anomaly appears in the equatorial eastern Pacific (EEP) for the TNA forcing (due to its westward location) while no significant wind response is observed in EEP for the EA forcing. The westerly anomaly prevents a cooling tendency in EEP through anomalous zonal and vertical advection.  2. Asymmetric impacts of El Ni&ntilde;o and La Ni&ntilde;a on the formation of Atlantic Ni&ntilde;o  Despite a statistically insignificant relation between boreal summer equatorial Atlantic (EA) SSTA and preceding winter Nino3.4 index, an EA warming or Atlantic Ni&ntilde;o was preceded by either an El Ni&ntilde;o or a La Ni&ntilde;a. Physical mechanisms through which ENSO induced Atlantic Ni&ntilde;o were investigated through combined observational and modeling studies (Jiang et al. 2022). An El Ni&ntilde;o induces warm SSTA in the South Atlantic during El Ni&ntilde;o developing fall and mature winter via a Pacific&ndash;South American (PSA) pattern. The induced extratropical SSTA further extend to the equator through local air-sea interaction processes. In contrast, a La Ni&ntilde;a cannot cause negative SSTA in subtropical South Atlantic in northern fall due to its weaker strength. It is until La Ni&ntilde;a decaying spring and summer that it generates a significant westerly anomaly and thus warm SSTA in the equatorial Atlantic through the remote Gill-type response. The distinctive El Ni&ntilde;o and La Ni&ntilde;a evolutions, with a fast transition during El Ni&ntilde;o but persistence for La Ni&ntilde;a, contribute to the asymmetric Atlantic response. The persistence of La Ni&ntilde;a makes a stronger equatorial Atlantic response during ENSO’s decaying spring. Besides, SSTA over the Maritime Continent and Indian Ocean also contribute to the asymmetric Atlantic responses between El Ni&ntilde;o and La Ni&ntilde;a in the developing fall and decaying spring, respectively. Our results suggest that ENSO-induced SSTA precondition in the South Atlantic and the ENSO evolution are key to explain the asymmetric impact of El Ni&ntilde;o and La Ni&ntilde;a on the formation of the Atlantic Ni&ntilde;o.     Jiang, L.-S., and T. Li, 2021: Impacts of Tropical North Atlantic and Equatorial Atlantic SST Anomalies on ENSO. J. Climate, 34, 5635-5655. DOI: 10.1175/JCLI-D-20-0835.1  Jiang, L.-S., Li, T., &amp; Ham, Y.-G. (2022b). Asymmetric impacts of El Ni&ntilde;o and La Ni&ntilde;a on Equatorial Atlantic warming. Journal of Climate. 36(1), 1-39. https://doi.org/10.1175/JCLI-D-22-0158.1          Last Modified: 10/16/2023       Submitted by: Tim Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

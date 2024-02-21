@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Wisdom-of-Crowds Approaches for Improving Predictions from Surveys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>380000.00</AwardTotalIntnAmount>
+<AwardAmount>380000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research project will investigate how survey accuracy can be improved using the wisdom of crowds. Surveys are important tools for making inferences about current attitudes, opinions, and behaviors as well as making forecasts about future trends. However, they are facing threats to their validity that can decrease the accuracy of their inferences. The project will explore the value of two methods based on the wisdom of crowds for improving survey accuracy. One method entails using respondents' knowledge of their social circles, that is, asking respondents to predict the behavior of friends and family. The other method is a scoring procedure that rewards honest and careful answers. By conducting fine-grained tests of the mechanisms underlying these methods, the project will provide insights regarding how to reduce common threats to the validity of surveys. The project also will inform ways to capture the early indications of opinion change relevant for elections and other societal trends. The results could change the way election polls are conducted and improve election predictions. Data from this project will be made publicly available. The results will be disseminated broadly to scientists, practitioners in survey research, polling companies, politicians, policy makers, public educators, journalists, and the general public.&lt;br/&gt;&lt;br/&gt;This research project will examine how political polling accuracy can be improved by incorporating respondents' knowledge of their social-circles and by scoring respondents' answers with the Bayesian Truth Serum algorithm. Social-circle expectation questions ask respondents how their family and friends will vote. Bayesian Truth Serum is a scoring method that can be used to incentivize and selectively weight participants who provide honest and careful answers. The investigators will assess how the combination of both methods can overcome four recognized threats to polling validity: biased samples, careless responding, socially desirable responding, and social dynamics. A longitudinal survey with a probabilistic national sample will be conducted. The survey will consist of three waves before the 2020 U.S. presidential election and one wave after the election. The investigators will compare traditional survey questions with wisdom-of-crowd methods. Benchmarks will include other concurrent polls and forecasting models and eventually the actual election results and a post-election survey.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019982</AwardID>
+<Investigator>
+<FirstName>Wandi</FirstName>
+<LastName>Bruine de Bruin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wandi Bruine de Bruin</PI_FULL_NAME>
+<EmailAddress><![CDATA[bruinede@usc.edu]]></EmailAddress>
+<NSF_ID>000219717</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Drazen</FirstName>
+<LastName>Prelec</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Drazen Prelec</PI_FULL_NAME>
+<EmailAddress><![CDATA[DPRELEC@MIT.EDU]]></EmailAddress>
+<NSF_ID>000178380</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mirta</FirstName>
+<LastName>Galesic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mirta Galesic</PI_FULL_NAME>
+<EmailAddress><![CDATA[galesic@santafe.edu]]></EmailAddress>
+<NSF_ID>000692122</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Henrik</FirstName>
+<LastName>Olsson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henrik Olsson</PI_FULL_NAME>
+<EmailAddress><![CDATA[olsson@santafe.edu]]></EmailAddress>
+<NSF_ID>000689879</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Santa Fe Institute]]></Name>
+<CityName>SANTA FE</CityName>
+<ZipCode>875018943</ZipCode>
+<PhoneNumber>5059462727</PhoneNumber>
+<StreetAddress><![CDATA[1399 HYDE PARK RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M8SBQ7NVNAH4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SANTA FE INSTITUTE OF SCIENCE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Santa Fe Institute]]></Name>
+<CityName/>
+<StateCode>NM</StateCode>
+<ZipCode>875018943</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1333</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~380000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Election polling accuracy has been a contentious issue for some time, particularly as traditional polling methods, which rely on participants' self-reported own voting intentions, have frequently failed to predict election outcomes accurately. This project aims to enhance the accuracy of poll-based forecasts by integrating traditional polling questions regarding individuals' voting intentions with their perceptions of how others are likely to vote.</p> <p>To counteract problems with traditional polls that ask about participants&rsquo; own voting intentions, researchers have been exploring polling questions that make use of the wisdom-of-crowds. These questions ask respondents to act either as lay forecasters, predicting the election winner or as lay ethnographic informants, estimating the voting expectations of individuals in their social circle. Both methods have been shown to yield as or more accurate forecasts than those based solely on respondents' voting intentions. In particular, social-circle questions have demonstrated superior performance over own intention questions in several national elections, including the 2016 U.S. presidential election, the 2017 French presidential election, the 2017 Dutch parliamentary election, and the 2018 Swedish parliamentary election.</p> <p>While combining forecasts from different methods has a long-standing history in the forecasting literature, there has been a lack of effort to integrate insights from all these wisdom-of-crowds methods with traditional own intentions question within a theoretically sound framework. This project offers the first method to do so, employing a novel Bayesian bootstrap approach. This integrative method provides a Bayesian rationale for optimally weighing and integrating information from both traditional and wisdom-of-crowds polling questions to predict election outcomes more accurately. It estimates the private and background evidence present in responses to these questions and integrates them into a forecast that appropriately weighs their contributions.</p> <p>Our analysis is based on data from a comprehensive longitudinal poll conducted on a large national sample (over 4000 participants) surveyed before the 2018 U.S. Congressional election and the 2020 U.S. presidential election. This study is part of the USC Dornsife&rsquo;s Understanding America Study (UAS). Investigating different questions and methods within a single poll has specific advantages. It allows for direct comparison of forecasts based on various methods while controlling for sampling effects. Additionally, it enables the evaluation of the contribution of information gleaned from different polling questions to the overall forecast.</p> <p>We assess the accuracy of our forecasts generated by this new integrative method, comparing it with the accuracy of forecasts based solely on personal intentions and different wisdom-of-crowds questions. We further investigate how much information different questions contribute to the integrative bootstrap forecast. The results show that bootstrap forecast outperforms forecasts based on own intentions questions posed before the 2018 and 2020 U.S. elections. The bootstrap forecast puts most weight on people&rsquo;s expectations about how their social contacts will vote.</p> <p>Another critical aspect of our research is examining why certain questions, especially those about social-circle expectations, have a more significant impact on the Bayesian bootstrap forecast. It has been hypothesized that wisdom-of-crowds questions are more effective in gathering information about difficult-to-reach or reluctant respondents compared to traditional polling questions. We empirically test this conjecture and find that social-circle expectations do indeed provide better insights into voter groups that are typically less-well represented in polls, such as younger and less educated individuals, as well as 'hidden' voters who are hesitant to disclose their voting preferences due to embarrassment, fear of harassment, or intentional misrepresentation in polls. These findings offer the first empirical support for the proposed advantages of wisdom-of-crowds questions.</p> <p>The results from this project advance our understanding of how to mitigate threats to the validity of election polls and surveys in general. By leveraging novel wisdom-of-crowds methods, this research provides a more nuanced understanding of the mechanisms that affect the efficacy of social-circle questions and integrative Bayesian methods in reducing threats from biased samples, careless responding, socially desirable responding, and social dynamics. Furthermore, the project sheds light on how to better capture early indicators of opinion change, which are crucial for understanding and forecasting voting behavior and other societal trends.</p><br> <p>  Last Modified: 11/21/2023<br> Modified by: Henrik&nbsp;Olsson</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Election polling accuracy has been a contentious issue for some time, particularly as traditional polling methods, which rely on participants' self-reported own voting intentions, have frequently failed to predict election outcomes accurately. This project aims to enhance the accuracy of poll-based forecasts by integrating traditional polling questions regarding individuals' voting intentions with their perceptions of how others are likely to vote.   To counteract problems with traditional polls that ask about participants own voting intentions, researchers have been exploring polling questions that make use of the wisdom-of-crowds. These questions ask respondents to act either as lay forecasters, predicting the election winner or as lay ethnographic informants, estimating the voting expectations of individuals in their social circle. Both methods have been shown to yield as or more accurate forecasts than those based solely on respondents' voting intentions. In particular, social-circle questions have demonstrated superior performance over own intention questions in several national elections, including the 2016 U.S. presidential election, the 2017 French presidential election, the 2017 Dutch parliamentary election, and the 2018 Swedish parliamentary election.   While combining forecasts from different methods has a long-standing history in the forecasting literature, there has been a lack of effort to integrate insights from all these wisdom-of-crowds methods with traditional own intentions question within a theoretically sound framework. This project offers the first method to do so, employing a novel Bayesian bootstrap approach. This integrative method provides a Bayesian rationale for optimally weighing and integrating information from both traditional and wisdom-of-crowds polling questions to predict election outcomes more accurately. It estimates the private and background evidence present in responses to these questions and integrates them into a forecast that appropriately weighs their contributions.   Our analysis is based on data from a comprehensive longitudinal poll conducted on a large national sample (over 4000 participants) surveyed before the 2018 U.S. Congressional election and the 2020 U.S. presidential election. This study is part of the USC Dornsifes Understanding America Study (UAS). Investigating different questions and methods within a single poll has specific advantages. It allows for direct comparison of forecasts based on various methods while controlling for sampling effects. Additionally, it enables the evaluation of the contribution of information gleaned from different polling questions to the overall forecast.   We assess the accuracy of our forecasts generated by this new integrative method, comparing it with the accuracy of forecasts based solely on personal intentions and different wisdom-of-crowds questions. We further investigate how much information different questions contribute to the integrative bootstrap forecast. The results show that bootstrap forecast outperforms forecasts based on own intentions questions posed before the 2018 and 2020 U.S. elections. The bootstrap forecast puts most weight on peoples expectations about how their social contacts will vote.   Another critical aspect of our research is examining why certain questions, especially those about social-circle expectations, have a more significant impact on the Bayesian bootstrap forecast. It has been hypothesized that wisdom-of-crowds questions are more effective in gathering information about difficult-to-reach or reluctant respondents compared to traditional polling questions. We empirically test this conjecture and find that social-circle expectations do indeed provide better insights into voter groups that are typically less-well represented in polls, such as younger and less educated individuals, as well as 'hidden' voters who are hesitant to disclose their voting preferences due to embarrassment, fear of harassment, or intentional misrepresentation in polls. These findings offer the first empirical support for the proposed advantages of wisdom-of-crowds questions.   The results from this project advance our understanding of how to mitigate threats to the validity of election polls and surveys in general. By leveraging novel wisdom-of-crowds methods, this research provides a more nuanced understanding of the mechanisms that affect the efficacy of social-circle questions and integrative Bayesian methods in reducing threats from biased samples, careless responding, socially desirable responding, and social dynamics. Furthermore, the project sheds light on how to better capture early indicators of opinion change, which are crucial for understanding and forecasting voting behavior and other societal trends.     Last Modified: 11/21/2023       Submitted by: HenrikOlsson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RPP HS Strand (Small): Preparing High School Teachers to Broaden Participation by Teaching Programming Online]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299848.00</AwardTotalIntnAmount>
+<AwardAmount>299848</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Ford</SignBlockName>
+<PO_EMAI>miford@nsf.gov</PO_EMAI>
+<PO_PHON>7032925153</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The University of North Carolina at Charlotte (UNCC) in collaboration with the North Carolina Virtual Public School (NCVPS) will partner with surrounding school districts to build a Research-Practitioner Partnership (RPP). High schools struggle to not train teachers to offer CS courses, but also to diversify the students taking computing courses. This project will develop and offer an online professional development course for high school teachers to prepare them to teach computer science to diverse learners including learners from underserved and underrepresented groups. This project will advance the use of automated graders as well as culturally responsive instructional materials to teach computing. In addition, this project will prepare the teachers with strategies to effectively teach computing online which is essential to our current society and to reach students who do not otherwise have opportunities to study computing. &lt;br/&gt;&lt;br/&gt;This RPP partnership will leverage the AP Computer Science A (APCSA) course offered online by NCVPS throughout North Carolina. The project team seeks to enhance the teaching of Computer Science content using online resources with a long-term goal to increase participation in high school courses by students from traditionally underrepresented groups. This project will address one of the structural constraints (e.g., not enough teachers) faced when broadening participation using automated assessment tools. Furthermore, to make computing relevant to a diverse student population, they plan to create culturally responsive teaching materials and train teachers on their use. The project staff will: (1) foster the development of an RPP with NCVPS teachers, (2) develop and deliver an online course focused on how to teach Computer Science online with a focus on Broadening Participation, (3) develop teaching materials to train teachers on how to use automated graders in CS courses, and (4) develop  teaching materials to train teachers how to teach CS to culturally and racially diverse students. This project will expand the offering of APCSA to districts and schools that traditionally have been under served, with the goal to increase the number of students from underrepresented and underserved groups taking the APCSA course.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031496</AwardID>
+<Investigator>
+<FirstName>Florence</FirstName>
+<LastName>Martin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Florence Martin</PI_FULL_NAME>
+<EmailAddress><![CDATA[fmartin3@ncsu.edu]]></EmailAddress>
+<NSF_ID>000680076</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Pugalee</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David K Pugalee</PI_FULL_NAME>
+<EmailAddress><![CDATA[David.Pugalee@uncc.edu]]></EmailAddress>
+<NSF_ID>000248936</NSF_ID>
+<StartDate>01/31/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Pugalee</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David K Pugalee</PI_FULL_NAME>
+<EmailAddress><![CDATA[David.Pugalee@uncc.edu]]></EmailAddress>
+<NSF_ID>000248936</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate>01/31/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manuel</FirstName>
+<LastName>Perez-Quinones</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manuel A Perez-Quinones</PI_FULL_NAME>
+<EmailAddress><![CDATA[Perez.Quinones@uncc.edu]]></EmailAddress>
+<NSF_ID>000478387</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate>01/31/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 UNIVERSITY CITY BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JB33DT84JNA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName>Charlotte</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>282230001</ZipCode>
+<StreetAddress><![CDATA[9201 University City Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>055Y</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299848</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-f1b1d54c-7fff-eb17-5dc4-4b15bc79661a"> </span></p> <p dir="ltr"><span>This project enhanced teaching programming online with a focus on increasing participation in high school courses by students from traditionally underrepresented and underserved groups. The work involved a partnership between the University of North Carolina Charlotte (UNCC) and the North Carolina Virtual Public School (NCVPS).&nbsp; The partnership's primary goal was to leverage the AP Computer Science A (APCSA) course offered online by NCVPS across NC. The partnership addressed online pedagogy and the incorporation of automated assessment tools; thus, this work responded to a significant structural constraint, the limited availability of prepared computer science teachers. To make computing relevant to a diverse student population, project resources included creating culturally responsive teaching materials and support for teachers on their use. </span><span>The professional development course goals include 1. Design and Facilitate an APCSA course utilizing auto graders; 2. Utilize online teaching strategies for design, facilitation, and assessment in APCSA courses; and 3. Design and facilitate an APCSA course for culturally and racially diverse students.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The professional development program was designed and implemented through a Research to Practice Partnership (RPP). </span><span>Establishing an intentional, long-standing, and collaborative partnership between researchers at the University of North Carolina Charlotte and computer science teachers at the NC Virtual Public School is critical to addressing the professional development needs of a larger audience of online computer science teachers. The RPP approach stresses the role of the NC Virtual Public School teachers as leaders in shaping professional development design for teaching programming online. Using participatory research approaches, the project team engaged 10 lead NCVPS teachers during the project's first year in Summer 2021 to identify critical instructional approaches and resources vital to their success in online computer science teaching. This information provided a framework for developing the online professional development modules.&nbsp;</span></p> <p dir="ltr"><span>In the summer of 2022, the project conducted a six-week online professional development course with 22 high school teachers, the majority teaching in Title 1 schools. The professional development course consisted of six modules. Each module was designed to be completed in week-long increments. Modules included forums to promote discussion and a repository of student resources. The objectives of the modules are aligned to the North Carolina K-12 Computer Science Standards which mirrored those developed through the Computer Science Teachers Association.&nbsp; Module 1 focuses on Types and Data. The module includes the development of ideas on teaching types and data with physical models. The Technology Education and Learning Support (TEALS) curriculum map is also presented in this module (Microsoft, 2021). Another resource included is the College Board APCSA e-lessons.&nbsp; Module 2 focuses on Logic and Control. Module support includes a video on teaching logic and control and syntax exercises in computer science. Exercises include the use of the Open Replit IDE. This module includes an introduction to Auto Grader, a tool to review code and automatically provide feedback on how to address faults. Module 3 focuses on Data Structures. The module continues with video instruction supports, connections to the TEALS Curriculum Map, and College Board APCSA e-lessons. Additional development is given to Java (quick reference), using algorithms and arrays, 2D arrays and methods, control structures, loops, and conditionals.&nbsp; Module 4 focuses on Advanced Topics. The module further develops teaching Java inheritance with physical models and teaching recursion. Assessments include CodeWorkout exercises on inheritance and recursion.&nbsp; Module 5 focuses on Ethical Computing. The module includes resources from the Internet Rules Lab (University of Colorado Boulder, 2023). An introduction to Technolochicas is available to promote awareness of issues and opportunities for underrepresented groups in computer science. A reading lesson is presented based on the book &ldquo;Power On!&rdquo; by Jean J. Ryoo and Jane Margolis, about a diverse group of teenage friends who learn how computing can be empowering. Similarly, information in the book &ldquo;Stuck in the Shallow End&rdquo; by Jane Margolis explores education, race, and computing. Module 6 is the Additional Resources section. This section includes General CS Teaching Tools and Supplemental Resources with particular attention paid to vocabulary, tool repository, student debugging, common errors, misconceptions, and more in Java, IDEs and compilers, CodeCheck Authoring, and more. &nbsp; Overall, the teachers&rsquo; content knowledge increased due to their participation in the online professional development course. Teachers also reported a positive experience in the professional development course. Access information for the public Canvas access to these modules is available by contacting the PI.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/23/2024<br> Modified by: David&nbsp;K&nbsp;Pugalee</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2031496/2031496_10703958_1706018426258_Teaching_Programming_Online_UNC_Charlotte_Overview--rgov-214x142.png" original="/por/images/Reports/POR/2024/2031496/2031496_10703958_1706018426258_Teaching_Programming_Online_UNC_Charlotte_Overview--rgov-800width.png" title="Course Home Page"><img src="/por/images/Reports/POR/2024/2031496/2031496_10703958_1706018426258_Teaching_Programming_Online_UNC_Charlotte_Overview--rgov-66x44.png" alt="Course Home Page"></a> <div class="imageCaptionContainer"> <div class="imageCaption">UNC Charlotte, Teaching Programming Online, Canvas Page</div> <div class="imageCredit">NA</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">David&nbsp;K&nbsp;Pugalee <div class="imageTitle">Course Home Page</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project enhanced teaching programming online with a focus on increasing participation in high school courses by students from traditionally underrepresented and underserved groups. The work involved a partnership between the University of North Carolina Charlotte (UNCC) and the North Carolina Virtual Public School (NCVPS). The partnership's primary goal was to leverage the AP Computer Science A (APCSA) course offered online by NCVPS across NC. The partnership addressed online pedagogy and the incorporation of automated assessment tools; thus, this work responded to a significant structural constraint, the limited availability of prepared computer science teachers. To make computing relevant to a diverse student population, project resources included creating culturally responsive teaching materials and support for teachers on their use. The professional development course goals include 1. Design and Facilitate an APCSA course utilizing auto graders; 2. Utilize online teaching strategies for design, facilitation, and assessment in APCSA courses; and 3. Design and facilitate an APCSA course for culturally and racially diverse students.      The professional development program was designed and implemented through a Research to Practice Partnership (RPP). Establishing an intentional, long-standing, and collaborative partnership between researchers at the University of North Carolina Charlotte and computer science teachers at the NC Virtual Public School is critical to addressing the professional development needs of a larger audience of online computer science teachers. The RPP approach stresses the role of the NC Virtual Public School teachers as leaders in shaping professional development design for teaching programming online. Using participatory research approaches, the project team engaged 10 lead NCVPS teachers during the project's first year in Summer 2021 to identify critical instructional approaches and resources vital to their success in online computer science teaching. This information provided a framework for developing the online professional development modules.   In the summer of 2022, the project conducted a six-week online professional development course with 22 high school teachers, the majority teaching in Title 1 schools. The professional development course consisted of six modules. Each module was designed to be completed in week-long increments. Modules included forums to promote discussion and a repository of student resources. The objectives of the modules are aligned to the North Carolina K-12 Computer Science Standards which mirrored those developed through the Computer Science Teachers Association. Module 1 focuses on Types and Data. The module includes the development of ideas on teaching types and data with physical models. The Technology Education and Learning Support (TEALS) curriculum map is also presented in this module (Microsoft, 2021). Another resource included is the College Board APCSA e-lessons. Module 2 focuses on Logic and Control. Module support includes a video on teaching logic and control and syntax exercises in computer science. Exercises include the use of the Open Replit IDE. This module includes an introduction to Auto Grader, a tool to review code and automatically provide feedback on how to address faults. Module 3 focuses on Data Structures. The module continues with video instruction supports, connections to the TEALS Curriculum Map, and College Board APCSA e-lessons. Additional development is given to Java (quick reference), using algorithms and arrays, 2D arrays and methods, control structures, loops, and conditionals. Module 4 focuses on Advanced Topics. The module further develops teaching Java inheritance with physical models and teaching recursion. Assessments include CodeWorkout exercises on inheritance and recursion. Module 5 focuses on Ethical Computing. The module includes resources from the Internet Rules Lab (University of Colorado Boulder, 2023). An introduction to Technolochicas is available to promote awareness of issues and opportunities for underrepresented groups in computer science. A reading lesson is presented based on the book Power On! by Jean J. Ryoo and Jane Margolis, about a diverse group of teenage friends who learn how computing can be empowering. Similarly, information in the book Stuck in the Shallow End by Jane Margolis explores education, race, and computing. Module 6 is the Additional Resources section. This section includes General CS Teaching Tools and Supplemental Resources with particular attention paid to vocabulary, tool repository, student debugging, common errors, misconceptions, and more in Java, IDEs and compilers, CodeCheck Authoring, and more.  Overall, the teachers content knowledge increased due to their participation in the online professional development course. Teachers also reported a positive experience in the professional development course. Access information for the public Canvas access to these modules is available by contacting the PI.             Last Modified: 01/23/2024       Submitted by: DavidKPugalee]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

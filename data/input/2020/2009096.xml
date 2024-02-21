@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DEEP Drilling into the Kuiper Belt: The DECam Ecliptic Exploration Project]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>428215.00</AwardTotalIntnAmount>
+<AwardAmount>428215</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacqueline Keane</SignBlockName>
+<PO_EMAI>jkeane@nsf.gov</PO_EMAI>
+<PO_PHON>7032928123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This work will complete the DECam Ecliptic Exploration Project (DEEP). DEEP is an ongoing ground-based telescopic survey of Trans-Neptunian objects (TNOs). Observing the faintest objects yet found in the outer solar system, DEEP will likely discover 6,000 – 10,000 TNOs. As of today, all surveys of the Outer Solar System have yielded approximately 2,000 TNOs combined. DEEP will observe many of the faintest TNOs down to diameters of ~50 km. Until now, these faint TNOs have been under-represented in surveys due to the difficulty in observing them. The survey will also discover approximately 100,000 asteroids throughout the Solar System. This unprecedented trove of TNOs will yield new insights into Solar System evolution and its origins. This work will complete a graduate student’s PhD and will involve a number of undergraduate students through the University of Michigan’s REU program. The team is also working with UM’s Natural History Museum on an exhibit based on this work.&lt;br/&gt;&lt;br/&gt;The DECam Ecliptic Exploration Project (DEEP) has been awarded 46.5 nights on the 4-meter Blanco Telescope at CTIO. Science operations began in 2019 with 8.5 nights, and will continue in 2020 and 2021. DEEP will acquire 4-hour exposure sequences of near-ecliptic fields, reaching a depth of 24.5 mag in single exposures and nearly 27.0 mag in co-added stacks. Using established shift-and-stack techniques, DEEP will discover thousands of trans-Neptunian objects (TNOs). A proof-of-concept analysis in early DEEP data yielded 80 TNOs with SNR&gt;15 in a single 4-hour DEEP exposure sequence, implying an eventual yield of 6,000-10,000 discoveries with SNR&gt;5-10 even without improvements to the team’s existing tools. The team will measure the TNO size distribution down to ~50 km, measure colors and rotation rates of many objects as a function of their dynamical class and discover distant objects beyond the Kuiper Belt.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009096</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Gerdes</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David W Gerdes</PI_FULL_NAME>
+<EmailAddress><![CDATA[gerdes@umich.edu]]></EmailAddress>
+<NSF_ID>000284080</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fred</FirstName>
+<LastName>Adams</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fred C Adams</PI_FULL_NAME>
+<EmailAddress><![CDATA[fca@umich.edu]]></EmailAddress>
+<NSF_ID>000417074</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName/>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~428215</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our solar system beyond Neptune is home to thousands of small, icy bodies known as trans-Neptunian objects (TNOs) that take hundreds of years to complete one orbit around the sun. They are believed to be relatively undisturbed remnants of the planetesimal disk from which the Earth and the other planets formed over 4 billion years ago. Their properties therefore encode information about the solar system&rsquo;s original state, and how it evolved to its present configuration. The first TNO, Pluto, was discovered nearly 100 years ago, but more TNOs were not discovered until the 1990s. The pace of discovery has increased in recent years thanks in part to advances in astronomical instrumentation &ndash; more powerful telescopes and more sensitive cameras. But advances in computing and data analysis have also played an important role in expanding our knowledge of the solar system&rsquo;s most distant populations. Achieving these computational advances has been a main outcome of this award.</p> <p>&nbsp;This award funded our work on the DECam Ecliptic Exploration Project (DEEP), an astronomical survey that was carried out over approximately 50 nights between 2019-2022, using the 4-meter Blanco telescope at Cerro Tololo Inter-American Observatory in Chile. DEEP observed 4 groups of fields distributed around the solar system&rsquo;s invariable plane, where the density of TNOs is greatest. Each field was observed for approximately 4 hours at a time, in a sequence of about 100 shorter exposures. These exposures can be added together (&ldquo;stacked&rdquo;) to form the equivalent of a single very long exposure, in which ultra-faint objects can be revealed. But for TNOs, there&rsquo;s a catch: because they are moving, a simple image stack would cause the TNO to smear into a streak, causing us to lose sensitivity. Instead, we want to shift each image slightly before adding it to the stack, matching the rate of the moving object. This &ldquo;shift-and-stack&rdquo; technique causes the TNO to appear point-like, as desired. However we don&rsquo;t know the rate of motion for an object we haven&rsquo;t discovered yet, and our data contain TNOs moving at many different rates. So we repeat the shift-and-stack process for approximately 100 different rates of motion, each of which is a possible TNO rate, and search for point-like sources in each stack.</p> <p>&nbsp;</p> <p>The shift-and-stack process results in a tremendous quantity of data, with millions of potential TNO-like candidates. The vast majority of these are spurious detections and image artifacts. We have developed a sophisticated analysis pipeline based on convolutional neural networks that reduces the bogus detections by a factor of 10,000 while keeping the vast majority of the real TNOs. We test our algorithm by injecting synthetic TNOs into our images to measure the recovery efficiency (over 90% for all but the faintest objects). We also check for false positives by repeating the entire shift-and-stack process for unphysical rates of motion. Together, our measurements of the efficiency and false-positive rate allow us to rigorously characterize the completeness and purity of our sample.</p> <p>We applied our shift-and-stack algorithm to the first of the four DEEP field groupings. This set of fields was observed in 2019, 2020, and 2021, giving us the opportunity to follow TNOs over several years. We made single-night detections of over 2300 TNOs, nearly all of which are new discoveries. The vast majority of these objects are too faint to be visible in individual exposures, but stand out clearly when the images are stacked at the correct rate of motion. This represents a major advance in the state of the art over previous surveys that were limited to single-exposure detections.</p> <p>Our work resulted in a series of six refereed so far publications describing the survey design and methodology and our first scientific results. Some of our key results:</p> <ul> <li>We measured the size distribution of the sub-population of TNOs known as the Cold Classical Kuiper Belt. We found that smaller objects are more abundant, but that the size distribution flattens out at the small end, i.e. the number of small objects increases more slowly at the faint end. This is consistent with models of planetesimal formation based on a phenomenon called the streaming instability.</li> <li>We measured the total mass of the Cold Classical Kuiper Belt and found it to be about 0.2% of an earth mass &ndash; all distributed among thousands of small objects.</li> <li>We developed an open-source software package called SpaceRocks to simplify complex calculations in solar system dynamics.</li> </ul> <p>We also performed theoretical studies of outer solar system dynamics, and on the capture of interstellar objects by the sun. This work contributed to the Ph.D. theses of two graduate students. Numerous undergraduate students gained career-shaping research experiences by participating in this work. We are continuing to analyze the DEEP data, and have many new projects to pursue with it.</p><br> <p>  Last Modified: 01/23/2024<br> Modified by: David&nbsp;W&nbsp;Gerdes</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706036850651_DEEP_B1_2021--rgov-214x142.png" original="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706036850651_DEEP_B1_2021--rgov-800width.png" title="A DEEP survey field"><img src="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706036850651_DEEP_B1_2021--rgov-66x44.png" alt="A DEEP survey field"></a> <div class="imageCaptionContainer"> <div class="imageCaption">One of the four groups of fields observed by our DEEP survey. Each hexagonal region represents one field of view of the camera. The yellow dots represent new Kuiper Belt objects we discovered. The red and blue lines represent the invariable and ecliptic planes, where the density of KBOs is highest.</div> <div class="imageCredit">Kevin Napier</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">David&nbsp;W&nbsp;Gerdes <div class="imageTitle">A DEEP survey field</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706034606761_cc_H_taper--rgov-214x142.png" original="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706034606761_cc_H_taper--rgov-800width.png" title="Size distribution of cold classical Kuiper Belt objects"><img src="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706034606761_cc_H_taper--rgov-66x44.png" alt="Size distribution of cold classical Kuiper Belt objects"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Measured size and absolute magnitude distribution of cold classical Kuiper Belt objects. This work extended the previous state of the art ("OSSOS limit") by over two full magnitudes. This plot shows that smaller objects are more common than large ones, but that the distribution flattens out.</div> <div class="imageCredit">Kevin Napier</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">David&nbsp;W&nbsp;Gerdes <div class="imageTitle">Size distribution of cold classical Kuiper Belt objects</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706034392574_M_mosaic--rgov-214x142.png" original="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706034392574_M_mosaic--rgov-800width.png" title="2400 new Kuiper Belt objects"><img src="/por/images/Reports/POR/2024/2009096/2009096_10691882_1706034392574_M_mosaic--rgov-66x44.png" alt="2400 new Kuiper Belt objects"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Roughly 2400 new Kuiper Belt objects detected by the DECam Ecliptic Exploration Project (DEEP) using the 4-meter Blanco telescope in Chile. These objects are found beyond Neptune and take hundreds of years to orbit the sun. The smallest of these new objects is about 25 km in diameter.</div> <div class="imageCredit">Kevin Napier</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">David&nbsp;W&nbsp;Gerdes <div class="imageTitle">2400 new Kuiper Belt objects</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our solar system beyond Neptune is home to thousands of small, icy bodies known as trans-Neptunian objects (TNOs) that take hundreds of years to complete one orbit around the sun. They are believed to be relatively undisturbed remnants of the planetesimal disk from which the Earth and the other planets formed over 4 billion years ago. Their properties therefore encode information about the solar systems original state, and how it evolved to its present configuration. The first TNO, Pluto, was discovered nearly 100 years ago, but more TNOs were not discovered until the 1990s. The pace of discovery has increased in recent years thanks in part to advances in astronomical instrumentation  more powerful telescopes and more sensitive cameras. But advances in computing and data analysis have also played an important role in expanding our knowledge of the solar systems most distant populations. Achieving these computational advances has been a main outcome of this award.   This award funded our work on the DECam Ecliptic Exploration Project (DEEP), an astronomical survey that was carried out over approximately 50 nights between 2019-2022, using the 4-meter Blanco telescope at Cerro Tololo Inter-American Observatory in Chile. DEEP observed 4 groups of fields distributed around the solar systems invariable plane, where the density of TNOs is greatest. Each field was observed for approximately 4 hours at a time, in a sequence of about 100 shorter exposures. These exposures can be added together (stacked) to form the equivalent of a single very long exposure, in which ultra-faint objects can be revealed. But for TNOs, theres a catch: because they are moving, a simple image stack would cause the TNO to smear into a streak, causing us to lose sensitivity. Instead, we want to shift each image slightly before adding it to the stack, matching the rate of the moving object. This shift-and-stack technique causes the TNO to appear point-like, as desired. However we dont know the rate of motion for an object we havent discovered yet, and our data contain TNOs moving at many different rates. So we repeat the shift-and-stack process for approximately 100 different rates of motion, each of which is a possible TNO rate, and search for point-like sources in each stack.      The shift-and-stack process results in a tremendous quantity of data, with millions of potential TNO-like candidates. The vast majority of these are spurious detections and image artifacts. We have developed a sophisticated analysis pipeline based on convolutional neural networks that reduces the bogus detections by a factor of 10,000 while keeping the vast majority of the real TNOs. We test our algorithm by injecting synthetic TNOs into our images to measure the recovery efficiency (over 90% for all but the faintest objects). We also check for false positives by repeating the entire shift-and-stack process for unphysical rates of motion. Together, our measurements of the efficiency and false-positive rate allow us to rigorously characterize the completeness and purity of our sample.   We applied our shift-and-stack algorithm to the first of the four DEEP field groupings. This set of fields was observed in 2019, 2020, and 2021, giving us the opportunity to follow TNOs over several years. We made single-night detections of over 2300 TNOs, nearly all of which are new discoveries. The vast majority of these objects are too faint to be visible in individual exposures, but stand out clearly when the images are stacked at the correct rate of motion. This represents a major advance in the state of the art over previous surveys that were limited to single-exposure detections.   Our work resulted in a series of six refereed so far publications describing the survey design and methodology and our first scientific results. Some of our key results:  We measured the size distribution of the sub-population of TNOs known as the Cold Classical Kuiper Belt. We found that smaller objects are more abundant, but that the size distribution flattens out at the small end, i.e. the number of small objects increases more slowly at the faint end. This is consistent with models of planetesimal formation based on a phenomenon called the streaming instability. We measured the total mass of the Cold Classical Kuiper Belt and found it to be about 0.2% of an earth mass  all distributed among thousands of small objects. We developed an open-source software package called SpaceRocks to simplify complex calculations in solar system dynamics.    We also performed theoretical studies of outer solar system dynamics, and on the capture of interstellar objects by the sun. This work contributed to the Ph.D. theses of two graduate students. Numerous undergraduate students gained career-shaping research experiences by participating in this work. We are continuing to analyze the DEEP data, and have many new projects to pursue with it.     Last Modified: 01/23/2024       Submitted by: DavidWGerdes]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

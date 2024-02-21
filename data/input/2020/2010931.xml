@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Research Using Biological Collections. The fellowship supports research and training of the Fellow that will utilize biological collections in innovative ways. Certain traits are thought to promote the diversity of organismal groups. These traits act as evolutionary innovations that allow species access to new biological niches, fueling diversification. Within ray-finned fishes, the most diverse group of vertebrates, a classic example of such a feature is the formation of a second set of jaws that are called pharyngeal jaws. Some species have unique configurations of these jaws, a  phenomenon known as pharyngognathy; this condition promotes diversification by allowing access to more types of foods. Pharyngonathy promotes the evolution of the oral jaws for prey capture and the pharyngeal jaws for prey processing. The study will use X-ray computed microtomography (microCT) to capture the complex anatomy of the bones and muscles of the oral and pharyngeal jaws to understand this phenomenon. Scans resulting from this research will be used to generate educational (laboratory) materials that will be used to teach about the diversity of jaws among different fish species. Undergraduates from diverse backgrounds will be recruited to conduct research activities that will also inform the creation of a public museum exhibit at the University of Michigan Museum of Natural History.&lt;br/&gt;&lt;br/&gt;Pharyngognathy, a classic example of an evolutionary innovation, occurs in ray-finned fishes; the pharyngeal jaws of some clades are modified into a second set of highly functional jaws within the throat. It is thought that the decoupling of the oral jaws for prey capture and pharyngeal jaws for prey processing has allowed pharyngognathous fishes access to unique dietary niches, sparking their diversification. This project will train the Fellow in utilizing X-ray computed microCT to capture the complex musculoskeletal morphology of museum specimens as inputs for modelling their functional properties. This research will test if the oral and pharyngeal jaws are functionally decoupled as previously hypothesized and if pharyngognathy provides unique functional benefits that may promote phenotypic and diet evolution by utilizing phylogenetic comparative methods. The Fellow will have the opportunity to work in association with one of the largest fish collections in the world. This will allow the Fellow to develop valuable insights into how evolutionary innovations generate novel functional performance; these findings will be conveyed through research with undergraduates and outreach activities to the public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010931</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Borstein</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel R Borstein</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000703578</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Borstein, Samuel R</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>37996</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481082228</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>001Y</Code>
+<Text>Collections Postdocs</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Understanding the drivers of biological diversity is a major goal in biology. One long thought driver of biodiversity is evolutionary innovations, which are novel traits thought to influence both ecological and species diversity by facilitating access into novel niches. A classic example of an evolutionary innovation is pharyngognathy. Pharyngognathy is an extensive series of modifications to the bones and muscles of a second set of jaws (the pharyngeal jaws) in fish throats. This second set of jaws is thought to provide fishes which possess them, pharyngognaths, the ability to exploit a diverse array of diets as it promotes the separation and independent evolution of the oral jaws (i.e. the mouth) for prey capture and the pharyngeal jaws for prey processing. This separation in function between the two sets of jaws is known as functional decoupling. However, tests of pharyngognathy as an evolutionary innovation have been limited in scope and typically focus on only a single or a few pharyngognath fish families, but not all. These studies also typically lack comparisons to non-pharyngognath fishes. This research focused on digitizing fish specimens in natural history collections using X-ray computed microtomography (microCT scanning) to investigate the genomic basis of pharyngognathy, the impacts of pharyngognathy on speciation and ecological diversity, the morphological diversity of pharyngeal jaws across pharyngognaths, and if pharyngognaths experienced greater functional decoupling between their oral and pharyngeal jaws than non-pharyngognaths.</p> <p>Pharyngognathy is thought to have evolved six times: in cichlids (Cichlidae), wrasses (Labridae), damselfishes (Pomacentridae), surfperches (Embiotocidae), flying fishes and halfbeaks (Exocoetoidei), and false scorpionfish (Centrogenyidae). However, the evolutionary relationships of pharyngognaths have not been completely resolved. By using full genomes, a highly resolved evolutionary tree of pharyngognaths and their close relatives was obtained. These relationships suggest one fewer independent evolution of pharyngognathy as false scorpionfish and wrasses were found to be sister to each other (i.e. each other's closest relative). However, individual genes (gene trees) may have different evolutionary histories compared to the evolutionary history across the whole genome (species tree), a term known as gene tree-species tree discordance. We find high levels of gene tree-species tree discordance across our analysis and in some cases, the history of genes critical for bone development suggest a shared evolutionary history within pharyngognaths. This suggests that there may be a shared origin of pharyngognathy, and it likely evolved fewer than six times, contrary to previous studies and what the species tree suggests.</p> <p>As evolutionary innovations are thought to promote either speciation or ecological diversity, we investigated patterns of speciation and diet diversity across fishes to see if pharyngognathy is behaving as an evolutionary innovation. Results suggest that pharyngognathy does not yield increased rates of speciation and that pharyngognaths have largely overlapping patterns of diet diversity relative to non-pharyngognaths. This suggests that pharyngognathy is not acting as an evolutionary innovation, contrary to expectations.</p> <p>While genomics suggests a shared evolutionary history of pharyngognathy, microCT scanning highlights the wide diversity in bone and muscle morphology of the pharyngeal jaws across pharyngognathous fishes. This begs the question of how they have diversified so extensively in form and function from a shared evolutionary origin. When investigating if pharyngognathy yields separate evolutionary trajectories of the oral and pharyngeal jaws for prey capture and processing, we find that some pharyngognath families are less decoupled than non-pharyngognaths. This again was contrary to expectations under the evolutionary innovation framework and suggests that pharyngognathy is not behaving as previously postulated.</p> <p>As work related to this grant focused on microCT scanning of museum specimens, the PI participated in a collaborative project with the University of Michigan Museum of Zoology and University of Michigan Museum of Paleontology to develop best practices for iodine-based contrast-enhanced computed tomography (diceCT) scanning of fish specimens in natural history collection. diceCT scanning is a method used to investigate soft tissues, and it involves staining specimens in an iodine solution, which potentially could damage specimens. This work provides best practices for successful staining while minimizing potential long-term damage to specimens so they can be used for years to come.</p> <p>As part of this grant, three undergraduate students conducted research and presented scientific presentations. 3D models from microCT scanned specimens were used to develop teaching aids for teaching fish anatomy to biology students as well as tools for scientific outreach to the public. The PI also presented this research via several popular presentations to aquarium clubs. microCT scan data for studies associated with this research have been made publicly available.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: Samuel&nbsp;R&nbsp;Borstein</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695959580513_Jaws_Cichlid--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695959580513_Jaws_Cichlid--rgov-800width.jpg" title="microCT Scan of the Oral and Pharyngeal Jaws"><img src="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695959580513_Jaws_Cichlid--rgov-66x44.jpg" alt="microCT Scan of the Oral and Pharyngeal Jaws"></a> <div class="imageCaptionContainer"> <div class="imageCaption">microCT scan of a cichlid fish (Mayaheros urophthalmus) highlighting the position of the oral jaws (i.e. the mouth, in blue) and the pharyngeal jaws (green).</div> <div class="imageCredit">Samuel Borstein</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Samuel&nbsp;R&nbsp;Borstein</div> <div class="imageTitle">microCT Scan of the Oral and Pharyngeal Jaws</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695959914338_diceCT_SurfPerch--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695959914338_diceCT_SurfPerch--rgov-800width.jpg" title="diceCT Scan of the Pharyngeal Jaws and Associated Muscles"><img src="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695959914338_diceCT_SurfPerch--rgov-66x44.jpg" alt="diceCT Scan of the Pharyngeal Jaws and Associated Muscles"></a> <div class="imageCaptionContainer"> <div class="imageCaption">diceCT scan of a surfperch (Phanerodon vaca) showing the position of the upper and lower pharyngeal jaw bones (green) and associated musculature (pink). diceCT scanning provides a non-invasive way to investigate the soft tissues of specimens by staining specimens in an iodine solution.</div> <div class="imageCredit">Samuel Borstein</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Samuel&nbsp;R&nbsp;Borstein</div> <div class="imageTitle">diceCT Scan of the Pharyngeal Jaws and Associated Muscles</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695960251665_NSF_Report--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695960251665_NSF_Report--rgov-800width.jpg" title="Gene Tree-Species Tree Conflict in Pharyngognathous Fishes"><img src="/por/images/Reports/POR/2023/2010931/2010931_10681752_1695960251665_NSF_Report--rgov-66x44.jpg" alt="Gene Tree-Species Tree Conflict in Pharyngognathous Fishes"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Species tree (A) and gene trees (B) showing conflicting relationships among species. Images next to pharyngognath species in A highlight the diversity of the pharyngeal jaws. While the species tree suggests five independent evolutions of pharyngognathy, gene trees suggest it has evolved fewer times.</div> <div class="imageCredit">Samuel Borstein</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Samuel&nbsp;R&nbsp;Borstein</div> <div class="imageTitle">Gene Tree-Species Tree Conflict in Pharyngognathous Fishes</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Understanding the drivers of biological diversity is a major goal in biology. One long thought driver of biodiversity is evolutionary innovations, which are novel traits thought to influence both ecological and species diversity by facilitating access into novel niches. A classic example of an evolutionary innovation is pharyngognathy. Pharyngognathy is an extensive series of modifications to the bones and muscles of a second set of jaws (the pharyngeal jaws) in fish throats. This second set of jaws is thought to provide fishes which possess them, pharyngognaths, the ability to exploit a diverse array of diets as it promotes the separation and independent evolution of the oral jaws (i.e. the mouth) for prey capture and the pharyngeal jaws for prey processing. This separation in function between the two sets of jaws is known as functional decoupling. However, tests of pharyngognathy as an evolutionary innovation have been limited in scope and typically focus on only a single or a few pharyngognath fish families, but not all. These studies also typically lack comparisons to non-pharyngognath fishes. This research focused on digitizing fish specimens in natural history collections using X-ray computed microtomography (microCT scanning) to investigate the genomic basis of pharyngognathy, the impacts of pharyngognathy on speciation and ecological diversity, the morphological diversity of pharyngeal jaws across pharyngognaths, and if pharyngognaths experienced greater functional decoupling between their oral and pharyngeal jaws than non-pharyngognaths.  Pharyngognathy is thought to have evolved six times: in cichlids (Cichlidae), wrasses (Labridae), damselfishes (Pomacentridae), surfperches (Embiotocidae), flying fishes and halfbeaks (Exocoetoidei), and false scorpionfish (Centrogenyidae). However, the evolutionary relationships of pharyngognaths have not been completely resolved. By using full genomes, a highly resolved evolutionary tree of pharyngognaths and their close relatives was obtained. These relationships suggest one fewer independent evolution of pharyngognathy as false scorpionfish and wrasses were found to be sister to each other (i.e. each other's closest relative). However, individual genes (gene trees) may have different evolutionary histories compared to the evolutionary history across the whole genome (species tree), a term known as gene tree-species tree discordance. We find high levels of gene tree-species tree discordance across our analysis and in some cases, the history of genes critical for bone development suggest a shared evolutionary history within pharyngognaths. This suggests that there may be a shared origin of pharyngognathy, and it likely evolved fewer than six times, contrary to previous studies and what the species tree suggests.  As evolutionary innovations are thought to promote either speciation or ecological diversity, we investigated patterns of speciation and diet diversity across fishes to see if pharyngognathy is behaving as an evolutionary innovation. Results suggest that pharyngognathy does not yield increased rates of speciation and that pharyngognaths have largely overlapping patterns of diet diversity relative to non-pharyngognaths. This suggests that pharyngognathy is not acting as an evolutionary innovation, contrary to expectations.  While genomics suggests a shared evolutionary history of pharyngognathy, microCT scanning highlights the wide diversity in bone and muscle morphology of the pharyngeal jaws across pharyngognathous fishes. This begs the question of how they have diversified so extensively in form and function from a shared evolutionary origin. When investigating if pharyngognathy yields separate evolutionary trajectories of the oral and pharyngeal jaws for prey capture and processing, we find that some pharyngognath families are less decoupled than non-pharyngognaths. This again was contrary to expectations under the evolutionary innovation framework and suggests that pharyngognathy is not behaving as previously postulated.  As work related to this grant focused on microCT scanning of museum specimens, the PI participated in a collaborative project with the University of Michigan Museum of Zoology and University of Michigan Museum of Paleontology to develop best practices for iodine-based contrast-enhanced computed tomography (diceCT) scanning of fish specimens in natural history collection. diceCT scanning is a method used to investigate soft tissues, and it involves staining specimens in an iodine solution, which potentially could damage specimens. This work provides best practices for successful staining while minimizing potential long-term damage to specimens so they can be used for years to come.  As part of this grant, three undergraduate students conducted research and presented scientific presentations. 3D models from microCT scanned specimens were used to develop teaching aids for teaching fish anatomy to biology students as well as tools for scientific outreach to the public. The PI also presented this research via several popular presentations to aquarium clubs. microCT scan data for studies associated with this research have been made publicly available.          Last Modified: 09/29/2023       Submitted by: Samuel R Borstein]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

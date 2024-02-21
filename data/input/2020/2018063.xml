@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding Norm Clusters and Their Dynamics in the Transition to Renewable Energy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>497024.00</AwardTotalIntnAmount>
+<AwardAmount>497024</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert O'Connor</SignBlockName>
+<PO_EMAI>roconnor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927263</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project seeks to understand how people's worldviews and actions are impacted by the beliefs and actions of others. It examines this question in an important context for our nation's security, health, and natural environment: support for renewable energy and offshore wind. It measures people’s perceptions of a broad range of beliefs and actions they hold of others and examines how these beliefs cluster together and create a social reality about what is normal that shapes one's own opinion about energy policy and technology. The studies also examine what happens to this cluster of beliefs as external events modify one of the beliefs. Not only is the domain selected, offshore wind support, better understood by this work, but the ways that people are impacted by others' actions and beliefs are clarified broadly. Given that interventions for many social problems in health, education, environmentalism, security and other domains seek to harness how we are influenced by others in order to create positive social change, this deeper understanding of how social influence can inform and improve these interventions can help benefit addressing many contemporary social problems.&lt;br/&gt;&lt;br/&gt;This project seeks to understand social norms as a clustered network of connected social perceptions. Theoretical and applied research on social norm perceptions or interventions often only study or utilize one norm at a time. Social norms, however do not exist in isolation. Instead, norms co-exist in a network of other descriptive or normative beliefs, forming clusters. This research clarifies how perceptions of social norms are connected and the causal relationship of those connections, pursuing the following questions: How are networks of social norm perceptions organized? Do norm clusters have a hierarchical structure, and do higher-order beliefs dictate more specific lower-order beliefs? What happens when one of these norms gets modified, either by an experimental manipulation or by some naturally occurring change(s) in the environment? Does such a change in the perception of a norm only influence beliefs or behaviors directly connected to it or does its effect spread throughout the norm's cluster as activation does in a semantic network? The team explores how  these diagnosed characteristics of norm clusters can be used to shift individual behavior or belief. In a series of studies over 2 years, the scholars examine perceptions of norms surrounding the topic of offshore wind energy and relevant policy support. Using online survey experiments and a combination of convenience samples, representative samples and longitudinal data, the team assesses the structure of norm clusters, which normative and descriptive beliefs are more related to others, and investigates how manipulating one norm in a cluster can affect the perception of norms it is connected to. These insights are used to compare multiple norm intervention techniques to see which is most successful at increasing understanding. Rather than simply intervening on a single norm, understanding the norm cluster for offshore wind allows the team to better understand the most fruitful place to intervene and reveals multiple points for leverage on this issue, so the team may identify a cleaner, more sustainable, and economically viable energy system. Beyond offshore wind, social norm interventions are used across a variety of domains. This research provides a methodology and theoretical framework for applied researchers that would enable them to understand how and where to best intervene in a norms cluster to enhance understanding.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018063</AwardID>
+<Investigator>
+<FirstName>Elke</FirstName>
+<LastName>Weber</LastName>
+<PI_MID_INIT>U</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elke U Weber</PI_FULL_NAME>
+<EmailAddress><![CDATA[eweber@princeton.edu]]></EmailAddress>
+<NSF_ID>000091450</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[87 Prospect Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1332</Code>
+<Text>Social Psychology</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~261395</FUND_OBLG>
+<FUND_OBLG>2021~235629</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project outcomes can best be represented through six studies, all of which provide insight on norms related to climate change:</p> <p>&nbsp;</p> <p>Study 1:</p> <p><span>We designed a study to shift perceptions about popular climate change mitigation narratives using clips from news media and headlines. We compared the impacts of different popular narratives' exposure on climate change mitigation intentions in lifestyle behavior, political action, and policy support.</span></p> <p>We find that popular narratives about climate change mitigation, specifically that both policy and behavior change are needed to address climate change, help improve motivation and intentions to take a variety of climate actions. Conversely, other narratives that focus more solely on a single objective (e.g. just policy), do not have as wide of an impact on the array of outcomes assessed, and sometimes diminish interest in outcomes outside their purview.&nbsp;</p> <p>&nbsp;</p> <p>Study 2:</p> <p><span>We conducted a study examining norm clusters in the domain of sustainable dietary choice. We mapped out the norm network for both norm perceptions and a parallel set of items for personal attitudes to compare attitude and norm networks.</span></p> <p>We find that norm networks have fewer negative associations between nodes than do attitude networks (i.e. people may have hypocrisy concerns about themselves or cognitive dissonance that increases the negative association between opposing attitudes, but for norms people perceive fewer such cases and seem to readily perceive opposing views among others as normal).</p> <p>&nbsp;</p> <p>Study 3:</p> <p><span>We compared 3 kinds of novel norm cluster interventions ("direct", "upstream", and "sever and connect"), to see which would be the most impactful for sustainable dietary choices.</span></p> <p>As compared to an "upstream" norm intervention that targets distal but related norms, and a "sever and connect" norm intervention that targets norm relevance rather than norm prevalence, a "direct" norm cluster intervention that targets the most closely related norms to an outcome of interest appears to be the most effective in the domain of dietary choice.</p> <p>&nbsp;</p> <p>Study 4:</p> <p><span>We replicated Study 3's design, but added a behavioral measure for dietary choice.</span></p> <p>A "direct" norm cluster intervention is successful in shifting real-world dietary choices.</p> <p>&nbsp;</p> <p>Study 5:</p> <p><span>We assessed norm networks related to energy, climate change, and the environment in both the United States and India, and how these correspond to personal energy usage behaviors and climate change attitudes.&nbsp;</span></p> <p>We show that norm networks across different populations that pertain to the same issues differ in how norms are connected.&nbsp;We find differences in how the same set of norms, attitudes, and behaviors are interconnected in the United States compared to in India. Norms seem to be more influential in India compared to the United States by way of adding more explanatory power for variance in key behaviors compared to attitudes and demographic variables.&nbsp;Despite notable structural and cluster differences in the networks, we find that the norms closest to key behaviors in both countries are similar.&nbsp;</p> <p>&nbsp;</p> <p>Study 6:&nbsp;</p> <p><span>Studies investigating the influence of social norms usually examine the effects of just one norm at a time (e.g. believing most people support renewable energy impacts one's own support of renewable energy). Yet in reality, we may be influenced by many norms at once in a given context. By studying how many norms are interrelated, the norm network approach we explore here represents a new way to conceptualize social influence. Using it, we can better understand how we are influenced by others and inform norm-based interventions. We investigate these questions in a domain with great practical value to climate change mitigation, namely norms related to offshore wind technology, renewable energy, and the environment. In doing so, this work provides a foundation to better understand not just the influence of a single norm, but the influence of many social norms as part of a broader social reality.</span></p> <p>We find that norms are connected via similar perceived prevalence and similar content - two features that are highly interrelated - and that norm perceptions vary in terms of plasticity and&nbsp;content broadness. Further, norm updating spreads through networks: manipulating the perceived prevalence of one norm influences connected norms. The norm network approach represents a new way to conceptualize social influence and inform norm-based interventions, one that can go beyond a single norm and may help us better understand and harness the influence of social norms via a broader social reality.</p><br> <p>  Last Modified: 11/28/2023<br> Modified by: Elke&nbsp;U&nbsp;Weber</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project outcomes can best be represented through six studies, all of which provide insight on norms related to climate change:      Study 1:   We designed a study to shift perceptions about popular climate change mitigation narratives using clips from news media and headlines. We compared the impacts of different popular narratives' exposure on climate change mitigation intentions in lifestyle behavior, political action, and policy support.   We find that popular narratives about climate change mitigation, specifically that both policy and behavior change are needed to address climate change, help improve motivation and intentions to take a variety of climate actions. Conversely, other narratives that focus more solely on a single objective (e.g. just policy), do not have as wide of an impact on the array of outcomes assessed, and sometimes diminish interest in outcomes outside their purview.      Study 2:   We conducted a study examining norm clusters in the domain of sustainable dietary choice. We mapped out the norm network for both norm perceptions and a parallel set of items for personal attitudes to compare attitude and norm networks.   We find that norm networks have fewer negative associations between nodes than do attitude networks (i.e. people may have hypocrisy concerns about themselves or cognitive dissonance that increases the negative association between opposing attitudes, but for norms people perceive fewer such cases and seem to readily perceive opposing views among others as normal).      Study 3:   We compared 3 kinds of novel norm cluster interventions ("direct", "upstream", and "sever and connect"), to see which would be the most impactful for sustainable dietary choices.   As compared to an "upstream" norm intervention that targets distal but related norms, and a "sever and connect" norm intervention that targets norm relevance rather than norm prevalence, a "direct" norm cluster intervention that targets the most closely related norms to an outcome of interest appears to be the most effective in the domain of dietary choice.      Study 4:   We replicated Study 3's design, but added a behavioral measure for dietary choice.   A "direct" norm cluster intervention is successful in shifting real-world dietary choices.      Study 5:   We assessed norm networks related to energy, climate change, and the environment in both the United States and India, and how these correspond to personal energy usage behaviors and climate change attitudes.   We show that norm networks across different populations that pertain to the same issues differ in how norms are connected.We find differences in how the same set of norms, attitudes, and behaviors are interconnected in the United States compared to in India. Norms seem to be more influential in India compared to the United States by way of adding more explanatory power for variance in key behaviors compared to attitudes and demographic variables.Despite notable structural and cluster differences in the networks, we find that the norms closest to key behaviors in both countries are similar.      Study 6:   Studies investigating the influence of social norms usually examine the effects of just one norm at a time (e.g. believing most people support renewable energy impacts one's own support of renewable energy). Yet in reality, we may be influenced by many norms at once in a given context. By studying how many norms are interrelated, the norm network approach we explore here represents a new way to conceptualize social influence. Using it, we can better understand how we are influenced by others and inform norm-based interventions. We investigate these questions in a domain with great practical value to climate change mitigation, namely norms related to offshore wind technology, renewable energy, and the environment. In doing so, this work provides a foundation to better understand not just the influence of a single norm, but the influence of many social norms as part of a broader social reality.   We find that norms are connected via similar perceived prevalence and similar content - two features that are highly interrelated - and that norm perceptions vary in terms of plasticity andcontent broadness. Further, norm updating spreads through networks: manipulating the perceived prevalence of one norm influences connected norms. The norm network approach represents a new way to conceptualize social influence and inform norm-based interventions, one that can go beyond a single norm and may help us better understand and harness the influence of social norms via a broader social reality.     Last Modified: 11/28/2023       Submitted by: ElkeUWeber]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

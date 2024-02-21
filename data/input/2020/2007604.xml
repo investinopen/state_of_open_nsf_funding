@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Strategic Information Provision for the Control of Cyber-Socio-Physical Transportation Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199315.00</AwardTotalIntnAmount>
+<AwardAmount>199315</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Modern transportation networks are systems whose proper operation depends on tight interactions between human, algorithmic, and physical elements and whose regulation (be it to reduce congestion or encourage the use of energy-saving modalities) must thus accordingly involve all components, including mechanisms that target human decision-making. Existing approaches typically either rely on monetary payments (e.g., tolls) or information provision (using, e.g., variable message signs or routing apps) to influence commuters' choices. A major difference between these two types of mechanisms is that the former is strategic (since monetary payments/taxes are computed and implemented with the explicit goal of inducing a particular socially beneficial behavior), while the latter is not (since the information provided is simply a report of the actual state of the road). The goal of this project is to develop tools for the principled design of information provision mechanisms which are adapted to the specific conditions and constraints of such cyber-socio-physical (CSP) systems and actively craft messages to align them with socially efficient outcomes.&lt;br/&gt;&lt;br/&gt;This research project builds on the existing frameworks of Bayesian Persuasion and Information Design from Economics and uses Control and Information Theory tools, viewpoints, and insights to extend these approaches to the challenging realm of CSP systems in general, and traffic networks in particular. Specifically, this project formulates new models of (1) non-Bayesian and bounded rational decision making occurring in this context and, (2) strategic messaging under non-classical information structure and addresses the corresponding information design problems. The project also (3) develops the necessary tools to incorporate message personalization as a means of introducing informational decoupling without causing disparate impact among commuters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007604</AwardID>
+<Investigator>
+<FirstName>Cedric</FirstName>
+<LastName>Langbort</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cedric Langbort</PI_FULL_NAME>
+<EmailAddress><![CDATA[langbort@uiuc.edu]]></EmailAddress>
+<NSF_ID>000149449</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Trustees of the University of Illinois]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7937</Code>
+<Text>NETWORK CODING AND INFO THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199315</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cyber-Socio-Physical (CSP) systems are systems whose proper operation depends on tight interactions between human, algorithmic, and physical elements. Their regulation must thus accordingly involve all components and, in particular, incorporate mechanisms that target human decision-making. A prime example is congestion control in modern urban transportation networks which, while ostensibly caused by an imbalance between road space supply and demand, is in fact greatly impacted by commuters' self-interested mode and route-choice behavior. As a result, any purely physical infrastructure improvement (be it increased road capacity or the generalized introduction of self-driving vehicles, which are meant to take over the tactical side of driving but still leave strategic decisions such as choice of departure time to human commuters) cannot in and of itself reduce congestion on chosen paths, but must be complemented by measures that influence the commuters decision-making process directly.<br /><br />The goal of this project is precisely to develop tools for the principled design of strategic information provision mechanisms which are adapted to the specific conditions and constraints of CSP systems (in particular, unknown and dynamic environments). This requires treating users as ``non-information takers" , i.e., designing the information-revelation mechanisms while specifically taking into account the fact that what is revealed can and will affect the users' beliefs and actions. <br /><br />In this context, this project introduces a new `agnostic' approach to model the fact that a user may not integrate newly-receiving information according to Bayes' rule and to study the consequence of this lack of Bayesianity. It also studies the consequences of such strategic information revelation taking place as part of a dynamic feedback loop, and in a partially unknown environment, when the provided information is itself used to learn that environment. In particular, tools are developed that ensure some form of safety of the resulting loop, in the sense that a particular set can be rendered forward-invariant in state-space, even if it partially unknown.<br /><br />The central questions motivating and underlying this project are present in the design of most classes of CSP systems, from demand shaping in electricity distribution networks to thermal comfort regulation in smart buildings.</p><br> <p>  Last Modified: 01/13/2024<br> Modified by: Cedric&nbsp;Langbort</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Cyber-Socio-Physical (CSP) systems are systems whose proper operation depends on tight interactions between human, algorithmic, and physical elements. Their regulation must thus accordingly involve all components and, in particular, incorporate mechanisms that target human decision-making. A prime example is congestion control in modern urban transportation networks which, while ostensibly caused by an imbalance between road space supply and demand, is in fact greatly impacted by commuters' self-interested mode and route-choice behavior. As a result, any purely physical infrastructure improvement (be it increased road capacity or the generalized introduction of self-driving vehicles, which are meant to take over the tactical side of driving but still leave strategic decisions such as choice of departure time to human commuters) cannot in and of itself reduce congestion on chosen paths, but must be complemented by measures that influence the commuters decision-making process directly.  The goal of this project is precisely to develop tools for the principled design of strategic information provision mechanisms which are adapted to the specific conditions and constraints of CSP systems (in particular, unknown and dynamic environments). This requires treating users as ``non-information takers" , i.e., designing the information-revelation mechanisms while specifically taking into account the fact that what is revealed can and will affect the users' beliefs and actions.   In this context, this project introduces a new `agnostic' approach to model the fact that a user may not integrate newly-receiving information according to Bayes' rule and to study the consequence of this lack of Bayesianity. It also studies the consequences of such strategic information revelation taking place as part of a dynamic feedback loop, and in a partially unknown environment, when the provided information is itself used to learn that environment. In particular, tools are developed that ensure some form of safety of the resulting loop, in the sense that a particular set can be rendered forward-invariant in state-space, even if it partially unknown.  The central questions motivating and underlying this project are present in the design of most classes of CSP systems, from demand shaping in electricity distribution networks to thermal comfort regulation in smart buildings.     Last Modified: 01/13/2024       Submitted by: CedricLangbort]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

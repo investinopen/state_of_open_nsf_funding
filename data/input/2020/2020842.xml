@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Thermal imaging with ultrafine spatial resolution in the scanning electron microscope]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>416558.00</AwardTotalIntnAmount>
+<AwardAmount>416558</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[From cell phones to laptops to the internet of things, the defining trend of modern microelectronics is the relentless drive towards packing more processing power in smaller areas. A corollary is that the heat dissipation per unit area also increases exponentially, posing serious challenges in thermal management to keep the devices from overheating. Some cutting-edge technologies exploit nanoscale thermal phenomena such as heat-assisted magnetic recording and resistive random access memory, which rely on precise heat generation and dissipation at extraordinarily small length scales of ~10 nm and below.  Clearly the rational design of such advanced nanoscale devices requires measuring their temperatures, yet direct experimental measurement of temperature at such small length scales remains extraordinarily challenging.  An ideal measurement technique would have spatial resolution of 10 nm or less, operate without physical contact to the sample, work on many materials, and use widely available hardware.  Developing such a measurement technique is the overarching vision of this project.&lt;br/&gt;&lt;br/&gt;Building on a preliminary proof-of-concept study, the goal of this project is to develop a novel scanning electron microscopy thermometry technique into a robust tool for temperature mapping. The team focuses on the ubiquitous secondary electron signal, which is already the standard for ultrahigh resolution (~1 - 10 nm) mapping of structure and geometry.  The proposal envisions three major thrusts: (i) Experimentally clarify the underlying physics of how temperature affects the secondary electron signal.  (ii) Rigorously measure and understand the limiting resolutions of this technique, in temperature, space, and time.  (iii) Demonstrate the usefulness of this new experimental tool for innovative studies of nanoscale thermal phenomena as well as applications in device characterization.  The intellectual merit of this project is firstly in developing scanning electron microscopy thermometry into a robust, practical tool for temperature mapping with ~10 nm spatial resolution, using signals and hardware which are widely available.  Another contribution will be bringing concepts for rigorously quantifying spatial resolution from optics into the thermal community, specifically the thermal point spread function.  Finally, the team will apply the tool to pursue the first ever direct observations of ballistic phenomena such as temperature reversal and localization via mapping their full temperature fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020842</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Dames</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris E Dames</PI_FULL_NAME>
+<EmailAddress><![CDATA[cdames@berkeley.edu]]></EmailAddress>
+<NSF_ID>000369361</NSF_ID>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[Sponsored Projects Office]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~416558</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this proposal is to help develop scanning electron microscope (SEM) thermometry into a robust tool for temperature mapping.&nbsp; &nbsp;In a previous proof of concept study, we had empirically showed that temperature has a small but consistent effect on secondary electron (SE) yield, observable in standard SEMs [Khan et al., J. Appl. Phys. 124, 195104 (2018)].&nbsp; However, that study only showed that temperature had an effect on the SE yield, but did not show anything about the spatial resolution, that is, the ability to measure temperature variations in space across the surface of a sample.&nbsp; &nbsp;Furthermore, the underlying physics that gave rise to this temperature effect were completely unexplored in that previous study.&nbsp; Finally, in that prior study the sample was a passive piece of semiconductor material on a heating stage, whereas many exciting applications might involve active electronic devices with localized hot spots, such as in the computer chip industry.&nbsp; &nbsp;Therefore this project was designed to elucidate some of those earlier questions, and to help advance the capabilities of SEM thermometry as a potential tool for both university researchers and for diagnostic needs in the computer chip industry.</p> <p>One important line of work was to demonstrate temperature mapping on nanoscale devices that are powered by electrical current, as a proof of concept related to imaging hot spots in computer chips.&nbsp; We achieved this in a nanopatterned piece of graphene.&nbsp; Using nanolithography techniques (e-beam lithography), a thin piece of graphene was patterned into an H shape and connected to electrodes.&nbsp; When electrical current is passed through the graphene, it is concentrated in the middle crossbar of the H shape, which leads to localized heating there, by hundreds of degrees Celsius.&nbsp; Using a new variation of our electron microscopic thermometry, we were able to measure the resulting temperature distribution with spatial resolution estimated as around 100 nm or less, which is a major advance compared to our previous results which hadn&rsquo;t investigated spatial resolution experimentally at all.&nbsp; &nbsp;</p> <p>Additional research in this project attempted to use a specialized Kelvin Probe technique to elucidate experimentally whether the temperature effect on secondary electron yield is related to doping and/or a possible temperature dependence of the work function.&nbsp; The results were not conclusive within the scope of the project period.&nbsp;</p><br> <p>  Last Modified: 02/04/2024<br> Modified by: Chris&nbsp;E&nbsp;Dames</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this proposal is to help develop scanning electron microscope (SEM) thermometry into a robust tool for temperature mapping. In a previous proof of concept study, we had empirically showed that temperature has a small but consistent effect on secondary electron (SE) yield, observable in standard SEMs [Khan et al., J. Appl. Phys. 124, 195104 (2018)]. However, that study only showed that temperature had an effect on the SE yield, but did not show anything about the spatial resolution, that is, the ability to measure temperature variations in space across the surface of a sample. Furthermore, the underlying physics that gave rise to this temperature effect were completely unexplored in that previous study. Finally, in that prior study the sample was a passive piece of semiconductor material on a heating stage, whereas many exciting applications might involve active electronic devices with localized hot spots, such as in the computer chip industry. Therefore this project was designed to elucidate some of those earlier questions, and to help advance the capabilities of SEM thermometry as a potential tool for both university researchers and for diagnostic needs in the computer chip industry.   One important line of work was to demonstrate temperature mapping on nanoscale devices that are powered by electrical current, as a proof of concept related to imaging hot spots in computer chips. We achieved this in a nanopatterned piece of graphene. Using nanolithography techniques (e-beam lithography), a thin piece of graphene was patterned into an H shape and connected to electrodes. When electrical current is passed through the graphene, it is concentrated in the middle crossbar of the H shape, which leads to localized heating there, by hundreds of degrees Celsius. Using a new variation of our electron microscopic thermometry, we were able to measure the resulting temperature distribution with spatial resolution estimated as around 100 nm or less, which is a major advance compared to our previous results which hadnt investigated spatial resolution experimentally at all.    Additional research in this project attempted to use a specialized Kelvin Probe technique to elucidate experimentally whether the temperature effect on secondary electron yield is related to doping and/or a possible temperature dependence of the work function. The results were not conclusive within the scope of the project period.     Last Modified: 02/04/2024       Submitted by: ChrisEDames]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

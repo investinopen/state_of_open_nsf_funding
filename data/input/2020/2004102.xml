@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[D3SC: Signaling Axes Modulated by Cyclic Dinucleotides]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>444000.00</AwardTotalIntnAmount>
+<AwardAmount>444000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Garza</SignBlockName>
+<PO_EMAI>aggarza@nsf.gov</PO_EMAI>
+<PO_PHON>7032922489</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award, the Chemistry of Life Processes program is supporting the research of Professors Herman O. Sintim and Uma Aryal, from Purdue University, West Lafayette, to determine the details of how various molecular components of viruses and bacteria activate immune cells to cause inflammation. Immune cells play important roles in eliminating tumors and also protecting organisms against invading pathogenic bacteria and viruses. A new pathway or signaling was recently discovered in immune cells, which sense molecules called cyclic dinucleotides to control inflammation response. This project uses chemical probes and proteomics to discover proteins that bind cyclic dinucleotides in order to regulate signaling in immune cells. In addition, this research increases workforce capacity in STEM by training graduate students and advanced undergraduates to acquire a diverse set of specialized skills in chemical synthesis, mass spectrometry, immunology and molecular biology methods. &lt;br/&gt;&lt;br/&gt;Cyclic dinucleotides, such as cyclic di-guanosine monophosphate, cyclic di-adenosine monophosphate and cyclic guanosine monophosphate–adenosine monophosphate, are known to signal via a stimulator of interferon genes (STING)-controlled innate immune pathway and play major roles in a wide variety of human diseases including various cancers, viral and bacterial infections as well as autoimmune diseases. Thus far, the cyclic dinucleotide-STING-TBK1 axis is well characterized, but other pathways and/or protein targets that cyclic dinucleotides also affect are poorly characterized. Understanding how cyclic dinucleotides regulate host cells physiology could provide valuable insights into key determinants that shape the host-pathogen interaction. The principal investigators use various STING-axis knockout cell lines and proteomics to uncover cyclic dinucleotide mediated pathways that channel through STING and non-STING pathways. They also globally profile post-translational modifications of proteins in the presence of cyclic dinucleotide signals. Using novel chemical probes, the investigators uncover mammalian proteins that bind to cyclic dinucleotides or associate with STING. This study provides insights into how cyclic dinucleotides affect signaling pathways in mammalian cells beyond the well-characterized STING-TBK1 axis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004102</AwardID>
+<Investigator>
+<FirstName>Gaurav</FirstName>
+<LastName>Chopra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gaurav Chopra</PI_FULL_NAME>
+<EmailAddress><![CDATA[gchopra@purdue.edu]]></EmailAddress>
+<NSF_ID>000736129</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Herman</FirstName>
+<LastName>Sintim</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Herman O Sintim</PI_FULL_NAME>
+<EmailAddress><![CDATA[hsintim@purdue.edu]]></EmailAddress>
+<NSF_ID>000486170</NSF_ID>
+<StartDate>04/28/2020</StartDate>
+<EndDate>07/09/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Uma</FirstName>
+<LastName>Aryal</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Uma K Aryal</PI_FULL_NAME>
+<EmailAddress><![CDATA[uaryal@purdue.edu]]></EmailAddress>
+<NSF_ID>000735732</NSF_ID>
+<StartDate>04/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072114</ZipCode>
+<StreetAddress><![CDATA[720 Clinic Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~444000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <p class="p1"><span class="s1">Higher organisms, such as humans, regularly encounter adversarial pathogens, such as bacteria and viruses. During such encounters, the higher organism (called host) deploys various mechanisms to contain the pathogen while the pathogen employs countermeasures to blunt the host&rsquo;s response. Such host-pathogen dueling can lead to catastrophic ending if the host overacts with chemicals that end up harming itself. An example of such catastrophic event is sepsis, which is caused by the immune system producing uncontrolled inflammation that can cause organ damage and even death. Understanding the features or components of invading pathogens and the responding systems in the host (mainly proteins) could facilitate strategies that help mitigate the harmful effects of inflammation caused by infection. Understanding such complex systems requires multidisciplinary science.<span>&nbsp;</span></span></p> <p class="p1"><span class="s1">&nbsp;</span></p> <p class="p1"><span class="s1">The groups of Sintim and Chopra (chemists) and &nbsp;Aryal (proteomics specialist) teamed up to provide new insights into how some molecules that are found in both bacteria and higher organisms, called cyclic dinucleotides, affect immune cells. It was known before this project that different cyclic dinucleotides from different bacteria could elicit a similar reaction from the immune cells via a protein in the immune cell called STING. This explains why different bacteria or viruses can cause the same symptoms, such as cough, runny nose and fever. Through this study, the team discovered that a specific cyclic dinucleotide called c-di-GMP, which is mostly found in Gram negative bacteria but rarely in Gram-positive bacteria, enhances a particular inflammation pathway that is different from the known STING pathway. In other words, </span><span class="s2">the type of inflammation in the host could be dictated by the chemical signature of the invading bacteria.</span><span class="s1"> This work was published in ACS Chemical Biology </span><span class="s2">2021, 16, 9, 1663&ndash;1670. In another study published in the Journal of Proteomics, 2023, 279, 104869, the group revealed that a cyclic dinucleotide called cGAMP, which is synthesized by the host in response to an invading pathogen or a damaged host cell, affects a much broader spectrum of proteins and signaling in immune cells than was previously appreciated.<span>&nbsp;</span></span></p> <p class="p2">Beyond advancing knowledge in host&rsquo;s response to pathogens, this project provided opportunities for undergraduate and graduate students to be trained in chemical synthesis, proteomics and bioinformatics.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2023<br> Modified by: Gaurav&nbsp;Chopra</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     Higher organisms, such as humans, regularly encounter adversarial pathogens, such as bacteria and viruses. During such encounters, the higher organism (called host) deploys various mechanisms to contain the pathogen while the pathogen employs countermeasures to blunt the hosts response. Such host-pathogen dueling can lead to catastrophic ending if the host overacts with chemicals that end up harming itself. An example of such catastrophic event is sepsis, which is caused by the immune system producing uncontrolled inflammation that can cause organ damage and even death. Understanding the features or components of invading pathogens and the responding systems in the host (mainly proteins) could facilitate strategies that help mitigate the harmful effects of inflammation caused by infection. Understanding such complex systems requires multidisciplinary science.      The groups of Sintim and Chopra (chemists) and Aryal (proteomics specialist) teamed up to provide new insights into how some molecules that are found in both bacteria and higher organisms, called cyclic dinucleotides, affect immune cells. It was known before this project that different cyclic dinucleotides from different bacteria could elicit a similar reaction from the immune cells via a protein in the immune cell called STING. This explains why different bacteria or viruses can cause the same symptoms, such as cough, runny nose and fever. Through this study, the team discovered that a specific cyclic dinucleotide called c-di-GMP, which is mostly found in Gram negative bacteria but rarely in Gram-positive bacteria, enhances a particular inflammation pathway that is different from the known STING pathway. In other words, the type of inflammation in the host could be dictated by the chemical signature of the invading bacteria. This work was published in ACS Chemical Biology 2021, 16, 9, 16631670. In another study published in the Journal of Proteomics, 2023, 279, 104869, the group revealed that a cyclic dinucleotide called cGAMP, which is synthesized by the host in response to an invading pathogen or a damaged host cell, affects a much broader spectrum of proteins and signaling in immune cells than was previously appreciated.   Beyond advancing knowledge in hosts response to pathogens, this project provided opportunities for undergraduate and graduate students to be trained in chemical synthesis, proteomics and bioinformatics.        Last Modified: 11/29/2023       Submitted by: GauravChopra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Transfer Learning for Large-Scale Inference: General Framework and Data-Driven Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>120000.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Transfer learning provides crucial techniques for utilizing data from related studies that are conducted under different contexts or on diverse populations. It is an important topic with a wide range of applications in integrative genomics, neuroimaging, computer vision and signal processing. This research work will provide new tools to scientific researchers who routinely collect and analyze high dimensional and complex data across different sources and platforms. This project aims to develop new analytical tools to improve conventional methods by delivering more informative and interpretable scientific findings. The developed transfer learning algorithms, which can reliably extract and combine knowledge from diverse data types and across different studies, will help address important issues from genomics applications. User-friendly software packages will be developed and made publicly available. Scientific researchers can use the tools to translate dispersed and heterogeneous data sources into new knowledge and medical benefits. This will help improve the understanding of the role of various genetic factors in complex diseases, and accelerate the development of new medicines and treatments in a cost-effective way. &lt;br/&gt;&lt;br/&gt;Transfer learning for large-scale inference aims to extract and transfer the knowledge learned from related source domains to assist the simultaneous inference of thousands or even millions of parameters in the target domain. We aim to develop a general framework to gain understanding of the benefits and caveats of transfer learning in a wide range of large-scale inference problems including sparse estimation, false discovery rate analysis, sparse linear discriminant analysis and high-dimensional regression. Our research addresses two key issues in transfer learning: (a) What should be transferred? (b) How to transfer and prevent negative learning? We aim to pursue three major research goals. The first is to develop a class of computationally efficient and robust transfer learning algorithms for high-dimensional sparse inference. The general strategy is to first learning the local sparsity structure of the high-dimensional object through auxiliary data and then apply the structural knowledge to the target domain by adaptively placing differential weights or setting varied thresholds on corresponding coordinates. The second is to formalize a decision-theoretic framework for high-dimensional transfer learning that is applicable across the sparse and non-sparse regimes. Along this direction, we aim to develop a class of kernelized nonparametric empirical Bayes methods for data-sharing shrinkage estimation and multiple testing. The third is to address the urgent needs and new challenges arising from important genomics applications using the newly developed methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015339</AwardID>
+<Investigator>
+<FirstName>Xin</FirstName>
+<LastName>Tong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xin Tong</PI_FULL_NAME>
+<EmailAddress><![CDATA[xint@marshall.usc.edu]]></EmailAddress>
+<NSF_ID>000657180</NSF_ID>
+<StartDate>01/27/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wenguang</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenguang Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[wenguans@marshall.usc.edu]]></EmailAddress>
+<NSF_ID>000539729</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate>01/27/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST FL 3</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900890071</ZipCode>
+<StreetAddress><![CDATA[3670 Trousdale Parkway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~120000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Motivated by a range of important applications, this project aims to develop new methodologies and theory for&nbsp;</span><span>integrative large-scale data analysis and statistical inference</span><span>, where the goal is to effectively incorporate relevant structural and external information in the analysis and inference of data collected from thousands and even millions of study units/variables. There are four major research goals to be pursued. One is to develop an integrative framework for inference of two sparse objects that can handle a wide range of dependence structures such as those arise in multiple testing for high-dimensional linear regression, large covariance/correlation matrices, and Gaussian graphical models. A second is to develop novel theories and methodologies for a class of structured simultaneous inference problems, including optimal sequential multiple testing with online false discovery rate control, estimating a high-dimensional mean vector with heteroscedastic errors and identifying hierarchically structured patterns. The third is to develop a general frame- work for set-wise simultaneous inference and solve related problems such as replicability analysis, simultaneous conjunction tests and multi-stage adaptive testing. The fourth is to address the urgent needs and new challenges arising from important genomics applications, including detection of genes-environment interactions, differential gene network analysis and SNP set analysis, using the newly developed methods.&nbsp;</span></p> <p><span>Intellectual Merit.&nbsp;</span><span>Integrative large-scale data analysis and statistical inference is an important topic with a wide range of applications in genomics, neuroimaging, astrophysics, climate studies, and signal processing. The new integrative framework that will be developed in this project provides a powerful approach for extracting and pooling information from various parts of massive data sets with complex structures. The new inference procedures and analytical tools will improve the power of conventional methods and deliver more informative and interpretable scientific results. The proposed research will make important contributions to multiple testing, simultaneous estimation and statistical decision theories. The methodologies developed in this project will address important issues from genomics applications.&nbsp;</span></p> <p><span>Broader Impacts.&nbsp;</span><span>The research will provide new methodologies and technical tools to researchers in various scientific fields who routinely collect and analyze high dimensional data. The PIs&rsquo; close collaboration with researchers at Harvard School of Public Health and the Perelman School of Medicine at Penn will lead to major applications in genomics, including detection of genes-environment interactions, differential gene network analysis and SNP set analysis. The collaborative research will help translate dispersed and heterogeneous data sources into new knowledge and medical benefits. The procedures and algorithms developed in this project will be implemented as user-friendly and accessible software packages in&nbsp;</span><span>R&nbsp;</span><span>and/or&nbsp;</span><span>Matlab&nbsp;</span><span>and made available on the web along with the associated research reports. This project will also make important contributions to the development of Ph.D. students and postdoctoral fellows. This is a promising field for young researchers who are interested in interdisciplinary research.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 10/11/2023<br>      Modified by: Xin&nbsp;Tong</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Motivated by a range of important applications, this project aims to develop new methodologies and theory for integrative large-scale data analysis and statistical inference, where the goal is to effectively incorporate relevant structural and external information in the analysis and inference of data collected from thousands and even millions of study units/variables. There are four major research goals to be pursued. One is to develop an integrative framework for inference of two sparse objects that can handle a wide range of dependence structures such as those arise in multiple testing for high-dimensional linear regression, large covariance/correlation matrices, and Gaussian graphical models. A second is to develop novel theories and methodologies for a class of structured simultaneous inference problems, including optimal sequential multiple testing with online false discovery rate control, estimating a high-dimensional mean vector with heteroscedastic errors and identifying hierarchically structured patterns. The third is to develop a general frame- work for set-wise simultaneous inference and solve related problems such as replicability analysis, simultaneous conjunction tests and multi-stage adaptive testing. The fourth is to address the urgent needs and new challenges arising from important genomics applications, including detection of genes-environment interactions, differential gene network analysis and SNP set analysis, using the newly developed methods.   Intellectual Merit. Integrative large-scale data analysis and statistical inference is an important topic with a wide range of applications in genomics, neuroimaging, astrophysics, climate studies, and signal processing. The new integrative framework that will be developed in this project provides a powerful approach for extracting and pooling information from various parts of massive data sets with complex structures. The new inference procedures and analytical tools will improve the power of conventional methods and deliver more informative and interpretable scientific results. The proposed research will make important contributions to multiple testing, simultaneous estimation and statistical decision theories. The methodologies developed in this project will address important issues from genomics applications.   Broader Impacts. The research will provide new methodologies and technical tools to researchers in various scientific fields who routinely collect and analyze high dimensional data. The PIs’ close collaboration with researchers at Harvard School of Public Health and the Perelman School of Medicine at Penn will lead to major applications in genomics, including detection of genes-environment interactions, differential gene network analysis and SNP set analysis. The collaborative research will help translate dispersed and heterogeneous data sources into new knowledge and medical benefits. The procedures and algorithms developed in this project will be implemented as user-friendly and accessible software packages in R and/or Matlab and made available on the web along with the associated research reports. This project will also make important contributions to the development of Ph.D. students and postdoctoral fellows. This is a promising field for young researchers who are interested in interdisciplinary research.          Last Modified: 10/11/2023       Submitted by: Xin Tong]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

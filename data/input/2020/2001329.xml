@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Workshop on Clusters, Clouds, and Data Analytics for Scientific Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This workshop will be held in La Maison Des Contes, Dareize, France, and will bring together international experts from the US, France, and other countries to discuss advances in cyberinfrastructure (CI). The specific focus will be on commonalities that exist between cluster, cloud, and high-end data analytics. CI has become of growing importance to nearly all NSF research, which makes increasing use of computational simulations and large-data analytics methods. The results will be published in an open report as well as in multiple journal papers. The results will contribute to and leverage new ideas in cluster, cloud, and data analytics computing for the benefit of the research community.&lt;br/&gt;&lt;br/&gt;The architectural similarities between the above issues, and the fact that high performance clusters typically make up the major compute nodes of computational grids and clouds, means that deployment, operational, and usage issues surrounding computational clouds form a superset of the issues that revolve around clusters. The workshop will focus on five tasks: (1) survey and analyze the key deployment, operational, and usage issues for clusters, clouds, and data analytics-- focusing especially on discontinuities produced by multicore and hybrid architectures, data-intensive science, and the increasing need for wide-area/local-area interaction; (2) document the current state-of-the-art in each of these areas, identifying interesting questions and limitations; (3) discuss experiences with clusters, clouds, and data relative to the research communities and science domains benefiting from the technology; (4) explore interoperability among disparate clouds and between various clouds and grids and their impact on domain sciences; and (5) explore directions for future research and development against the background of disruptive trends and technologies and the recognized gaps in the current state-of-the-art.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001329</AwardID>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Dongarra</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jack J Dongarra</PI_FULL_NAME>
+<EmailAddress><![CDATA[dongarra@icl.utk.edu]]></EmailAddress>
+<NSF_ID>000299281</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JBG7T7RXQ2B7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee]]></Name>
+<CityName>Knoxville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960003</ZipCode>
+<StreetAddress><![CDATA[1 Circle Park]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The research areas of cluster, cloud, and data analytics computing&mdash;which today provide fundamental infrastructure for all areas of advanced computational science&mdash;are being radically transformed by the convergence of at least two unprecedented trends.<br /><br />The Workshop on Clusters, Clouds, and Data Analytics in Scientific Computing (CCDASC) is directed at addressing the aforementioned design and deployment issues by providing a forum for creative dialogue between leading-edge researchers in the field to produce the kind of coordinated review, penetrating analysis, and new insights that can help translate the unprecedented trends into highly consequential benefits for the scientific community.<br /><br />This workshop articulated a set of concrete approaches and proposals to develop software infrastructure for data analytics used in scientific computing across a broad spectrum of research domains.<br />We were able to accomplish the following:</p> <ul> <li>survey and analyze the key deployment, operational, and usage issues for clusters, clouds, and grids, with a special focus on the discontinuities produced by multi-core and hybrid architectures, data-intensive science, and the increasing need for wide or local-area interaction;</li> <li>discuss the current state of the art in clusters, clouds, and data analytics and identify interesting questions and limitations;</li> <li>document experiences with clusters, clouds, and data with respect to the science research communities and science domains that are benefiting from the technologies;</li> <li>discuss interoperability among disparate clouds, as well as between various clouds and data centers and generators, and the impact of this interoperability on the domain sciences; and</li> <li>discuss directions for future research and development in the context of disruptive trends and technologies and the recognized gaps in the current state of the art.</li> </ul> <p>Workshop participants were able to focus on the specific issues in cluster, cloud, and data computing, as delineated below. Seventeen journal articles based on the workshop are now under review for publication.<br />Development strategies for the following deployment issues were discussed:</p> <ul> <li>designing to scale: parallelism, energy, interoperability;</li> <li>component and system interoperability;</li> <li>reliability and fault tolerance;</li> </ul> <p>The following manuscript from the workshop were published in The International Journal of High Performance Computing Applications<br />Volume 37 Issue 3-4, July 2023<br /><br />Guest editors: <br />Jack Dongarra, Bernard Tourancheau<br /><br />IO-aware Job-Scheduling: Exploiting the Impacts of Workload Characterizations to select the Mapping Strategy<br />Emmanuel Jeannot, Guillaume Pallez, Nicolas Vidal<br /><br />Combining multitask and transfer learning with deep Gaussian processes for autotuning-based performance engineering<br />Piotr Luszczek, Wissam M Sid-Lakhdar, Jack Dongarra<br /><br />Myths and legends in high-performance computing<br />Satoshi Matsuoka, Jens Domke, Mohamed Wahib, Aleksandr Drozd, Torsten Hoefler<br /><br />Orchestration of materials science workflows for heterogeneous resources at large scale<br />Naweiluo Zhou, Giorgio Scorzelli, Jakob Luettgau, Rahul R Kancharla, Joshua J Kane, Robert Wheeler, Brendan P Croom, Pania Newell, Valerio Pascucci, Michela Taufer<br /><br />Automatizing the creation of specialized high-performance computing containers<br />Jorge Ejarque, Rosa M Badia<br /><br />Versatile software-defined HPC and cloud clusters on Alps supercomputer for diverse workflows<br />Sadaf R Alam, Miguel Gila, Mark Klein, Maxime Martinasso, Thomas C Schulthess<br /><br />A Survey of Graph Comparison Methods with Applications to Nondeterminism in High-Performance Computing<br />Sanjukta Bhowmick, Patrick Bell, Michela Taufer</p> <p>Modeling, evaluating, and orchestrating heterogeneous environmental leverages for large-scale data center management<br />Vladimir Ostapenco, Laurent Lef&egrave;vre, Anne-C&eacute;cile Orgerie, Benjamin Fichel<br /><br />Abisko: Deep codesign of an architecture for spiking neural networks using novel neuromorphic materials<br />Jeffrey S. Vetter, Prasanna Date, Farah Fahim, Shruti R. Kulkarni, Petro Maksymovych, A. Alec Talin, Marc Gonzalez Tallada, Pruek Vanna-iampikul, Aaron R. Young, David Brooks, Yu Cao, Wei Gu-Yeon, Sung Kyu Lim, Frank Liu, Matthew Marinella, Bobby Sumpter, Narasinga Rao Miniskar<br /><br />Fast truncated SVD of sparse and dense matrices on graphics processors<br />Andr&eacute;s E. Tom&aacute;s, Enrique S. Quintana-Orti, Hartwig Anzt<br /><br />Graph neural networks for detecting anomalies in scientific workflows<br />Hongwei Jin, Krishnan Raghavan, George Papadimitriou, Cong Wang, Anirban Mandal, Mariam Kiran, Ewa Deelman, Prasanna Balaprakash<br /><br />Black-box statistical prediction of lossy compression ratios for scientific data<br />Robert Underwood, Julie Bessac, David Krasowska, Jon C Calhoun, Sheng Di, Franck Cappello<br /><br />Finding the forest in the trees: Enabling performance optimization on heterogeneous architectures through data science analysis of ensemble performance data<br />Olga Pearce, Stephanie Brink<br /><br />INDIANA&mdash;In-Network Distributed Infrastructure for Advanced Network Applications<br />Sabra Ossen, Jeremy Musser, Luke Dalessandro, Martin Swany</p><br> <p>            Last Modified: 10/30/2023<br>      Modified by: Jack&nbsp;J&nbsp;Dongarra</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The research areas of cluster, cloud, and data analytics computing&mdash;which today provide fundamental infrastructure for all areas of advanced computational science&mdash;are being radically transformed by the convergence of at least two unprecedented trends.  The Workshop on Clusters, Clouds, and Data Analytics in Scientific Computing (CCDASC) is directed at addressing the aforementioned design and deployment issues by providing a forum for creative dialogue between leading-edge researchers in the field to produce the kind of coordinated review, penetrating analysis, and new insights that can help translate the unprecedented trends into highly consequential benefits for the scientific community.  This workshop articulated a set of concrete approaches and proposals to develop software infrastructure for data analytics used in scientific computing across a broad spectrum of research domains. We were able to accomplish the following:  survey and analyze the key deployment, operational, and usage issues for clusters, clouds, and grids, with a special focus on the discontinuities produced by multi-core and hybrid architectures, data-intensive science, and the increasing need for wide or local-area interaction; discuss the current state of the art in clusters, clouds, and data analytics and identify interesting questions and limitations; document experiences with clusters, clouds, and data with respect to the science research communities and science domains that are benefiting from the technologies; discuss interoperability among disparate clouds, as well as between various clouds and data centers and generators, and the impact of this interoperability on the domain sciences; and discuss directions for future research and development in the context of disruptive trends and technologies and the recognized gaps in the current state of the art.   Workshop participants were able to focus on the specific issues in cluster, cloud, and data computing, as delineated below. Seventeen journal articles based on the workshop are now under review for publication. Development strategies for the following deployment issues were discussed:  designing to scale: parallelism, energy, interoperability; component and system interoperability; reliability and fault tolerance;   The following manuscript from the workshop were published in The International Journal of High Performance Computing Applications Volume 37 Issue 3-4, July 2023  Guest editors:  Jack Dongarra, Bernard Tourancheau  IO-aware Job-Scheduling: Exploiting the Impacts of Workload Characterizations to select the Mapping Strategy Emmanuel Jeannot, Guillaume Pallez, Nicolas Vidal  Combining multitask and transfer learning with deep Gaussian processes for autotuning-based performance engineering Piotr Luszczek, Wissam M Sid-Lakhdar, Jack Dongarra  Myths and legends in high-performance computing Satoshi Matsuoka, Jens Domke, Mohamed Wahib, Aleksandr Drozd, Torsten Hoefler  Orchestration of materials science workflows for heterogeneous resources at large scale Naweiluo Zhou, Giorgio Scorzelli, Jakob Luettgau, Rahul R Kancharla, Joshua J Kane, Robert Wheeler, Brendan P Croom, Pania Newell, Valerio Pascucci, Michela Taufer  Automatizing the creation of specialized high-performance computing containers Jorge Ejarque, Rosa M Badia  Versatile software-defined HPC and cloud clusters on Alps supercomputer for diverse workflows Sadaf R Alam, Miguel Gila, Mark Klein, Maxime Martinasso, Thomas C Schulthess  A Survey of Graph Comparison Methods with Applications to Nondeterminism in High-Performance Computing Sanjukta Bhowmick, Patrick Bell, Michela Taufer  Modeling, evaluating, and orchestrating heterogeneous environmental leverages for large-scale data center management Vladimir Ostapenco, Laurent Lef&egrave;vre, Anne-C&eacute;cile Orgerie, Benjamin Fichel  Abisko: Deep codesign of an architecture for spiking neural networks using novel neuromorphic materials Jeffrey S. Vetter, Prasanna Date, Farah Fahim, Shruti R. Kulkarni, Petro Maksymovych, A. Alec Talin, Marc Gonzalez Tallada, Pruek Vanna-iampikul, Aaron R. Young, David Brooks, Yu Cao, Wei Gu-Yeon, Sung Kyu Lim, Frank Liu, Matthew Marinella, Bobby Sumpter, Narasinga Rao Miniskar  Fast truncated SVD of sparse and dense matrices on graphics processors Andr&eacute;s E. Tom&aacute;s, Enrique S. Quintana-Orti, Hartwig Anzt  Graph neural networks for detecting anomalies in scientific workflows Hongwei Jin, Krishnan Raghavan, George Papadimitriou, Cong Wang, Anirban Mandal, Mariam Kiran, Ewa Deelman, Prasanna Balaprakash  Black-box statistical prediction of lossy compression ratios for scientific data Robert Underwood, Julie Bessac, David Krasowska, Jon C Calhoun, Sheng Di, Franck Cappello  Finding the forest in the trees: Enabling performance optimization on heterogeneous architectures through data science analysis of ensemble performance data Olga Pearce, Stephanie Brink  INDIANA&mdash;In-Network Distributed Infrastructure for Advanced Network Applications Sabra Ossen, Jeremy Musser, Luke Dalessandro, Martin Swany       Last Modified: 10/30/2023       Submitted by: Jack J Dongarra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

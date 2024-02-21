@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAR-PF: Microplastics and Nanoplastics as Vectors for Inorganic Pollution: Examining the Effect of Environmental Systems Conditions on Degradation Pathway and Sorption Potential]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>174000.00</AwardTotalIntnAmount>
+<AwardAmount>174000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aisha Morris</SignBlockName>
+<PO_EMAI>armorris@nsf.gov</PO_EMAI>
+<PO_PHON>7032927081</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Dr. Lauren Pincus has been awarded an NSF EAR Postdoctoral Fellowship at Princeton University under the mentorship of Dr. Satish Myneni of Princeton University and Dr. Peter Ryan of Middlebury College to investigate how microplastics and nanoplastics bind toxic contaminants as they degrade in the environment. Plastics are among the most widespread and persistent contaminants globally; however, large knowledge gaps remain in regards to our understanding of how plastics degrade in the environment and transport other pollutants that may be bound to their surface. It is particularly important to understand the chemistry of microplastics (100 nm - 5 mm) and nanoplastics (&lt; 100 nm) due to their small size increasing their ability to be ingested by organisms, resulting in biomagnification of any bound toxic contaminants up the food chain. Dr. Pincus will investigate how commonly used plastics degrade in the environment through both field and laboratory experiments. She will then examine the ability of the aged microplastics/nanoplastics to attract contaminants of environmental and societal concern such as arsenic and lead. This study will focus on inorganic contaminants (e.g. toxic metals), as this is a less studied area than organic pollutants (e.g pesticides). The ultimate goal of this research is to develop a predictive understanding of how degraded microplastics/nanoplastics contribute to the spread of toxic pollutants like lead and arsenic. Ultimately, this knowledge can inform the design of future plastics that can degrade more safely in the environment without transporting toxic metals. The results of this research will be shared with the general public through a lecture series at local businesses, non-profits, and community colleges on plastics in the environment. Opportunities will also be provided for both undergraduates and high school students to participate in this research project, with an emphasis on working with and mentoring students from underrepresented (female, minority, low-income) backgrounds. &lt;br/&gt;&lt;br/&gt;The ultimate goal of this research is to develop a predictive understanding of how microplastic (MP) and nanoplastic (NP) degradation affects environmental fate of inorganic contaminants. Specifically, this project aims to: 1. Determine how environmental conditions affect the degradation pathway of MPs and NPs, 2. Investigate differences in MP and NP sorption potential towards inorganic contaminants throughout the degradation process, 3. Identify key functional groups that control contaminant sorption by MPs and NPs, and 4. Elucidate the role of metal (hydr)oxide precipitates and biofilm formation on adsorption of inorganic contaminants by MPs and NPs. A combination of field and laboratory studies will be used in order to isolate key environmental factors driving MP/NP weathering mechanisms that increase their sorption capacity towards inorganic contaminants. Ultimately this knowledge will enable design of plastics capable of safely degrading in the environment without the unintended hazard of serving as vectors for pollutant transport.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/14/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052956</AwardID>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Pincus</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lauren N Pincus</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000807838</NSF_ID>
+<StartDate>07/14/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pincus, Lauren Nicole</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442016</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pincus, Lauren Nicole]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7137</Code>
+<Text>Postdoctoral Fellowships</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7295</Code>
+<Text>Geobiology &amp; Low-Temp Geochem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~174000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Plastics are among the most widespread and persistent pollutants globally, necessitating a detailed, process-level understanding of their behavior in the environment. Release of plastics into the environment poses a serious threat to human and environmental health. Once in the environment, plastics will physically degrade into microplastics (MPs) and nanoplastics (NPs). MPs/NPs themselves are a hazard to organisms at all levels of the food chain as due to their small size, they are easily ingested by organisms . An additional, and perhaps more significant, threat from MPs/NPs is due to their ability to adsorb high levels of organic and inorganic pollutants due to their extremely high surface area to volume ratio. As plastics degrade, they undergo a variety of changes in their physical and chemical properties that can make them significantly more capable of serving as vectors for inorganic contaminants. When ingested by organisms, this leads to bioaccumulation and biomagnification of these contaminants.</p> <p>Through a combination of field and laboratory study, we examined how environmental systems conditions affect the degradation pathway of MPs/NPs, and in turn how these changes in surface chemistry influence adsorption of environmentally cations and oxyanions</p> <p>The ultimate goal of the proposed research was to develop a predictive understanding of how microplastic (MP) and nanoplastic (NP) degradation affects environmental fate of inorganic contaminants. The objectives of this study were: 1. Determine how environmental conditions affect the degradation pathway of microplastics (MPs) and nanoplastics (NPs), 2. Investigate differences in MP and NP sorption potential towards inorganic contaminants throughout the degradation process, 3. Identify key functional groups that control contaminant sorption by MPs and NPs, and&nbsp;4. Elucidate the role of metal (hydr)oxide precipitates and biofilm formation on adsorption of inorganic contaminants by MPs and NPs.</p> <p>Intellectual merit: This study advanced our understanding of the risks posed by MP/NPs serving as vectors for inorganic pollutants, and enabling tailored intervention in the design phase of novel plastics that can safely degrade without transporting and biomagnifying contaminants. The significant novel contributions of this project were: 1. Examination of the effects of long term weathering in a range of environmental systems conditions on the surface chemistry of MPs/NPs of four commonly used plastics through a combination of field and laboratory study, 2. Examination of the of sorption capacity of MPs/NPs for both cations and oxyanions as a function of environmental systems conditions and degradation, 3. Detailed characterization of metal (hydr)oxide precipitates and biofilms that develop as MPs/NPs age, and 4. A mechanistic study using spectroscopic and synchrotron techniques on the adsorption mechanisms of cations and oxyanions to weathered and fouled MPs/NPs.</p> <p>Our study examined the weathering of four types of commonly used commercial plastics, polyethylene, polyester, nylon, and polypropylene for plastics aged for between 1 month to five years. The effects of environmental conditions including terrestrial vs aqueous weathering and varying salinity on the mechanism of plastic degradation and in turn the ability of these plastics to accumulate toxic metals was examined. Using state of the art synchrotron spectroscopy techniques, we were able to examine the heterogenous distribution of elements on the surface of plastics as well as the speciation of iron. Additionally, we investigated the adsorption mechanism of toxic metals such as mercury to the plastic surface. Our results find that changes in environmental systems conditions affect the rate at which plastics degrade, which inorganic species bind to the surface of weathered plastics, and how toxic metals interact with the plastic surface.</p> <p>Broader impacts: The topic of single-use-plastics is of growing environmental and societal concern as evidenced by increasing numbers of government policies focused on plastics such as bans on single-use plastics in currently ten states. This research enhanced our understanding of how plastics behave once they are released into the environment and the potential risks plastics pose in regards to their ability to bioaccumulate and biomagnify pollutants. This research also gives us a deeper understanding of the challenges posed to reclaim and recycle plastics found in the environment. This knowledge will be of benefit for policy decisions related to both environmental and human health protection. Results of this research can also inform future design of next-generation plastics which are capable of degrading in the environment without the unintended consequence of biomagnification of inorganic contaminants. Results of this research were disseminated to the scientific community through numerous presentations and a publication in ES&amp;T Letters (Pincus et al., 2023). Outcomes of this research were also disseminated to the broader community through the creation of a YouTube video published online and a podcast as well as through presentations of the research to interested stakeholders including high school students interested in environmental studies and members of local non-profit groups. This research also resulted in significant professional development and training opportunities for PI Pincus as well as two undergraduate researchers who aided in the research efforts.</p><br> <p>  Last Modified: 12/18/2023<br> Modified by: Lauren&nbsp;N&nbsp;Pincus</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Plastics are among the most widespread and persistent pollutants globally, necessitating a detailed, process-level understanding of their behavior in the environment. Release of plastics into the environment poses a serious threat to human and environmental health. Once in the environment, plastics will physically degrade into microplastics (MPs) and nanoplastics (NPs). MPs/NPs themselves are a hazard to organisms at all levels of the food chain as due to their small size, they are easily ingested by organisms . An additional, and perhaps more significant, threat from MPs/NPs is due to their ability to adsorb high levels of organic and inorganic pollutants due to their extremely high surface area to volume ratio. As plastics degrade, they undergo a variety of changes in their physical and chemical properties that can make them significantly more capable of serving as vectors for inorganic contaminants. When ingested by organisms, this leads to bioaccumulation and biomagnification of these contaminants.   Through a combination of field and laboratory study, we examined how environmental systems conditions affect the degradation pathway of MPs/NPs, and in turn how these changes in surface chemistry influence adsorption of environmentally cations and oxyanions   The ultimate goal of the proposed research was to develop a predictive understanding of how microplastic (MP) and nanoplastic (NP) degradation affects environmental fate of inorganic contaminants. The objectives of this study were: 1. Determine how environmental conditions affect the degradation pathway of microplastics (MPs) and nanoplastics (NPs), 2. Investigate differences in MP and NP sorption potential towards inorganic contaminants throughout the degradation process, 3. Identify key functional groups that control contaminant sorption by MPs and NPs, and4. Elucidate the role of metal (hydr)oxide precipitates and biofilm formation on adsorption of inorganic contaminants by MPs and NPs.   Intellectual merit: This study advanced our understanding of the risks posed by MP/NPs serving as vectors for inorganic pollutants, and enabling tailored intervention in the design phase of novel plastics that can safely degrade without transporting and biomagnifying contaminants. The significant novel contributions of this project were: 1. Examination of the effects of long term weathering in a range of environmental systems conditions on the surface chemistry of MPs/NPs of four commonly used plastics through a combination of field and laboratory study, 2. Examination of the of sorption capacity of MPs/NPs for both cations and oxyanions as a function of environmental systems conditions and degradation, 3. Detailed characterization of metal (hydr)oxide precipitates and biofilms that develop as MPs/NPs age, and 4. A mechanistic study using spectroscopic and synchrotron techniques on the adsorption mechanisms of cations and oxyanions to weathered and fouled MPs/NPs.   Our study examined the weathering of four types of commonly used commercial plastics, polyethylene, polyester, nylon, and polypropylene for plastics aged for between 1 month to five years. The effects of environmental conditions including terrestrial vs aqueous weathering and varying salinity on the mechanism of plastic degradation and in turn the ability of these plastics to accumulate toxic metals was examined. Using state of the art synchrotron spectroscopy techniques, we were able to examine the heterogenous distribution of elements on the surface of plastics as well as the speciation of iron. Additionally, we investigated the adsorption mechanism of toxic metals such as mercury to the plastic surface. Our results find that changes in environmental systems conditions affect the rate at which plastics degrade, which inorganic species bind to the surface of weathered plastics, and how toxic metals interact with the plastic surface.   Broader impacts: The topic of single-use-plastics is of growing environmental and societal concern as evidenced by increasing numbers of government policies focused on plastics such as bans on single-use plastics in currently ten states. This research enhanced our understanding of how plastics behave once they are released into the environment and the potential risks plastics pose in regards to their ability to bioaccumulate and biomagnify pollutants. This research also gives us a deeper understanding of the challenges posed to reclaim and recycle plastics found in the environment. This knowledge will be of benefit for policy decisions related to both environmental and human health protection. Results of this research can also inform future design of next-generation plastics which are capable of degrading in the environment without the unintended consequence of biomagnification of inorganic contaminants. Results of this research were disseminated to the scientific community through numerous presentations and a publication in ES&T Letters (Pincus et al., 2023). Outcomes of this research were also disseminated to the broader community through the creation of a YouTube video published online and a podcast as well as through presentations of the research to interested stakeholders including high school students interested in environmental studies and members of local non-profit groups. This research also resulted in significant professional development and training opportunities for PI Pincus as well as two undergraduate researchers who aided in the research efforts.     Last Modified: 12/18/2023       Submitted by: LaurenNPincus]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

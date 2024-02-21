@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Excellence in Research: Multi-Charge Ion Implantation of Ultra-Wide Bandgap beta-Ga2O3 Semiconductor Grown by Magnetron Sputtering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nontechnical Description&lt;br/&gt;This Excellence in Research (EiR) project at a minority-serving institution will support faculty research on materials, build the institutional research capacity, and train underrepresented and underserved students in materials research. This research project includes developing a reliable technique for depositing thin layers of gallium oxide, a semiconductor. This material is interesting because it has shown promise for many special defense and civilian electronic device applications, including high power microelectronic devices and harsh environment sensors. Undergraduate students with very little or no prior research experience will learn technological skills by conducting research during the regular academic year and in the summer. Five talented High School students from neighboring schools in rural northeastern North Carolina will be introduced to materials research careers each year during the summer research internship supported with this grant. Undergraduate students from a minority-serving institution will have the opportunity to conduct research with, and interact and learn from graduate students and faculty from Old Dominion University, a collaborating partner on this project.&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;The growth of beta-gallium oxide epilayers by the relatively inexpensive magnetron sputtering method on electrically insulating (iron-doped) and conducting (tin-doped) gallium oxide substrates is being investigated. Their structures will be characterized with various high-resolution X-ray diffraction scans. Doping of the gallium oxide layers is attained via co-sputtering with different dopant targets. Low energy laser Multi-Charge Ion (MCI) implantation used to heavily dope the top layer of the material at selected spatial locations will also be investigated. The principal investigator and student researchers will work with the co-investigator and graduate students at Old Dominion University to study MCI implantation and efficient dopant activation processes. The ultra-wide energy gap of this material implies high breakdown field strength and high tolerance for extreme conditions and harsh environments. Beta-gallium oxide semiconductor is a good candidate for high power electronic devices, solar-blind UV photodetectors, photocatalysts, gas sensors, and solar cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000174</AwardID>
+<Investigator>
+<FirstName>Bijandra</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bijandra Kumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[bkumar@ecsu.edu]]></EmailAddress>
+<NSF_ID>000783227</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mehran</FirstName>
+<LastName>Elahi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mehran Elahi</PI_FULL_NAME>
+<EmailAddress><![CDATA[melahi@mail.ecsu.edu]]></EmailAddress>
+<NSF_ID>000354274</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adetayo</FirstName>
+<LastName>Adedeji</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adetayo V Adedeji</PI_FULL_NAME>
+<EmailAddress><![CDATA[avadedeji@mail.ecsu.edu]]></EmailAddress>
+<NSF_ID>000498652</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hani</FirstName>
+<LastName>Elsayed-Ali</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hani E Elsayed-Ali</PI_FULL_NAME>
+<EmailAddress><![CDATA[helsayed@odu.edu]]></EmailAddress>
+<NSF_ID>000304287</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Elizabeth City State University</Name>
+<CityName>ELIZABETH CITY</CityName>
+<ZipCode>279099913</ZipCode>
+<PhoneNumber>2523353222</PhoneNumber>
+<StreetAddress>1704 WEEKSVILLE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K2QMZUVDPKW1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ELIZABETH CITY STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Elizabeth City State University]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>279099913</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overall goal of the project is to grow oxide semiconductor, gallium oxide, via a low-cost deposition method of magnetron sputtering. Gallium oxide is an ultra-wide bandgap semiconductor with potential application in high power electronics and harsh environment electronics because of its very wide energy gap and high breakdown critical field strength. Growing epitaxial layer of beta-gallium oxide on gallium oxide substrate is essential to be able to fabricate functional devices for high power applications. The first goal was to upgrade the Ultra High Vacuum (UHV) magnetron sputtering system at ECSU with additional RF power, a new sputter gun capable of handling magnetic material, and a new chiller and turbo pump. The sputtering system is the only such instrument available at ECSU and it is used by multiple faculty members and many students interested in materials research.</p> <p>&nbsp;Doped and undoped gallium oxide layers were deposited on different substrates including native gallium oxide substrates. High Resolution XRD (HRXRD) and Scanning Tunneling Electron Microscope (STEM) were employed to investigate the crystallinity of the of the grown layers. It was difficult to secure time on the instrument where there is expertise to analyze thin film (~ 150 ? 200 nm) of gallium oxide on native gallium oxide substrate. Through a rapid access proposal submitted to Oak Ridge National Lab, time on the machine with research scientist was guaranteed but it was still difficult to schedule a good timely visit to the facility. The HRXRD analysis was inconclusive on the crystallinity of the thin films because it is deposited on native substrates. However, STEM images showed epitaxial growth of gallium oxide thin films in gallium oxide substrate at varying thicknesses. Differently oriented crystals were observed with increased thickness. Two sets of crystallographic planes were determined in the epitaxial layer close to the substrate-film interface (Figures 1-3). Conducting n-type Si-doped gallium oxide thin films was deposited by co-sputtering gallium oxide target with silicon target. The amount of silicon in the layer was extremely small and only Secondary Ion Mass Spectroscopy (ToF SIMS) was able to detect silicon in the sample. Fe-doped gallium oxide thin films is highly insulating with very high breakdown critical field strength. Some of the results have been presented as poster and orally at five international conferences organized by the American Vacuum Society (AVS). Instead of co-sputtering the dopant, low energy multi-charge ion implantation was attempted with niobium as dopant element. We were not able to get reasonable conductivity from the samples so far. Different dopant activation processes were employed with little or no success.</p> <p>About 15 undergraduate students have worked on this project over the period of the grant (2020 -2023). About 6 of the 15 students worked extensively on the project. Two (2) of the 6 students graduated with perfect GPA and were the bearer of the mace during graduation ceremonies. Students were interested and motivated to work on the project even though it was their first research experience. Students from different disciplines were introduced to the field of materials science and engineering with this project. Eight (8) high school students were introduced to the field of materials science and engineering in the summer 2021 virtually (because of COVID) while four (4) high school students participated in the summer 2022 research internship face-to-face. The hands-on research activity involved undergraduate research student as program director working closely with the high school students. The 2-week research activity was effective, and the research results were presented as a poster at the AVS PacSurf conference in December 2022.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/18/2023<br>      Modified by: Adetayo&nbsp;V&nbsp;Adedeji</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681405382_Figure3_STEM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681405382_Figure3_STEM--rgov-800width.jpg" title="STEM images_03"><img src="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681405382_Figure3_STEM--rgov-66x44.jpg" alt="STEM images_03"></a> <div class="imageCaptionContainer"> <div class="imageCaption">STEM image of magnetron sputtered gallium oxide thin films on (010) gallium oxide substrate.</div> <div class="imageCredit">Adetayo Adedeji</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Adetayo&nbsp;V&nbsp;Adedeji</div> <div class="imageTitle">STEM images_03</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681245545_Figure2_STEM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681245545_Figure2_STEM--rgov-800width.jpg" title="STEM images_02"><img src="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681245545_Figure2_STEM--rgov-66x44.jpg" alt="STEM images_02"></a> <div class="imageCaptionContainer"> <div class="imageCaption">STEM images of gallium oxide films on gallium oxide substrate.</div> <div class="imageCredit">Adetayo Adedeji</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Adetayo&nbsp;V&nbsp;Adedeji</div> <div class="imageTitle">STEM images_02</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681121354_Figure1_STEM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681121354_Figure1_STEM--rgov-800width.jpg" title="STEM images_01"><img src="/por/images/Reports/POR/2023/2000174/2000174_10678635_1697681121354_Figure1_STEM--rgov-66x44.jpg" alt="STEM images_01"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Cross-sectional STEM images of gallium oxide thin films on (010) gallium oxide substrate.</div> <div class="imageCredit">Adetayo Adedeji</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Adetayo&nbsp;V&nbsp;Adedeji</div> <div class="imageTitle">STEM images_01</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The overall goal of the project is to grow oxide semiconductor, gallium oxide, via a low-cost deposition method of magnetron sputtering. Gallium oxide is an ultra-wide bandgap semiconductor with potential application in high power electronics and harsh environment electronics because of its very wide energy gap and high breakdown critical field strength. Growing epitaxial layer of beta-gallium oxide on gallium oxide substrate is essential to be able to fabricate functional devices for high power applications. The first goal was to upgrade the Ultra High Vacuum (UHV) magnetron sputtering system at ECSU with additional RF power, a new sputter gun capable of handling magnetic material, and a new chiller and turbo pump. The sputtering system is the only such instrument available at ECSU and it is used by multiple faculty members and many students interested in materials research.   Doped and undoped gallium oxide layers were deposited on different substrates including native gallium oxide substrates. High Resolution XRD (HRXRD) and Scanning Tunneling Electron Microscope (STEM) were employed to investigate the crystallinity of the of the grown layers. It was difficult to secure time on the instrument where there is expertise to analyze thin film (~ 150 ? 200 nm) of gallium oxide on native gallium oxide substrate. Through a rapid access proposal submitted to Oak Ridge National Lab, time on the machine with research scientist was guaranteed but it was still difficult to schedule a good timely visit to the facility. The HRXRD analysis was inconclusive on the crystallinity of the thin films because it is deposited on native substrates. However, STEM images showed epitaxial growth of gallium oxide thin films in gallium oxide substrate at varying thicknesses. Differently oriented crystals were observed with increased thickness. Two sets of crystallographic planes were determined in the epitaxial layer close to the substrate-film interface (Figures 1-3). Conducting n-type Si-doped gallium oxide thin films was deposited by co-sputtering gallium oxide target with silicon target. The amount of silicon in the layer was extremely small and only Secondary Ion Mass Spectroscopy (ToF SIMS) was able to detect silicon in the sample. Fe-doped gallium oxide thin films is highly insulating with very high breakdown critical field strength. Some of the results have been presented as poster and orally at five international conferences organized by the American Vacuum Society (AVS). Instead of co-sputtering the dopant, low energy multi-charge ion implantation was attempted with niobium as dopant element. We were not able to get reasonable conductivity from the samples so far. Different dopant activation processes were employed with little or no success.  About 15 undergraduate students have worked on this project over the period of the grant (2020 -2023). About 6 of the 15 students worked extensively on the project. Two (2) of the 6 students graduated with perfect GPA and were the bearer of the mace during graduation ceremonies. Students were interested and motivated to work on the project even though it was their first research experience. Students from different disciplines were introduced to the field of materials science and engineering with this project. Eight (8) high school students were introduced to the field of materials science and engineering in the summer 2021 virtually (because of COVID) while four (4) high school students participated in the summer 2022 research internship face-to-face. The hands-on research activity involved undergraduate research student as program director working closely with the high school students. The 2-week research activity was effective, and the research results were presented as a poster at the AVS PacSurf conference in December 2022.          Last Modified: 10/18/2023       Submitted by: Adetayo V Adedeji]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

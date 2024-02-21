@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studying Quantum Chromodynamics at LHCb]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>555158.00</AwardTotalIntnAmount>
+<AwardAmount>697969</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allena K. Opper</SignBlockName>
+<PO_EMAI>aopper@nsf.gov</PO_EMAI>
+<PO_PHON>7032928958</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The protons and neutrons in the atomic nuclei of everyday matter are made of subnuclear particles called quarks and gluons.  The project supported by this award will study how quarks and gluons scattered out of a proton or produced in high-energy particle collisions subsequently form new bound states.  Additional measurements will investigate how strong nuclear charge, called color, flows through proton-proton scattering processes, searching for a theoretically predicted novel state of quarks and gluons that exhibit quantum correlations across colliding protons.  Data from the Large Hadron Collider at the European Organization for Nuclear Research (CERN) will be used to perform the research, as part of the Large Hadron Collider Beauty (LHCb) experiment.  The research performed will advance our understanding of how strong force bound states such as protons can be created, and the dynamics of their possible interactions.  The project supported by this award will furthermore train early career scientists from diverse backgrounds in nuclear physics. Training the next generation of nuclear physicists is critical to maintain expertise relevant to the nation's energy and defense needs and to continue advancing both applied and non-applied research in nuclear physics and technology.  Specifically, this award will enable mentored research in nuclear physics on the LHCb experiment by a woman postdoctoral scholar and four Ph.D. students, two women and two men, of which one is Latina American and another African American.  In the third year of the award, a student from Mount Holyoke College, an undergraduate institution for women, will have the opportunity to perform summer research in nuclear physics at the University of Michigan.&lt;br/&gt;&lt;br/&gt;The PI’s group will study how high-energy color-charged quarks hadronize into sprays of observable color-neutral bound states by performing a suite of complementary measurements at LHCb.  Specifically, the measurements will compare charged hadron distributions in jets initiated predominantly by light versus heavy quarks; examine evidence for contributions from string breaking versus quark recombination models of hadronization via measurements of baryon versus meson production as a function of event multiplicity; and study spin-momentum correlations in hadronization by measurement of spontaneous polarization of produced hyperons.  The proposed hadronization program will contribute toward the ultimate, long-term goal of being able to predict statistically the fully correlated distributions of particles from different flavor high-energy fragmenting quarks.  Separate measurements will explore the role of color flow in hadronic scattering processes by searching for experimental evidence of transverse-momentum-dependent factorization breaking and color entanglement.  The specific observables include correlated production of nearly back-to-back Z boson-hadron, hadron-hadron, and Z boson-jet pairs.   The activities furthermore include contributions to the installation, commissioning, and maintenance of the U.S.-led Upstream Tracker silicon detector upgrade for LHCb.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012926</AwardID>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Aidala</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christine Aidala</PI_FULL_NAME>
+<EmailAddress><![CDATA[caidala@umich.edu]]></EmailAddress>
+<NSF_ID>000632067</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 South State St. Room 1022]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1232</Code>
+<Text>Nuclear &amp; Hadron Quantum Chrom</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1515</Code>
+<Text>MINORITY GRADUATE EDUC ACTIVIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~185625</FUND_OBLG>
+<FUND_OBLG>2021~305699</FUND_OBLG>
+<FUND_OBLG>2022~206645</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The protons and neutrons in the atomic nuclei of everyday matter are made of subnuclear particles called quarks and gluons.&nbsp; This project studied quark and antiquark distributions inside the proton and how quarks and gluons scattered out of a proton or produced in high-energy particle collisions subsequently form new bound states, called hadrons.&nbsp; Data from two experimental facilities were used to perform the research: the Large Hadron Collider at the European Organization for Nuclear Research (CERN), as part of the Large Hadron Collider Beauty (LHCb) experiment, and the Main Injector at Fermi National Accelerator Laboratory (Fermilab), as part of the SeaQuest experiment.&nbsp;</p> <p>Two measurements using proton-proton collision data from the LHCb experiment were completed and published.&nbsp; One investigated the distributions of charged pions, charged kaons, and protons produced in jets initiated predominantly by light quarks, measuring two kinematic variables simultaneously to study their correlation.&nbsp; Jets are approximately conical sprays of particles produced when a quark or gluon is scattered out of a proton at high energy.&nbsp; It was the first measurement of this type, and it demonstrated that the two variables are not independent of one another, as has often been assumed in phenomenological calculations.&nbsp; The measurements also provide information on differences in the formation dynamics of the different produced particle types.&nbsp; The other LHCb measurement was of the angular distribution of produced Z bosons, carrier particles of the weak interaction.&nbsp; The aspect of the measurement directly relevant to this project provided sensitivity to quark and antiquark dynamics in the proton, specifically to correlations between the spin of a quark or antiquark and its transverse momentum within the proton.&nbsp; Additional measurements at LHCb were advanced through this project and are in progress.</p> <p>One measurement from the SeaQuest experiment was completed and published, with an initial short paper presenting the main results and a longer, follow-up paper describing the work in more detail.&nbsp; The measurement was of the cross-section ratio for quark-antiquark annihilation to muon pairs in proton-deuteron collisions compared to proton-proton collisions, which provides sensitivity to the ratio of down antiquarks to up antiquarks in the proton. &nbsp;The work discovered that the previously established excess of down antiquarks with respect to up antiquarks in the proton persists for antiquarks carrying up to 45% of the proton momentum.&nbsp; These results have already had a high impact on both the nuclear and particle physics communities, with 73 citations since the results were made public in 2021.</p> <p>This project made significant contributions to enabling open access to data from the LHCb experiment.&nbsp; Specifically, a web-based application known as the Ntuple Wizard was designed and implemented.&nbsp; It is designed to allow individuals who are not members of the LHCb Collaboration to find and easily access specific LHCb data sets and select the information that they want to output for further analysis, while protecting the security of the CERN computing systems.&nbsp; A technical paper was published that describes the application.&nbsp; The project additionally contributed to the successful construction of the LHCb Upstream Tracker silicon detector, which has been fully installed and started taking commissioning data with proton-proton collisions in 2022.</p> <p>The project furthermore trained young scientists from a wide range of backgrounds in nuclear physics. Training the next generation of nuclear physicists is critical to maintain expertise relevant to the nation's energy and defense needs and to continue advancing both applied and non-applied research in nuclear physics and technology.&nbsp; Specifically, this project enabled mentored research in nuclear physics on the LHCb and SeaQuest experiments by two postdoctoral scholars, six Ph.D. students, and three undergraduate students.&nbsp; One of the undergraduates was a student from Mount Holyoke College, an undergraduate institution for women, who spent the summer of 2022 performing research in nuclear physics at the University of Michigan.&nbsp; One of the Ph.D. students completed her degree and has moved on to a postdoctoral research position in high-energy nuclear physics.&nbsp;</p> <p>Finally, the project included several outreach activities to middle and high school students as well as the general public.&nbsp; For all three years of the project, members of the project performed live physics demonstrations for more than 200 8<sup>th</sup> graders per year, with live online events in 2021 and 2022 due to the pandemic, and visiting the middle school in person in 2023.&nbsp; In 2020, upon invitation the Principal Investigator delivered two online talks to high school students about her research and career path.&nbsp; In 2021 she was an invited guest on the Scientific Sense podcast, hosted by Gill Eapen, where she discussed the SeaQuest results studying antiquarks in the proton.&nbsp; In 2021 she additionally gave a public lecture on the physics of music as part of the University of Michigan Saturday Morning Physics series.</p><br> <p>            Last Modified: 10/28/2023<br>      Modified by: Christine&nbsp;Aidala</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The protons and neutrons in the atomic nuclei of everyday matter are made of subnuclear particles called quarks and gluons.  This project studied quark and antiquark distributions inside the proton and how quarks and gluons scattered out of a proton or produced in high-energy particle collisions subsequently form new bound states, called hadrons.  Data from two experimental facilities were used to perform the research: the Large Hadron Collider at the European Organization for Nuclear Research (CERN), as part of the Large Hadron Collider Beauty (LHCb) experiment, and the Main Injector at Fermi National Accelerator Laboratory (Fermilab), as part of the SeaQuest experiment.   Two measurements using proton-proton collision data from the LHCb experiment were completed and published.  One investigated the distributions of charged pions, charged kaons, and protons produced in jets initiated predominantly by light quarks, measuring two kinematic variables simultaneously to study their correlation.  Jets are approximately conical sprays of particles produced when a quark or gluon is scattered out of a proton at high energy.  It was the first measurement of this type, and it demonstrated that the two variables are not independent of one another, as has often been assumed in phenomenological calculations.  The measurements also provide information on differences in the formation dynamics of the different produced particle types.  The other LHCb measurement was of the angular distribution of produced Z bosons, carrier particles of the weak interaction.  The aspect of the measurement directly relevant to this project provided sensitivity to quark and antiquark dynamics in the proton, specifically to correlations between the spin of a quark or antiquark and its transverse momentum within the proton.  Additional measurements at LHCb were advanced through this project and are in progress.  One measurement from the SeaQuest experiment was completed and published, with an initial short paper presenting the main results and a longer, follow-up paper describing the work in more detail.  The measurement was of the cross-section ratio for quark-antiquark annihilation to muon pairs in proton-deuteron collisions compared to proton-proton collisions, which provides sensitivity to the ratio of down antiquarks to up antiquarks in the proton.  The work discovered that the previously established excess of down antiquarks with respect to up antiquarks in the proton persists for antiquarks carrying up to 45% of the proton momentum.  These results have already had a high impact on both the nuclear and particle physics communities, with 73 citations since the results were made public in 2021.  This project made significant contributions to enabling open access to data from the LHCb experiment.  Specifically, a web-based application known as the Ntuple Wizard was designed and implemented.  It is designed to allow individuals who are not members of the LHCb Collaboration to find and easily access specific LHCb data sets and select the information that they want to output for further analysis, while protecting the security of the CERN computing systems.  A technical paper was published that describes the application.  The project additionally contributed to the successful construction of the LHCb Upstream Tracker silicon detector, which has been fully installed and started taking commissioning data with proton-proton collisions in 2022.  The project furthermore trained young scientists from a wide range of backgrounds in nuclear physics. Training the next generation of nuclear physicists is critical to maintain expertise relevant to the nation's energy and defense needs and to continue advancing both applied and non-applied research in nuclear physics and technology.  Specifically, this project enabled mentored research in nuclear physics on the LHCb and SeaQuest experiments by two postdoctoral scholars, six Ph.D. students, and three undergraduate students.  One of the undergraduates was a student from Mount Holyoke College, an undergraduate institution for women, who spent the summer of 2022 performing research in nuclear physics at the University of Michigan.  One of the Ph.D. students completed her degree and has moved on to a postdoctoral research position in high-energy nuclear physics.   Finally, the project included several outreach activities to middle and high school students as well as the general public.  For all three years of the project, members of the project performed live physics demonstrations for more than 200 8th graders per year, with live online events in 2021 and 2022 due to the pandemic, and visiting the middle school in person in 2023.  In 2020, upon invitation the Principal Investigator delivered two online talks to high school students about her research and career path.  In 2021 she was an invited guest on the Scientific Sense podcast, hosted by Gill Eapen, where she discussed the SeaQuest results studying antiquarks in the proton.  In 2021 she additionally gave a public lecture on the physics of music as part of the University of Michigan Saturday Morning Physics series.       Last Modified: 10/28/2023       Submitted by: Christine Aidala]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Proposal: Models and Methods for High Quantiles in Risk Quantification and Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>119999.00</AwardTotalIntnAmount>
+<AwardAmount>119999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In recent years, vulnerabilities in financial markets, economies, and public health have posed increasingly severe risks to society. For monitoring natural disasters and forecasting epidemics, financial institutions and governmental organizations must invest in risk intelligence to clearly define, understand, measure, quantify, and manage their tolerance for and exposure to risk. By employing rigorous and robust analytics to measure, quantify, and forecast risk, business leaders and regulators can rely less on intuition and more on systematic methodologies to manage risk well and make sound policy decisions. This project will develop improved and powerful analytic tools for applied researchers, regulators, and practitioners to conduct risk assessment. These tools and techniques will have broad impacts in wide-ranging fields such as economics, finance, and insurance. The project also intends to provide training opportunities for graduate students and broaden the participation of underrepresented groups in statistics and actuarial science. &lt;br/&gt;&lt;br/&gt;This research project focuses on the uncertainty quantification, back-test, and sensitivity analysis for both conditional and unconditional risk measures computed from mathematical models. This project develops a computationally efficient two-step inference for an ARMA-GARCH model and fits parametric and semi-parametric distribution family to residuals. The investigators will study semi-supervised learning for risk analysis when other variables with a large sample size are available. They also plan to validate residual-based bootstrap methods for quantifying risk uncertainty and develop efficient ways for risk forecasts and back-tests. The new methodologies combine some modern statistical techniques such as extreme value theory for forecasting catastrophic risk, weighted estimation for handling both infinite variance and persistent volatility, and empirical likelihood method for efficient hypothesis testing. These techniques are robust and applicable to various problems in risk management and other research fields requiring uncertainty quantification.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012298</AwardID>
+<Investigator>
+<FirstName>Zhengjun</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhengjun Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zjz@stat.wisc.edu]]></EmailAddress>
+<NSF_ID>000255213</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>Madison</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537061532</ZipCode>
+<StreetAddress><![CDATA[1221 Medical Science Center, 130]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~119999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>During the submission period 08/01/2022 to 07/31/2023, PI achieved the following accomplishments. 1) developed and published a novel multivariate time series model named copula-linked univariate D-vines (CuDvine), enabling simultaneous copula-based modeling of both temporal and cross-sectional dependence for multivariate time series. 2) developed and published a new type of linear regression model with regularization. Each predictor is conditionally truncated through the presence of unknown thresholds. The new model called the two-way truncated linear regression model (TWT-LR), is not only viewed as a nonlinear generalization of a linear model but is also a much more flexible model with greatly enhanced interpretability and applicability. The TWT-LR model performs classifications through thresholds similar to the tree-based methods and conducts the same inferences as the classical linear model on different segments. In addition, the innovative penalization called the extremely thresholding penalty (ETP), is applied to thresholds. The ETP is independent of the values of regression coefficients and does not require any normalizations of regressors. The TWT-LR-ETP model detects thresholds at a wide range, including the two extreme ends where data are sparse. 3) developed and published a new model of directly and simultaneously expressing absolute and relative treatment effects in medical data models and applications, amongst others. 4) developed and published a new exchange rate forecasting model, which outperformed the toughest benchmark model: random walk.</p><br> <p>            Last Modified: 10/25/2023<br>      Modified by: Zhengjun&nbsp;Zhang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ During the submission period 08/01/2022 to 07/31/2023, PI achieved the following accomplishments. 1) developed and published a novel multivariate time series model named copula-linked univariate D-vines (CuDvine), enabling simultaneous copula-based modeling of both temporal and cross-sectional dependence for multivariate time series. 2) developed and published a new type of linear regression model with regularization. Each predictor is conditionally truncated through the presence of unknown thresholds. The new model called the two-way truncated linear regression model (TWT-LR), is not only viewed as a nonlinear generalization of a linear model but is also a much more flexible model with greatly enhanced interpretability and applicability. The TWT-LR model performs classifications through thresholds similar to the tree-based methods and conducts the same inferences as the classical linear model on different segments. In addition, the innovative penalization called the extremely thresholding penalty (ETP), is applied to thresholds. The ETP is independent of the values of regression coefficients and does not require any normalizations of regressors. The TWT-LR-ETP model detects thresholds at a wide range, including the two extreme ends where data are sparse. 3) developed and published a new model of directly and simultaneously expressing absolute and relative treatment effects in medical data models and applications, amongst others. 4) developed and published a new exchange rate forecasting model, which outperformed the toughest benchmark model: random walk.       Last Modified: 10/25/2023       Submitted by: Zhengjun Zhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

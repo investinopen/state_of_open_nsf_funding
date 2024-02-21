@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CNS Core: Small: Robust Resource Planning and Orchestration to Satisfy End-to-End SLA Requirements in Mobile Edge Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>142500.00</AwardTotalIntnAmount>
+<AwardAmount>142500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alhussein Abouzeid</SignBlockName>
+<PO_EMAI>aabouzei@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mobile edge computing has emerged to address the long end-to-end latency, low throughput, and unpredictability of cloud computing as an Internet-based service when supporting modern mobile applications. Nevertheless, the lack of performance guarantees in the form of service-level agreements (SLAs) can lead to performance degradation of critical applications, rendering them incompetent or unsafe to use. Due to the high dynamics in the mobile environment, the edge provider can incur substantial financial risks for providing SLA guarantees that could be violated. This discourages edge providers from providing SLA guarantees without first understanding and being able to control the associated risks. This project seeks to develop tools that help the edge provider to quantify and minimize the risks associated with providing edge SLA guarantees on key performance metrics through resource planning and orchestration. This project will significantly advance our knowledge on the risk factors in edge computing and give rise to new frontiers in edge computing research. Also, this project will enable and enhance life-changing edge applications such as mobile vision and autonomous driving, promote investment and expedite development in the edge computing industry, train highly qualified personnel for the future computing workforce, and broaden awareness and interest in edge computing through curriculum development and research dissemination.&lt;br/&gt;&lt;br/&gt;This project will lay the theoretical and algorithmic foundation of comprehensive risk modeling and optimization for providing edge SLA guarantees. This project combines a realistic performance model of mobile edge applications with the established theory of risk management in portfolio management and develops efficient algorithms for risk assessment and optimization through stochastic optimization, convex optimization, sampling techniques, approximations, and learning-based methods. Specifically, this project makes the following technical contributions: 1) development and validation of a realistic performance and SLA model for mobile edge computing applications, 2) modeling and optimization of three risk measures (risk probability, value-at-risk, and conditional value-at-risk) for single-user risk-aware edge resource orchestration, 3) modeling and optimization for multi-user single-node risk-aware edge resource orchestration, and 4) modeling and optimization for multi-user multi-node risk-aware edge resource provisioning. All research outcomes will be evaluated with testbed and/or large-scale simulations with public traces, and will be made publicly available on the PIs' websites to promote result reproduction and future research advancements along the line.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007391</AwardID>
+<Investigator>
+<FirstName>Ruozhou</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ruozhou Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ryu5@ncsu.edu]]></EmailAddress>
+<NSF_ID>000812900</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>2601 WOLF VILLAGE WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276958206</ZipCode>
+<StreetAddress><![CDATA[890 Oval Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~142500</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Mobile edge computing (MEC) is a key enabler for modern low-latency and high-throughput applications such as ultra-reliable low-latency communication (URLLC) applications. However, the lack of performance guarantee in edge computing, especially in terms of latency and throughput, is hindering both investment in and utilization of MEC. In practice, latency and throughput guarantees are easily violated due to dynamic demand and resource fluctuations in MEC, making it hard for MEC early adopters to provide rigorous guarantees in the form of service-level agreements (SLAs) due to fear of high SLA violation costs. This project aims to address the risk of SLA performance guarantee violation in MEC via robustness-aware resource planning and orchestration, providing MEC providers with tools to both gauge the economic risk of providing SLA guarantees, and minimize the risk to maximize its own economic utility, thus promoting performance-guaranteed MEC service providing and utilization in general.</p> <p>During this period, we obtained solid research results in robust and trustworthy edge performance modeling and enforcement. We designed novel algorithms to allocate edge resources in face of risk of performance degradation and/or SLA violation, as well as mechanisms to ensure edge performance to mitigate any potential risk and incentivize honest resource requesting and provisioning. We developed a local edge MEC testbed for application profiling; collected application profiling data; and derived accurate and risk-aware performance modeling approaches that are open-sourced. Major outcomes include: (1) open-sourced data and models for application profiling and modeling in a realistic edge computing scenario; (2) risk-aware modeling and optimization of edge resource allocation in face of uncertain environment and demands; (3) incentive mechanism for truthful and efficient resource allocation; (4) SLA verification methods to ensure honest requesting and fulfillment of edge services against malicious manipulation that could lead to violation risks and false reporting.</p> <p>The outcomes have been made available to the research community via (i) open-sourced data and models; (ii) high-quality journal articles and conference presentations. The project has resulted in a number of publications, including on top-tier venues such as IEEE INFOCOM. The research has been presented to an industry partner who provided further support and collaboration opportunities.</p> <p>The research has been introduced to graduate-level courses at NCSU facing a large population of senior-level undergraduate students and first-year graduate students.</p> <p>Highly skilled personnel have been trained in carrying out the research activities, including more than 10 graduate students, as well as 20 undergraduate and high-school researchers. These include a number of female students (PhD, Master&rsquo;s, and undergraduate), and underrepresented minority students such as Black/African American and Native American/American Indian students. Many of them have matriculated into engineering disciplines and/or pursuing a STEM career pathway after graduation.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/28/2024<br> Modified by: Ruozhou&nbsp;Yu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Mobile edge computing (MEC) is a key enabler for modern low-latency and high-throughput applications such as ultra-reliable low-latency communication (URLLC) applications. However, the lack of performance guarantee in edge computing, especially in terms of latency and throughput, is hindering both investment in and utilization of MEC. In practice, latency and throughput guarantees are easily violated due to dynamic demand and resource fluctuations in MEC, making it hard for MEC early adopters to provide rigorous guarantees in the form of service-level agreements (SLAs) due to fear of high SLA violation costs. This project aims to address the risk of SLA performance guarantee violation in MEC via robustness-aware resource planning and orchestration, providing MEC providers with tools to both gauge the economic risk of providing SLA guarantees, and minimize the risk to maximize its own economic utility, thus promoting performance-guaranteed MEC service providing and utilization in general.   During this period, we obtained solid research results in robust and trustworthy edge performance modeling and enforcement. We designed novel algorithms to allocate edge resources in face of risk of performance degradation and/or SLA violation, as well as mechanisms to ensure edge performance to mitigate any potential risk and incentivize honest resource requesting and provisioning. We developed a local edge MEC testbed for application profiling; collected application profiling data; and derived accurate and risk-aware performance modeling approaches that are open-sourced. Major outcomes include: (1) open-sourced data and models for application profiling and modeling in a realistic edge computing scenario; (2) risk-aware modeling and optimization of edge resource allocation in face of uncertain environment and demands; (3) incentive mechanism for truthful and efficient resource allocation; (4) SLA verification methods to ensure honest requesting and fulfillment of edge services against malicious manipulation that could lead to violation risks and false reporting.   The outcomes have been made available to the research community via (i) open-sourced data and models; (ii) high-quality journal articles and conference presentations. The project has resulted in a number of publications, including on top-tier venues such as IEEE INFOCOM. The research has been presented to an industry partner who provided further support and collaboration opportunities.   The research has been introduced to graduate-level courses at NCSU facing a large population of senior-level undergraduate students and first-year graduate students.   Highly skilled personnel have been trained in carrying out the research activities, including more than 10 graduate students, as well as 20 undergraduate and high-school researchers. These include a number of female students (PhD, Masters, and undergraduate), and underrepresented minority students such as Black/African American and Native American/American Indian students. Many of them have matriculated into engineering disciplines and/or pursuing a STEM career pathway after graduation.        Last Modified: 01/28/2024       Submitted by: RuozhouYu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

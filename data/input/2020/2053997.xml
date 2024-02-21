@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAR-PF: The spatiotemporal scales of transient slow slip on the San Andreas fault near San Juan Bautista, central California, and the implications for seismic hazard]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>174000.00</AwardTotalIntnAmount>
+<AwardAmount>174000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aisha Morris</SignBlockName>
+<PO_EMAI>armorris@nsf.gov</PO_EMAI>
+<PO_PHON>7032927081</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Dr. Heather Shaddox has been awarded an NSF EAR Postdoctoral Fellowship to combine seismic and geodetic observations to characterize the nature of fault slip and earthquake hazard for the San Andreas fault near San Juan Bautista in central California.  This work will be conducted at University of California Berkeley in collaboration with mentor Roland Burgmann. Slip on faults occurs as a spectrum, ranging from slow, continuous sliding (i.e., aseismic slip) to rapid movement during earthquakes (i.e., seismic failure). Aseismic slip can temporarily relieve stress on a fault but may also trigger large, damaging earthquakes on adjacent segments of the fault. Therefore, detecting and understanding this temporary release of stress (called aseismic slip transients) is key in seismic hazard evaluation and has direct societal impacts. Because aseismic slip transients do not generate seismic waves, geodetic instruments like land Global Positional System (GPS) stations with observational limits are required to detect these movements. This project will use related small earthquakes (microseismicity) to infer the location of aseismic slip transients, taking advantage of existing and newly installed instrumentation to create a catalog of seismicity at unprecedented resolution. The results of this project will provide information about spatial and temporal scales of fault slip and have implications for determining seismic hazard. This detailed analysis may also uncover answers to fundamental fault slip questions including how often aseismic slip precedes earthquakes and how often earthquakes trigger aseismic slip transients. We can also gain insights into other tectonic environments where direct observations are limited (e.g., the offshore portion of subduction zones) by studying this natural laboratory. This project also involves educational materials about earthquakes for elementary school students in the San Francisco Bay Area of California, a region with high seismic hazards.  &lt;br/&gt;&lt;br/&gt;The general objective of this project is to study the spatiotemporal scales of transient aseismic slip on the San Andreas fault near San Juan Bautista in central California at unprecedented resolution to ultimately gain a broader understanding of the nature of fault slip. San Juan Bautista, located at the northwest boundary of the creeping section of the San Andreas fault and the southeast termination point of the Mw 7.9 1906 San Francisco earthquake, forms a creeping-to-locked transition of the fault. The dense instrumentation and historic record of transient aseismic slip near San Juan Bautista make it an excellent natural laboratory to study the interplay of seismic and aseismic slip. We will create a catalog of spontaneous and trigged aseismic slip transients on the San Andreas fault near San Juan Bautista by combining seismic (general seismicity, near-repeating earthquakes) and geodetic (cGPS, InSAR, borehole strainmeter, creepmeter) observations to help answer the following questions: What is the spatial scale, temporal scale, and magnitude of aseismic slip transients? How often and by what mechanism(s) does aseismic slip lead to small and moderate-sized earthquakes? How often do these earthquakes lead to aseismic slip? Based on the scales of transient aseismic slip, is the San Andreas fault near San Juan Bautista capable of large (Mw &gt; 6) earthquakes? We will further study the relationship between shallow and deep aseismic slip, spatiotemporal changes in creep rate in this locking transition, and evaluate the utility of near-repeating earthquakes as a proxy for transient aseismic slip. We additionally hope to gain insights into other tectonic environments, particularly the offshore portion of subduction zones where direct observations are limited, by studying this natural laboratory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053997</AwardID>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Shaddox</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heather R Shaddox</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000838294</NSF_ID>
+<StartDate>06/15/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Shaddox, Heather R</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>95060</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Berkeley]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947204767</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7137</Code>
+<Text>Postdoctoral Fellowships</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~174000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Surface creep has been documented on the San Andreas fault (SAF) since the 1960s. From Parkfield in the southeast to San Juan Bautista (SJB) in the northwest, the SAF is largely creeping and accommodating most of the ~38 mm/year right-lateral plate motion. The SJB section of the SAF lies at the northwest boundary of the central creeping section, forming a creeping-to-locked transition. These transition sections are known to be potential zones for earthquake nucleation, where frictional heterogeneity leads to a complicated relationship of seismic and aseismic slip. Spatiotemporal changes in fault creep within this locking transition provide a potential quantitative measure for the assessment of the seismic hazard of the SAF system in the region. Further, the location in a locking transition, numerous moderate-sized local earthquakes, a historic record of aseismic slip transients, and dense instrumentation near SJB make it an excellent natural laboratory to study the interplay of seismic and aseismic slip.&nbsp;</p> <p>We combined seismic and geodetic observations from 1993-2021 to study locking changes and shallow creep events to address several fundamental questions: What are the scales and patterns of spatiotemporal changes in creep rate along this locking transition? What is the largest earthquake we can expect in the region? What is the relationship between deep and shallow aseismic slip? How do creep events propagate? How large are these events? What factors drive their occurrence?&nbsp;</p> <p>We looked at detailed spatial changes in earthquake statistics, moderate-sized events, repeating earthquakes, and lower frequency earthquakes that may illuminate variable frictional fault properties and find an anomalous region potentially indicative of increased locking or a slip transferring structure at depth between the San Andreas and Calaveras faults. This warrants further study to determine whether this zone could generate a large earthquake (M&gt;6) on the SAF or instead indicates that a rupture jumping between the San Andreas and Calaveras faults is likely. Both scenarios have significant and broad implications for hazard, and possibly in how we model and assess earthquake hazard scenarios.&nbsp;</p> <p>We&nbsp;installed a total of five new creepmeters along the&nbsp;SAF&nbsp;to fill in instrumental gaps and study creep events on an unprecedented scale. We installed a pair of oblique creepmeters 130 m apart at Fox Creek Ranch, one of which was equipped with an orthogonal sensor. The density and configuration of these new instruments allows for a detailed analysis of creep events and the influence of environmental factors that may affect sensitive creep measurements. Through our observations, we have gained insights into local creep event propagations, the implications of small-scale heterogeneity, the relationship between fault slip and fault opening/closing, as well as the ability to correct for apparent fault slip reversals induced by rainfall using the orthogonal instrument. We find that heterogeneity on the scale of hundreds of meters is an important mechanism on the generation of creep events and should be considered in models. Further, we have demonstrated that the effects of rainfall can be corrected for, increasing the reliability of sensitive creepmeter instruments in the future to study small creep events and spatiotemporal changes in fault creep.</p><br> <p>  Last Modified: 01/25/2024<br> Modified by: Heather&nbsp;R&nbsp;Shaddox</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706201910837_Figure1_creep--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706201910837_Figure1_creep--rgov-800width.jpg" title="Map of the study region"><img src="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706201910837_Figure1_creep--rgov-66x44.jpg" alt="Map of the study region"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A) Map of existing (red diamonds) and newly installed (green diamonds) creepmeters in the study region. B) Map of the Fox Creek Ranch (FCR) site with creepmeters shown as white lines.C) and D) Northern and southern creepmeter geometries, respectively.</div> <div class="imageCredit">Shaddox-Crume et al</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Heather&nbsp;R&nbsp;Shaddox <div class="imageTitle">Map of the study region</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202139864_Figure4_creep--rgov-214x142.png" original="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202139864_Figure4_creep--rgov-800width.png" title="Relationship between the oblique and orthogonal southern creepmeters"><img src="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202139864_Figure4_creep--rgov-66x44.png" alt="Relationship between the oblique and orthogonal southern creepmeters"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Relationship between the oblique and orthogonal southern creepmeters at Fox Creek Ranch colored by time.  Approximate estimates of oblique slip (not corrected for cos(obliquity)) and orthogonal expansion/contraction, respectively, are shown during each time period.</div> <div class="imageCredit">Shaddox-Crume et al.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Heather&nbsp;R&nbsp;Shaddox <div class="imageTitle">Relationship between the oblique and orthogonal southern creepmeters</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202364421_Figure5_bvalue_map--rgov-214x142.png" original="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202364421_Figure5_bvalue_map--rgov-800width.png" title="Spatial variations of b-values, magnitude of completeness, and number of earthquakes from 1993-2021"><img src="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202364421_Figure5_bvalue_map--rgov-66x44.png" alt="Spatial variations of b-values, magnitude of completeness, and number of earthquakes from 1993-2021"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A) b-value map. Repeating earthquakes (Taira 2022) shown as light blue stars; lower frequency events shown as purple diamonds; all events from 1993-2021 shown as black dots. B) b-value standard deviation map. C) Magnitude of completeness (Mc) map. D) Number of earthquakes in each grid cell above Mc.</div> <div class="imageCredit">Shaddox-Crume et al.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Heather&nbsp;R&nbsp;Shaddox <div class="imageTitle">Spatial variations of b-values, magnitude of completeness, and number of earthquakes from 1993-2021</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202419954_Figure6_bvalue_cross_section--rgov-214x142.png" original="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202419954_Figure6_bvalue_cross_section--rgov-800width.png" title="Spatial variations in cross-section (line A-A� on Figure 5) of b-values from 1993-2021"><img src="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202419954_Figure6_bvalue_cross_section--rgov-66x44.png" alt="Spatial variations in cross-section (line A-A� on Figure 5) of b-values from 1993-2021"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A) b-value cross-section. B) b-value standard deviation cross-section. C) Magnitude of completeness (Mc) map. D) Number of earthquakes in each grid cell above the Mc.</div> <div class="imageCredit">Shaddox-Crume et al.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Heather&nbsp;R&nbsp;Shaddox <div class="imageTitle">Spatial variations in cross-section (line A-A� on Figure 5) of b-values from 1993-2021</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706201986959_Figure2_creep--rgov-214x142.png" original="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706201986959_Figure2_creep--rgov-800width.png" title="Creepmeter data at Fox Creek Ranch (FCR) from June 2022 � August 2023"><img src="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706201986959_Figure2_creep--rgov-66x44.png" alt="Creepmeter data at Fox Creek Ranch (FCR) from June 2022 � August 2023"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Creepmeter data at Fox Creek Ranch from June 2022 � August 2023, including the southern oblique creepmeter (FCR1A; green), the southern orthogonal creepmeter (FCR1B; orange; 3x exaggeration), the northern oblique creepmeter (FCR2; purple), and cumulative rain from the on-site rain gauge.</div> <div class="imageCredit">Shaddox-Crume et al.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Heather&nbsp;R&nbsp;Shaddox <div class="imageTitle">Creepmeter data at Fox Creek Ranch (FCR) from June 2022 � August 2023</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202083052_Figure3_creep--rgov-214x142.png" original="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202083052_Figure3_creep--rgov-800width.png" title="Creepmeter data at Fox Creek Ranch (FCR) in October and November 2022"><img src="/por/images/Reports/POR/2024/2053997/2053997_10739728_1706202083052_Figure3_creep--rgov-66x44.png" alt="Creepmeter data at Fox Creek Ranch (FCR) in October and November 2022"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A) Creep data from October 22 - November 11, 2022.  B) Small creep event with southward propagation on October 22, 2022. C) Triggered slip from the M 5.1 Alum Rock earthquake. D) November 1, 2022 episodic creep event.</div> <div class="imageCredit">Shaddox-Crume et al.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Heather&nbsp;R&nbsp;Shaddox <div class="imageTitle">Creepmeter data at Fox Creek Ranch (FCR) in October and November 2022</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Surface creep has been documented on the San Andreas fault (SAF) since the 1960s. From Parkfield in the southeast to San Juan Bautista (SJB) in the northwest, the SAF is largely creeping and accommodating most of the ~38 mm/year right-lateral plate motion. The SJB section of the SAF lies at the northwest boundary of the central creeping section, forming a creeping-to-locked transition. These transition sections are known to be potential zones for earthquake nucleation, where frictional heterogeneity leads to a complicated relationship of seismic and aseismic slip. Spatiotemporal changes in fault creep within this locking transition provide a potential quantitative measure for the assessment of the seismic hazard of the SAF system in the region. Further, the location in a locking transition, numerous moderate-sized local earthquakes, a historic record of aseismic slip transients, and dense instrumentation near SJB make it an excellent natural laboratory to study the interplay of seismic and aseismic slip.   We combined seismic and geodetic observations from 1993-2021 to study locking changes and shallow creep events to address several fundamental questions: What are the scales and patterns of spatiotemporal changes in creep rate along this locking transition? What is the largest earthquake we can expect in the region? What is the relationship between deep and shallow aseismic slip? How do creep events propagate? How large are these events? What factors drive their occurrence?   We looked at detailed spatial changes in earthquake statistics, moderate-sized events, repeating earthquakes, and lower frequency earthquakes that may illuminate variable frictional fault properties and find an anomalous region potentially indicative of increased locking or a slip transferring structure at depth between the San Andreas and Calaveras faults. This warrants further study to determine whether this zone could generate a large earthquake (M6) on the SAF or instead indicates that a rupture jumping between the San Andreas and Calaveras faults is likely. Both scenarios have significant and broad implications for hazard, and possibly in how we model and assess earthquake hazard scenarios.   Weinstalled a total of five new creepmeters along theSAFto fill in instrumental gaps and study creep events on an unprecedented scale. We installed a pair of oblique creepmeters 130 m apart at Fox Creek Ranch, one of which was equipped with an orthogonal sensor. The density and configuration of these new instruments allows for a detailed analysis of creep events and the influence of environmental factors that may affect sensitive creep measurements. Through our observations, we have gained insights into local creep event propagations, the implications of small-scale heterogeneity, the relationship between fault slip and fault opening/closing, as well as the ability to correct for apparent fault slip reversals induced by rainfall using the orthogonal instrument. We find that heterogeneity on the scale of hundreds of meters is an important mechanism on the generation of creep events and should be considered in models. Further, we have demonstrated that the effects of rainfall can be corrected for, increasing the reliability of sensitive creepmeter instruments in the future to study small creep events and spatiotemporal changes in fault creep.     Last Modified: 01/25/2024       Submitted by: HeatherRShaddox]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

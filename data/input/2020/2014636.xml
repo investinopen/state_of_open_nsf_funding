@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bootstrap Methods in High Dimensions: Complex Dependence Structures and Refinements]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Bootstrap methods constitute a class of powerful statistical methodologies for uncertainty quantification in statistical analysis. Recent developments demonstrate that bootstraps are effective in developing theoretically valid inferential methods for high-dimensional or large-scale data. Modern-day data availability allows us to access large-scale data with complex dependence structures, for which there is a serious need to develop high-quality inference methods. Examples of such data include data observed on networks, multiway-clustered data often seen in economics, environmental data, and high-frequency financial data. In this project, the PI aims to develop bootstrap methods for such large-scale data with complex dependence structures, as well as make refinements on existing bootstrap methods for independent data. Additionally, the project will provide research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;The first line of research this project aims at is to develop novel bootstrap methods effective in high dimensions for i) exchangeable arrays, ii) irregularly spaced spatial data, and iii) diffusion (or, more generally, Markov) processes. Those new bootstrap methods have direct applications to inference with high dimensional data such as simultaneous and multiple testing and nonparametric inference such as the construction of simultaneous confidence bands. The second line of research is to make refinements on high dimensional bootstrap methodology with independent data. One is to develop error bounds for the general exchangeably weighted bootstrap in the high dimensional regime that are comparable to the Gaussian multiplier bootstrap. The other is to develop error bounds for the nonparametric bootstrap that can explain the superior performance in numerical experiments in the increasing dimension setup.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014636</AwardID>
+<Investigator>
+<FirstName>Kengo</FirstName>
+<LastName>Kato</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kengo Kato</PI_FULL_NAME>
+<EmailAddress><![CDATA[kk976@cornell.edu]]></EmailAddress>
+<NSF_ID>000790621</NSF_ID>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148537501</ZipCode>
+<StreetAddress><![CDATA[107 Hoy Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Many modern-day data seen in practice have complex dependence structures. For example, with recent technological advances and remote sensing technology, multivariate or high-dimensional spatial data, such as levels of multiple air pollutants (e.g., ozone, PM2.5, PM10, nitric oxide, carbon monoxide), are becoming more prevalent. Also, exchangeable array data appear in Netflix and Facebook data, data observed on networks, international trade data, and multiway clustered data often seen in econometrics. The first goal of this project is to develop high-dimensional bootstrap methods for data with complex dependent structures. Those new bootstrap methods have direct applications to inference with high dimensional data, such as simultaneous and multiple testing, and nonparametric inference, such as the construction of simultaneous confidence bands. The second line of research is to refine high-dimensional bootstrap methodology with independent data, which enhances our understanding of bootstrap in high dimensions.&nbsp;</p> <p><br />The project has produced several significant results that culminated in publications in leading statistics journals. During the funding period, the PI has extended high-dimensional central limit theorems (CLTs) for exchangeable arrays, spatial data, and Markov chains, and building on these, the PI has developed novel bootstrap methods tailored to those data types. Furthermore, in the independent case, the PI has derived improved error bounds for the high-dimensional CLT and bootstrap over the rectangles in terms of the dependence on the sample size and the admissible size of the data dimension. The PI has also extended the scope of multiplier bootstrap to more general weights than Gaussian ones. Finally, the PI has applied high-dimensional bootstrap to develop novel inferential methods for deconvolution and shape-constrained models.&nbsp;</p> <p><br />The project has involved the active participation of two graduate students at Cornell University. In the 2021 Fall, the PI organized a reading group on high-dimensional CLT, quantile regression, and optimal transport, which attracted ten graduate students. The reading group provided pivotal opportunities for the students to familiarize themselves with those subjects. Finally, the PI has done two significant activities related to disseminating high-dimensional data bootstrap. First, I delivered five lectures on high-dimensional data bootstrap at Hausdorff Summer School "High-Dimensional Statistics: Theory and Applications" at the Hausdorff Center for Mathematics of the University of Bonn. Second, I wrote a review paper on this subject, targeting a broad audience, which appeared in the Annual Review of Statistics and Its Applications.</p><br> <p>            Last Modified: 10/22/2023<br>      Modified by: Kengo&nbsp;Kato</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Many modern-day data seen in practice have complex dependence structures. For example, with recent technological advances and remote sensing technology, multivariate or high-dimensional spatial data, such as levels of multiple air pollutants (e.g., ozone, PM2.5, PM10, nitric oxide, carbon monoxide), are becoming more prevalent. Also, exchangeable array data appear in Netflix and Facebook data, data observed on networks, international trade data, and multiway clustered data often seen in econometrics. The first goal of this project is to develop high-dimensional bootstrap methods for data with complex dependent structures. Those new bootstrap methods have direct applications to inference with high dimensional data, such as simultaneous and multiple testing, and nonparametric inference, such as the construction of simultaneous confidence bands. The second line of research is to refine high-dimensional bootstrap methodology with independent data, which enhances our understanding of bootstrap in high dimensions.    The project has produced several significant results that culminated in publications in leading statistics journals. During the funding period, the PI has extended high-dimensional central limit theorems (CLTs) for exchangeable arrays, spatial data, and Markov chains, and building on these, the PI has developed novel bootstrap methods tailored to those data types. Furthermore, in the independent case, the PI has derived improved error bounds for the high-dimensional CLT and bootstrap over the rectangles in terms of the dependence on the sample size and the admissible size of the data dimension. The PI has also extended the scope of multiplier bootstrap to more general weights than Gaussian ones. Finally, the PI has applied high-dimensional bootstrap to develop novel inferential methods for deconvolution and shape-constrained models.    The project has involved the active participation of two graduate students at Cornell University. In the 2021 Fall, the PI organized a reading group on high-dimensional CLT, quantile regression, and optimal transport, which attracted ten graduate students. The reading group provided pivotal opportunities for the students to familiarize themselves with those subjects. Finally, the PI has done two significant activities related to disseminating high-dimensional data bootstrap. First, I delivered five lectures on high-dimensional data bootstrap at Hausdorff Summer School "High-Dimensional Statistics: Theory and Applications" at the Hausdorff Center for Mathematics of the University of Bonn. Second, I wrote a review paper on this subject, targeting a broad audience, which appeared in the Annual Review of Statistics and Its Applications.       Last Modified: 10/22/2023       Submitted by: Kengo Kato]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: Comparative neural mechanisms of pair bonding]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Broadening Participation of Groups Under-represented in Biology. The fellowship supports a research and training plan for the Fellow that will increase the participation of groups underrepresented in biology. Most mammals do not form pair bonds, yet a few mammalian species including humans and prairie voles are capable of developing lifelong opposite sex bonds. Chemical signals within the brain’s reward structures are critical for pair bonding, underscoring the rewarding nature of partner interactions. Meadow voles are closely related to prairie voles but do not pair bond. It is unknown if the ability to form a pair bond is tied to how social interactions with a mate engage the reward circuit of each species. The Fellow will measure if there are species differences in how the brain’s reward circuitry responds to experiences with a mate. Moreover, the Fellow will experimentally manipulate reward pathways to determine if these circuits control vole pair bonding behaviors. This research will provide insights into how evolutionary changes in common brain circuits have resulted in species-specific social behaviors. This research will also inform our understanding of brain circuits that play a role in psychopathologies characterized by atypical social functioning. The Fellow will gain advanced technical training and will bring neuroscientific learning opportunities to underserved communities to increase their participation in biology.&lt;br/&gt;&lt;br/&gt;Although prior work has revealed differences in mesolimbic dopamine receptor expression in prairie and meadow voles, differences in socially-elicited dopamine dynamics are unexplored but represent a potential evolutionary switch that may be crucial for the transition to monogamy. The Fellow will test the hypothesis that species differences in pair bonding depend on the differential activation of reward circuitry by using neurophotometric and chemogenetic approaches in prairie and meadows voles to 1) compare activation profiles of dopaminergic cells in the ventral tegmental area and downstream dopamine transmission in the nucleus accumbens during interactions with a mate and a novel opposite-sex animal, and 2) directly activate and inhibit mesolimbic dopaminergic projections to find the necessary and sufficient conditions for pair bonding. The Fellow will master techniques including virally mediated cell targeting, pharmacogenetics, and assessment of real-time neurotransmitter release dynamics, while also honing mentorship skills, and a research and teaching pedagogy. Furthermore, the Fellow will expand inclusion of underrepresented groups in biology through the creation and presentation of exhibits and workshops on comparative neuroscience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010817</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Hiura</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa Hiura</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000812647</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hiura, Lisa</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090000</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803095003</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>1157</Code>
+<Text>Broadening Participation of Gr</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Most mammals are not monogamous. However, a small subset of mammals can form long-term, selective pair bonds with a mating partner. These relationships are highly rewarding, and scientists have determined that social bonding requires activity in the brain&rsquo;s reward centers. By comparing the activity and function of neural reward centers between monogamous and non-monogamous mammals, we can ask if there are any differences in their brains that allow some, but not all, mammals to form pair bonds.</p> <p>In this project, we studied the monogamous prairie vole and the promiscuous meadow vole. Using fiber optics and engineered viruses that produce biosensors, we were able to record real-time changes in activity of two critical reward regions &ndash; the ventral tegmental area (VTA: where many dopamine neurons live) and the nucleus accumbens (NAc: where a lot of dopamine is released). Technological hurdles often make it challenging to investigate the brains of wild animals compared to more common laboratory animals like mice and rats. Our work demonstrates that we can adapt existing technologies to compare how dopamine signals are changing in the brains of two behaviorally distinct wild rodents. We also found that the number of dopamine neurons projecting from the VTA to the NAc is the same between prairie voles and meadow voles. This suggests that it&rsquo;s not the total number of dopamine neurons that matters for pair bonding. Instead, it&rsquo;s more likely that the ways in which the activity of these neurons changes as animals interact with each other determines whether they can form a bond. &nbsp;Further supporting this hypothesis, we found that artificially activating reward neurons in prairie voles increased the amount of time they spend near another vole.</p> <p>Altogether, this fellowship has helped us advance our ability to compare the activity and function of brain structures across different types of animals. These tools will be further used to expand our knowledge of the biology underlying diversity in animal social behavior. The project also created broader impacts by providing opportunities for several scholars that are underrepresented in STEM fields to get hands on research experience, and to learn about and prepare for future careers in scientific research.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/29/2023<br> Modified by: Lisa&nbsp;Hiura</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Most mammals are not monogamous. However, a small subset of mammals can form long-term, selective pair bonds with a mating partner. These relationships are highly rewarding, and scientists have determined that social bonding requires activity in the brains reward centers. By comparing the activity and function of neural reward centers between monogamous and non-monogamous mammals, we can ask if there are any differences in their brains that allow some, but not all, mammals to form pair bonds.   In this project, we studied the monogamous prairie vole and the promiscuous meadow vole. Using fiber optics and engineered viruses that produce biosensors, we were able to record real-time changes in activity of two critical reward regions  the ventral tegmental area (VTA: where many dopamine neurons live) and the nucleus accumbens (NAc: where a lot of dopamine is released). Technological hurdles often make it challenging to investigate the brains of wild animals compared to more common laboratory animals like mice and rats. Our work demonstrates that we can adapt existing technologies to compare how dopamine signals are changing in the brains of two behaviorally distinct wild rodents. We also found that the number of dopamine neurons projecting from the VTA to the NAc is the same between prairie voles and meadow voles. This suggests that its not the total number of dopamine neurons that matters for pair bonding. Instead, its more likely that the ways in which the activity of these neurons changes as animals interact with each other determines whether they can form a bond. Further supporting this hypothesis, we found that artificially activating reward neurons in prairie voles increased the amount of time they spend near another vole.   Altogether, this fellowship has helped us advance our ability to compare the activity and function of brain structures across different types of animals. These tools will be further used to expand our knowledge of the biology underlying diversity in animal social behavior. The project also created broader impacts by providing opportunities for several scholars that are underrepresented in STEM fields to get hands on research experience, and to learn about and prepare for future careers in scientific research.        Last Modified: 12/29/2023       Submitted by: LisaHiura]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

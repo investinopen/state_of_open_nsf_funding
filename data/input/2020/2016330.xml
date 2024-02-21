@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: High Performance, Highly Efficient Valves for Controlling Gas Flows]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+<PO_EMAI>jsoriano@nsf.gov</PO_EMAI>
+<PO_PHON>7032927795</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is to bring a new high performance gas valve technology to market. The term gases refers to fluids that have neither shape nor volume, such as air.  It is not limited to, but includes, natural gas.  Gas valves, also known as pneumatic valves, are used in a huge variety of industrial and medical products.  Two applications of particular interest to this project are gas flow controllers for semiconductor fabrication and medical ventilators.  The new valves offer extremely fast response and precise flow control, which is beneficial to both applications.  For example, improving valve performance in semiconductor fabrication equipment will help increase circuit density in microfabrication processes, thereby facilitating the continuing evolution of microelectronic systems.  The valves are also extremely energy efficient, which makes them particularly attractive for use in portable medical devices, such as ventilators used in emergency response vehicles.  New microfabrication techniques will be explored for producing low leakage valves that may have application in additional products.  The valves developed here have the potential to benefit the gas valve industry as the technology matures.  Emerging applications include soft robotics and fusion reactor control systems.&lt;br/&gt;&lt;br/&gt;The proposed project capitalizes on a discovery of a novel valve technology.  The valves function by varying the size of a channel through which the gas flows.  Channel size is decreased by moving a plate toward an orifice and vice versa.  A highly efficient electric actuator, called a "piezostack", is used to move the plate.  However, piezostacks can produce only very small motions, typically tens of micrometers.  As a result, past valves using piezostacks have low flow capacity.  The valves overcome the flow capacity limitation by replacing a single orifice with an array of micro-orifices.  The objective of the research is to advance the new valve technology from a laboratory demonstration to a marketable product and to formulate a commercialization plan for the new valves.  The research will yield a valve prototype that can demonstrate the advantages of the new technology to manufacturers of gas valves.  Computational fluid mechanics will be used to study flow through the valve to develop improved methods for designing them.  New micro-manufacturing methods will be explored to reduce leakage.  The technical goals are to maximize flow through the valve, minimize leakage in the fully closed position, and minimize manufacturing cost.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016330</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Chase</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas R Chase</PI_FULL_NAME>
+<EmailAddress><![CDATA[trchase@umn.edu]]></EmailAddress>
+<NSF_ID>000148671</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550111</ZipCode>
+<StreetAddress><![CDATA[111 Church St SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project advanced a new pneumatic valve technology from the concept stage to a minimally viable prototype (MVP). The MVP valve is intended to recruit manufacturing partners for bringing the new valve technology to the commercial market.&nbsp; The new valve utilizes a &ldquo;piezostack&rdquo; piezoelectric actuator to vary the position of a &ldquo;seal plate&rdquo; relative to an &ldquo;orifice plate&rdquo;, which in turn varies the rate of gas flow through the valve.&nbsp;</p> <p>The challenge of utilizing piezostacks in valves is that they produce very small displacements.&nbsp; For example, the piezostacks used in the MVP valves have a nominal travel range of 30 micrometers (.0012 inch).&nbsp; As a consequence, valves using piezostack actuators typically have very small flow rates.&nbsp; Previous attempts at increasing the flow rates either add a mechanical displacement amplifier to the piezostack, which adds cost and complexity, or using long piezostacks, which are expensive.&nbsp; The valves developed here are unique in enabling flowrates in the range of conventional miniature valves using unamplified, 4 cm long piezostacks.&nbsp; They achieve their high flow rates using specially designed seal plates and orifice plates.</p> <p>The MVP valves were developed in close consultation with a leading pneumatic valve manufacturer, ensuring their commercial viability.&nbsp;The new valve technology offers many technical benefits.&nbsp; First, piezostacks require far less power to operate than conventional pneumatic valve actuators.&nbsp; Second, the new valves are largely unaffected by the magnitude of the pressure difference applied between their inputs and outputs.&nbsp; Third, they are extremely fast.&nbsp;&nbsp;</p> <p>Several advances were made over the scope of the project.&nbsp; Most importantly, novel high-flow seal plate designs were invented;&nbsp; a patent was awarded for the new designs.&nbsp; Second, manufacturing methods were developed for fabricating the new seal plates and orifice plates using cost-effective photochemical etching processes.&nbsp; (Early prototypes utilized silicon parts manufactured using expensive clean-room electronics fabrication processes.)&nbsp; Third, low leak rates were achieved using metal-on-metal seals (e.g., no elastomers were included in the seals), which increases the range of applications where the valves can be used.</p> <p>Designing the valves required developing new models for fluid flow through actuators having small displacements.&nbsp; This resulted in the generation of two scientific papers with applications beyond the scope of the work performed here.&nbsp;</p> <p>The new valve technology developed here has the potential for broader impact in several areas.&nbsp; For example, the new valves are attractive for application in portable medical devices, such as ventilators: portable devices can exploit their low power consumption to reduce battery size and weight.&nbsp; Their low power consumption and high performance are well matched to aerospace service.&nbsp; Their high performance is attractive for valves used in microelectronics manufacturing.&nbsp; As a last example, these valves replace electromagnets in conventional valves with non-magnetic piezoelectric actuators, so they can be used in strong magnetic fields, such as those associated with magnetic resonance medical imaging or evolving fusion reactors.&nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/25/2024<br> Modified by: Thomas&nbsp;R&nbsp;Chase</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2016330/2016330_10705290_1706208931321_orSealV6--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2016330/2016330_10705290_1706208931321_orSealV6--rgov-800width.jpg" title="Orifice plate and seal plate"><img src="/por/images/Reports/POR/2024/2016330/2016330_10705290_1706208931321_orSealV6--rgov-66x44.jpg" alt="Orifice plate and seal plate"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An example of the novel orifice plates and seal plates utilized in the high flow piezoelectric pneumatic valves.</div> <div class="imageCredit">T. R. Chase</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Thomas&nbsp;R&nbsp;Chase <div class="imageTitle">Orifice plate and seal plate</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2016330/2016330_10705290_1706208801321_mvp1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2016330/2016330_10705290_1706208801321_mvp1--rgov-800width.jpg" title="High-flow pneumatic valve utilizing a piezoelectric stack actuator"><img src="/por/images/Reports/POR/2024/2016330/2016330_10705290_1706208801321_mvp1--rgov-66x44.jpg" alt="High-flow pneumatic valve utilizing a piezoelectric stack actuator"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A minimally viable prototype of a pneumatic valve utilizing a piezoelectric stack actuator.  The valve achieves flow rates typical of miniature valves using a piezoelectric stack having a displacement of only 30 micrometers.</div> <div class="imageCredit">T. R. Chase</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Thomas&nbsp;R&nbsp;Chase <div class="imageTitle">High-flow pneumatic valve utilizing a piezoelectric stack actuator</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project advanced a new pneumatic valve technology from the concept stage to a minimally viable prototype (MVP). The MVP valve is intended to recruit manufacturing partners for bringing the new valve technology to the commercial market. The new valve utilizes a piezostack piezoelectric actuator to vary the position of a seal plate relative to an orifice plate, which in turn varies the rate of gas flow through the valve.   The challenge of utilizing piezostacks in valves is that they produce very small displacements. For example, the piezostacks used in the MVP valves have a nominal travel range of 30 micrometers (.0012 inch). As a consequence, valves using piezostack actuators typically have very small flow rates. Previous attempts at increasing the flow rates either add a mechanical displacement amplifier to the piezostack, which adds cost and complexity, or using long piezostacks, which are expensive. The valves developed here are unique in enabling flowrates in the range of conventional miniature valves using unamplified, 4 cm long piezostacks. They achieve their high flow rates using specially designed seal plates and orifice plates.   The MVP valves were developed in close consultation with a leading pneumatic valve manufacturer, ensuring their commercial viability.The new valve technology offers many technical benefits. First, piezostacks require far less power to operate than conventional pneumatic valve actuators. Second, the new valves are largely unaffected by the magnitude of the pressure difference applied between their inputs and outputs. Third, they are extremely fast.   Several advances were made over the scope of the project. Most importantly, novel high-flow seal plate designs were invented; a patent was awarded for the new designs. Second, manufacturing methods were developed for fabricating the new seal plates and orifice plates using cost-effective photochemical etching processes. (Early prototypes utilized silicon parts manufactured using expensive clean-room electronics fabrication processes.) Third, low leak rates were achieved using metal-on-metal seals (e.g., no elastomers were included in the seals), which increases the range of applications where the valves can be used.   Designing the valves required developing new models for fluid flow through actuators having small displacements. This resulted in the generation of two scientific papers with applications beyond the scope of the work performed here.   The new valve technology developed here has the potential for broader impact in several areas. For example, the new valves are attractive for application in portable medical devices, such as ventilators: portable devices can exploit their low power consumption to reduce battery size and weight. Their low power consumption and high performance are well matched to aerospace service. Their high performance is attractive for valves used in microelectronics manufacturing. As a last example, these valves replace electromagnets in conventional valves with non-magnetic piezoelectric actuators, so they can be used in strong magnetic fields, such as those associated with magnetic resonance medical imaging or evolving fusion reactors.        Last Modified: 01/25/2024       Submitted by: ThomasRChase]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

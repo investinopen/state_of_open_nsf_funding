@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: EAGER-QIA: High-Genus Code-Based Cryptography]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>202520.00</AwardTotalIntnAmount>
+<AwardAmount>202520</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Cryptography protects confidential communications: electronic commerce, voter information, diplomatic communication, human-rights interviews, medical records, and much more. However, attackers recording messages today will be able to decrypt those messages with future quantum computers. The most confidence-inspiring response is the McEliece cryptosystem, which has a strong security track record and is a leading contender for standardization of post-quantum cryptography, but this cryptosystem has a key size around a megabyte. Applications that cannot afford megabyte keys are currently forced to use cryptosystems whose security is much less stable. This project aims to build new post-quantum systems that bring McEliece's security stability and confidence to a wider range of applications.&lt;br/&gt;&lt;br/&gt;The public key in McEliece's cryptosystem is a generator matrix for a subfield subcode of an error-correcting code, specifically a genus-0 Goppa code. Subfield subcodes of higher-genus Goppa codes can correct more errors for the same code length and code dimension, improving the tradeoffs between efficiency and security. Showing that cryptosystems built from these codes can run at reasonable speed will require vertically integrated optimization of cryptosystem design, curve selection, decoding algorithms, algorithms for computer algebra, and vectorized software, with the further challenges of ensuring security against both mathematical and microarchitectural attacks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037833</AwardID>
+<Investigator>
+<FirstName>Gretchen</FirstName>
+<LastName>Matthews</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gretchen L Matthews</PI_FULL_NAME>
+<EmailAddress><![CDATA[gmatthews@vt.edu]]></EmailAddress>
+<NSF_ID>000362986</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName/>
+<StateCode>VA</StateCode>
+<ZipCode>240611026</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8069</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~202520</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Recent advances in quantum computing have accelerated the development and refinement of cryptosystems that are resilient against attacks facilitated by a quantum computer. Most currently deployed public-key cryptosystems are not considered quantum-safe due to Shor&rsquo;s algorithm, a quantum algorithm that provides superpolynomial speedup compared with classical, not quantum algorithms, for factoring integers (attacking the&nbsp;&nbsp;RSA cryptosystem) and solving the discrete logarithm problem (attacking elliptic curve cryptography). This situation has led to intense focus on post-quantum cryptography and public-key cryptosystems based on other machinery and hard problems. The McEliece cryptosystem is perhaps the most vetted and certainly the oldest post-quantum public-key cryptosystem. It is based on binary Goppa codes, with parameters and decoding algorithms studied since their introduction in 1970. However, the McEliece cryptosystem has a large key size, which detracts from its attractiveness for practical application. To address this issue, one may consider other families of codes for use in a McEliece-like cryptosystem. We note that Goppa codes may be seen as subfield subcodes of Reed-Solomon codes. Because Reed-Solomon codes are algebraic geometry codes defined on the projective line, a curve of genus 0, it is natural to consider how curves of higher genus may play a role in code-based cryptography. &nbsp;</p> <p>During this award, we defined and studied families of evaluation codes that may allow for smaller keys and similar security in a code-based cryptosystem than the McEliece cryptosystem with Goppa codes. These codes are based on evaluations of rational functions at points on a curve over a finite field or evaluations of polynomials at points in an m-dimensional vector space over a limited field, generalizations of the well-studied Reed-Solomon and Reed-Muller codes, with customization to make them more suitable for use in a code-based cryptosystem such as McEliece. In particular, we developed twisted algebraic geometry codes, which have larger Schur squares than their traditional counterparts, as well as multivariate Goppa codes, which allow for smaller alphabet sizes than comparable codes over curves of genus 0. We studied squares of alternate codes and multivariate Goppa codes. We defined fractional decoding algorithms for codes from a large family of curves, which provide an approach to error correction based on a smaller fraction (less than one) of symbols over the base field than a traditional decoding algorithm. This award and the related research provided a foundation for the training of undergraduate and graduate students in addition to postdoctoral researchers. The research environment supported various outreach activities, including public lectures and math circles for middle school students.</p><br> <p>  Last Modified: 12/29/2023<br> Modified by: Gretchen&nbsp;L&nbsp;Matthews</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Recent advances in quantum computing have accelerated the development and refinement of cryptosystems that are resilient against attacks facilitated by a quantum computer. Most currently deployed public-key cryptosystems are not considered quantum-safe due to Shors algorithm, a quantum algorithm that provides superpolynomial speedup compared with classical, not quantum algorithms, for factoring integers (attacking theRSA cryptosystem) and solving the discrete logarithm problem (attacking elliptic curve cryptography). This situation has led to intense focus on post-quantum cryptography and public-key cryptosystems based on other machinery and hard problems. The McEliece cryptosystem is perhaps the most vetted and certainly the oldest post-quantum public-key cryptosystem. It is based on binary Goppa codes, with parameters and decoding algorithms studied since their introduction in 1970. However, the McEliece cryptosystem has a large key size, which detracts from its attractiveness for practical application. To address this issue, one may consider other families of codes for use in a McEliece-like cryptosystem. We note that Goppa codes may be seen as subfield subcodes of Reed-Solomon codes. Because Reed-Solomon codes are algebraic geometry codes defined on the projective line, a curve of genus 0, it is natural to consider how curves of higher genus may play a role in code-based cryptography.    During this award, we defined and studied families of evaluation codes that may allow for smaller keys and similar security in a code-based cryptosystem than the McEliece cryptosystem with Goppa codes. These codes are based on evaluations of rational functions at points on a curve over a finite field or evaluations of polynomials at points in an m-dimensional vector space over a limited field, generalizations of the well-studied Reed-Solomon and Reed-Muller codes, with customization to make them more suitable for use in a code-based cryptosystem such as McEliece. In particular, we developed twisted algebraic geometry codes, which have larger Schur squares than their traditional counterparts, as well as multivariate Goppa codes, which allow for smaller alphabet sizes than comparable codes over curves of genus 0. We studied squares of alternate codes and multivariate Goppa codes. We defined fractional decoding algorithms for codes from a large family of curves, which provide an approach to error correction based on a smaller fraction (less than one) of symbols over the base field than a traditional decoding algorithm. This award and the related research provided a foundation for the training of undergraduate and graduate students in addition to postdoctoral researchers. The research environment supported various outreach activities, including public lectures and math circles for middle school students.     Last Modified: 12/29/2023       Submitted by: GretchenLMatthews]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

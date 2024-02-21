@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: FLARE infrastructure for reproducible active learning of Bayesian force fields for ex-machina exascale molecular dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>379050.00</AwardTotalIntnAmount>
+<AwardAmount>379050</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rob Beverly</SignBlockName>
+<PO_EMAI>rbeverly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927068</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Much needed progress in technologies for energy storage and conversion relies on our ability to design and understand next-generation key functional materials at the core of these systems. The fundamental physical effects that govern the functions of batteries, catalysts and fuel cells originate at the atomic level. Molecular dynamics simulations are indispensable tools with broad applicability for materials research due to their ability to probe microscopic details of atomic motion and predict thermodynamics, reaction kinetics and ionic diffusivities of many materials. Machine learning approaches are transforming how simulations of complex materials are performed; hence software tools are needed to make this transition faster and smoother. Our main goal is to advance machine learning methods and create software for constructing accurate fast simulation models that contain principled uncertainty of their predictions, which is a highly desirable target in many data science areas beyond atomistic modeling. Principled uncertainty quantification is especially critical for prediction of non-equilibrium dynamics, where rare important events, such as the breaking of bonds or atomic migration, determine the material’s performance but involve atomic configurations that are unlikely to be in a naive unbiased training set. Tools that we aim to develop will accelerate and automate computational research efforts in the fields of catalysis, batteries, thermal coatings, soft structural and functional materials, and actuators, to name a few.&lt;br/&gt;&lt;br/&gt;Currently available tools for machine learning based force fields are based on non-parametric methods that only provide estimates without uncertainties, require large amounts of training data, and are slow to evaluate for large numbers of atoms of different species. Our goal is to develop community software infrastructure to enable a new paradigm of simulating non-equilibrium dynamics of complex materials, where ML models are automatically trained and dramatically accelerate ab-initio simulations on-the-fly, preserving exact physical symmetries with minimal accuracy loss. We will create and freely disseminate FLARE (Fast Learning of Atomistic Rare Events), a parallelized database-driven automation framework tightly coupling ML model training with high-fidelity DFT computations, using rigorous model uncertainty to guide data acquisition via closed-loop active learning. Specially designed many-body multi-species kernels and tools for systematic hyperparameter optimization will allow the models to be mapped to fast tabulated Bayesian force fields, implemented in the widely used MD software aimed at exascale computing performance. The result will be the ability to perform MD simulations of materials systems of millions of atoms at near-DFT accuracy and with predictive uncertainty. The unique advantages of the proposed infrastructure are (1) the automated training requiring minimal amounts of DFT data, (2) predictions containing principled Bayesian uncertainty, (3) scalable performance of at least 5 orders of magnitude faster than ab-initio molecular dynamics, and (4) ability to record full provenance and reproducibility information of training and prediction workflows.&lt;br/&gt;&lt;br/&gt;This award by the NSF Office of Advanced Cyberinfrastructure is jointly supported by the Division of Materials Research and the Division of Chemistry within the NSF Directorate of Mathematical and Physical Sciences and the Division of Chemical, Bioengineering, Environmental and Transport Systems within the NSF Directorate of Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003725</AwardID>
+<Investigator>
+<FirstName>Boris</FirstName>
+<LastName>Kozinsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Boris Kozinsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[bkoz@seas.harvard.edu]]></EmailAddress>
+<NSF_ID>000568587</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE STE 3</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385369</ZipCode>
+<StreetAddress><![CDATA[29 Oxford St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8604</Code>
+<Text>Fuel Cells</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~379050</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The team at Harvard University led by Boris Kozinsky developed a new method for performing computer simulations of chemical and materials systems, where billions of atoms are moving according to forces computed by a machine learning force field model (MLFFs). Such molecular dynamics (MD) simulations are widely used in computational chemistry, physics and materials science to understand chemical reactions, phase transformations, diffusion and many other types of phenomena in liquids, nanoparticles, and composites on the microscopic level and to design and discover new materials. Our method makes such calculations much more accurate and faster than previously available methods by machine learning atomic forces from results of high-fidelity slow quantum mechanical calculations. The main advantage of the new approach is the ability to autonomously generate training configurations and learn energies and forces for atomic configurations, without any human input. This is possible because for every prediction the model also knows its own uncertainty, in the sense of Bayesian statistics. We created a software framework called FLARE (Fast Learning of Atomistic Rare Events) for developing these Bayesian force fields using and active learning algorithm which proceeds as follows. During a molecular dynamics simulation, if the model detects a configuration about which it is uncertain, it automatically performs an expensive accurate quantum mechanical calculations and adds the new data to its reference data set and retrains itself, on-the-fly during the simulation. FLARE is able to learn to describe and simulate any atomistic system even without any prior knowledge of the interaction between atoms, by selecting a diverse training set based on principled quantitative Bayesian uncertainty provided by Gaussian process regression. Uncertainty quantification is particularly important when studying nucleation phenomena or reactive events that are rare and whose structure is unknown a priori. We have demonstrated the capability of FLARE to correctly reproduce experimentally observed phenomena, to provide full atomistic details of previously unknown mechanisms and to discover new effects that were not possible to probe experimentally. Examples include discovery of new phases and transformations in semiconductor and metallic alloy materials, spontaneous reconstruction, and emergence of patterns in surfaces of metals, diffusion of ions in Li-ion battery and hydrogen fuel cell materials, chemical reactions and molecular structure of complex multicomponent liquid electrolytes, and even heterogeneous catalytic reactions. FLARE was shown to produce the fastest MLFF model that is also capable of exascale computations. In 2022 we used 27,336 GPUs on the Summit supercomputer to perform the biggest reactive molecular dynamics simulation ever, describing heterogeneous reactive dynamics simulation of hydrogen activation on the platinum catalyst surface, with 0.5 trillion atoms moving according to forces computed at near quantum accuracy, together with uncertainties on each force prediction. The open-source software FLARE has been adopted by multiple academic and industrial research groups and is helping answer questions about atomic motion and molecular mechanisms in many different disciplines and technological domains, accelerating simulation and design of materials in domains ranging from electronics and metallic alloys to batteries and catalysts.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/12/2024<br> Modified by: Boris&nbsp;Kozinsky</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2003725/2003725_10665330_1705113078654_Picture2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003725/2003725_10665330_1705113078654_Picture2--rgov-800width.png" title="Large-scale MD simulation"><img src="/por/images/Reports/POR/2024/2003725/2003725_10665330_1705113078654_Picture2--rgov-66x44.png" alt="Large-scale MD simulation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">FLARE enabled the largest and fastest reactive molecular dynamics simulation to date. Shown is a simulation of hydrogen  activation on Pt catalyst, running on 27,336 GPUs on the Summit machine.</div> <div class="imageCredit">Anders Johansson, Lixin Sun</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Boris&nbsp;Kozinsky <div class="imageTitle">Large-scale MD simulation</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003725/2003725_10665330_1705112818369_Picture1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003725/2003725_10665330_1705112818369_Picture1--rgov-800width.png" title="FLARE active learning workflow"><img src="/por/images/Reports/POR/2024/2003725/2003725_10665330_1705112818369_Picture1--rgov-66x44.png" alt="FLARE active learning workflow"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Principled Bayesian uncertainty of the FLARE force field model is used as a decision criterion for autonomous data acquisition from accurate ab-initio data during a molecular dynamics simulation.</div> <div class="imageCredit">Jonathan Vandermause</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Boris&nbsp;Kozinsky <div class="imageTitle">FLARE active learning workflow</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The team at Harvard University led by Boris Kozinsky developed a new method for performing computer simulations of chemical and materials systems, where billions of atoms are moving according to forces computed by a machine learning force field model (MLFFs). Such molecular dynamics (MD) simulations are widely used in computational chemistry, physics and materials science to understand chemical reactions, phase transformations, diffusion and many other types of phenomena in liquids, nanoparticles, and composites on the microscopic level and to design and discover new materials. Our method makes such calculations much more accurate and faster than previously available methods by machine learning atomic forces from results of high-fidelity slow quantum mechanical calculations. The main advantage of the new approach is the ability to autonomously generate training configurations and learn energies and forces for atomic configurations, without any human input. This is possible because for every prediction the model also knows its own uncertainty, in the sense of Bayesian statistics. We created a software framework called FLARE (Fast Learning of Atomistic Rare Events) for developing these Bayesian force fields using and active learning algorithm which proceeds as follows. During a molecular dynamics simulation, if the model detects a configuration about which it is uncertain, it automatically performs an expensive accurate quantum mechanical calculations and adds the new data to its reference data set and retrains itself, on-the-fly during the simulation. FLARE is able to learn to describe and simulate any atomistic system even without any prior knowledge of the interaction between atoms, by selecting a diverse training set based on principled quantitative Bayesian uncertainty provided by Gaussian process regression. Uncertainty quantification is particularly important when studying nucleation phenomena or reactive events that are rare and whose structure is unknown a priori. We have demonstrated the capability of FLARE to correctly reproduce experimentally observed phenomena, to provide full atomistic details of previously unknown mechanisms and to discover new effects that were not possible to probe experimentally. Examples include discovery of new phases and transformations in semiconductor and metallic alloy materials, spontaneous reconstruction, and emergence of patterns in surfaces of metals, diffusion of ions in Li-ion battery and hydrogen fuel cell materials, chemical reactions and molecular structure of complex multicomponent liquid electrolytes, and even heterogeneous catalytic reactions. FLARE was shown to produce the fastest MLFF model that is also capable of exascale computations. In 2022 we used 27,336 GPUs on the Summit supercomputer to perform the biggest reactive molecular dynamics simulation ever, describing heterogeneous reactive dynamics simulation of hydrogen activation on the platinum catalyst surface, with 0.5 trillion atoms moving according to forces computed at near quantum accuracy, together with uncertainties on each force prediction. The open-source software FLARE has been adopted by multiple academic and industrial research groups and is helping answer questions about atomic motion and molecular mechanisms in many different disciplines and technological domains, accelerating simulation and design of materials in domains ranging from electronics and metallic alloys to batteries and catalysts.        Last Modified: 01/12/2024       Submitted by: BorisKozinsky]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The catalytic activity and subcellular trafficking of plant cellulose synthase complexes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>649823.00</AwardTotalIntnAmount>
+<AwardAmount>649823</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Cellulose is a polymer of glucose monomers that can be produced by plants, many oomycetes, and some bacteria. Plant cellulose is used to make clothes, produce paper, and generate biofuels. In plants cellulose is synthesized by cellulose synthase protein complexes situated at the cell surface and it serves as a major cell wall component that controls plant cell shape and overall plant architecture. Cellulose synthase complexes require sophisticated regulatory mechanism to be delivered to the cell surface and perform their catalytic functions in cellulose biosynthesis.  This project will use multidisciplinary approaches to examine specific aspects of this regulation. The project will contribute to outreach programs by hosting high school students in the laboratory and providing training to high school science teachers. This project will also involve numerous undergraduate students from diverse backgrounds, thus stimulating research interest in plant biology and promoting STEM education. &lt;br/&gt;&lt;br/&gt;Although it is widely recognized that the subcellular transport of the cellulose synthase complex is essential for cellulose synthesis in plants, its unclear whether the catalytic activity of the cellulose synthase complex is related to its subcellular transport. This project aims at using chemical genetic methods and mutant analysis to discover how the catalytic activity of cellulose synthase complexes impacts their subcellular trafficking. Chemical inhibitor treatment combined with live-cell imaging will be performed to examine how catalytic activity affects different steps of cellulose synthase complex subcelluar trafficking. A series of cellulose synthase mutants that carry mutations at important amino acids for predicted catalytic activity will be analyzed for their growth phenotypes, cellulose content, and mutated protein trafficking dynamics. The research is expected to increase understanding of the relationship between cellulose synthase complex catalytic activity and subcellular trafficking.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025437</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Staiger</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher J Staiger</PI_FULL_NAME>
+<EmailAddress><![CDATA[staiger@purdue.edu]]></EmailAddress>
+<NSF_ID>000384756</NSF_ID>
+<StartDate>05/20/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chunhua</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chunhua Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhang150@purdue.edu]]></EmailAddress>
+<NSF_ID>000744222</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate>05/20/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072114</ZipCode>
+<StreetAddress><![CDATA[Young Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~322362</FUND_OBLG>
+<FUND_OBLG>2021~327461</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The extracellular matrix or cell wall of plants plays a vital role in organismal survival and resilience as well as in choreographing the growth and morphology of cells and organs. The major biopolymer of primary cell walls is cellulose, comprising long chains of glucose molecules bundled together into higher order structures. Cellulose has enormous economic value as a source of carbon storage, raw material for fiber and biofuels, as well as many other industrial applications. Cellulose is synthesized at the cell&rsquo;s plasma membrane (PM) by a multimeric protein complex named the cellulose synthase (CESA) complex (CSC). CSCs arrive at the PM by secretory vesicle trafficking and are recovered through endocytosis, thereafter being either recycled back to the PM or destroyed in the vacuole. In the secretory pathway, similar to many integral membrane proteins, CESAs are synthesized on the endoplasmic reticulum, transported to the Golgi for CSC complex assembly, and delivered to the PM via secretory vesicles. In previous work, we identified a small molecule inhibitor, Endosidin 20 or ES-20, that targets the catalytic domain of CESA6 and affects trafficking of CESAs in the endomembrane system. How the large cytoplasmic catalytic core domain of CESA, and highly conserved motifs located therein, contribute to protein dynamics, complex formation, and/or trafficking is unknown. To investigate this, we created a collection of 18 single amino acid replacement mutations in the CESA6 catalytic domain. Using a toolbox of quantitative live-cell imaging approaches to measure the dynamics of yellow fluorescence protein (YFP)-CESA6 harboring these mutations, we found that disruption of several motifs (e.g., DXD, TED, QXXRW, but not the DDG motif) caused reduced motility of PM-localized CSCs, indicating decreased cellulose biosynthetic activity. Phenocopying the effects of ES20 treatment, several mutations affected the Golgi-to-PM trafficking of CESA6. Using principal component analysis and pairwise correlations of 9 biochemical and cellular parameters, the 18 mutations were sorted into 2 groups. Group I mutations, represented by the DDG motif, caused CSC trafficking defects and accumulation of YFP-CESA6 in Golgi. Group II mutations, represented by the QXXRW motif, affected CESA6 protein folding and/or CSC complex formation in the ER or Golgi. These findings represent the first genetic evidence that the catalytic core domain of CESA6 plays a role in cellulose synthase protein dynamics, complex formation, and/or vesicle trafficking. We also created and validated several novel reagents and powerful quantitative assays that will be useful in future investigations of the molecular mechanisms that underpin CESA vesicle trafficking, exocytosis, and endocytosis.</p><br> <p>            Last Modified: 10/11/2023<br>      Modified by: Christopher&nbsp;J&nbsp;Staiger</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The extracellular matrix or cell wall of plants plays a vital role in organismal survival and resilience as well as in choreographing the growth and morphology of cells and organs. The major biopolymer of primary cell walls is cellulose, comprising long chains of glucose molecules bundled together into higher order structures. Cellulose has enormous economic value as a source of carbon storage, raw material for fiber and biofuels, as well as many other industrial applications. Cellulose is synthesized at the cell’s plasma membrane (PM) by a multimeric protein complex named the cellulose synthase (CESA) complex (CSC). CSCs arrive at the PM by secretory vesicle trafficking and are recovered through endocytosis, thereafter being either recycled back to the PM or destroyed in the vacuole. In the secretory pathway, similar to many integral membrane proteins, CESAs are synthesized on the endoplasmic reticulum, transported to the Golgi for CSC complex assembly, and delivered to the PM via secretory vesicles. In previous work, we identified a small molecule inhibitor, Endosidin 20 or ES-20, that targets the catalytic domain of CESA6 and affects trafficking of CESAs in the endomembrane system. How the large cytoplasmic catalytic core domain of CESA, and highly conserved motifs located therein, contribute to protein dynamics, complex formation, and/or trafficking is unknown. To investigate this, we created a collection of 18 single amino acid replacement mutations in the CESA6 catalytic domain. Using a toolbox of quantitative live-cell imaging approaches to measure the dynamics of yellow fluorescence protein (YFP)-CESA6 harboring these mutations, we found that disruption of several motifs (e.g., DXD, TED, QXXRW, but not the DDG motif) caused reduced motility of PM-localized CSCs, indicating decreased cellulose biosynthetic activity. Phenocopying the effects of ES20 treatment, several mutations affected the Golgi-to-PM trafficking of CESA6. Using principal component analysis and pairwise correlations of 9 biochemical and cellular parameters, the 18 mutations were sorted into 2 groups. Group I mutations, represented by the DDG motif, caused CSC trafficking defects and accumulation of YFP-CESA6 in Golgi. Group II mutations, represented by the QXXRW motif, affected CESA6 protein folding and/or CSC complex formation in the ER or Golgi. These findings represent the first genetic evidence that the catalytic core domain of CESA6 plays a role in cellulose synthase protein dynamics, complex formation, and/or vesicle trafficking. We also created and validated several novel reagents and powerful quantitative assays that will be useful in future investigations of the molecular mechanisms that underpin CESA vesicle trafficking, exocytosis, and endocytosis.       Last Modified: 10/11/2023       Submitted by: Christopher J Staiger]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

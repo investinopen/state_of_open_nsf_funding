@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Broadening the Pathway: A case study analysis of the implications of math and science on computer science graduates' employability]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allyson Kennedy</SignBlockName>
+<PO_EMAI>aykenned@nsf.gov</PO_EMAI>
+<PO_PHON>7032928905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal is designed to understand the salary potential and employability of students who graduate with a Bachelor of Arts in Computer Science (BACS) – primarily distinguished by the removal of calculus and physics requirements from the traditional computer science curriculum. Given the numerous studies that identify gateway courses like calculus and physics as impediments to students’ persistence in engineering and computer science AND their particular impact on women, Black and Hispanic students, the removal of this barrier has incredible potential for broadening participation in computing. This critical instance case study was designed to explore the student and administrative motivations for pursuing this alternative pathway and compare student employment and salary information to their Bachelor of Science in Computer Science peers. The study will consist of the following data elements: curriculum analysis and comparison, interviews with administrators that advocated for the new degree, interviews with administrators that did not advocate for the new degree, interviews with students that completed the BACS – prior to graduation and 6 months after starting their new job (or post-graduation). Likewise, a survey of all graduates from both degrees will capture data such as degree awarded, employment status, and self-reported starting salary information. The guiding theoretical frameworks will be cultural-historical activity theory, social identity theory and anti-deficit achievement frameworks. &lt;br/&gt;&lt;br/&gt;The results of this work could either serve as a cautionary tale for institutions considering similar programs OR it could serve as the basis for a deeper, more critical review of the requirements currently in place in BSCS programs. Are calculus and physics courses required for prosperity in computing or are they simply a barrier to equity? Furthermore, this inquiry aligns with the exploration prompted by the National Science Foundation’s Computing in Undergraduate Education (CUE) solicitation that inspires questions related to expanding computing beyond the boundaries of traditional Computer Science programs, increasing diverse population participation, and scaling interventions for broader impact. The risk and reward associated with this work is contingent on the fact that underrepresentation in computing is such a prolific problem that potentially unmasking a long-standing barrier could have immense implications for how we design curriculum moving forward. Results from this study are high reward because computer science is an area of critical national need and national data suggest that broadening participation is paramount in the continued success and preeminence of the nation on the global technology stage.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035326</AwardID>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Quardokus Fisher</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathleen M Quardokus Fisher</PI_FULL_NAME>
+<EmailAddress><![CDATA[kquardokus@gmail.com]]></EmailAddress>
+<NSF_ID>000695309</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Monique</FirstName>
+<LastName>Ross</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Monique Ross</PI_FULL_NAME>
+<EmailAddress><![CDATA[ross.1982@osu.edu]]></EmailAddress>
+<NSF_ID>000734572</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>Miami</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990002</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>055Y</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This study was designed to better understand the implications of calculus and physics in computing degree programs. Comparing the enrollment trends based on total population, gender, and race and ethnicity we found that the program with no calculus and physics (Bachelor of Arts [BA]) has seen increased enrollments (often surpassing that of the Bachelor of Science [BS]) with statistical significance in participation rates of Black and Hispanic identifying students. Likewise, through a survey we found that there was no statistical significance in job attainment between the two options for degrees (BA and BS). There were differences in salary and we explored interaction effects by variables such as employment location, employment time, and gender. We discovered that gender had no variation in salary; however, location of employment did. Further exploration into the factors that influence the variation in salary is necessary. The study also suggests that whether a student pursues a math and science intensive computing degree or not they are likely to get a high-paying job and can enter the computing workforces. These results should compel the computing education community to reevaluate the value of calculus and physics to the degree going forward.</p> <p>&nbsp;</p> <p>When exploring students choice to pursue one degree track over another (BS vs BA) they relied on rational factors such as time to graduation, earning potential, and the ability to combine their interest in computing with other interests (only available to those purusing a BA) were compelling reasons to choose a BA over a BS in computing.&nbsp;</p> <p><strong>&nbsp;</strong></p> <p><strong>Intellectual merit: </strong>Contributed to the body of knowledge in two key areas: 1) insight into the motivations for selecting a Bachelor of Arts over a Bachelor of Science in computing for minoritized populations; and 2) implications of drastic curriculum changes (in particular the removal of calculus and physics) on employability and salary. The results of this study suggest that calculus and physics oftentimes operate as a barrier to participation in computing, one that has no bearing on employability. There may be implication on salary, however, these findings are inconclusive at this time and require further investigation.</p> <p>&nbsp;</p> <p><strong>Broader impact: </strong>The study provided the critical examination of one of the structures along the pathway to a computer science degree &ndash; physics and calculus. The results of this study discovered that the removal of these courses not only broadened participation in computing but had no impact on student employability, presenting a significant shift in opinions on what constitutes a computing degree. The outcomes of this inquiry have the potential to shift and shape curriculum in computing going forward for minoritized populations.</p><br> <p>  Last Modified: 12/23/2023<br> Modified by: Monique&nbsp; &nbsp;Ross</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This study was designed to better understand the implications of calculus and physics in computing degree programs. Comparing the enrollment trends based on total population, gender, and race and ethnicity we found that the program with no calculus and physics (Bachelor of Arts [BA]) has seen increased enrollments (often surpassing that of the Bachelor of Science [BS]) with statistical significance in participation rates of Black and Hispanic identifying students. Likewise, through a survey we found that there was no statistical significance in job attainment between the two options for degrees (BA and BS). There were differences in salary and we explored interaction effects by variables such as employment location, employment time, and gender. We discovered that gender had no variation in salary; however, location of employment did. Further exploration into the factors that influence the variation in salary is necessary. The study also suggests that whether a student pursues a math and science intensive computing degree or not they are likely to get a high-paying job and can enter the computing workforces. These results should compel the computing education community to reevaluate the value of calculus and physics to the degree going forward.      When exploring students choice to pursue one degree track over another (BS vs BA) they relied on rational factors such as time to graduation, earning potential, and the ability to combine their interest in computing with other interests (only available to those purusing a BA) were compelling reasons to choose a BA over a BS in computing.      Intellectual merit: Contributed to the body of knowledge in two key areas: 1) insight into the motivations for selecting a Bachelor of Arts over a Bachelor of Science in computing for minoritized populations; and 2) implications of drastic curriculum changes (in particular the removal of calculus and physics) on employability and salary. The results of this study suggest that calculus and physics oftentimes operate as a barrier to participation in computing, one that has no bearing on employability. There may be implication on salary, however, these findings are inconclusive at this time and require further investigation.      Broader impact: The study provided the critical examination of one of the structures along the pathway to a computer science degree  physics and calculus. The results of this study discovered that the removal of these courses not only broadened participation in computing but had no impact on student employability, presenting a significant shift in opinions on what constitutes a computing degree. The outcomes of this inquiry have the potential to shift and shape curriculum in computing going forward for minoritized populations.     Last Modified: 12/23/2023       Submitted by: Monique Ross]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

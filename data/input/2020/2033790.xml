@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Machine-Learning Assisted Flapping Agitator Design Methodology Towards Enhanced Thermal-Hydraulic Performance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>335042.00</AwardTotalIntnAmount>
+<AwardAmount>335042</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Thermal transport in air-cooled heat exchangers is critical for effective cooling of power plants, data centers, and electronic devices. However, the performance of an air-cooled heat exchanger is often restricted by insufficient mixing of hot and cold air, which is needed to reduce the required fan power. Over the past few decades, much effort has been devoted to investigating enhanced heat transfer by introducing additional air turbulence. Among all the methods, flow-induced vibration of a flexible thin-film agitator has drawn much attention since it requires no external power, and the large flapping amplitude of the agitator strengthens the intensity of the turbulence. This project will conduct comprehensive experimental investigations to fully establish the flapping dynamics of agitators and resulting heat-transfer characteristics. It will also develop a machine-learning assisted design methodology to enhance performance. The project will integrate machine learning into fluid dynamics research and education, instill the excitement of engineering in high-school students through summer camps, and attract prospective students from under-represented groups towards STEM fields in college.&lt;br/&gt;&lt;br/&gt;The objective of this project is to develop a machine-learning assisted methodology for fast-optimization of the flexible agitator design in various channel flow conditions towards the maximum synthetic thermal-hydraulic performance. The research approach includes i) Acquire the training data through systematic experimental characterization of self-agitator dynamics on the heat transfer enhancement; ii) Characterize the vortex dynamics due to the added self-agitator in the channel flow with a state-of-the-art stereo time-resolved particle image velocimetry system; iii) Establish a machine‐learning assisted design methodology by using experimental results as training and guiding data to bridge between the given flow and structure conditions and the resultant self-agitator vibration mode, vibration amplitude, vibration frequency, vortex shedding frequency and evolution on the final thermal-hydraulic performances. This work will serve as a comprehensive step towards achieving a fundamental understanding of vorticial flow dynamics under the effect of fluid-structure interaction. Such a knowledge base will pave the way for designing novel air-side heat exchangers that can achieve high-efficiency heat transfer without unduly increasing pumping power.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033790</AwardID>
+<Investigator>
+<FirstName>Chung-Lung</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chung-Lung Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[chencl@missouri.edu]]></EmailAddress>
+<NSF_ID>000599680</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sheng</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheng Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wangsheng@missouri.edu]]></EmailAddress>
+<NSF_ID>000825708</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName/>
+<StateCode>MO</StateCode>
+<ZipCode>652110001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~335042</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><h1>Dancing Wings, Whispering Wind: A Symphony of Heat and Flow</h1> <p>&nbsp;</p> <p>Imagine a world where cooling isn't a battle against entropy, but a graceful ballet of air and form. This is the world we've glimpsed through the lens of our NSF project, a journey where machine learning waltzed with fluid dynamics.</p> <p>We are weary of the brute force approach, the energy-guzzling giants dominating the cooling stage. We yearn for a ballerina, an agile conductor of flow, a whisperer of thermal secrets. Nature become our muse, the hummingbird's rapid hum and the eagle's effortless glide inspiring us to envision a flexible membrane mimicking their ethereal movements. But this is no mere imitation; we infuse our membrane with the intelligence of AI, allowing it to adapt and respond to the flow, becoming an intimate partner in the thermal waltz.</p> <p>The results were a revelation, a concerto of efficiency that defied expectations. These fluttering foils, dancing with the currents, consistently outperformed their static counterparts by a staggering 30%, sometimes even reaching a breathtaking 50% improvement. For every scoop of ice cream kept perfectly chilled, for every swirl of vortex formed by a surface winglet - a flapping membrane retaining half of the energy! Our secret weapon? The delicate choreography of energy distribution, a ballet of heat transfer where we placed the "beat" of the flapping closer to the heat source, coaxing maximum efficiency from every whisper of flow. Think of it as a miniature maestro, conducting the flow right where it needs to be, coaxing coolness from the heart of the heat.</p> <p>Original goals are met very quickly as the theoretical limits are traced out by machine-learning interpretations. But our story doesn't end with simple membranes. But our developed theories suggest something even more powerful - We envisioned a future where the flapping isn't just a passive participant, but an active partner in the thermal duet. This is where AI truly shines, its algorithms dissecting the flow's every nuance, predicting its every twist and turn, and guiding the membrane in a synchronized dance of cooling. Imagine the flow as a whispering chorus, its secrets laid bare for the AI to interpret, and the membrane responding with a pirouette of efficiency, drawing away heat with each graceful flutter. A new paradigm is reached: an optimal distribution where two energy flows of the same magnitude merge as one. &nbsp;</p> <p>This project wasn't just about numbers and equations; it was about a symphony of tools and knowledge, a legacy for future generations:</p> <ul> <li><strong>Large Datasets: </strong>  <ul> <li>We amassed a treasure trove of flapping dynamics for different configurations of flexible membrane going against the incoming flow.</li> <li>Sub-flow vortex structures arise from the different flapping dynamics.</li> <li>Flow patterns due to different hydraulic energy distribution - a library of thermal secrets for future dancers to explore.</li> </ul> </li> <li><strong>Software:</strong>&nbsp;We built the stagehands for this thermal ballet,&nbsp;crafting tools to analyze videos,&nbsp;track the membrane's graceful movements,&nbsp;and even control the flow itself,&nbsp;ensuring every note in the symphony of cooling is perfectly played.</li> <li><strong>Knowledge:</strong>&nbsp;We unveiled the hidden choreography of energy distribution,&nbsp;the limitations of flappings,&nbsp;and the misconceptions that clouded our thermal thinking.&nbsp;This knowledge became the score for future innovations,&nbsp;guiding researchers and engineers towards a more efficient future.</li> </ul> <p>Most importantly, we ignited a spark of inspiration:</p> <ul> <li><strong>Outreach:</strong>&nbsp;We opened the doors of this fascinating world to high schoolers and middle schoolers,&nbsp;many from underrepresented communities. We are happy to see familiar faces joining our undergraduate program at the end of our project period.&nbsp;We hope to see them join the research ranks,&nbsp;becoming the future conductors of thermal efficiency.</li> <li><strong>Impact:</strong>&nbsp;Our findings echoed through one journal publication,&nbsp;one conference talk, and contributions to a special-issue journal. Our project goals and solutions have been disseminated in&nbsp; local seminars and conferences such as the NASA consortium meetings of all Missouri.&nbsp;</li> <li><strong>Future Generations: </strong>The project, in part, resulted in an undergraduate honors program, a master's degree, and a PhD degree.</li> </ul> <p>This project is just the overture to a new opera of cooling, a testament to the power of collaboration where engineers and scientists dance with the invisible forces of nature, guided by the light of AI. We leave you with this question, as the curtain rises on the future: what new symphonies of cooling can we compose, what innovative dances of energy can we choreograph, as we move towards a future of efficient and sustainable thermal management?</p> <p>Let the curtain rise, let the music play, and let the thermal dance of flapping wings continue!</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/22/2024<br> Modified by: Chung-Lung&nbsp;Chen</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855387262_2--rgov-214x142.png" original="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855387262_2--rgov-800width.png" title="Flow structure from Different Flapping Patterns"><img src="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855387262_2--rgov-66x44.png" alt="Flow structure from Different Flapping Patterns"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image displays various vortex patterns formed at the boundary layer, each resulting from different configurations of flapping dynamics. These patterns are crucial in discovering the specific flow properties that play the key roles in enhancing surface heat transfer.</div> <div class="imageCredit">Robin Pham</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Chung-Lung&nbsp;Chen <div class="imageTitle">Flow structure from Different Flapping Patterns</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855972676_4--rgov-214x142.png" original="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855972676_4--rgov-800width.png" title="Thermal-Hydraulic Response of Counter-Flow Pressure"><img src="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855972676_4--rgov-66x44.png" alt="Thermal-Hydraulic Response of Counter-Flow Pressure"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image illustrates the side-view distribution of flow speed (top) and temperature (bottom) at the energy-balanced optimal point</div> <div class="imageCredit">Robin Pham</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Chung-Lung&nbsp;Chen <div class="imageTitle">Thermal-Hydraulic Response of Counter-Flow Pressure</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855589370_3--rgov-214x142.png" original="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855589370_3--rgov-800width.png" title="Thermal-Hydraulic Efficiency"><img src="/por/images/Reports/POR/2023/2033790/2033790_10703460_1702855589370_3--rgov-66x44.png" alt="Thermal-Hydraulic Efficiency"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image presents the energy efficiency of different surface add-ons designed to enhance heat transfer, measured by the Nusselt number: static winglets, flexible winglets that flap, and actively controlled flapping winglets.</div> <div class="imageCredit">Robin Pham</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Chung-Lung&nbsp;Chen <div class="imageTitle">Thermal-Hydraulic Efficiency</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Dancing Wings, Whispering Wind: A Symphony of Heat and Flow      Imagine a world where cooling isn't a battle against entropy, but a graceful ballet of air and form. This is the world we've glimpsed through the lens of our NSF project, a journey where machine learning waltzed with fluid dynamics.   We are weary of the brute force approach, the energy-guzzling giants dominating the cooling stage. We yearn for a ballerina, an agile conductor of flow, a whisperer of thermal secrets. Nature become our muse, the hummingbird's rapid hum and the eagle's effortless glide inspiring us to envision a flexible membrane mimicking their ethereal movements. But this is no mere imitation; we infuse our membrane with the intelligence of AI, allowing it to adapt and respond to the flow, becoming an intimate partner in the thermal waltz.   The results were a revelation, a concerto of efficiency that defied expectations. These fluttering foils, dancing with the currents, consistently outperformed their static counterparts by a staggering 30%, sometimes even reaching a breathtaking 50% improvement. For every scoop of ice cream kept perfectly chilled, for every swirl of vortex formed by a surface winglet - a flapping membrane retaining half of the energy! Our secret weapon? The delicate choreography of energy distribution, a ballet of heat transfer where we placed the "beat" of the flapping closer to the heat source, coaxing maximum efficiency from every whisper of flow. Think of it as a miniature maestro, conducting the flow right where it needs to be, coaxing coolness from the heart of the heat.   Original goals are met very quickly as the theoretical limits are traced out by machine-learning interpretations. But our story doesn't end with simple membranes. But our developed theories suggest something even more powerful - We envisioned a future where the flapping isn't just a passive participant, but an active partner in the thermal duet. This is where AI truly shines, its algorithms dissecting the flow's every nuance, predicting its every twist and turn, and guiding the membrane in a synchronized dance of cooling. Imagine the flow as a whispering chorus, its secrets laid bare for the AI to interpret, and the membrane responding with a pirouette of efficiency, drawing away heat with each graceful flutter. A new paradigm is reached: an optimal distribution where two energy flows of the same magnitude merge as one.    This project wasn't just about numbers and equations; it was about a symphony of tools and knowledge, a legacy for future generations:  Large Datasets:    We amassed a treasure trove of flapping dynamics for different configurations of flexible membrane going against the incoming flow. Sub-flow vortex structures arise from the different flapping dynamics. Flow patterns due to different hydraulic energy distribution - a library of thermal secrets for future dancers to explore.   Software:We built the stagehands for this thermal ballet,crafting tools to analyze videos,track the membrane's graceful movements,and even control the flow itself,ensuring every note in the symphony of cooling is perfectly played. Knowledge:We unveiled the hidden choreography of energy distribution,the limitations of flappings,and the misconceptions that clouded our thermal thinking.This knowledge became the score for future innovations,guiding researchers and engineers towards a more efficient future.    Most importantly, we ignited a spark of inspiration:  Outreach:We opened the doors of this fascinating world to high schoolers and middle schoolers,many from underrepresented communities. We are happy to see familiar faces joining our undergraduate program at the end of our project period.We hope to see them join the research ranks,becoming the future conductors of thermal efficiency. Impact:Our findings echoed through one journal publication,one conference talk, and contributions to a special-issue journal. Our project goals and solutions have been disseminated in local seminars and conferences such as the NASA consortium meetings of all Missouri. Future Generations: The project, in part, resulted in an undergraduate honors program, a master's degree, and a PhD degree.    This project is just the overture to a new opera of cooling, a testament to the power of collaboration where engineers and scientists dance with the invisible forces of nature, guided by the light of AI. We leave you with this question, as the curtain rises on the future: what new symphonies of cooling can we compose, what innovative dances of energy can we choreograph, as we move towards a future of efficient and sustainable thermal management?   Let the curtain rise, let the music play, and let the thermal dance of flapping wings continue!        Last Modified: 01/22/2024       Submitted by: Chung-LungChen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

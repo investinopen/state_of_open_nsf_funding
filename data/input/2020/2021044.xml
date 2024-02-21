@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Assessing the impact of lead agency cross-functional authority on city sustainability outcomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>121287.00</AwardTotalIntnAmount>
+<AwardAmount>245218</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Songqi Liu</SignBlockName>
+<PO_EMAI>soliu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Local governments have traditionally been organized around function, with agencies and departments defined by the services they produce and deliver. Although organizational structures compartmentalized according to specific expertise can produce efficiencies, this fragmentation becomes problematic when governments attempt to address complex problems that transcend multiple units. Urban sustainability is an exemplar of issues which cut across numerous responsibilities traditionally held by distinct units within a single government organization. This research examines the relationship between municipal governments’ administrative arrangements, their policy adoption and implementation choices, and sustainability outcomes. It highlights the role of lead unit cross-functional authority—which we define as the clout that an initiative’s administrative lead has over other relevant units in the city government—and assesses its impact on local sustainability outcomes. In so doing, this research contributes to an evidence-based understanding of how public organizations function in order to enhance their design, management, and overall effectiveness.&lt;br/&gt;&lt;br/&gt;This work advances convergence research drawing from organizational, policy, sustainable urban systems, and network science to increase the precision and robustness of the Functional Collective Action (FCA) framework. It provides important insight into the determinants of lead agency cross-functional authority—which extant research has highlighted as fundamental but inadequately operationalized—and its influence on policy outcome. Using urban sustainability as our policy lens, we employ a mixed-methods approach to collect and analyze data from focus groups of local government officials, public and private archival repositories, and a nationwide survey to: (a) develop a refined conceptualization and empirical measure of cross-functional authority that captures its various dimensions and mechanisms of influence; (b) develop a comprehensive national dataset of multiple sustainability outcome measures that are comparable across cities; and (c) create the first longitudinal database on local sustainability policies spanning a ten year period, which is often considered the minimum amount of time necessary for nuanced examination of policy implementation and policy change. The collection of data will enable improved testing of local institutional and governance theories and its analysis will facilitate advances in urban management and sustainability outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021044</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Krause</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel M Krause</PI_FULL_NAME>
+<EmailAddress><![CDATA[rmkrause@ku.edu]]></EmailAddress>
+<NSF_ID>000615094</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457552</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Kansas Center for Research, Inc.]]></Name>
+<CityName>Lawrence</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457568</ZipCode>
+<StreetAddress><![CDATA[2385 Irving Hill Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8031</Code>
+<Text>SoO-Science Of Organizations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~121287</FUND_OBLG>
+<FUND_OBLG>2021~123931</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><br />Local governments have traditionally been organized around function, with agencies and departments defined by the services they produce and deliver. This kind of structural compartmentalization can challenge the ability to effectively address complex problems that transcend multiple units and areas of expertise. Urban sustainability is an exemplar of issues which cut across responsibilities traditionally held by numberous distinct units within a single government organization. Over the past two decades, local governments have become involved in explicit efforts to increase sustainability. However, not enough is known, at a generalizable level, about the extent to which city actions actually shape local sustainability outcomes or how different administrative practices might improve them. This research project collected data on cities&rsquo; sustainability-relevant programs, policies, and management practices, as well as on select outcome metrics that tap into sustainability&rsquo;s three primary dimensions (i.e. environmental, economic, and social). Together, this data allows examination of the relationship between municipal governments&rsquo; administrative arrangements, their policy adoption and implementation choices, and community-level sustainability outcomes.&nbsp;</p> <p>Accurately measuring changes in sustainability outcomes and drawing generalizable conclusions about the factors driving them requires having data for a large number of cities at more than one point in time. Thus, one element of this research involved conducting a national survey of U.S cities in a manner that paralleled previous surveys administered to the same sample of cities in 2010 and 2015 (591 U.S. cities completed the 2020 survey). Together, these surveys provide data about cities&rsquo; sustainability priorities and practices spanning ten years.&nbsp;</p> <p>Next, using spatial data from a variety of publicly available sources, the research team estimated city-level values for several new variables associated with the release of fossil fuel-based carbon emissions, tree canopy cover, and impervious surfaces (see figure 1 for a depiction of the general estimation approach used). Data for each of these variables was estimated in multiple years, enabling examination of change over time within and across cities. These layers of data can further be combined with layers containing information about community demographics, enabling observations of, for example, changes in tree canopy cover in reference to populations with different income characteristics.&nbsp;&nbsp;</p> <p>Understanding the relationship between city government actions and sustainability outcomes was a driving objective of the research. Within this scope, our analysis focused on organizational structure and capacity, particularly the characteristics of the government unit or staff that are responsible for their community&rsquo;s sustainability initiatives. Analysis of the data collected through this project indicate the use of four broad strategy types by the lead sustainability unit to facilitate collaboration and functional integration within city government: legitimating, rational persuasion, upward appeal, and consultation (see Figure 2). Moreover, we find evidence suggesting that actions city governments take to increase their own organizational capacity can result in improvements to community sustainability. Specifically, we find that cities&rsquo; completion of a GHG emissions inventory leads to a modest but statistically significant reduction in onsite residential emissions. Although the presence of an emissions inventory does not have direct impact on emissions, it appears to have a substantial indirect impact as a result of increasing the knowledge a city government has about the local emissions profile and options for mitigation. The information it provides appears to at least somewhat supplant the anecdotal logic, satisficing, and political calculations that may otherwise drive local decision-making, resulting in modestly more sustainable local outcomes (see Figure 3).&nbsp;</p><br> <p>  Last Modified: 12/11/2023<br> Modified by: Rachel&nbsp;M&nbsp;Krause</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702064498382_Zonal_statistics_figure_website--rgov-214x142.png" original="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702064498382_Zonal_statistics_figure_website--rgov-800width.png" title="General approach to estimate city-level outcome data"><img src="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702064498382_Zonal_statistics_figure_website--rgov-66x44.png" alt="General approach to estimate city-level outcome data"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Simplified depiction of the steps used to generate values of city-level outcome metrics from publicly available spatial boundary and raster files.</div> <div class="imageCredit">Rachel Krause and Aote Xin</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Rachel&nbsp;M&nbsp;Krause <div class="imageTitle">General approach to estimate city-level outcome data</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702065231993_action_outcome_link--rgov-214x142.png" original="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702065231993_action_outcome_link--rgov-800width.png" title="Conceptual link between local planning / administrative decisions and sustainability outcomes"><img src="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702065231993_action_outcome_link--rgov-66x44.png" alt="Conceptual link between local planning / administrative decisions and sustainability outcomes"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Conceptual example of how local planning and administrative decisions can improve sustainability outcomes, in this case community-wide GHG emissions.</div> <div class="imageCredit">Rachel Krause</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Rachel&nbsp;M&nbsp;Krause <div class="imageTitle">Conceptual link between local planning / administrative decisions and sustainability outcomes</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702064915645_incluence_tactics--rgov-214x142.png" original="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702064915645_incluence_tactics--rgov-800width.png" title="Revised taxonomy of intra-organizational influence tactics utilized by sustainability leads in U.S cities"><img src="/por/images/Reports/POR/2023/2021044/2021044_10705841_1702064915645_incluence_tactics--rgov-66x44.png" alt="Revised taxonomy of intra-organizational influence tactics utilized by sustainability leads in U.S cities"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Categories of strategies the staff or unit tasked with leading city government-wide sustainability initiatives use to facilitate functional collective action.</div> <div class="imageCredit">Christopher Hawkins</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Rachel&nbsp;M&nbsp;Krause <div class="imageTitle">Revised taxonomy of intra-organizational influence tactics utilized by sustainability leads in U.S cities</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Local governments have traditionally been organized around function, with agencies and departments defined by the services they produce and deliver. This kind of structural compartmentalization can challenge the ability to effectively address complex problems that transcend multiple units and areas of expertise. Urban sustainability is an exemplar of issues which cut across responsibilities traditionally held by numberous distinct units within a single government organization. Over the past two decades, local governments have become involved in explicit efforts to increase sustainability. However, not enough is known, at a generalizable level, about the extent to which city actions actually shape local sustainability outcomes or how different administrative practices might improve them. This research project collected data on cities sustainability-relevant programs, policies, and management practices, as well as on select outcome metrics that tap into sustainabilitys three primary dimensions (i.e. environmental, economic, and social). Together, this data allows examination of the relationship between municipal governments administrative arrangements, their policy adoption and implementation choices, and community-level sustainability outcomes.   Accurately measuring changes in sustainability outcomes and drawing generalizable conclusions about the factors driving them requires having data for a large number of cities at more than one point in time. Thus, one element of this research involved conducting a national survey of U.S cities in a manner that paralleled previous surveys administered to the same sample of cities in 2010 and 2015 (591 U.S. cities completed the 2020 survey). Together, these surveys provide data about cities sustainability priorities and practices spanning ten years.   Next, using spatial data from a variety of publicly available sources, the research team estimated city-level values for several new variables associated with the release of fossil fuel-based carbon emissions, tree canopy cover, and impervious surfaces (see figure 1 for a depiction of the general estimation approach used). Data for each of these variables was estimated in multiple years, enabling examination of change over time within and across cities. These layers of data can further be combined with layers containing information about community demographics, enabling observations of, for example, changes in tree canopy cover in reference to populations with different income characteristics.   Understanding the relationship between city government actions and sustainability outcomes was a driving objective of the research. Within this scope, our analysis focused on organizational structure and capacity, particularly the characteristics of the government unit or staff that are responsible for their communitys sustainability initiatives. Analysis of the data collected through this project indicate the use of four broad strategy types by the lead sustainability unit to facilitate collaboration and functional integration within city government: legitimating, rational persuasion, upward appeal, and consultation (see Figure 2). Moreover, we find evidence suggesting that actions city governments take to increase their own organizational capacity can result in improvements to community sustainability. Specifically, we find that cities completion of a GHG emissions inventory leads to a modest but statistically significant reduction in onsite residential emissions. Although the presence of an emissions inventory does not have direct impact on emissions, it appears to have a substantial indirect impact as a result of increasing the knowledge a city government has about the local emissions profile and options for mitigation. The information it provides appears to at least somewhat supplant the anecdotal logic, satisficing, and political calculations that may otherwise drive local decision-making, resulting in modestly more sustainable local outcomes (see Figure 3).     Last Modified: 12/11/2023       Submitted by: RachelMKrause]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

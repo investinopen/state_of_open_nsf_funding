@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Inequality in Global Scientific Research: Implications for Novelty and Innovation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>253898.00</AwardTotalIntnAmount>
+<AwardAmount>253898</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SMA</Abbreviation>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Feeney</SignBlockName>
+<PO_EMAI>mfeeney@nsf.gov</PO_EMAI>
+<PO_PHON>7032927197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Researchers collaborate across national borders, scientists move abroad to further their careers, and new discoveries are widely disseminated via journals and conferences that are increasingly international in scope and locale. The presumption held by policy makers and scientists is that globalization benefits research and enhances knowledge production, especially for researchers in countries with fewer resources. There is extensive research to suggest that diversity of experiences and perspectives in scientists, specifically in multidisciplinary collaborations, tends to yield better solutions in openly collaborative problem-solving ventures. However, researchers may prematurely coalesce on readily available, but perhaps suboptimal, solutions to their work, as scientific knowledge—whether embodied by peer-reviewed journals or global interpersonal networks—is more readily accessible in high volume and on demand. Amplifying the influence of readily available knowledge is that only a few countries are able to garner the resources needed to sustain cutting-edge scientific research. Those countries that do may increasingly influence what is topically important and implicitly set the agenda for scientific fields, potentially homogenizing scientific discourse and stifling innovation. This project aims to improve the rate of socially beneficial scientific discovery by developing methods, indicators, and analytic approaches that identify fields that may be less novel over time due to homogenization, as well as countries that lag behind their peers.&lt;br/&gt;   &lt;br/&gt;This project will model scientific influence and novelty on a global level using innovative analysis tools that integrate natural language processing and social network analysis. Natural language processing uncovers influence and knowledge contained in the medium of science at scale (i.e., the text found in academic publications), while social network analysis structurally traces this influence between countries and over time. The project has five key objectives: to 1) create international networks of influence across diverse fields using the abstracts of scientific publications, 2) apply network-based measures of inequality to these networks to demonstrate trends over time in different fields and countries, 3) apply novelty scores to countries in each of these fields, 4) relate measures of growing inequality in international influence networks to novelty scores, and 5) identify the fields and countries where this inequality in influence and the rising or waning novelty is the most and least severe. The project’s guiding hypothesis is that across a range of scientific fields, influence increasingly originates from a smaller sect of highly developed countries. Their unequal influence on science performed in other countries results in a homogenization of what is researched around the world in many fields. As influence in a field is increasingly concentrated and research topics become increasingly similar across borders, the global novelty of ideas declines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022395</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Gomez</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles J Gomez</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjgomez@arizona.edu]]></EmailAddress>
+<NSF_ID>000791304</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Queens College</Name>
+<CityName>FLUSHING</CityName>
+<ZipCode>113671575</ZipCode>
+<PhoneNumber>7189975400</PhoneNumber>
+<StreetAddress>6530 KISSENA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJABWGUJM228</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Queens College]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>113671597</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125Y</Code>
+<Text>Science of Science</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1397</Code>
+<Text>Cross-Directorate  Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~253898</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In the rapidly globalizing world of scientific research, understanding the dynamics of international collaboration and influence is crucial. Our project, titled "Inequality in Global Scientific Research: Implications for Novelty and Innovation," funded by the National Science Foundation (NSF) under Award No. 2022395, has made significant strides in examining how globalization impacts scientific discovery and innovation. Spanning from August 2020 to July 2023, the project sought to uncover the patterns of influence and novelty in global scientific research, employing advanced analytical tools that integrate natural language processing (NLP) and social network analysis.<br />The research supported by this grant uncovered key insights into the distribution of scientific influence and novelty. We found that while globalization has indeed expanded the horizons for scientific collaboration, it has also led to a concentration of influence in a few highly developed countries. This concentration risks homogenizing scientific discourse and stifling innovation, particularly in less resource-rich nations.</p> <p>We mapped out networks of influence across diverse scientific fields using the abstracts of scientific publications and their citations. These networks revealed how scientific ideas and influences are interconnected globally and highlighted the dominant roles of certain countries. Our analysis showed clear trends of inequality in scientific influence across various fields and countries. We demonstrated that a few countries disproportionately influence global scientific research agendas, potentially leading to a lack of diversity in research topics.&nbsp;By applying novelty scores to different countries in various scientific fields, we quantified innovation levels.</p> <p>We found a significant correlation between the concentration of scientific influence and the novelty of research outputs. Fields dominated by a few countries tended to show reduced innovation, indicating the potential negative impact of homogenization. Finally, our research identified specific fields and countries where the imbalance in influence and variation in novelty were most pronounced. This information is crucial for policymakers and funding agencies to target support where it's most needed to foster diverse and innovative research.</p> <p>Beyond its intellectual merit, our project has broader implications for the scientific community and society at large.&nbsp;Our findings provide valuable insights for policymakers and funding bodies, highlighting the need for more equitable and diverse research funding and collaboration opportunities.&nbsp;By revealing the dynamics of international scientific influence, our work encourages a more inclusive approach to global research collaboration. The methodologies and findings from our project have potential applications in educational settings, informing curriculum development and research training in data analysis and in studies of global science. Our project raises public awareness about the importance of diversity in scientific research and the potential risks of a homogenized global scientific landscape.</p> <p>Our project has shed light on the complex dynamics of global scientific research, revealing both the benefits and challenges of globalization in this field. Our findings also underscore the need for a more inclusive and diverse scientific community, where innovation is fostered through equitable collaboration and support.</p><br> <p>  Last Modified: 11/19/2023<br> Modified by: Charles&nbsp;J&nbsp;Gomez</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430963207_FIGURE_R_Plot3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430963207_FIGURE_R_Plot3--rgov-800width.jpg" title="Comparing global citational distortion over time."><img src="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430963207_FIGURE_R_Plot3--rgov-66x44.jpg" alt="Comparing global citational distortion over time."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) plots avg. national citational distortion across fields vs. time for countries. (B) compares distortion between core and peripheral countries, showing a growing gap. Shading indicates error margins. Citational distortion reflects the deviation between citation and text similarity networks.</div> <div class="imageCredit">Charles Jonathan Gomez</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Charles&nbsp;J&nbsp;Gomez <div class="imageTitle">Comparing global citational distortion over time.</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700429847777_FIGURE_Plot1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700429847777_FIGURE_Plot1--rgov-800width.jpg" title="The construction of the multiplex network, the citational well."><img src="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700429847777_FIGURE_Plot1--rgov-66x44.jpg" alt="The construction of the multiplex network, the citational well."></a> <div class="imageCaptionContainer"> <div class="imageCaption">The citational well is the result of subtracting the edge weights in the international citation network with the corresponding edge weights of its counterpart international text similarity network.</div> <div class="imageCredit">Charles Jonathan Gomez</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Charles&nbsp;J&nbsp;Gomez <div class="imageTitle">The construction of the multiplex network, the citational well.</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700431044232_FIGURE_R_Plot2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700431044232_FIGURE_R_Plot2--rgov-800width.jpg" title="Relationship between citations and text over time."><img src="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700431044232_FIGURE_R_Plot2--rgov-66x44.jpg" alt="Relationship between citations and text over time."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Panel (a) shows average countries in fields on the y-axis, time on the x-axis from 1980-2012, and trend lines by field type. Panel (b) plots average significant beta coefficients from QAP citation models. Panel (c) shows trends by field type with error shading.</div> <div class="imageCredit">Charles Jonathan Gomez</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Charles&nbsp;J&nbsp;Gomez <div class="imageTitle">Relationship between citations and text over time.</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430497237_Figure_4--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430497237_Figure_4--rgov-800width.jpg" title="Conceptual diagram of how international knowledge-based term-diffusion and citation networks are constructed."><img src="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430497237_Figure_4--rgov-66x44.jpg" alt="Conceptual diagram of how international knowledge-based term-diffusion and citation networks are constructed."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Identify papers that use a term or cite its original paper within time omega (w), determine the lead authors' national affiliations, and divide credit equally (a, b). Aggregate this data by country (c) to build term-based knowledge diffusion and citation networks per Field_t.</div> <div class="imageCredit">Charles Jonathan Gomez</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Charles&nbsp;J&nbsp;Gomez <div class="imageTitle">Conceptual diagram of how international knowledge-based term-diffusion and citation networks are constructed.</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430635874_Figure_5--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430635874_Figure_5--rgov-800width.jpg" title="The median influence misalignment between countries in the core and at the periphery of scientific communities between 2000 and 2012."><img src="/por/images/Reports/POR/2023/2022395/2022395_10690513_1700430635874_Figure_5--rgov-66x44.jpg" alt="The median influence misalignment between countries in the core and at the periphery of scientific communities between 2000 and 2012."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Panel (a) shows median influence misalignment with standard errors for core (blue) and periphery (red) countries. Panel (b) aggregates annual misalignment from 2000-2012 into dyads: Core->Core, Core->Periphery, Periphery->Periphery, Periphery->Core, with median values and standard errors.</div> <div class="imageCredit">Charles Jonathan Gomez</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Charles&nbsp;J&nbsp;Gomez <div class="imageTitle">The median influence misalignment between countries in the core and at the periphery of scientific communities between 2000 and 2012.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In the rapidly globalizing world of scientific research, understanding the dynamics of international collaboration and influence is crucial. Our project, titled "Inequality in Global Scientific Research: Implications for Novelty and Innovation," funded by the National Science Foundation (NSF) under Award No. 2022395, has made significant strides in examining how globalization impacts scientific discovery and innovation. Spanning from August 2020 to July 2023, the project sought to uncover the patterns of influence and novelty in global scientific research, employing advanced analytical tools that integrate natural language processing (NLP) and social network analysis. The research supported by this grant uncovered key insights into the distribution of scientific influence and novelty. We found that while globalization has indeed expanded the horizons for scientific collaboration, it has also led to a concentration of influence in a few highly developed countries. This concentration risks homogenizing scientific discourse and stifling innovation, particularly in less resource-rich nations.   We mapped out networks of influence across diverse scientific fields using the abstracts of scientific publications and their citations. These networks revealed how scientific ideas and influences are interconnected globally and highlighted the dominant roles of certain countries. Our analysis showed clear trends of inequality in scientific influence across various fields and countries. We demonstrated that a few countries disproportionately influence global scientific research agendas, potentially leading to a lack of diversity in research topics.By applying novelty scores to different countries in various scientific fields, we quantified innovation levels.   We found a significant correlation between the concentration of scientific influence and the novelty of research outputs. Fields dominated by a few countries tended to show reduced innovation, indicating the potential negative impact of homogenization. Finally, our research identified specific fields and countries where the imbalance in influence and variation in novelty were most pronounced. This information is crucial for policymakers and funding agencies to target support where it's most needed to foster diverse and innovative research.   Beyond its intellectual merit, our project has broader implications for the scientific community and society at large.Our findings provide valuable insights for policymakers and funding bodies, highlighting the need for more equitable and diverse research funding and collaboration opportunities.By revealing the dynamics of international scientific influence, our work encourages a more inclusive approach to global research collaboration. The methodologies and findings from our project have potential applications in educational settings, informing curriculum development and research training in data analysis and in studies of global science. Our project raises public awareness about the importance of diversity in scientific research and the potential risks of a homogenized global scientific landscape.   Our project has shed light on the complex dynamics of global scientific research, revealing both the benefits and challenges of globalization in this field. Our findings also underscore the need for a more inclusive and diverse scientific community, where innovation is fostered through equitable collaboration and support.     Last Modified: 11/19/2023       Submitted by: CharlesJGomez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

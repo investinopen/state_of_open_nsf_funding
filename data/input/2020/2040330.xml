@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Substorm Particle Injection into the Ring Current--MagnetoHydroDynamic (MHD) with Embedded Particle-In-Cell (PIC) Simulation Approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>54000.00</AwardTotalIntnAmount>
+<AwardAmount>54000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Magnetic storms generate energetic particles and strong wave activity in the magnetosphere. Modeling this system is of critical importance both for its societal and scientific relevance. This work will use a combined fluid-particle modeling approach to understand the role of kinetic processes in the inner magnetosphere. A graduate student will be trained and a new more realistic model of the storm time inner magnetosphere magnetic field, including the ring current, will be made publicly available to the space weather community.&lt;br/&gt;&lt;br/&gt;The project will study the process of particle injection from the magnetotail by developing, validating, and using a self-consistent particle-in-cell (PIC) simulation embedded in a global magetohydrodynamic (MHD) simulation of the solar wind-magnetosphere-ionosphere system. By using the multi-scale particle-in-cell (MSPIC) approach featuring an implicit PIC system that encompasses a large fraction of the inner magnetosphere, they will investigate ring current injection and acceleration during magnetic storm related substorms. This will enable the study of wave-particle interactions missing from other large-scale ring current simulation models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040330</AwardID>
+<Investigator>
+<FirstName>Giovanni</FirstName>
+<LastName>Lapenta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Giovanni Lapenta</PI_FULL_NAME>
+<EmailAddress><![CDATA[glapenta@spacescience.org]]></EmailAddress>
+<NSF_ID>000792470</NSF_ID>
+<StartDate>11/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SPACE SCIENCE INSTITUTE</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803012575</ZipCode>
+<PhoneNumber>7209745888</PhoneNumber>
+<StreetAddress>4765 WALNUT ST STE B</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KCBXMSFGQGY3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SPACE SCIENCE INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SPACE SCIENCE INSTITUTE]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803012575</ZipCode>
+<StreetAddress><![CDATA[4765 Walnut Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~54000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>During geomagnetic disturbances &nbsp;such as magnetospheric storms and substorms, flows from magnetic reconnection in the magnetotail can reach the inner magnetosphere &nbsp;leading to the formation of a partial ring current. The terrestrial ring current consists of trapped energetic ions with energies of 10-200 keV and electrons of 10 keV up to MeV.&nbsp; The ring current is a complex and dynamic system involving particle transport, acceleration, and loss in time-varying electromagnetic fields. In this paper, we present a new modeling approach using a self-consistent particle-in-cell (PIC) simulation code coupled with a global magnetohydrodynamic (MHD) code </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;to </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>investigate the earthward penetration of flow channels and dipolarization fronts and the formation of the partial ring following magnetic reconnection in the magnetotail. &nbsp; The fast flows from the magnetotail toward the inner magnetosphere frequently are in the form of narrow channels called bursty bulk flows (BBF).</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> <p><span>In this project, we developed a new modeling approach using a self-consistent particle-in-cell (PIC) simulation code coupled with a global magnetohydrodynamic (MHD) code &nbsp;to investigate the earthward penetration of flow channels and dipolarization fronts and the formation of the partial ring following magnetic reconnection in the magnetotail. Since the ring current is largely carried by ions, we concentrate on ion dynamics.</span><span> &nbsp;</span></p> <p><span>With this new model we </span><span>showed the inward propagation of the BBFs, and formation of the partial ring current with emphasis on the flow of energy from the reconnection to the inner magnetosphere and resulting acceleration of the plasma. We analysed the dynamics of the coupled reconnection, BBFs and inner magnetosphere system.</span></p> <div><span><br /></span></div> <p>&nbsp;</p><br> <p>  Last Modified: 01/29/2024<br> Modified by: Giovanni&nbsp;Lapenta</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2040330/2040330_10708650_1706517815252_Energy_flux_170000--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040330/2040330_10708650_1706517815252_Energy_flux_170000--rgov-800width.png" title="Ion Earthward Energy Flux"><img src="/por/images/Reports/POR/2024/2040330/2040330_10708650_1706517815252_Energy_flux_170000--rgov-66x44.png" alt="Ion Earthward Energy Flux"></a> <div class="imageCaptionContainer"> <div class="imageCaption">False colour plot of the total ion energy flux (bulk, enthalpy and heat flux) in the Earthward direction, superimposed with arrows pointing along the local ion speed.</div> <div class="imageCredit">our image</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Giovanni&nbsp;Lapenta <div class="imageTitle">Ion Earthward Energy Flux</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  During geomagnetic disturbances such as magnetospheric storms and substorms, flows from magnetic reconnection in the magnetotail can reach the inner magnetosphere leading to the formation of a partial ring current. The terrestrial ring current consists of trapped energetic ions with energies of 10-200 keV and electrons of 10 keV up to MeV. The ring current is a complex and dynamic system involving particle transport, acceleration, and loss in time-varying electromagnetic fields. In this paper, we present a new modeling approach using a self-consistent particle-in-cell (PIC) simulation code coupled with a global magnetohydrodynamic (MHD) code to investigate the earthward penetration of flow channels and dipolarization fronts and the formation of the partial ring following magnetic reconnection in the magnetotail.  The fast flows from the magnetotail toward the inner magnetosphere frequently are in the form of narrow channels called bursty bulk flows (BBF).   In this project, we developed a new modeling approach using a self-consistent particle-in-cell (PIC) simulation code coupled with a global magnetohydrodynamic (MHD) code to investigate the earthward penetration of flow channels and dipolarization fronts and the formation of the partial ring following magnetic reconnection in the magnetotail. Since the ring current is largely carried by ions, we concentrate on ion dynamics.    With this new model we showed the inward propagation of the BBFs, and formation of the partial ring current with emphasis on the flow of energy from the reconnection to the inner magnetosphere and resulting acceleration of the plasma. We analysed the dynamics of the coupled reconnection, BBFs and inner magnetosphere system.          Last Modified: 01/29/2024       Submitted by: GiovanniLapenta]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

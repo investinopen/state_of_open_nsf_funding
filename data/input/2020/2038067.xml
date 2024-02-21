@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Open Machine Learning Competitions with Private Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to expand access to artificial intelligence (AI) talent and spur innovation to solve hard problems while protecting privacy. Machine learning and AI are bringing transformational change to governments, private companies, and social sector organizations. Yet in the coming years, innovation will be hamstrung by limited access to AI talent. Open innovation, such as machine learning (ML) competitions, provides governments and firms the ability to tap into a global talent pool to solve some of their most pressing and vexing challenges. Yet there is currently an immense barrier to running these competitions: the data must be made available to participants, which can preclude running a competition if the associated data are too sensitive to release due to concerns about privacy, security, or confidentiality. With data talent in increasingly high demand, government agencies, companies, and others have demonstrated a willingness to invest in this fashion. The proposed project develops a method to maintain data privacy at scale. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop an end-to-end competition system that provides privacy guarantees for data used to build crowdsourced algorithmic solutions. Open ML challenges typically work by providing participants with training data to learn underlying patterns, then evaluating resulting predictions on unlabeled test data. For many important problems, making training data available in this way violates concerns about privacy or enables abuse. The critical gap is preserving the privacy of training data while enabling participants to build models that can learn from it. This project will bring together recent advances in three of the most promising approaches in privacy-preserving data analysis: homomorphic encryption, federated learning, and differential privacy. Each technique will be developed and tested in a dedicated challenge structure with two core properties: 1) to preserve the privacy of sensitive data; and 2) to ensure competitors are able to get feedback on submitted models during the competition to inform algorithm improvements. Each competition system will result in a set of performance measures, including benchmarked algorithm performance and data privacy guarantees, to assess system feasibility.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038067</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Bull</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Bull</PI_FULL_NAME>
+<EmailAddress><![CDATA[peter@drivendata.org]]></EmailAddress>
+<NSF_ID>000824552</NSF_ID>
+<StartDate>07/26/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DRIVENDATA, INC.</Name>
+<CityName>DENVER</CityName>
+<ZipCode>802201459</ZipCode>
+<PhoneNumber>3148073001</PhoneNumber>
+<StreetAddress>1956 HUDSON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DUAZPJFEFKH4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DRIVENDATA, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z7JDF3MHANX9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DRIVENDATA, INC.]]></Name>
+<CityName>Oakland</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>946123409</ZipCode>
+<StreetAddress><![CDATA[1714 Franklin St. #100-459]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-37d1a7f5-7fff-f302-4e52-335defabfa5a">&nbsp;</span></p> <p dir="ltr"><span>As the subject of one of our research interviews put it: ?What hinders innovation is centered on the fact that data is so siloed.? Innovation is driven by access to data. And, particularly in the current era of progress for machine learning and AI, innovation is driven by access to large, heterogeneous datasets. However, data remains siloed because broad sharing of data creates a number of risks: legal and regulatory compliance risks, risk of divulging corporate secrets, and ethical use of data, including violating the privacy interests of the people represented in the data. Privacy enhancing technologies, abbreviated as PETs, provide a set of methods for enabling data access for certain purposes, while protecting from these risks.</span></p> <p dir="ltr"><span>At the same time, open challenges have a track-record of being effective tools for innovation, and have been used by government, philanthropies, and corporations to spur new ideas.</span><span>&nbsp;Open challenges also rely on open data, and in particular, our work focuses on challenges to develop new, more effective algorithms, so releasing data for training and evaluating these algorithms is critical. The goals of our research were to understand how PETs might be used to facilitate open innovation challenges while the underlying data remains private.</span></p> <p dir="ltr"><span>To this end, we conducted a number of research activities: landscaping technologies, designing prototypes, conducting use-case research through user interviews, and running open PETs challenges. Over the course of the research period, we ran two PETs challenges on the drivendata.org challenge platform. One focused on training algorithms using federated learning. This multitrack challenge modeled two problems: first, detecting financial crimes in transaction data, and second forecasting pandemic spread through modeling individual behaviors. The second challenge was designed to enable cross-company collaboration by building algorithms for forecasting airport delays while not requiring airlines share sensitive data with one another.</span></p> <p dir="ltr"><span>Overall, through this research we made a number of key findings about how PETs tools can be used for open-innovation challenges. First, methods for fully homomorphic encryption (FHE) are too computationally intensive to be useful for challenges. Additionally, some HE methods provide limitations on the arithmetic operators that can be used, which are too restrictive to enable the kind of algorithm experimentation needed for a machine learning challenge. Second, differential privacy is a good fit for preparing datasets for challenge release. However, in our experience there is still an education problem to overcome to demonstrate to the broader market how differential privacy guarantees work. Finally, federated learning is a good fit for challenges that model collaboration across a number of different actors with individual data. The challenges are good for developing federated approaches on top of public or synthetic data, but then need translation and validation for use in-context.&nbsp;</span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: Peter&nbsp;Bull</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020293531_Screenshot2023-09-29at1.41.26PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020293531_Screenshot2023-09-29at1.41.26PM--rgov-800width.jpg" title="Open Data Challenges for Federated Learning Algorithms"><img src="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020293531_Screenshot2023-09-29at1.41.26PM--rgov-66x44.jpg" alt="Open Data Challenges for Federated Learning Algorithms"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Architecture diagram for a machine learning challenge to design federated learning algorithms for use on private data.</div> <div class="imageCredit">DrivenData</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Peter&nbsp;Bull</div> <div class="imageTitle">Open Data Challenges for Federated Learning Algorithms</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020374978_Screenshot2023-09-29at1.41.44PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020374978_Screenshot2023-09-29at1.41.44PM--rgov-800width.jpg" title="Open Data Challenges using Differential Privacy (Static)"><img src="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020374978_Screenshot2023-09-29at1.41.44PM--rgov-66x44.jpg" alt="Open Data Challenges using Differential Privacy (Static)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Architecture diagram for running a machine learning challenge that uses differential privacy to privatize a dataset that is then released for use in the challenge.</div> <div class="imageCredit">DrivenData</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Peter&nbsp;Bull</div> <div class="imageTitle">Open Data Challenges using Differential Privacy (Static)</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020498956_Screenshot2023-09-29at1.42.07PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020498956_Screenshot2023-09-29at1.42.07PM--rgov-800width.jpg" title="Open Data Challenges using Differential Privacy (Interactive)"><img src="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020498956_Screenshot2023-09-29at1.42.07PM--rgov-66x44.jpg" alt="Open Data Challenges using Differential Privacy (Interactive)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Architecture diagram for a system that uses differential privacy and a secure-multiparty computing regime to privatize ad-hoc queries to the raw data, where query responses are used to train algorithms.</div> <div class="imageCredit">DrivenData</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Peter&nbsp;Bull</div> <div class="imageTitle">Open Data Challenges using Differential Privacy (Interactive)</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020570694_Screenshot2023-09-29at1.43.15PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020570694_Screenshot2023-09-29at1.43.15PM--rgov-800width.jpg" title="Open Data Challenges using Homomorphic Encryption"><img src="/por/images/Reports/POR/2023/2038067/2038067_10753230_1696020570694_Screenshot2023-09-29at1.43.15PM--rgov-66x44.jpg" alt="Open Data Challenges using Homomorphic Encryption"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Architecture diagram for an open machine learning challenge that uses homomorphic encryption to privatize a dataset for release to participants.</div> <div class="imageCredit">DrivenData</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Peter&nbsp;Bull</div> <div class="imageTitle">Open Data Challenges using Homomorphic Encryption</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   As the subject of one of our research interviews put it: ?What hinders innovation is centered on the fact that data is so siloed.? Innovation is driven by access to data. And, particularly in the current era of progress for machine learning and AI, innovation is driven by access to large, heterogeneous datasets. However, data remains siloed because broad sharing of data creates a number of risks: legal and regulatory compliance risks, risk of divulging corporate secrets, and ethical use of data, including violating the privacy interests of the people represented in the data. Privacy enhancing technologies, abbreviated as PETs, provide a set of methods for enabling data access for certain purposes, while protecting from these risks. At the same time, open challenges have a track-record of being effective tools for innovation, and have been used by government, philanthropies, and corporations to spur new ideas. Open challenges also rely on open data, and in particular, our work focuses on challenges to develop new, more effective algorithms, so releasing data for training and evaluating these algorithms is critical. The goals of our research were to understand how PETs might be used to facilitate open innovation challenges while the underlying data remains private. To this end, we conducted a number of research activities: landscaping technologies, designing prototypes, conducting use-case research through user interviews, and running open PETs challenges. Over the course of the research period, we ran two PETs challenges on the drivendata.org challenge platform. One focused on training algorithms using federated learning. This multitrack challenge modeled two problems: first, detecting financial crimes in transaction data, and second forecasting pandemic spread through modeling individual behaviors. The second challenge was designed to enable cross-company collaboration by building algorithms for forecasting airport delays while not requiring airlines share sensitive data with one another. Overall, through this research we made a number of key findings about how PETs tools can be used for open-innovation challenges. First, methods for fully homomorphic encryption (FHE) are too computationally intensive to be useful for challenges. Additionally, some HE methods provide limitations on the arithmetic operators that can be used, which are too restrictive to enable the kind of algorithm experimentation needed for a machine learning challenge. Second, differential privacy is a good fit for preparing datasets for challenge release. However, in our experience there is still an education problem to overcome to demonstrate to the broader market how differential privacy guarantees work. Finally, federated learning is a good fit for challenges that model collaboration across a number of different actors with individual data. The challenges are good for developing federated approaches on top of public or synthetic data, but then need translation and validation for use in-context.              Last Modified: 09/29/2023       Submitted by: Peter Bull]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

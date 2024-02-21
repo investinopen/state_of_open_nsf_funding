@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  Evolutionary reversals in hormonal modulation of growth-regulatory gene networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/26/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>304766.00</AwardTotalIntnAmount>
+<AwardAmount>304766</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathryn Dickson</SignBlockName>
+<PO_EMAI>kdickson@nsf.gov</PO_EMAI>
+<PO_PHON>7032927380</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The hormone testosterone is classically viewed as a promoter of growth, but this generalization is based on model species in medicine, agriculture, and aquaculture. In most of these model species, males also happen to be larger than females. However, in several lizard species in which females are larger, testosterone inhibits growth. This raises the intriguing possibility that, far from being hard-wired, the effects of testosterone (and other hormones) on growth and other processes may change considerably during evolution. This project will test for such "evolutionary reversals" in the hormonal regulation of growth across lizard species.  These species have been selected to span repeated evolutionary shifts between those in which males are larger and those in which females are larger. By simultaneously characterizing the effects of testosterone on the expression of thousands of genes, this project will also determine how such "evolutionary reversals" in the hormonal regulation of growth are accomplished at the genetic level. The results of this collaborative study will broaden understanding of the endocrine system.  It may also challenge generalizations derived from traditional animal models by investigating how closely related species evolve different responses to the same hormone. The project will also contribute to filling national teaching needs and will involve high school teachers in research experiences in an intensive summer program. Research training opportunities are being provided for a post-doctoral fellow, a PhD and an MS graduate student, and two undergraduate students.&lt;br/&gt;&lt;br/&gt;This Collaborative project addresses an issue of current debate in comparative endocrinology: whether the highly conserved vertebrate endocrine system tends to constrain adaptation, or whether key evolutionary changes in the coupling of hormones to gene networks instead facilitate rapid evolution. This project will combine hormone manipulations and high-throughput RNA sequencing aimed at (1) characterizing how the expression of growth-regulatory gene networks differs with respect to age, tissue, and hormone treatment using detailed experiments on three focal lizard species, (2) testing for evolutionary reversals in the hormonal regulation of growth and gene expression by extending these methods to a broader, phylogenetically informed sampling of related lizard species with variable patterns of sexual dimorphism in body size (male-larger or female-larger), and (3) characterizing rates of sequence evolution for thousands of expressed genes to test whether the specificity of expression that is achieved by hormonal regulation also frees coding sequences themselves to evolve more quickly. This research will support development of the recently sequenced genome of the Eastern Fence Lizard as an emerging resource for the fields of comparative endocrinology and evolutionary genetics. This project enhances the professional development of science educators through Teacher Workshops and Teacher Fellowships administered through an ongoing education program, which fosters teacher-scientist collaboration and authentic scientific discovery in the K-12 classroom. In addition, research training opportunities and funding are provided for a post-doctoral fellow, a PhD student, a MS student, and for two undergraduates each year.&lt;br/&gt;&lt;br/&gt;This award is co-funded by the Physiological Mechanisms and Biomechanics Program in the Division of Integrative Organismal Systems, the Evolutionary Processes Program in the Division of Environmental Biology, and the Rules of Life Venture Fund of the Emerging Frontiers Program in the Directorate for Biological Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024064</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Cox</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christian L Cox</PI_FULL_NAME>
+<EmailAddress><![CDATA[ccox@fiu.edu]]></EmailAddress>
+<NSF_ID>000698653</NSF_ID>
+<StartDate>03/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>Miami</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8th St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7378</Code>
+<Text>EVOLUTIONARY GENETICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~304764</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overarching goal of this project was to enhance our understanding of the evolution of the endocrine system and of gene regulation by identifying changes in the hormonal regulation of gene expression associated with evolutionary shifts in sexual dimorphism. Specifically, this project tested the hypothesis that evolutionary changes in the effects of hormones on gene expression accompany the evolution of sex differences, and that the regulatory features of genes also influence the evolution of their underlying DNA sequences. The research was conducted across 10 related lizard species with different patterns of sexual dimorphism.</p> <p>&nbsp;</p> <p>One specific goal of this project was to test for evolutionary shifts in gene expression across species with different patterns of sexual dimorphism in body size, focusing on expression in the liver as an important integrator of growth and metabolism. While many genes were found to be consistently expressed more highly in females (or males) regardless of species, other genes were found exhibit evolutionary reversals (expressed more highly in females of one species, but in males of another species). By comparing patterns of gene expression across the evolutionary tree for the 10 selected species, this project identified evolutionary changes in the sex-biased expression of genes for insulin-like growth factors as the primary feature that was consistently associated with evolutionary shifts in sexual size dimorphism.</p> <p>&nbsp;</p> <p>Another goal of this project was to test for evolutionary shifts in the regulation of gene expression by testosterone to explore how different patterns of sexual dimorphism and gene regulation evolve. This research found that genes respond to testosterone similarly in males and females of the same species, such that sex differences in hormone levels are likely the primary basis for sex differences in development. By contrast, genes respond to testosterone differently when compared across species, particularly species that are more distantly related to one another. While the effects of hormones are sometimes assumed to be fixed based on research from a limited number of model species such as mice and livestock, this project illustrates that many of the effects of hormones on gene expression can and do evolve. This project uncovered specific examples of the evolution of hormonal regulation involving the expression of genes for coloration in the skin and genes for metabolism in the liver.</p> <p>&nbsp;</p> <p>Another goal of this project was to test whether genes with a higher degree of specificity in their expression (relative to sex, age, and tissue) exhibit higher rates of evolution in their DNA sequences. This project revealed that genes with higher tissue specificity in their expression also tend to be expressed differently with respect to sex and age. As predicted by theory, genes with sex-biased expression were found to have lower nucleotide diversity, suggesting that their evolution is less constrained by balancing selection. A novel discovery from this project is that genes with age-biased expression, which greatly outnumber those with sex-biased expression and occur consistently in all tissues, also exhibit lower nucleotide diversity. This highlights an understudied feature of gene regulation that may have important evolutionary consequences.</p> <p>&nbsp;</p> <p>An unanticipated discovery of this research is that the X chromosome in most phrynosomatid lizard species is enriched for genes with higher expression in females than in males. Previous research has shown that related lizards have evolved a mechanism to compensate for the fact that males only have a single copy of genes on X, and recent studies in other phrynosomatid lizards have similarly concluded that expression on X is balanced between sexes. The large sample sizes and multi-age, multi-tissue, multi-species approaches that were used in this project instead revealed that the X chromosome has apparently not evolved a chromosome-wide mechanism to balance gene expression between sexes, since many genes still exhibit consistently female-biased expression across ages and tissues.</p> <p>&nbsp;</p> <p>The final goal of this project was to expand Evolution Education, a professional development program for high school teachers. During the funding period, this program&rsquo;s emphasis on hands-on activities for teaching evolution and conducting research in the high school classroom was challenged by an unanticipated shift to online learning. A key outcome of the award is that the Evolution Education Teacher Workshop it supported was adapted in light of this challenge to provide more in-depth training in data analysis, graphing, and interpretation. These topics were presented in a way that provided teachers with guidance on how to flexibly teach data-literacy skills using a combination of curated classroom exercises that can be completed online as well as novel experiments that can be designed and conducted in-person.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Christian&nbsp;L&nbsp;Cox</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The overarching goal of this project was to enhance our understanding of the evolution of the endocrine system and of gene regulation by identifying changes in the hormonal regulation of gene expression associated with evolutionary shifts in sexual dimorphism. Specifically, this project tested the hypothesis that evolutionary changes in the effects of hormones on gene expression accompany the evolution of sex differences, and that the regulatory features of genes also influence the evolution of their underlying DNA sequences. The research was conducted across 10 related lizard species with different patterns of sexual dimorphism.      One specific goal of this project was to test for evolutionary shifts in gene expression across species with different patterns of sexual dimorphism in body size, focusing on expression in the liver as an important integrator of growth and metabolism. While many genes were found to be consistently expressed more highly in females (or males) regardless of species, other genes were found exhibit evolutionary reversals (expressed more highly in females of one species, but in males of another species). By comparing patterns of gene expression across the evolutionary tree for the 10 selected species, this project identified evolutionary changes in the sex-biased expression of genes for insulin-like growth factors as the primary feature that was consistently associated with evolutionary shifts in sexual size dimorphism.      Another goal of this project was to test for evolutionary shifts in the regulation of gene expression by testosterone to explore how different patterns of sexual dimorphism and gene regulation evolve. This research found that genes respond to testosterone similarly in males and females of the same species, such that sex differences in hormone levels are likely the primary basis for sex differences in development. By contrast, genes respond to testosterone differently when compared across species, particularly species that are more distantly related to one another. While the effects of hormones are sometimes assumed to be fixed based on research from a limited number of model species such as mice and livestock, this project illustrates that many of the effects of hormones on gene expression can and do evolve. This project uncovered specific examples of the evolution of hormonal regulation involving the expression of genes for coloration in the skin and genes for metabolism in the liver.      Another goal of this project was to test whether genes with a higher degree of specificity in their expression (relative to sex, age, and tissue) exhibit higher rates of evolution in their DNA sequences. This project revealed that genes with higher tissue specificity in their expression also tend to be expressed differently with respect to sex and age. As predicted by theory, genes with sex-biased expression were found to have lower nucleotide diversity, suggesting that their evolution is less constrained by balancing selection. A novel discovery from this project is that genes with age-biased expression, which greatly outnumber those with sex-biased expression and occur consistently in all tissues, also exhibit lower nucleotide diversity. This highlights an understudied feature of gene regulation that may have important evolutionary consequences.      An unanticipated discovery of this research is that the X chromosome in most phrynosomatid lizard species is enriched for genes with higher expression in females than in males. Previous research has shown that related lizards have evolved a mechanism to compensate for the fact that males only have a single copy of genes on X, and recent studies in other phrynosomatid lizards have similarly concluded that expression on X is balanced between sexes. The large sample sizes and multi-age, multi-tissue, multi-species approaches that were used in this project instead revealed that the X chromosome has apparently not evolved a chromosome-wide mechanism to balance gene expression between sexes, since many genes still exhibit consistently female-biased expression across ages and tissues.      The final goal of this project was to expand Evolution Education, a professional development program for high school teachers. During the funding period, this programs emphasis on hands-on activities for teaching evolution and conducting research in the high school classroom was challenged by an unanticipated shift to online learning. A key outcome of the award is that the Evolution Education Teacher Workshop it supported was adapted in light of this challenge to provide more in-depth training in data analysis, graphing, and interpretation. These topics were presented in a way that provided teachers with guidance on how to flexibly teach data-literacy skills using a combination of curated classroom exercises that can be completed online as well as novel experiments that can be designed and conducted in-person.        Last Modified: 12/27/2023       Submitted by: ChristianLCox]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

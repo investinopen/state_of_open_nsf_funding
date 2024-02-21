@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: EAGER: Toward Energy-Efficient Heterogeneous Computing Integrating Polymorphic Magnetic and CMOS Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299420.00</AwardTotalIntnAmount>
+<AwardAmount>299420</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The integration of non-conventional materials and devices with silicon Complementary Metal Oxide Semiconductor (CMOS) technology can enable a new type of computing platform with potential benefits related to area, energy efficiency, and resiliency. In this regard, storing and manipulating information in magnetic devices is promising. This is because, unlike CMOS devices, information in magnetic devices can be stored without any energy dissipation, while energy is needed only to read or write information. This low-power operation of magnetic devices is highly advantageous for applications such as Internet of Things and intelligent sensing that have low operating power requirements. This research will connect the physics of such magnetic devices with their use in circuits in which magnetic devices co-exist with and complement silicon devices for enhanced functionality and user experience. Results from this research will be incorporated into a hands-on circuit design workshop organized annually at New York University (NYU). Specifically, students will learn about the physics of magnets in table top experiments and interactive online learning tools. The project will also develop content on magnetic memory that will be introduced in a course on nanoelectronics devices and circuits taught annually at NYU. The project will also publicly release the device models and simulation data generated in this research via the science and engineering gateway hosted at Purdue University, known as the nanoHUB, to benefit researchers and educators working in related fields.&lt;br/&gt;&lt;br/&gt;While other possibilities exist, this particular project will focus on two specific magnetic devices, namely the voltage-controlled topological-spin switch (vTOPSS) and the magneto-electric spin-orbit (MESO) device. These magnetic devices offer 10 to 100 times superior energy efficiency for binary operations compared to their magnetic counterparts. Another unique feature of these devices is that their logic functionality can be configured post-fabrication, which translates into resilience and area- and power benefits at the circuit and system level. Physics-based models of the latency, energy dissipation, thermal stability, and error-rate of vTOPSS and MESO device will be developed and calibrated against large-scale Monte-Carlo simulations. Impact of potential interconnects, including metallic and semiconducting nanowires, on device performance will be quantified. Device-level models will be used to develop a standard cell library of Boolean logic gates with vTOPSS and MESO as the switching elements. The cell library will enable the quantification of performance metrics of magnetic-CMOS computing platform at scale. The physics-to-circuits approach adopted in this research will drive innovative concepts in circuit design that can maximize the competitiveness of the proposed technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021230</AwardID>
+<Investigator>
+<FirstName>Shaloo</FirstName>
+<LastName>Rakheja</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shaloo Rakheja</PI_FULL_NAME>
+<EmailAddress><![CDATA[rakheja@illinois.edu]]></EmailAddress>
+<NSF_ID>000694173</NSF_ID>
+<StartDate>02/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Champaign</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618207406</ZipCode>
+<StreetAddress><![CDATA[1901 South First Street Suite A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~299420</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span dir="ltr">The field of spintronics utilizes information stored in the mag</span><span dir="ltr">netization vector of magnetically ordered medium. Typically ef</span><span dir="ltr">fects, such as spin-transfer torque and spin-orbit torque in con</span><span dir="ltr">junction with a magnetic field, are used to switch the magnetic&nbsp;</span><span dir="ltr">state.</span><span dir="ltr"> </span><span dir="ltr">The non-volatility and scalability of spintronics devices&nbsp;</span><span dir="ltr">can allow us to implement information processing devices with&nbsp;</span><span dir="ltr">reduced resources (energy, area, time).</span><span dir="ltr"> </span><span dir="ltr">Spintronics devices can&nbsp;</span><span dir="ltr">complement the functionality of silicon CMOS circuits for beyond&nbsp;</span><span dir="ltr">von Neumann computing applications including probabilistic and&nbsp;</span><span dir="ltr">stochastic computing, bio-inspired computing, and Joule heating&nbsp;</span><span dir="ltr">free transfer of information.</span>This project focused on using both ferromagnetic and antiferromagnetic spintronic devices to implement new computational paradigms. Specifically, using spin torque oscillators, an echo state network (ESN) was designed and benchmarked for its prediction accuracy for time-series data, short-term memory capacity, and parity-check capacity. It was shown that spintronics-based ESNs outperform software-based approaches that utilize tan-hyperbolic activation functions. Moreover, antiferromagnetic devices based on magnetoelectric chromium oxide and Weyl semimetal, Mn3Sn, were also investigated for their use in non-volatile memory as well as high frequency signal generation applications. Spintronic concepts developed in this work provide an alternative path to reducing the energy efficiency of compute engines. The research also generated fundamental knowledge related to the functionality of antiferromagnets when subject to DC and pulsed spin torque as well as magnetoelectric pressures. The research involved over five students both at the undergraduate and graduate levels.&nbsp;The project provided training opportunities to students in cross-disciplinary fields of materials science, device physics, and circuit design and benchmarking.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/02/2023<br>      Modified by: Shaloo&nbsp;Rakheja</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The field of spintronics utilizes information stored in the magnetization vector of magnetically ordered medium. Typically effects, such as spin-transfer torque and spin-orbit torque in conjunction with a magnetic field, are used to switch the magnetic state. The non-volatility and scalability of spintronics devices can allow us to implement information processing devices with reduced resources (energy, area, time). Spintronics devices can complement the functionality of silicon CMOS circuits for beyond von Neumann computing applications including probabilistic and stochastic computing, bio-inspired computing, and Joule heating free transfer of information.This project focused on using both ferromagnetic and antiferromagnetic spintronic devices to implement new computational paradigms. Specifically, using spin torque oscillators, an echo state network (ESN) was designed and benchmarked for its prediction accuracy for time-series data, short-term memory capacity, and parity-check capacity. It was shown that spintronics-based ESNs outperform software-based approaches that utilize tan-hyperbolic activation functions. Moreover, antiferromagnetic devices based on magnetoelectric chromium oxide and Weyl semimetal, Mn3Sn, were also investigated for their use in non-volatile memory as well as high frequency signal generation applications. Spintronic concepts developed in this work provide an alternative path to reducing the energy efficiency of compute engines. The research also generated fundamental knowledge related to the functionality of antiferromagnets when subject to DC and pulsed spin torque as well as magnetoelectric pressures. The research involved over five students both at the undergraduate and graduate levels. The project provided training opportunities to students in cross-disciplinary fields of materials science, device physics, and circuit design and benchmarking.           Last Modified: 10/02/2023       Submitted by: Shaloo Rakheja]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

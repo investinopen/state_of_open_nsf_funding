@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: COVID-19 and Suspensions of Law]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>76797.00</AwardTotalIntnAmount>
+<AwardAmount>76797</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reginald Sheehan</SignBlockName>
+<PO_EMAI>rsheehan@nsf.gov</PO_EMAI>
+<PO_PHON>7032925389</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The global response to COVID-19 provides a rare opportunity to study suspensions of law in response to public emergencies across multiple societies over the same time period. The project will assess utility of law suspension as a way to limit the negative impact of a public emergency, specifically in reducing COVID-19 transmission. It will be one of the first to examine widespread law suspensions across countries where the suspensions are used to address the same public emergency (i.e., COVID-19). The project will identify whether legal suspensions matter to COVID-19 transmission, while identifying which laws, when suspended, have little impact. Factors that shape effective reduction of COVID-19 will be identified, as well as impacts on transmission when law suspensions cease. This project will provide critical guidance for decision makers who must balance public health against other considerations. Proper crisis response should advance health and welfare, promote scientific programs, and contribute to national security. &lt;br/&gt;&lt;br/&gt;The purpose of this project is to assess the utility of suspensions of law (derogation) for preventing or reducing COVID-19 transmission. The project will model and assess socio-legal responses to COVID-19—specifically, emergency measures that suspend laws. Three qualities of derogation will be assessed: what laws are suspended, the degree to which laws are suspended, and duration of derogation. Reinstatement of derogation will be assessed according to the same three qualities. This project will gather data, operationalize and calibrate the data, establish a dataset, conduct analyses, and disseminate results, the dataset, and GIS map. The data will be analyzed to compare whether combinations of conditions, such as moderate degrees of legal limitations combined with strong health infrastructures, reduce degrees of virus transmission and promote prevention. This project will examine whether derogation is applied to specific social groups and what features shape use of derogation. The project will identify tipping points when transmission increases or decreases and the combinations of derogation and socio-legal factors for which transmission increases or decreases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033786</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Gran</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian K Gran</PI_FULL_NAME>
+<EmailAddress><![CDATA[brian.gran@case.edu]]></EmailAddress>
+<NSF_ID>000289402</NSF_ID>
+<StartDate>06/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Case Western Reserve University</Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441061712</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress>10900 EUCLID AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJMKEF7EJW69</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CASE WESTERN RESERVE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName>Cleveland</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>441067124</ZipCode>
+<StreetAddress><![CDATA[Case Western Reserve University,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128Y</Code>
+<Text>Law &amp; Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~76797</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Award Title:&nbsp;</strong>RAPID: COVID-19 and Suspensions of Law</p> <p><strong>Federal Award ID:&nbsp;</strong>2033786</p> <p><strong>Project Outcomes Report</strong></p> <p>Brian Gran</p> <p><strong>Purpose of project</strong>: The purpose of this RAPID project was to model and understand socio-legal responses to the spread of COVID-19&mdash;in particular, emergency measures that derogate from states&rsquo; human rights commitments. Derogation is suspension of human rights during a public emergency. Human rights derogation usually occurs when a particular public emergency arises in one country. Consequently, scholars can rarely compare human rights derogation across countries and in response to similar public emergencies. When scholars have studied human rights derogation, they often employed a dichotomy: the government has or has not derogated human rights. Derogation of human rights in response to COVID-19 was unprecedented. This project approaches human rights derogation as a matter of degree. It is investigating whether combinations of conditions, such as moderate human rights derogation in combination with strong health infrastructures, reduced degrees of virus transmission and promote prevention.</p> <p>&nbsp;<strong>Project findings</strong>: Bearing in mind that this project&rsquo;s research is ongoing, preliminary results indicate impacts of human rights derogation, public health capacity, and political executive leadership of women influence numbers of COVID-19 deaths across societies. This project continues to investigate (1) isomorphism of human rights derogation, (2) particular combinations of derogated rights, and (3) social, economic, and political influences on national governments&rsquo; efforts to battle the covid epidemic.</p> <p><strong>Project outcomes</strong>:</p> <p><span style="text-decoration: underline;">Intellectual merit</span>: An innovation this study makes is to approach human rights derogation as a degree. This study employs fuzzy set Qualitative Comparative Analysis (fsQCA) to study the outcome of human rights derogation as a matter of degree. In addition, this project deploys different strengths of fsQCA, such as analysis of counterfactuals, across this study. One strength of fsQCA is its ability to study combinations of causal conditions. Another advantage of deploying fsQCA is its ability to study equifinality, that is, multiple paths to similar outcomes.</p> <p>&nbsp;<span style="text-decoration: underline;">Broader impacts</span>: This study is producing significant broader impacts. Human rights derogation has largely been overlooked when it comes to public debate. Derogation has received attention when it comes to particular instances, such as one government&rsquo;s suspension of human rights during a public emergency, or derogation of rights belonging to a minority group. These studies sometimes focused on particular rights. Some studies asked whether derogation was useful to countering the public emergency. This study has raised and continues to raise the profile of human rights derogation as a social phenomenon. Which countries use derogation? Is their use of derogation proportionate to the public emergency? Was derogation useful to battling the covid epidemic? Which rights were derogated, and to what degree? Does derogation work best in combination with other factors, such as strong public health infrastructures?</p> <p>Other key outcomes of this project have consisted of training, research, and dissemination. This project continues, including ongoing data analyses, presentations, and manuscript preparation. Among the most important achievements was a presentation to State Department officials. These officials requested this presentation after learning about the project.</p> <p>The primary opportunities for training and professional development the project provided are research training, presentations, class meetings, and publications. The principal investigator provided training to two research assistants, one doctoral student and one undergraduate student on data collection, cleaning, reliability, and validity. To the doctoral research assistant, the principal investigator provided training on coding and calibration, then undertaking data analyses using fsQCA and interpreting those fsQCA analyses. To the doctoral research assistant, the principal investigator provided training and professional development in presenting papers to academic conferences. The principal investigator is providing training and professional development in preparing those papers for submission to academic journals. The principal investigator presented various aspects of this project to different meetings of classes he has taught as well as colleagues have taught.</p> <p>The results have been disseminated to communities of interest through academic conferences, formal and informal meetings, department colloquia, and classes. Results of this project have been presented to meetings of the Law and Society Association and the American Sociological Association, as well as smaller academic conferences such as WIRE and Potsdam. This project&rsquo;s results have been presented to meetings at Case Western Reserve University and an international online meeting of scholars studying Covid. At Case Western Reserve University, he gave classes to courses of the Political Science and Sociology Departments.</p> <p><span style="text-decoration: underline;">Future research</span>: As noted, this project is ongoing. One objective this project is pursuing is using fsQCA to study how policies and practices established in one country shape policies and practices of another country when it comes to human rights derogation during the pandemic. This project is examining whether some rights were derogated more often than others and for longer times.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/07/2024<br> Modified by: Brian&nbsp;K&nbsp;Gran</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Award Title:RAPID: COVID-19 and Suspensions of Law   Federal Award ID:2033786   Project Outcomes Report   Brian Gran   Purpose of project: The purpose of this RAPID project was to model and understand socio-legal responses to the spread of COVID-19in particular, emergency measures that derogate from states human rights commitments. Derogation is suspension of human rights during a public emergency. Human rights derogation usually occurs when a particular public emergency arises in one country. Consequently, scholars can rarely compare human rights derogation across countries and in response to similar public emergencies. When scholars have studied human rights derogation, they often employed a dichotomy: the government has or has not derogated human rights. Derogation of human rights in response to COVID-19 was unprecedented. This project approaches human rights derogation as a matter of degree. It is investigating whether combinations of conditions, such as moderate human rights derogation in combination with strong health infrastructures, reduced degrees of virus transmission and promote prevention.   Project findings: Bearing in mind that this projects research is ongoing, preliminary results indicate impacts of human rights derogation, public health capacity, and political executive leadership of women influence numbers of COVID-19 deaths across societies. This project continues to investigate (1) isomorphism of human rights derogation, (2) particular combinations of derogated rights, and (3) social, economic, and political influences on national governments efforts to battle the covid epidemic.   Project outcomes:   Intellectual merit: An innovation this study makes is to approach human rights derogation as a degree. This study employs fuzzy set Qualitative Comparative Analysis (fsQCA) to study the outcome of human rights derogation as a matter of degree. In addition, this project deploys different strengths of fsQCA, such as analysis of counterfactuals, across this study. One strength of fsQCA is its ability to study combinations of causal conditions. Another advantage of deploying fsQCA is its ability to study equifinality, that is, multiple paths to similar outcomes.   Broader impacts: This study is producing significant broader impacts. Human rights derogation has largely been overlooked when it comes to public debate. Derogation has received attention when it comes to particular instances, such as one governments suspension of human rights during a public emergency, or derogation of rights belonging to a minority group. These studies sometimes focused on particular rights. Some studies asked whether derogation was useful to countering the public emergency. This study has raised and continues to raise the profile of human rights derogation as a social phenomenon. Which countries use derogation? Is their use of derogation proportionate to the public emergency? Was derogation useful to battling the covid epidemic? Which rights were derogated, and to what degree? Does derogation work best in combination with other factors, such as strong public health infrastructures?   Other key outcomes of this project have consisted of training, research, and dissemination. This project continues, including ongoing data analyses, presentations, and manuscript preparation. Among the most important achievements was a presentation to State Department officials. These officials requested this presentation after learning about the project.   The primary opportunities for training and professional development the project provided are research training, presentations, class meetings, and publications. The principal investigator provided training to two research assistants, one doctoral student and one undergraduate student on data collection, cleaning, reliability, and validity. To the doctoral research assistant, the principal investigator provided training on coding and calibration, then undertaking data analyses using fsQCA and interpreting those fsQCA analyses. To the doctoral research assistant, the principal investigator provided training and professional development in presenting papers to academic conferences. The principal investigator is providing training and professional development in preparing those papers for submission to academic journals. The principal investigator presented various aspects of this project to different meetings of classes he has taught as well as colleagues have taught.   The results have been disseminated to communities of interest through academic conferences, formal and informal meetings, department colloquia, and classes. Results of this project have been presented to meetings of the Law and Society Association and the American Sociological Association, as well as smaller academic conferences such as WIRE and Potsdam. This projects results have been presented to meetings at Case Western Reserve University and an international online meeting of scholars studying Covid. At Case Western Reserve University, he gave classes to courses of the Political Science and Sociology Departments.   Future research: As noted, this project is ongoing. One objective this project is pursuing is using fsQCA to study how policies and practices established in one country shape policies and practices of another country when it comes to human rights derogation during the pandemic. This project is examining whether some rights were derogated more often than others and for longer times.              Last Modified: 02/07/2024       Submitted by: BrianKGran]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

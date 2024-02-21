@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Valuation of Public Debt in the U.S. and Across Countries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>293000.00</AwardTotalIntnAmount>
+<AwardAmount>293000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;The common assumption in economics is that the debt issued by the government of a country like the United States is risk-free. This project builds on the notion that this assumption is unlikely to hold. The public debt is like an asset whose cash flows are the government’s future primary surpluses. Because surpluses are cyclical in the short run and track the country’s output in the long run, this cash flow is risky and should earn a risk premium. The proper discount rate must exceed the risk-free interest rate. This project develops a model for pricing government debt considering the risk in cash flows and assesses the implications of this for taxpayers and for bondholders. This research points to the important distinction that risk-free rate should not be compared to the GDP growth rate, but to the risk-adjusted growth rate. The project has potential deep and broad contributions to policies on government debt capacity and sustainability of fiscal policies.  &lt;br/&gt;&lt;br/&gt;In any equilibrium model with permanent shocks to output and reasonable asset pricing implications for the returns on stocks and bonds, the time series properties of the surplus that are consistent with the U.S. data result in government debt that is risky. Assumption of risk-free debt impose tight restrictions on the government’s surplus dynamics such that these restrictions are violated in the data. This project analyzes the underlying trade-off between the insurance provided to bondholders by keeping the debt risk-free and the insurance provided to taxpayers and transfer recipients. This insight gives rise to key questions that are explored in this project. First, the project looks at why the returns on the U.S. Treasury portfolio are so low if the surpluses are risky. Second, the research explores other developed countries in this regard to understand whether U.S. is different, and then considers the role of the demand for safe assets and the role of the U.S. as the world’s main supplier of safe assets within this context.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/03/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049260</AwardID>
+<Investigator>
+<FirstName>Hanno</FirstName>
+<LastName>Lustig</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hanno Lustig</PI_FULL_NAME>
+<EmailAddress><![CDATA[hlustig@stanford.edu]]></EmailAddress>
+<NSF_ID>000063713</NSF_ID>
+<StartDate>02/03/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stijn</FirstName>
+<LastName>Van Nieuwerburgh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stijn Van Nieuwerburgh</PI_FULL_NAME>
+<EmailAddress><![CDATA[svnieuwe@gsb.columbia.edu]]></EmailAddress>
+<NSF_ID>000063714</NSF_ID>
+<StartDate>02/03/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Bureau of Economic Research Inc</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385359</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress>1050 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GT28BRBA2Q49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL BUREAU OF ECONOMIC RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385398</ZipCode>
+<StreetAddress><![CDATA[1050 Massachusetts Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~293000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our research project begins from the simple observation that a government's ability to issue debt is limited by its ability to eventually repay that debt. That fiscal capacity depends on the primary surpluses the country runs now and in the future. There is a simple analogy to the stock market: the equity value of a company equals the expected present discounted value of its current and future dividends it pays out to its shareholders. Likewise, the value of government debt equals the&nbsp;expected present discounted value of its current and future surpluses.</p> <p>Our first paper "The U.S. Public Debt Valuation Puzzle,"writes down a realistic model for the primary surpluses, using historical data on tax revenues and government spending going back to 1946. It also writes down a realistic model for the discount rate used to compute the present value of those surpluses. We impose that the discount rate is consistent with the observed prices of government bonds of various maturitis as well as with the prices of U.S. stocks. The main finding of that paper is that the U.S. fiscal backing is surprisingly low: the present value of future surpluses is low because (1) the surpluses have been low over the past 75 years, and (2) the surpluses have been low in bad times. Investors who must absorb the additional debt in bad times require a risk premium to do so, just like they require a risk premium to hold stocks of firms that pay low dividends in bad times. The actual amount of debt the U.S. government is able to issue far exceeds our measure of fiscal backing. We call this large wedge, the difference between the market value of debt outstanding and the present value of surpluses, a puzzle. This puzzle remains even after the additional government revenue stream from convenience yields is considered.</p> <p>We go on to explore various potential resolutions to the puzzle, ranging from a bubble (violation of a transversality condition), to the possibility that bond investors are pricing in a large reduction in future government spending or a large increase in future tax rates, to missing government assets. While it is hard to rule out these alternative explanations decisively, we come down on mispricing as our favorite explanation.&nbsp;</p> <p>The paper "Fiscal Capacity: An Asset Pricing Perspective" provides a non-technical summary of our arguments. The paper "Measuring U.S. Fiscal Capacity using Discounted Cash Flow Analysis" applies these ideas using actual surplus forecasts from the Congressional Budget Office to quantify the fiscal capacity of the U.S. government as of now.</p> <p>In "Exorbitant Privilege Gained and Lost: Fiscal Implications" we expand our analysis to other countries and to longer historical time periods. Specifically, we study the fiscal backing in the U.K going back to 1789 and in the Dutch Republic in the 17th and 18th centuries.&nbsp;&nbsp;We find that just like the U.S. appears to have excess borrowing capacity (be able to issue more debt than its fiscal backing) after 1946, so does the U.K. prior to 1946. Prior to 1946, the U.S. did not borrow more than the present value of its future surpluses, nor did the U.K after 1946. Bond investors bestow excess fiscal capacity onto a global hegemon. That role passed form the U.K. to the U.S. sometime between the first and the second World War. Prior to the U.K. the Dutch Republic was the hegemon, with ample borrowing capacity.</p> <p>"Manufacturing Risk-free Government Debt" makes the point that, if policmakers insist on keeping government debt risk-free for bond investors (zero beta in the language of finance) then they must shift the risk onto taxpayers. The government cannot simultaneously insure taxpayers, by running large primary deficits in bad times, and insuring bondholders. If debt is risk-free, tax revenues must be risky, that is, they must increase in bad times.&nbsp;</p> <p>In "Bond Convenience Yields in the Eurozone Currency Union" we study the implications of the relationship between debt and the present value of surpluses in a currency union like the Eurozone. We observe that a currency union has one common shrt-term interest rate, which cannot adjust in response to country-speciic fiscal shocks. Rather either default risk or convenience yields must act as fiscal shock absorbers. We show empirically that convenience yields in the Eurozone indeed seem to adjust when the fiscal position of a member country changes.&nbsp;</p><br> <p>  Last Modified: 02/07/2024<br> Modified by: Stijn&nbsp;Van Nieuwerburgh</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our research project begins from the simple observation that a government's ability to issue debt is limited by its ability to eventually repay that debt. That fiscal capacity depends on the primary surpluses the country runs now and in the future. There is a simple analogy to the stock market: the equity value of a company equals the expected present discounted value of its current and future dividends it pays out to its shareholders. Likewise, the value of government debt equals theexpected present discounted value of its current and future surpluses.   Our first paper "The U.S. Public Debt Valuation Puzzle,"writes down a realistic model for the primary surpluses, using historical data on tax revenues and government spending going back to 1946. It also writes down a realistic model for the discount rate used to compute the present value of those surpluses. We impose that the discount rate is consistent with the observed prices of government bonds of various maturitis as well as with the prices of U.S. stocks. The main finding of that paper is that the U.S. fiscal backing is surprisingly low: the present value of future surpluses is low because (1) the surpluses have been low over the past 75 years, and (2) the surpluses have been low in bad times. Investors who must absorb the additional debt in bad times require a risk premium to do so, just like they require a risk premium to hold stocks of firms that pay low dividends in bad times. The actual amount of debt the U.S. government is able to issue far exceeds our measure of fiscal backing. We call this large wedge, the difference between the market value of debt outstanding and the present value of surpluses, a puzzle. This puzzle remains even after the additional government revenue stream from convenience yields is considered.   We go on to explore various potential resolutions to the puzzle, ranging from a bubble (violation of a transversality condition), to the possibility that bond investors are pricing in a large reduction in future government spending or a large increase in future tax rates, to missing government assets. While it is hard to rule out these alternative explanations decisively, we come down on mispricing as our favorite explanation.   The paper "Fiscal Capacity: An Asset Pricing Perspective" provides a non-technical summary of our arguments. The paper "Measuring U.S. Fiscal Capacity using Discounted Cash Flow Analysis" applies these ideas using actual surplus forecasts from the Congressional Budget Office to quantify the fiscal capacity of the U.S. government as of now.   In "Exorbitant Privilege Gained and Lost: Fiscal Implications" we expand our analysis to other countries and to longer historical time periods. Specifically, we study the fiscal backing in the U.K going back to 1789 and in the Dutch Republic in the 17th and 18th centuries.We find that just like the U.S. appears to have excess borrowing capacity (be able to issue more debt than its fiscal backing) after 1946, so does the U.K. prior to 1946. Prior to 1946, the U.S. did not borrow more than the present value of its future surpluses, nor did the U.K after 1946. Bond investors bestow excess fiscal capacity onto a global hegemon. That role passed form the U.K. to the U.S. sometime between the first and the second World War. Prior to the U.K. the Dutch Republic was the hegemon, with ample borrowing capacity.   "Manufacturing Risk-free Government Debt" makes the point that, if policmakers insist on keeping government debt risk-free for bond investors (zero beta in the language of finance) then they must shift the risk onto taxpayers. The government cannot simultaneously insure taxpayers, by running large primary deficits in bad times, and insuring bondholders. If debt is risk-free, tax revenues must be risky, that is, they must increase in bad times.   In "Bond Convenience Yields in the Eurozone Currency Union" we study the implications of the relationship between debt and the present value of surpluses in a currency union like the Eurozone. We observe that a currency union has one common shrt-term interest rate, which cannot adjust in response to country-speciic fiscal shocks. Rather either default risk or convenience yields must act as fiscal shock absorbers. We show empirically that convenience yields in the Eurozone indeed seem to adjust when the fiscal position of a member country changes.     Last Modified: 02/07/2024       Submitted by: StijnVan Nieuwerburgh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

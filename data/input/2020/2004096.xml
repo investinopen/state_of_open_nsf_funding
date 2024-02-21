@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: AF: Polynomial Time Approximation Schemes Subexponential in the Parameter]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>59763.00</AwardTotalIntnAmount>
+<AwardAmount>59763</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Algorithms are important to our everyday life as they have greatly improved the efficiency of task performance in various areas. People are enjoying the benefits brought by algorithms used in their smartphones, laptops and household robots without even realizing it. Various products that are claimed to be clever and better serve people's needs owe their smartness to the smart algorithms implemented in them. Therefore, the improvement on algorithms for fundamental problems will have a significant impact to people's life as well as the whole society. This project aims at further improving the algorithms for various fundamental problems including scheduling, resource allocation and routing problems. It is interesting and meanwhile surprising that the algorithms for many such problems, which seem to admit the best possible running time, can be further improved. The project will also make significant contributions to education via new teaching materials for graduate and undergraduate students with diverse backgrounds. Research assistants will participate in all areas of this project.&lt;br/&gt; &lt;br/&gt;Fine-grained complexity is a research field that aims to provide a refined classification in complexity theory with a focus on a quantitative study of the exact time required to solve problems. Most researches in this area are concerned with exact algorithms. This project aims at extending the research of fine-grained complexity in the direction of approximation algorithms. In particular, we propose a quantitive study on the dependency of the parameter that measures the accuracy in approximation schemes, with a particular focus on the subexponential dependency of this parameter. The project seeks to challenge several classical problems in scheduling, resource allocation and routing which admit approximation schemes that seem to have a best running time and remain untouched for decades. It will break the barrier of convention by establishing approximation schemes that run in time that is subexponential in the accuracy parameter. It will explore such a subexponential phenomenon in approximation schemes and compare it with the subexponential phenomenon in the field of parameterized complexity, which has been widely observed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/26/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004096</AwardID>
+<Investigator>
+<FirstName>Lin</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lin Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[lin.chen@ttu.edu]]></EmailAddress>
+<NSF_ID>000754597</NSF_ID>
+<StartDate>11/26/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>2500 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>Lubbock</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>794091035</ZipCode>
+<StreetAddress><![CDATA[349 Administration Bldg]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~59762</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project focuses on fine-grained exact and approximation algorithms for several fundamental problems in theoretical computer science, including scheduling, resource allocation and routing problems. These classical problems have received extensive studies in literature.&nbsp; For some of them, the best known algorithm was developed decades ago without knowing whether it is the best possible or not; for some of them,&nbsp; more efficient algorithms have been designed in the past years and it is thus important to explore the possibility of further improvement. The goal of the project is to systematically study the exact and approximation algorithms for these problems.&nbsp;</p> <p><br />The major outcome of this project includes the followings:&nbsp;</p> <p>(i). For the first time, the PI discovers the subexponential phenomenon in polynomial time approximation schemes (PTASs). Algorithms with a running time subexponential in parameters have been studied extensively in fixed parameter tractable (FPT) algorithms, but approximation algorithms with a running time subexponential in the precision parameter, epsilon, has never been observed prior to this project outcome. The PI established the first subexponential PTAS for a load balancing problem, and showed that the algorithm is the best possible modulo standard complexity assumptions.&nbsp;<br /><br />(ii). For the first time, the PI establishes a polynomial time approximation scheme (PTAS) for the bilevel knapsack problem, which is a fundamental Sigma_2^p-hard problem. While it is known that for an optimization problem, being at a higher level in the polynomial hierarchy does not necessarily rule out the existence of a PTAS, however, such a PTAS was not known prior to the PI work. This is so far the only known PTAS for Sigma_2^p-hard bilevel optimization problems.&nbsp;</p> <p><br />(iii). The PI has made important progress in the foundational theory of integer programming. It is a classic result in integer programming that if we compare the infinity norm of its circuit and graver basis elements, then they differ by a factor at most n where n is the number of variables in the integer program. It is not clear whether this inequality is tight. In particular, when n approaches infinity and the infinity norm of the circuit remains constant, is it possible for the infinity norm of the graver basis elements grow to infinity? The PI showed that it is indeed possible. In particular, the inequality between the infinity norm of circuit and graver basis elements is tight up to a constant. Based on this structural result, the PI is able to establish the first FPT algorithm for combinatorial 4-block n-fold integer programming.</p> <p>&nbsp;</p> <p>(iv). The PI has&nbsp;made significant progress in the pseudopolynomial time algorithm and fully polynomial time approximation scheme (FPTAS) for the classical knapsack problem. These improvements are built upon extending important results in additive combinatorics. The FPTAS that runs in quadratic time is the best possible modulo standard complexity assumptions.</p> <p><br />(v). The PI gives several significant improvement in the algorithms for other combinatorial optimization problems, including: fixed parameter tractable approximation algorithms for computational social choice problems, stochastic scheduling problems, online throughput maximization, etc.&nbsp;&nbsp;</p> <p><br />The project has supported two research assistants with diverse backgrounds. The project has also supported the PI to develop a new course, advanced algorithms, in Texas Tech University. This course has introduced quite a few undergraduate and graduate students into the field of theoretical computer science.&nbsp;</p><br> <p>  Last Modified: 11/06/2023<br> Modified by: Lin&nbsp;Chen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project focuses on fine-grained exact and approximation algorithms for several fundamental problems in theoretical computer science, including scheduling, resource allocation and routing problems. These classical problems have received extensive studies in literature. For some of them, the best known algorithm was developed decades ago without knowing whether it is the best possible or not; for some of them, more efficient algorithms have been designed in the past years and it is thus important to explore the possibility of further improvement. The goal of the project is to systematically study the exact and approximation algorithms for these problems.    The major outcome of this project includes the followings:   (i). For the first time, the PI discovers the subexponential phenomenon in polynomial time approximation schemes (PTASs). Algorithms with a running time subexponential in parameters have been studied extensively in fixed parameter tractable (FPT) algorithms, but approximation algorithms with a running time subexponential in the precision parameter, epsilon, has never been observed prior to this project outcome. The PI established the first subexponential PTAS for a load balancing problem, and showed that the algorithm is the best possible modulo standard complexity assumptions.  (ii). For the first time, the PI establishes a polynomial time approximation scheme (PTAS) for the bilevel knapsack problem, which is a fundamental Sigma_2^p-hard problem. While it is known that for an optimization problem, being at a higher level in the polynomial hierarchy does not necessarily rule out the existence of a PTAS, however, such a PTAS was not known prior to the PI work. This is so far the only known PTAS for Sigma_2^p-hard bilevel optimization problems.    (iii). The PI has made important progress in the foundational theory of integer programming. It is a classic result in integer programming that if we compare the infinity norm of its circuit and graver basis elements, then they differ by a factor at most n where n is the number of variables in the integer program. It is not clear whether this inequality is tight. In particular, when n approaches infinity and the infinity norm of the circuit remains constant, is it possible for the infinity norm of the graver basis elements grow to infinity? The PI showed that it is indeed possible. In particular, the inequality between the infinity norm of circuit and graver basis elements is tight up to a constant. Based on this structural result, the PI is able to establish the first FPT algorithm for combinatorial 4-block n-fold integer programming.      (iv). The PI hasmade significant progress in the pseudopolynomial time algorithm and fully polynomial time approximation scheme (FPTAS) for the classical knapsack problem. These improvements are built upon extending important results in additive combinatorics. The FPTAS that runs in quadratic time is the best possible modulo standard complexity assumptions.    (v). The PI gives several significant improvement in the algorithms for other combinatorial optimization problems, including: fixed parameter tractable approximation algorithms for computational social choice problems, stochastic scheduling problems, online throughput maximization, etc.    The project has supported two research assistants with diverse backgrounds. The project has also supported the PI to develop a new course, advanced algorithms, in Texas Tech University. This course has introduced quite a few undergraduate and graduate students into the field of theoretical computer science.     Last Modified: 11/06/2023       Submitted by: LinChen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

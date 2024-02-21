@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Twistronic and spatial modulation of spin orbit coupling for spintronic and topological devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mun Chan</SignBlockName>
+<PO_EMAI>mchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nontechnical description&lt;br/&gt;In addition to charge, electrons also possess an intrinsic spin that produces a magnetic moment like a tiny bar magnet. Spintronics, i.e. manipulation and control of electron spin for technological applications, has led to technological breakthroughs such as the magnetic memory that is widely used in hard drives today. Achieving yet greater ability to harness spin-related phenomena in the nanoscale promises the development of novel devices for data storage and information processing. This research project aims at manipulating spin via controlling so-called spin-orbit coupling (SOC) of charges, which couples the spatial motion of the electron to its spin. This is achieved by taking advantage of atomically thin two-dimensional materials that are stacked together, so as to create heterostructure materials with regions of different SOC strengths. For example, while graphene has very low SOC, when stacked onto transition metal dichalcogenide (TMD) materials its SOC becomes significant. The research team creates devices with tunable spatial distribution, magnitude and direction of SOC, and realizes topological superconductivity that could potentially form a basis for quantum information processing. This research is integrated with a comprehensive course of education and training of undergraduate and graduate students for the next generation of the quantum workforce.&lt;br/&gt;&lt;br/&gt;Technical description&lt;br/&gt;While SOC enables new ways to control spin in nanostructures and produce new topological electronic ground states, it can also reduce spin lifetimes. As two-dimensional materials allow tunable SOC, they provide a promising platform to harness SOC for spin manipulation while enabling long spin lifetime. This research project builds on the team’s prior works and expertise in fabricating high mobility graphene/TMD heterostructures and aims to develop new classes of spintronic and topological devices based on twistronic and spatial engineering of SOC. Goals include (1). Using graphene/TMD interlayer twist angle and Fermi level tuning to control the magnitude and type of SOC (Rashba vs. Ising); (2). Spatial SOC manipulation to achieve spin-valley valves and generation of pure spin currents; and (3). realizing topological superconductivity by coupling graphene/TMD heterostructures to superconductors, which is tunable in situ for example by varying the Fermi energy in graphene and engineerable by varying the twist angle. Successful research project implementation will lead to the manipulation of spins without magnetic materials or magnetic fields and a major step towards developing building blocks for fault-tolerant quantum computation. In addition to training graduate students, the research team members will continue their established efforts at mentoring undergraduate and high school students in addition to recruiting and mentoring underrepresented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004801</AwardID>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Bockrath</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marc W Bockrath</PI_FULL_NAME>
+<EmailAddress><![CDATA[bockrath.31@osu.edu]]></EmailAddress>
+<NSF_ID>000326879</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chun Ning</FirstName>
+<LastName>Lau</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chun Ning Lau</PI_FULL_NAME>
+<EmailAddress><![CDATA[lau.232@osu.edu]]></EmailAddress>
+<NSF_ID>000061292</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~180000</FUND_OBLG>
+<FUND_OBLG>2021~150000</FUND_OBLG>
+<FUND_OBLG>2022~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="western">Intellectual Merit: In addition to their electric charge, electrons have an intrinsic spin. Controlling spin in nanostructures is important for developing new devices that operate based on electronic spin. This is the basis for the field of study known as spintronics. In our work, we focused on several experiments aimed at gaining fundamental knowledge of how spin can be controlled and manipulated in two-dimensional (2D) materials, which can be thinned down to the atomic scale into sheets that can act as transistors, as well as thin films of magnetic materials. We studied materials where electronic spin is impacted by two basic phenomena, spin-orbit coupling (SOC), in which the direction of motion and spin of the electrons are coupled, and magnetism.</p> <p class="western">In the first experiment, the material tungsten selenide was used to induce <span style="color: #000000;"><span><span lang="en-US">SOC</span></span></span> in graphene, a single atomic sheet of graphite, by placing it in contact with it by layer stacking. The advantage of graphene is that the electrons are highly mobile in the material, while they are much less mobile in tungsten selenide. The hybrid tungsten selenide/graphene stack device enables spin-orbit coupling to be present in a device with very high charge mobility. We were able to measure the resulting <span style="color: #000000;"><span><span lang="en-US">SOC</span></span></span> induced in graphene accurately using transport measurements in a magnetic field.</p> <p class="western">We also used <span style="color: #000000;"><span><span lang="en-US">SOC</span></span></span> in a 2D material called tungsten telluride to control the anisotropy of magnetism (in other words, where certain physical directions within the crystal are preferred over other ones for the magnetization direction) in a thin film of yttrium iron garnet (YIG), a magnetic material. Anisotropy is important because it can be used to control the direction of the electrons&rsquo; spin axis, which determines the magnetization direction. We found that the presence of the tungsten telluride layer enhanced the anisotropy of the YIG film. This may lead to potentially greater control over spin directions in future devices.</p> <p class="western">Finally, magnetic 2D materials have emerged as an important new direction for developing spintronic devices. However, many of the materials react with oxygen and are not air-stable. We developed a new 2D magnetic material, chromium platinum telluride, that is air stable and can be exfoliated into thin sheets. The magnetoresistance of the material is appreciable below its magnetic transition temperature of 220 K. This material<span> shows great potential as building block for future 2D magnetic devices.</span></p> <p class="western">&nbsp;</p> <p class="western"><span>Broader Impacts: </span><span>T</span><span>his research program lead to fundamental advances in </span><span>the knowledge of spin-orbit coupling and magnetism</span><span> in </span><span>2D materials and</span><span> heterostructures, which can be potentially utilized towards novel spintronic devices.</span></p> <p><span><span><span>The grant supported the mentoring of undergraduate and graduate students, including women. Integrating research with training of graduate students was a core outcome of our project, </span></span><span><span>and</span></span><span><span> graduate and undergraduate students carried out crucial elements of the proposed research. Students were prepared in various aspects including for example experimental techniques, formulating questions, troubleshooting, and problem-solving skills, written and oral communication skills, and team work and collaboration. Th</span></span><span style="color: #000000;"><span><span><span lang="en-US">ese</span></span></span></span><span><span> skills have enabled students be prepared for jobs in academia, industry, and government.</span></span></span></p> <p>&nbsp;</p><br> <p>            Last Modified: 10/13/2023<br>      Modified by: Marc&nbsp;W&nbsp;Bockrath</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Intellectual Merit: In addition to their electric charge, electrons have an intrinsic spin. Controlling spin in nanostructures is important for developing new devices that operate based on electronic spin. This is the basis for the field of study known as spintronics. In our work, we focused on several experiments aimed at gaining fundamental knowledge of how spin can be controlled and manipulated in two-dimensional (2D) materials, which can be thinned down to the atomic scale into sheets that can act as transistors, as well as thin films of magnetic materials. We studied materials where electronic spin is impacted by two basic phenomena, spin-orbit coupling (SOC), in which the direction of motion and spin of the electrons are coupled, and magnetism. In the first experiment, the material tungsten selenide was used to induce SOC in graphene, a single atomic sheet of graphite, by placing it in contact with it by layer stacking. The advantage of graphene is that the electrons are highly mobile in the material, while they are much less mobile in tungsten selenide. The hybrid tungsten selenide/graphene stack device enables spin-orbit coupling to be present in a device with very high charge mobility. We were able to measure the resulting SOC induced in graphene accurately using transport measurements in a magnetic field. We also used SOC in a 2D material called tungsten telluride to control the anisotropy of magnetism (in other words, where certain physical directions within the crystal are preferred over other ones for the magnetization direction) in a thin film of yttrium iron garnet (YIG), a magnetic material. Anisotropy is important because it can be used to control the direction of the electrons’ spin axis, which determines the magnetization direction. We found that the presence of the tungsten telluride layer enhanced the anisotropy of the YIG film. This may lead to potentially greater control over spin directions in future devices. Finally, magnetic 2D materials have emerged as an important new direction for developing spintronic devices. However, many of the materials react with oxygen and are not air-stable. We developed a new 2D magnetic material, chromium platinum telluride, that is air stable and can be exfoliated into thin sheets. The magnetoresistance of the material is appreciable below its magnetic transition temperature of 220 K. This material shows great potential as building block for future 2D magnetic devices.   Broader Impacts: This research program lead to fundamental advances in the knowledge of spin-orbit coupling and magnetism in 2D materials and heterostructures, which can be potentially utilized towards novel spintronic devices.  The grant supported the mentoring of undergraduate and graduate students, including women. Integrating research with training of graduate students was a core outcome of our project, and graduate and undergraduate students carried out crucial elements of the proposed research. Students were prepared in various aspects including for example experimental techniques, formulating questions, troubleshooting, and problem-solving skills, written and oral communication skills, and team work and collaboration. These skills have enabled students be prepared for jobs in academia, industry, and government.          Last Modified: 10/13/2023       Submitted by: Marc W Bockrath]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

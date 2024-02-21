@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Monitoring hydrochemical effects of the 6.5 Monte Cristo Range Earthquake on groundwater systems in the Columbus Salt Marsh (central NV) and vicinity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>37482.00</AwardTotalIntnAmount>
+<AwardAmount>37482</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alberto Perez-Huerta</SignBlockName>
+<PO_EMAI>aperezhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Earthquakes can have both immediate and long-term effects on wells and springs fed by groundwater, including changes to water quality and flow rate. Chemical properties, measured as water quality parameters, are influenced by where the waters originate, and by how it interacts with rocks and minerals in the aquifer.  In the arid west, many rural communities depend on groundwater exclusively, and it is important to understand potential threats to groundwater quality and spring flow that earthquakes may pose. In Nevada, a 6.5 magnitude earthquake occurred on May 15th, 2020 near Tonopah, a rural part of state known to have active faults with recurrent earthquakes. This event is the largest to have occurred in Nevada in over 60 years and was felt across more than 120,000 square miles with roughly 7000 aftershocks. The research team will continue a preliminary sampling campaign to determine water quality and water flow rate from wells and springs close to the epicenter. The team will continue to monitor and sample these sites over the next year to look for any temporary or more lasting earthquake-related effects to flow and water quality. This study will provide valuable information to understand how earthquakes affects groundwater in desert regions, especially when reconnecting water supplies, and understanding what the health risks may be of using undamaged wells after major earthquakes.  This project will also train one student in field sampling and laboratory chemical analysis.  &lt;br/&gt;&lt;br/&gt;This project seeks to determine the hydrochemical effects of the May 15, 2020 Mw 6.5 Monte Cristo Earthquake (NV) on groundwater resources within a 30km of the epicenter. A year-long monitoring program will be used to assess the seismic response and decay of that signal over time, focusing on changes in elemental and stable isotope chemistry, and flow rate of artesian wells. This earthquake provides a great opportunity to investigate the linkages between crustal processes and groundwater systems across distinct hydrographic basins in an active seismic zone, the Walker Lane, along the eastern side of the Sierra Nevada mountains. This study is important for community water supplies after earthquakes and has not been done in Nevada before. Much of rural Nevada relies on groundwater, including residential private wells and municipal wells.  The monitoring program has engaged community members and increased local awareness of seismic hazards affecting well water and will continue to involve community members and train university students in the sampling effort.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038474</AwardID>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Poulson</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon R Poulson</PI_FULL_NAME>
+<EmailAddress><![CDATA[poulson@mines.unr.edu]]></EmailAddress>
+<NSF_ID>000205142</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paula</FirstName>
+<LastName>Noble</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paula J Noble</PI_FULL_NAME>
+<EmailAddress><![CDATA[noblepj@unr.edu]]></EmailAddress>
+<NSF_ID>000090066</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Stillings</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa L Stillings</PI_FULL_NAME>
+<EmailAddress><![CDATA[stilling@usgs.gov]]></EmailAddress>
+<NSF_ID>000224152</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Rosen</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael R Rosen</PI_FULL_NAME>
+<EmailAddress><![CDATA[mrosen@usgs.gov]]></EmailAddress>
+<NSF_ID>000206337</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>RENO</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 N VIRGINIA ST # 285</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NV02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WLDGTNCFFJZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER ED</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WLDGTNCFFJZ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Regents, NSHE, obo University of Nevada, Reno]]></Name>
+<CityName/>
+<StateCode>NV</StateCode>
+<ZipCode>895570001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NV02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1579</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7295</Code>
+<Text>Geobiology &amp; Low-Temp Geochem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~37482</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="white-space: pre;"> </span>Earthquakes can affect a variety of aquifer properties, including groundwater levels, flow, and chemistry, yet the mechanisms causing these changes yet are still poorly understood. The limited information derived from short time series, confounding environmental factors, and hydrogeological features specific to the aquifer may hamper the comprehension of the mechanisms involved, and thus interdisciplinary approaches coupling field data and modelling may provide insights. In this study, seismic intensity and tectonic strain were analyzed in conjunction with physio-chemical changes in groundwater at localities in close proximity (~40km radius) to the Monte Cristo seismic sequence, which began on 5/15/2020 with a M 6.5 earthquake in the eastern Basin and Range province of Nevada. The initial shock was the largest one to occur in Nevada since 1954, resulting in left-lateral slip along the Candelaria fault. We combine 18-months of field monitoring of 4 sites proximal to the seismic activity for physio-chemical data, with strain modelling of the 4 strongest shocks.</p> <p><span style="white-space: pre;"> </span>Physio-chemical monitoring began on 5/16/2020 and included measurements of temperature, pH, specific conductance, flow rate, alkalinity and collection of samples for isotopic and elemental analysis. Since sites had not been monitored prior to the initial shock, measurements were evaluated against a year of post-event data to gauge response to seismicity, and flow rate against modeled climate data for seasonal variability. The sites monitored were: a well from Columbus Marsh (CM) located 5 km from the epicenter; an artesian thermal well from Fish Lake Valley (FLV); a well at Willow Ranch (WR) tapping cool water above the FLV waters; and a spring along Mina Dump Road (MD) located 15 km north of the Candelaria fault on the Benton Springs Fault.&nbsp; GPS and InSAR measurements were used to create a model of the slip of the M 6.5 event, from which coseismic static strain was calculated at each sampling location. All but one sample site, MD, experienced positive dilatation and CM experienced the greatest amount of static strain (1.2E6 nanostrains). Hydrologic and chemical changes were observed following the initial shock and aftershocks &gt;M 4, varying between sites and event. CM had significantly lower specific conductance values in the week following the May 15<sup>th</sup> event. During the early part of the seismic series, a period of high frequency and intensity aftershocks, MD showed a suppressed flow rate. Several aftershock sequences that were host to &gt;M 4 events were also modeled in an elastic half space to estimate coseismic static strain as a result of less intense earthquakes. Clear physio-chemical responses were observed throughout three aftershock sequences and show a high correlation to the sign and magnitude of strain each site experienced. The clearest of these responses was recorded as a result of two closely-spaced aftershock sequences on 11/13/2020 and 12/2/2020 as such: 1. An increase in the temperature of CM and WR correlated with an increase in stress at these sites leading up to 11/13/2020 as a precursor. 2. A drop in specific conductance and pH occurred where dilatational strain was modeled for the 11/13/2020 event, and then the trend reversed following the 12/2/202 event, where contractional strain was modelled.&nbsp; This study was successful in showing linkages between sign and magnitude of strain and physio-chemical response to groundwater, despite the high degree of localized response related to site hydrogeology. The Monte Cristo data provides insights for future study designs in earthquake hydrology, coupling strain analysis with monitoring to better understand and predict the varied effects of earthquakes on groundwater.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/29/2023<br> Modified by: Paula&nbsp;J&nbsp;Noble</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2038474/2038474_10706376_1703873673103_Figure_1_NSF_outcomes--rgov-214x142.png" original="/por/images/Reports/POR/2023/2038474/2038474_10706376_1703873673103_Figure_1_NSF_outcomes--rgov-800width.png" title="Figure 1"><img src="/por/images/Reports/POR/2023/2038474/2038474_10706376_1703873673103_Figure_1_NSF_outcomes--rgov-66x44.png" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Regional Map of major faults surrounding the location of the Monte Cristo Seismic Sequence. The locations of sample sites and other points of interest are also provided. (A) Regional Map with hydrographic basins delineated and labeled accordingly. (B) The largest aftershocks of each sequence are pro</div> <div class="imageCredit">Morlang and Noble</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Paula&nbsp;J&nbsp;Noble <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2038474/2038474_10706376_1703873814725_Figure_2_NSF_outcomes--rgov-214x142.png" original="/por/images/Reports/POR/2023/2038474/2038474_10706376_1703873814725_Figure_2_NSF_outcomes--rgov-800width.png" title="Figure 2"><img src="/por/images/Reports/POR/2023/2038474/2038474_10706376_1703873814725_Figure_2_NSF_outcomes--rgov-66x44.png" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Graph representing the total cumulative magnitude of the Monte Cristo Seismic Sequence following the main M 6.5 shock. Red lines represent the mainshock sequence, starting on 5/15/20, and and 3 aftershock sequences analyzed; 6/30/20, 11/13/20, and 12/2/20.</div> <div class="imageCredit">Morlang and Noible</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Paula&nbsp;J&nbsp;Noble <div class="imageTitle">Figure 2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Earthquakes can affect a variety of aquifer properties, including groundwater levels, flow, and chemistry, yet the mechanisms causing these changes yet are still poorly understood. The limited information derived from short time series, confounding environmental factors, and hydrogeological features specific to the aquifer may hamper the comprehension of the mechanisms involved, and thus interdisciplinary approaches coupling field data and modelling may provide insights. In this study, seismic intensity and tectonic strain were analyzed in conjunction with physio-chemical changes in groundwater at localities in close proximity (~40km radius) to the Monte Cristo seismic sequence, which began on 5/15/2020 with a M 6.5 earthquake in the eastern Basin and Range province of Nevada. The initial shock was the largest one to occur in Nevada since 1954, resulting in left-lateral slip along the Candelaria fault. We combine 18-months of field monitoring of 4 sites proximal to the seismic activity for physio-chemical data, with strain modelling of the 4 strongest shocks.    Physio-chemical monitoring began on 5/16/2020 and included measurements of temperature, pH, specific conductance, flow rate, alkalinity and collection of samples for isotopic and elemental analysis. Since sites had not been monitored prior to the initial shock, measurements were evaluated against a year of post-event data to gauge response to seismicity, and flow rate against modeled climate data for seasonal variability. The sites monitored were: a well from Columbus Marsh (CM) located 5 km from the epicenter; an artesian thermal well from Fish Lake Valley (FLV); a well at Willow Ranch (WR) tapping cool water above the FLV waters; and a spring along Mina Dump Road (MD) located 15 km north of the Candelaria fault on the Benton Springs Fault. GPS and InSAR measurements were used to create a model of the slip of the M 6.5 event, from which coseismic static strain was calculated at each sampling location. All but one sample site, MD, experienced positive dilatation and CM experienced the greatest amount of static strain (1.2E6 nanostrains). Hydrologic and chemical changes were observed following the initial shock and aftershocks M 4, varying between sites and event. CM had significantly lower specific conductance values in the week following the May 15th event. During the early part of the seismic series, a period of high frequency and intensity aftershocks, MD showed a suppressed flow rate. Several aftershock sequences that were host to M 4 events were also modeled in an elastic half space to estimate coseismic static strain as a result of less intense earthquakes. Clear physio-chemical responses were observed throughout three aftershock sequences and show a high correlation to the sign and magnitude of strain each site experienced. The clearest of these responses was recorded as a result of two closely-spaced aftershock sequences on 11/13/2020 and 12/2/2020 as such: 1. An increase in the temperature of CM and WR correlated with an increase in stress at these sites leading up to 11/13/2020 as a precursor. 2. A drop in specific conductance and pH occurred where dilatational strain was modeled for the 11/13/2020 event, and then the trend reversed following the 12/2/202 event, where contractional strain was modelled. This study was successful in showing linkages between sign and magnitude of strain and physio-chemical response to groundwater, despite the high degree of localized response related to site hydrogeology. The Monte Cristo data provides insights for future study designs in earthquake hydrology, coupling strain analysis with monitoring to better understand and predict the varied effects of earthquakes on groundwater.        Last Modified: 12/29/2023       Submitted by: PaulaJNoble]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

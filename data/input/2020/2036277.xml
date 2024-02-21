@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Improvement Award:  Emergence of Settlement Patterns]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>14491.00</AwardTotalIntnAmount>
+<AwardAmount>14491</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Yellen</SignBlockName>
+<PO_EMAI>jyellen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[La Playa is an important archaeological site where archaeologists have found hundreds of artifacts and features from over millenia of human occupation. It features an extensive canal system, hundreds of burials, agricultural fields, subterranean ovens called hornos, production areas for shell jewelry, and many other archaeological components. During occupation people became more sedentary as they developed agriculture and canal systems. In a following period, pottery appeared, and the importance of agriculture increased. Archaeologists do not fully understand the cause and nature of this transition, which will be researched by this project. This transnational research will build on international cooperation between archaeologists. &lt;br/&gt;&lt;br/&gt;Investigators will address two research questions, one about site formation processes and another about how settlement patterns changed. How has erosion impacted the site? How did domestic settlement patterns, environmental modifications, and other uses of space change? These questions are answerable through Geographic Information Systems (GIS) analysis of features and artifacts, modelling erosion processes, and the remote sensing of large-scale agricultural features. Archaeologists have conducted research at the site for over 20 years. These investigations have produced a large sample of data, which has not yet been analyzed in GIS. This research will examine changes in the cultural landscape through a comprehensive spatial analysis of the features and artifacts recorded and analyzed to date in addition to using an Unmanned Aerial Vehicle to map the site topography and a magnetometer to search for additional buried pithouses, canals, and other features.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036277</AwardID>
+<Investigator>
+<FirstName>Paula</FirstName>
+<LastName>Hertfelder</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paula Hertfelder</PI_FULL_NAME>
+<EmailAddress><![CDATA[phertfe1@binghamton.edu]]></EmailAddress>
+<NSF_ID>000719233</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Randall</FirstName>
+<LastName>McGuire</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Randall H McGuire</PI_FULL_NAME>
+<EmailAddress><![CDATA[rmcguire@binghamton.edu]]></EmailAddress>
+<NSF_ID>000372096</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Binghamton]]></Name>
+<CityName>BINGHAMTON</CityName>
+<ZipCode>139024400</ZipCode>
+<PhoneNumber>6077776136</PhoneNumber>
+<StreetAddress><![CDATA[4400 VESTAL PKWY E]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NQMVAAQUFU53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Binghamton University]]></Name>
+<CityName>Binghamton</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>139026000</ZipCode>
+<StreetAddress><![CDATA[Anthropology - SUNY, 4400 Vestal]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7606</Code>
+<Text>Archaeology DDRI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~14491</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>La Playa is one of the most important archaeological sites in Northwest Mexico; here, archaeologists find hundreds of artifacts and features from over 10,000 years of human occupation. The site is located on a floodplain of the R&iacute;o Boquillas near the town of Trincheras, Sonora, Mexico. It features an extensive canal system, hundreds of burials, agricultural fields, subterranean ovens called hornos, production areas for shell jewelry, and many other archaeological components. Significantly, La Playa is also the largest Early Agricultural Period (EAP) site in the U.S. Southwest and Northwest Mexico. The EAP begins with the arrival of maize around 2100 BCE and is located throughout the Sonoran Desert of southern Arizona and northern Sonora, Mexico. During the EAP people became more sedentary as they developed agriculture and canal systems. In Northwest Mexico, the EAP transitions into what is called the Formative or Early Ceramic Period after about 50 CE. At this time, pottery increases in use, people rely more on agriculture, and burial practices change. Decorated pottery, including a distinctive purple-on-red pottery type, appears with the start of the Trincheras Tradition in 400 CE. Interestingly, in southern Arizona, the EAP transitions to the Hohokam cultural tradition. Archaeologists do not fully understand the cause and nature of the transition from the EAP to the Trincheras Tradition, or why despite a very similar Early Agricultural Period, very different cultural traditions developed afterwards.</p> <p>&nbsp;</p> <p>Supervised by Dr. Randall McGuire, Paula Hertfelder, doctoral candidate at Binghamton University, researched the transition from the EAP to the Trincheras Tradition at La Playa in collaboration with the Instituto Nacional de Antropolg&iacute;a e Histor&iacute;a and the Proyecto La Playa. Understanding the EAP-Trincheras transition at La Playa is made more difficult due to the large-scale erosion impacting the site. &nbsp;These site formation processes needed to be better understood before examining how settlement patterns changed over time between cultural transitions. The researchers asked two questions, one about site formation processes and another about how settlement patterns change to explore the EAP to Trincheras transition and whether there is continuity between these populations: How has erosion impacted La Playa? How do settlement patterns and other spatial patterns change from the EAP, Early Ceramic/Formative Period, and the Trincheras Tradition at La Playa? These questions were answerable through Geographic Information Systems (GIS) analysis of archaeological features, modelling and measuring erosion, and different remote sensing methods. GIS programs offer powerful tools for visualizing maps, running statistical analyses on the location and orientation of features, and for measuring volumes and areas.</p> <p>&nbsp;</p> <p>The investigators examined changes in the cultural landscape through a comprehensive GIS spatial analysis of the features and artifacts recorded and analyzed to date by the Proyecto La Playa, in addition to using an Unmanned Aerial Vehicle (UAV) to map the site topography and a magnetometer to search for additional buried pithouses, canals, and other features. The photographs taken with the UAV resulted in a very high-resolution image and a Digital Terrain Model (DTM) of the entire landscape. This formed the base map for the next phase of the project &ndash; digitizing the feature sketch maps drawn by archaeologists during the previous site excavations. Close to 500 feature maps were digitized, which included burials, cremations, pithouses, storage pits, dog burials, and others. Then, the researchers assigned cultural periods to each feature based on radiocarbon dates or the presence of ceramics unique to one of the periods and ran several types of analysis tools with ArcGIS software.</p> <p>&nbsp;</p> <p>To answer the first question, the research found that there is evidence to suggest that there are statistically significant spatial patterns in the feature locations, and that these patterns cannot be fully explained by erosion. In terms of the feature spatial patterns, the data indicates that there is some cultural continuity between the time periods, but that there were also major shifts in material culture. Some similarities between distributions among the EAP and Trincheras periods included a SW-NE trend in features, similar areas for cremated human remains, and the similar orientation of pithouses to the other features. The SW-NE trend of the features may have to do with the slope of the site, and the orientation of the canal system. Because of these similarities, it is more likely that this change in cultural traditions happened in place over time, rather than from the migration of people from other areas. While the U.S. Southwest has been heavily researched, few archaeological projects have been conducted in Northwest Mexico. This research supports further development in the field of archaeology in the area. It also provides long-term benefits to others researching La Playa, as this project resulted in several high-quality geospatial datasets.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/17/2023<br> Modified by: Paula&nbsp;Hertfelder</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262505414_Geoglyphs--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262505414_Geoglyphs--rgov-800width.jpg" title="Geoglyphs"><img src="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262505414_Geoglyphs--rgov-66x44.jpg" alt="Geoglyphs"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Geoglyph features viewed from the UAV results - one arrow shaped, a star, and two circular features in a badly eroding area</div> <div class="imageCredit">Paula Hertfelder</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Paula&nbsp;Hertfelder <div class="imageTitle">Geoglyphs</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262420776_Agricultural_Features--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262420776_Agricultural_Features--rgov-800width.jpg" title="Agricultural Features"><img src="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262420776_Agricultural_Features--rgov-66x44.jpg" alt="Agricultural Features"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Early Agricultural Period features, seen in the UAV imagery</div> <div class="imageCredit">Paula Hertfelder</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Paula&nbsp;Hertfelder <div class="imageTitle">Agricultural Features</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262351806_Site_Erosion--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262351806_Site_Erosion--rgov-800width.jpg" title="Erosion at La Playa"><img src="/por/images/Reports/POR/2023/2036277/2036277_10700548_1700262351806_Site_Erosion--rgov-66x44.jpg" alt="Erosion at La Playa"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Image of the erosion effecting La Playa</div> <div class="imageCredit">Paula Hertfelder</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Paula&nbsp;Hertfelder <div class="imageTitle">Erosion at La Playa</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  La Playa is one of the most important archaeological sites in Northwest Mexico; here, archaeologists find hundreds of artifacts and features from over 10,000 years of human occupation. The site is located on a floodplain of the Ro Boquillas near the town of Trincheras, Sonora, Mexico. It features an extensive canal system, hundreds of burials, agricultural fields, subterranean ovens called hornos, production areas for shell jewelry, and many other archaeological components. Significantly, La Playa is also the largest Early Agricultural Period (EAP) site in the U.S. Southwest and Northwest Mexico. The EAP begins with the arrival of maize around 2100 BCE and is located throughout the Sonoran Desert of southern Arizona and northern Sonora, Mexico. During the EAP people became more sedentary as they developed agriculture and canal systems. In Northwest Mexico, the EAP transitions into what is called the Formative or Early Ceramic Period after about 50 CE. At this time, pottery increases in use, people rely more on agriculture, and burial practices change. Decorated pottery, including a distinctive purple-on-red pottery type, appears with the start of the Trincheras Tradition in 400 CE. Interestingly, in southern Arizona, the EAP transitions to the Hohokam cultural tradition. Archaeologists do not fully understand the cause and nature of the transition from the EAP to the Trincheras Tradition, or why despite a very similar Early Agricultural Period, very different cultural traditions developed afterwards.      Supervised by Dr. Randall McGuire, Paula Hertfelder, doctoral candidate at Binghamton University, researched the transition from the EAP to the Trincheras Tradition at La Playa in collaboration with the Instituto Nacional de Antropolga e Histora and the Proyecto La Playa. Understanding the EAP-Trincheras transition at La Playa is made more difficult due to the large-scale erosion impacting the site. These site formation processes needed to be better understood before examining how settlement patterns changed over time between cultural transitions. The researchers asked two questions, one about site formation processes and another about how settlement patterns change to explore the EAP to Trincheras transition and whether there is continuity between these populations: How has erosion impacted La Playa? How do settlement patterns and other spatial patterns change from the EAP, Early Ceramic/Formative Period, and the Trincheras Tradition at La Playa? These questions were answerable through Geographic Information Systems (GIS) analysis of archaeological features, modelling and measuring erosion, and different remote sensing methods. GIS programs offer powerful tools for visualizing maps, running statistical analyses on the location and orientation of features, and for measuring volumes and areas.      The investigators examined changes in the cultural landscape through a comprehensive GIS spatial analysis of the features and artifacts recorded and analyzed to date by the Proyecto La Playa, in addition to using an Unmanned Aerial Vehicle (UAV) to map the site topography and a magnetometer to search for additional buried pithouses, canals, and other features. The photographs taken with the UAV resulted in a very high-resolution image and a Digital Terrain Model (DTM) of the entire landscape. This formed the base map for the next phase of the project  digitizing the feature sketch maps drawn by archaeologists during the previous site excavations. Close to 500 feature maps were digitized, which included burials, cremations, pithouses, storage pits, dog burials, and others. Then, the researchers assigned cultural periods to each feature based on radiocarbon dates or the presence of ceramics unique to one of the periods and ran several types of analysis tools with ArcGIS software.      To answer the first question, the research found that there is evidence to suggest that there are statistically significant spatial patterns in the feature locations, and that these patterns cannot be fully explained by erosion. In terms of the feature spatial patterns, the data indicates that there is some cultural continuity between the time periods, but that there were also major shifts in material culture. Some similarities between distributions among the EAP and Trincheras periods included a SW-NE trend in features, similar areas for cremated human remains, and the similar orientation of pithouses to the other features. The SW-NE trend of the features may have to do with the slope of the site, and the orientation of the canal system. Because of these similarities, it is more likely that this change in cultural traditions happened in place over time, rather than from the migration of people from other areas. While the U.S. Southwest has been heavily researched, few archaeological projects have been conducted in Northwest Mexico. This research supports further development in the field of archaeology in the area. It also provides long-term benefits to others researching La Playa, as this project resulted in several high-quality geospatial datasets.        Last Modified: 11/17/2023       Submitted by: PaulaHertfelder]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

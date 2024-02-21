@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Acquisition of a Volumetric Velocimetry System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>241902.00</AwardTotalIntnAmount>
+<AwardAmount>276822</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+<PO_EMAI>lastiz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924705</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Fluid flows in nature vary intrinsically over space and time.  Simultaneously mapping the flow field within a three-dimensional (3D) volume will allow the full characterization of not only the flow field, but also the pressure field and any shear and normal forces within the fluid and at boundaries. This will have a transformative impact on our ability to characterize solute mixing, particle and solute transport, and aquatic organisms, ranging from microorganisms within porous media to fish moving in a river.  This project funds the acquisition of a Volumetric Velocimetry System (VVS) to support experimental research that will map flow fields in physical models of geoscience phenomena.  The VVS will provide researchers the capability to acquire volumetric realizations of flow structures using this minimally invasive tool.   Example applications of the system include model studies of breakout during surface lava flow which will improve prediction of when lava will arrive at specified location.   In a second application, the VVS will probe critical questions about and solute and sediment grain transport in streambeds.  Results from these studies will, for example, improve predictions of channel stability and be applied to the design of river restoration projects.  Lastly, volumetric descriptions of the experimental flow fields from this system will be powerful tools for the validation of complex computational models, which are becoming a common investigative tool even though in many circumstances models are not benchmarked with proper data. A web presence highlighting VVS projects will provide visualizations and links to available data. A partnership with a local middle-school teacher will facilitate visits of local students to the Center for Ecohydraulics Research at University of Idaho. &lt;br/&gt;&lt;br/&gt;The acquisition of a Volumetric Velocimetry System (VVS) will enable researchers to overcome the crucial shared challenge faced by scientists and engineers who seek understanding of the fundamental nature of several types of fluid flows: the inability to acquire all three temporally and spatially resolved components of velocity data and their spatial and temporal derivatives, whose information will allow direct solution the Navier-Stokes equations retrieving information on the pressure and force distribution. Moreover, volumetric descriptions of the experimental flow fields from this system will be powerful tools for the validation of complex computational models, which are becoming a common investigative tool even though in many circumstances models are not benchmarked with proper data. Pursuing these research avenues will yield insights into geoscience phenomena, including entrainment in deep-sea hydrothermal systems and breakout during surface lava flows. In addition, coupling the VVS with the refractive index matching will probe critical questions about microbial colonization of pore interstices, turbulence dissipation at and within streambeds and its impact on organisms, and solute and sediment grain transport in streambeds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2043382</AwardID>
+<Investigator>
+<FirstName>Ralph</FirstName>
+<LastName>Budwig</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ralph S Budwig</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbudwig@uidaho.edu]]></EmailAddress>
+<NSF_ID>000378654</NSF_ID>
+<StartDate>06/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elowyn</FirstName>
+<LastName>Yager</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elowyn Yager</PI_FULL_NAME>
+<EmailAddress><![CDATA[eyager@uidaho.edu]]></EmailAddress>
+<NSF_ID>000499330</NSF_ID>
+<StartDate>06/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniele</FirstName>
+<LastName>Tonina</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniele Tonina</PI_FULL_NAME>
+<EmailAddress><![CDATA[dtonina@uidaho.edu]]></EmailAddress>
+<NSF_ID>000531405</NSF_ID>
+<StartDate>06/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Mittelstaedt</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric L Mittelstaedt</PI_FULL_NAME>
+<EmailAddress><![CDATA[emittelstaedt@uidaho.edu]]></EmailAddress>
+<NSF_ID>000623602</NSF_ID>
+<StartDate>06/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erika</FirstName>
+<LastName>Rader</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erika Rader</PI_FULL_NAME>
+<EmailAddress><![CDATA[erader@uidaho.edu]]></EmailAddress>
+<NSF_ID>000674859</NSF_ID>
+<StartDate>06/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Idaho</Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838449803</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress>875 PERIMETER DR MS 3020</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QWYKRJH5NNJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF IDAHO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Idaho]]></Name>
+<CityName>Boise</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>837027367</ZipCode>
+<StreetAddress><![CDATA[322 East Front Street, Suite 340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1580</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~241902</FUND_OBLG>
+<FUND_OBLG>2023~34920</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="text-align: center;"><strong>Acquisition of a Volumetric Velocimetry System</strong></p> <p><strong>&nbsp;</strong>Fluid flows in nature vary intrinsically over space and time.&nbsp; In the present project we have acquired a measurement system that simultaneously maps the flow field within a three-dimensional (3D) volume, allowing the full characterization of not only the flow field, but also subsequent reconstruction of the pressure field and any shear and normal forces within the fluid and at boundaries. We anticipate a transformative impact on our ability to characterize solute mixing, particle and solute transport, and aquatic organisms, ranging from microorganisms within porous media to fish moving in a river.&nbsp; This project has funded the acquisition of a Volumetric Velocimetry System (VVS) to support experimental research that will map flow fields in physical models of geoscience phenomena.&nbsp; The VVS provides researchers the capability to acquire volumetric realizations of flow structures using this minimally invasive tool.&nbsp; Volumetric descriptions of the experimental flow fields from this system are powerful tools for the validation of complex computational models, which are becoming a common investigative tool, but must be benchmarked with proper data.</p> <p>&nbsp;The VVS was purchased and commissioned during the project period and has been applied to two research projects.&nbsp; First, it was used to study surface-subsurface flow interactions in a physical model of a salmon redd at the University of Idaho (UI), Center for Ecohydraulics Research (CER).&nbsp; Female salmonids bury their eggs in streambed gravel by digging a pit where they lay their eggs, which they then cover with gravel from a second pit, forming a dune-like structure called a redd, which has coarse grains on the surface due to the winnowing away of fine material. The interaction between a redd and the stream flow induces surface water to enter the sediment, flow through the egg pockets, and then reemerge downstream of the redd crest. These downwelling and upwelling flows form the hyporheic exchange, which is vital for the embryos&rsquo; development because it regulates the egg pocket temperature regime and delivers oxygen-rich surface water to the embryos. Here, we experimentally investigate the effects of (1) redd surface roughness and (2) egg pocket presence on redd-induced hyporheic flows under different surface hydraulics. We use non-intrusive optical measurement techniques, including stereo particle image velocimetry (SPIV) and planar laser-induced fluorescence (PLIF), in a large-scale flume by matching the refractive index of the transparent solid grains (made of fluorocarbon resin) and the fluid (water mixed with 15% Epsom salt). This allows us to see through the solid matrix of grains and map the flow fields above and within the salmon redd.&nbsp; The measurement results were used to assess the performance of a computation fluid dynamics (CFD) model of the surface and subsurface flows.&nbsp; The validated CFD model was then applied to a range of dunes sizes and flow conditions.&nbsp;</p> <p>&nbsp;In the second project, also conducted at UI CER, we modeled stream flow over a vegetation stalk. We applied tomographic particle image velocimetry (TPIV) was to measure the three-dimensional free surface flow around a barely submerged vertical cylinder over a plane bed of coarse granular sediment in a full-scale flume experiment.&nbsp; Water surface elevation, the pressure field, and subsurface flow were reconstructed from the measured velocity field.&nbsp; &nbsp;The quantification of velocity and pressure fields over streambeds is important for predicting sediment mobility, benthic and hyporheic habitat qualities, and subsurface flow exchange.</p> <p class="Body">Broader impact goals were addressed in three ways, (i) the development of a web presence for the VVS and VVS projects (https://vvs-fluids.org), (ii) hosting of visitors to CER, and (iii) and collaboration with a middle school science teacher.&nbsp; Finally, results from CER studies may, for example, be applied to the design of river restoration projects as well as to informing water release protocols for regulated rivers.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/30/2024<br> Modified by: Ralph&nbsp;S&nbsp;Budwig</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656243745_Stalk_Flow_Physical_Model--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656243745_Stalk_Flow_Physical_Model--rgov-800width.jpg" title="Stalk Flow Physical Model"><img src="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656243745_Stalk_Flow_Physical_Model--rgov-66x44.jpg" alt="Stalk Flow Physical Model"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Profile view of set-up for vegetation stalk modeling experiment, showing three stalks protruding from a bed of transparent sediment simulant.  The stalk diameter was ~ 0.8 cm.</div> <div class="imageCredit">William J. Reeder</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ralph&nbsp;S&nbsp;Budwig <div class="imageTitle">Stalk Flow Physical Model</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656327503_VVS_in_flume--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656327503_VVS_in_flume--rgov-800width.jpg" title="VVS set up in flume at Center for Ecohydraulics Research"><img src="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656327503_VVS_in_flume--rgov-66x44.jpg" alt="VVS set up in flume at Center for Ecohydraulics Research"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Profile view of Volumetric Velocimetry System (VVS) including computer controlled instrumentation platform (top panel).   Boroscope with optics to form a wide laser light sheet for Volumetric PIV measurements (bottom panel).  Both were completed in December of 2022.  The width of flume in top panel</div> <div class="imageCredit">Brandon Hilliard</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ralph&nbsp;S&nbsp;Budwig <div class="imageTitle">VVS set up in flume at Center for Ecohydraulics Research</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656426880_Salmon_Redd_Physical_Model--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656426880_Salmon_Redd_Physical_Model--rgov-800width.JPG" title="Salmon Redd Physical Model"><img src="/por/images/Reports/POR/2024/2043382/2043382_10738242_1706656426880_Salmon_Redd_Physical_Model--rgov-66x44.JPG" alt="Salmon Redd Physical Model"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Profile view of the experimental setup of the 2D model salmon redd.  Here flow above the redd is from right to left.  The length of the redd was 1.14 m.</div> <div class="imageCredit">Brandon Hilliard</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ralph&nbsp;S&nbsp;Budwig <div class="imageTitle">Salmon Redd Physical Model</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Acquisition of a Volumetric Velocimetry System   Fluid flows in nature vary intrinsically over space and time. In the present project we have acquired a measurement system that simultaneously maps the flow field within a three-dimensional (3D) volume, allowing the full characterization of not only the flow field, but also subsequent reconstruction of the pressure field and any shear and normal forces within the fluid and at boundaries. We anticipate a transformative impact on our ability to characterize solute mixing, particle and solute transport, and aquatic organisms, ranging from microorganisms within porous media to fish moving in a river. This project has funded the acquisition of a Volumetric Velocimetry System (VVS) to support experimental research that will map flow fields in physical models of geoscience phenomena. The VVS provides researchers the capability to acquire volumetric realizations of flow structures using this minimally invasive tool. Volumetric descriptions of the experimental flow fields from this system are powerful tools for the validation of complex computational models, which are becoming a common investigative tool, but must be benchmarked with proper data.   The VVS was purchased and commissioned during the project period and has been applied to two research projects. First, it was used to study surface-subsurface flow interactions in a physical model of a salmon redd at the University of Idaho (UI), Center for Ecohydraulics Research (CER). Female salmonids bury their eggs in streambed gravel by digging a pit where they lay their eggs, which they then cover with gravel from a second pit, forming a dune-like structure called a redd, which has coarse grains on the surface due to the winnowing away of fine material. The interaction between a redd and the stream flow induces surface water to enter the sediment, flow through the egg pockets, and then reemerge downstream of the redd crest. These downwelling and upwelling flows form the hyporheic exchange, which is vital for the embryos development because it regulates the egg pocket temperature regime and delivers oxygen-rich surface water to the embryos. Here, we experimentally investigate the effects of (1) redd surface roughness and (2) egg pocket presence on redd-induced hyporheic flows under different surface hydraulics. We use non-intrusive optical measurement techniques, including stereo particle image velocimetry (SPIV) and planar laser-induced fluorescence (PLIF), in a large-scale flume by matching the refractive index of the transparent solid grains (made of fluorocarbon resin) and the fluid (water mixed with 15% Epsom salt). This allows us to see through the solid matrix of grains and map the flow fields above and within the salmon redd. The measurement results were used to assess the performance of a computation fluid dynamics (CFD) model of the surface and subsurface flows. The validated CFD model was then applied to a range of dunes sizes and flow conditions.   In the second project, also conducted at UI CER, we modeled stream flow over a vegetation stalk. We applied tomographic particle image velocimetry (TPIV) was to measure the three-dimensional free surface flow around a barely submerged vertical cylinder over a plane bed of coarse granular sediment in a full-scale flume experiment. Water surface elevation, the pressure field, and subsurface flow were reconstructed from the measured velocity field. The quantification of velocity and pressure fields over streambeds is important for predicting sediment mobility, benthic and hyporheic habitat qualities, and subsurface flow exchange.   Broader impact goals were addressed in three ways, (i) the development of a web presence for the VVS and VVS projects (https://vvs-fluids.org), (ii) hosting of visitors to CER, and (iii) and collaboration with a middle school science teacher. Finally, results from CER studies may, for example, be applied to the design of river restoration projects as well as to informing water release protocols for regulated rivers.           Last Modified: 01/30/2024       Submitted by: RalphSBudwig]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FW-HTF-RM: Collaborative Research: Augmenting Remote Medical Procedure Training and Assistance with Spatial Computing and Volumetric Capture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>602673.00</AwardTotalIntnAmount>
+<AwardAmount>602673</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia Shen</SignBlockName>
+<PO_EMAI>cshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928447</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Healthcare expenditure accounts for 17% of the US Gross Domestic Product and 12% of the workforce, but access to highly skilled health professionals is not evenly distributed across geographic and socioeconomic strata.  Videoconferencing-based telehealth systems partly address this inequality by enabling experts to assist and train remote or rural medical personnel. However, videoconferencing alone cannot adequately convey three-dimensional information that is essential in performing many medical procedures. For example, it is very difficult for an expert to precisely guide an operator's hand remotely in performing a medical procedure using only videoconferencing. This project will transform the way medical personnel communicates and collaborates across the distance by allowing for real-time exchange of three-dimensional information that is missing in current videoconferencing telehealth. The project will lead to more equitable access to healthcare; improved success for medical procedures that require the assistance of a remote expert; more cost-effective distribution of healthcare skills and training; and higher quality expert medical advice from a distance. It will also engage students in interdisciplinary research using emerging technology.&lt;br/&gt;&lt;br/&gt;The goals of this research include: i)  developing an understanding of the communication needs  for medical staff in distant  training, mentoring and procedural assistance, ii) insights into the application of mixed-reality volumetric representation and transmission in remote healthcare settings; iii) design guidelines for a mixed-reality volumetric communication system that simulates the physical presence of the patient at the location of the remote expert; iv) clinical evaluation of the utility of 3D spatial information in remote medical procedures assistance; and v) user studies examining the efficacy of spatially-enhanced communication in remote medical training and guidance.  The project aims to enroll 144 trainees consisting of medical and allied health students, physicians, physician assistants, and nurse practitioners to participate in randomized training experiments in three conditions: current standard training, 2D and voice guidance, and 3D mixed-reality. To achieve the above goals, researchers will also advance spatial computation and volumetric capture technologies. The project deliverables include a prototype of a spatial communication telehealth system that will create a real-time three-dimensional representation of the patient. This shared representation will be annotated with information exchanged between the medical procedure operator and the remotely guiding expert. The project is a collaboration between the Department of Emergency Medicine and the Clinical Learning and Simulation Skills Center at George Washington University, and American University. The multidisciplinary research team includes researchers from computer science, human-computer interaction, communication, telehealth, emergency medicine, medical simulation, and medical education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026505</AwardID>
+<Investigator>
+<FirstName>Krzysztof</FirstName>
+<LastName>Pietroszek</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krzysztof Pietroszek</PI_FULL_NAME>
+<EmailAddress><![CDATA[krzysztofvr@gmail.com]]></EmailAddress>
+<NSF_ID>000704914</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American University</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200168002</ZipCode>
+<PhoneNumber>2028853440</PhoneNumber>
+<StreetAddress>4400 MASSACHUSETTS AVE NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4VNDUN2VWU5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200168002</ZipCode>
+<StreetAddress><![CDATA[4400 Massachusetts Ave NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>103Y</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~602673</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our NSF-funded project has been at the forefront of developing a state-of-the-art telehealth system using mixed reality (MR) and augmented reality (AR) technologies and a real-time volumetric capture. In our research, we focused on "Mixed Reality for Medical Procedures" and published the following results:</p> <ul> <li> <p>ISMAR 2022:&nbsp;We developed an MR system for teaching the placement of a central venous catheter. This system provides real-time 3D visualizations and haptic feedback, significantly enhancing the learning process for medical students and professionals.</p> </li> <li> <p>HICSS 2023:&nbsp;Our paper on "Collaborative System Design" presented a telehealth platform that allows multiple users to interact within a shared MR environment. This fosters a collaborative learning space for medical teams, improving coordination and communication skills.</p> </li> <li> <p>VRST 2023:&nbsp;We explored the effectiveness of AR in procedural skill training. Our system overlays step-by-step instructions onto the user's field of view, offering an immersive and interactive guide for complex medical procedures.</p> </li> <li> <p>ITS 2023:&nbsp;Focusing on emergency scenarios, we developed an MR application for CPR training. It guides users through the CPR process with visual and audio cues, aiming to improve the accuracy and confidence of those administering CPR in critical situations.</p> </li> </ul> <p>We expanded our dissemination effords with using Short Papers and Abstracts:</p> <ul> <li> <p>iLRN 2022 &amp; elml 2021:&nbsp;We examined the use of volumetric communication in remote CPR assistance and AR's role in interactive classroom learning. These applications demonstrate the adaptability of our system in various educational and training contexts.</p> </li> <li> <p>IVRHA 2023, MATRC 2023, ISS 2023:&nbsp;In these papers, we extended the scope of our telehealth system to remote collaboration, digital health coaching, and holographic sports training, showcasing its potential in diverse fields.</p> </li> </ul> <p>The telehealth system developed through our NSF-funded project represents a significant advancement in MR and AR technologies. It not only provides innovative solutions for medical training and emergency response but also expands into areas like remote education, collaboration, and personal health coaching. Our work underlines the profound impact that immersive technologies can have on healthcare, education, and beyond, offering a glimpse into the future of telehealth and virtual training.</p><br> <p>  Last Modified: 12/26/2023<br> Modified by: Krzysztof&nbsp;Pietroszek</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2026505/2026505_10693538_1703633341900_architecture--rgov-214x142.png" original="/por/images/Reports/POR/2023/2026505/2026505_10693538_1703633341900_architecture--rgov-800width.png" title="Telehealth System - artchitecture diagram"><img src="/por/images/Reports/POR/2023/2026505/2026505_10693538_1703633341900_architecture--rgov-66x44.png" alt="Telehealth System - artchitecture diagram"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The architecture of the telehealth system</div> <div class="imageCredit">Krzysztof Pietroszek</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Krzysztof&nbsp;Pietroszek <div class="imageTitle">Telehealth System - artchitecture diagram</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2026505/2026505_10693538_1703633075594_telehealth_system--rgov-214x142.png" original="/por/images/Reports/POR/2023/2026505/2026505_10693538_1703633075594_telehealth_system--rgov-800width.png" title="Telehealth System"><img src="/por/images/Reports/POR/2023/2026505/2026505_10693538_1703633075594_telehealth_system--rgov-66x44.png" alt="Telehealth System"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Components of the telehealth system</div> <div class="imageCredit">Krzysztof Pietroszek</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Krzysztof&nbsp;Pietroszek <div class="imageTitle">Telehealth System</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our NSF-funded project has been at the forefront of developing a state-of-the-art telehealth system using mixed reality (MR) and augmented reality (AR) technologies and a real-time volumetric capture. In our research, we focused on "Mixed Reality for Medical Procedures" and published the following results:     ISMAR 2022:We developed an MR system for teaching the placement of a central venous catheter. This system provides real-time 3D visualizations and haptic feedback, significantly enhancing the learning process for medical students and professionals.     HICSS 2023:Our paper on "Collaborative System Design" presented a telehealth platform that allows multiple users to interact within a shared MR environment. This fosters a collaborative learning space for medical teams, improving coordination and communication skills.     VRST 2023:We explored the effectiveness of AR in procedural skill training. Our system overlays step-by-step instructions onto the user's field of view, offering an immersive and interactive guide for complex medical procedures.     ITS 2023:Focusing on emergency scenarios, we developed an MR application for CPR training. It guides users through the CPR process with visual and audio cues, aiming to improve the accuracy and confidence of those administering CPR in critical situations.     We expanded our dissemination effords with using Short Papers and Abstracts:     iLRN 2022 & elml 2021:We examined the use of volumetric communication in remote CPR assistance and AR's role in interactive classroom learning. These applications demonstrate the adaptability of our system in various educational and training contexts.     IVRHA 2023, MATRC 2023, ISS 2023:In these papers, we extended the scope of our telehealth system to remote collaboration, digital health coaching, and holographic sports training, showcasing its potential in diverse fields.     The telehealth system developed through our NSF-funded project represents a significant advancement in MR and AR technologies. It not only provides innovative solutions for medical training and emergency response but also expands into areas like remote education, collaboration, and personal health coaching. Our work underlines the profound impact that immersive technologies can have on healthcare, education, and beyond, offering a glimpse into the future of telehealth and virtual training.     Last Modified: 12/26/2023       Submitted by: KrzysztofPietroszek]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

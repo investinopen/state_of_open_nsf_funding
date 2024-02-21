@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Development of Unnatural Tryptophan Derivatives to Expand Tryptophan Function and to Study Biological Catalysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>291381.00</AwardTotalIntnAmount>
+<AwardAmount>291381</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christine Chow</SignBlockName>
+<PO_EMAI>cchow@nsf.gov</PO_EMAI>
+<PO_PHON>7032924555</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award, the Chemistry of Life Processes Program of the NSF Division of Chemistry is funding Dr. Adam Offenbacher of  East Carolina University to addresses the challenge of developing a new set of chemical tools that allow tracking of electrons transported within and between proteins based on the amino acid tryptophan. Proteins are made up of amino acids, with the individual amino acid building blocks and their side chains conferring key structural and functional properties of proteins. In some cases, certain amino acids allow for communication between chemically distinct regions of proteins, sometimes by facilitating the shuttling of electrons between specific sites. The development of these chemical tools sets the stage for study of biological energy conversion and also holds potential to diversify biological function in select proteins that catalyze chemical reactions (enzymes). While a few chemically modified tryptophan derivatives have become accessible for such studies, these species lack desirable properties that enable easy characterization in complex biological systems. In this project, a highly collaborative approach, combining molecular biology, chemical biology, and theoretical chemistry, is employed to overcome these limitations and thoroughly characterize a series of tryptophan amino acid analogues having potentially valuable electron tracking capabilities. The project facilitates multi-faceted, hands-on research experiences primarily focused on the training of undergraduate students, most of whom are women or from underserved communities in the region, and who intend to continue their education in science, technology, engineering, and mathematics. &lt;br/&gt; &lt;br/&gt;5-Hydroxyindole (5HOI) serves as the building block for the development of the unnatural tryptophan analogues targeted in these studies because it is easily accessible via a three-step synthesis from readily available precursors.  The Offenbacher team then seeks to generate a collection of halogenated derivatives with tunable acidities, reduction potentials, and spectroscopic signatures for the study of biological proton-coupled electron transfer (PCET). Fluorinated 5HOI derivatives are converted to F(n)-L-5-hydroxytryptophan (F(n)-5HOW) using evolved tryptophan synthases in near quantitative yields. To enable incorporation into peptides using solid-state approaches, a one-pot, two-step chemoenzymatic synthesis of fluorinated FMOC-(9-fluorenylmethoxycarbonyl)-5HOW derivatives is being developed. As a proof-of-concept, these new F(n)-5HOW derivatives are to be incorporated site-specifically into model proteins using an orthogonal, tryptophanyl tRNA synthetase/tRNA pair. This study seeks to test the impact of the protein environment on the formal reduction potentials of these unnatural tryptophan sidechains using square wave voltammetry and to establish model spectroscopic signatures, characterized by electron paramagnetic resonance spectroscopy, of their oxidized sidechains. Density-functional theory is being utilized to quantify the electron density delocalization of F(n)-5HOW radicals formed through PCET processes that provide a physical basis for the unique spectroscopic properties observed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003956</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Sargent</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew L Sargent</PI_FULL_NAME>
+<EmailAddress><![CDATA[sargenta@ecu.edu]]></EmailAddress>
+<NSF_ID>000419906</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eli</FirstName>
+<LastName>Hvastkovs</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eli Hvastkovs</PI_FULL_NAME>
+<EmailAddress><![CDATA[Hvastkovse@ecu.edu]]></EmailAddress>
+<NSF_ID>000588640</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Offenbacher</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam R Offenbacher</PI_FULL_NAME>
+<EmailAddress><![CDATA[offenbachera17@ecu.edu]]></EmailAddress>
+<NSF_ID>000782826</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Allen</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William E Allen</PI_FULL_NAME>
+<EmailAddress><![CDATA[allenwi@ecu.edu]]></EmailAddress>
+<NSF_ID>000187058</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[East Carolina University]]></Name>
+<CityName>GREENVILLE</CityName>
+<ZipCode>278582502</ZipCode>
+<PhoneNumber>2523289530</PhoneNumber>
+<StreetAddress><![CDATA[1000 E 5TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HWPEKM8VFTJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EAST CAROLINA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[East Carolina University]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>278584353</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~291381</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Proteins are composed of 20 naturally occurring building blocks called amino acids. Of these 20 natural amino acids, a select few, such as tyrosine and tryptophan, are redox-active or capable of mediating long-range electron transfer. These electron transfer reactions are crucial to many life-sustaining bioenergetic processes such as light-driven water oxidation in photosynthesis as well as DNA biosynthesis and repair mechanisms.</p> <p>&nbsp;</p> <p>As a means of advancing our understanding into how Nature regulates the generation of high-energy intermediates - called radicals ? to mediate electron transfer, unnatural amino acids (UAAs) have previously been developed. UAAs are often accompanied with distinctive signatures for the detection of radical intermediates and/or altered reactivities that enable the modification or re-engineering of biological function. Several UAA examples have been advanced for the amino acid tyrosine. This award focused on the development of new UAA tools for tryptophan. We have demonstrated unique spectroscopic ?fingerprints? that enable the detection of tryptophan radicals in proteins and enzymes. Thereby, these new chemical probes add to and expand the chemical toolset for protein biochemists and protein engineers for the study of long-range movement of electrons.</p> <p>&nbsp;</p> <p>During this study, the team had also discovered an important role for the impact of the local environment in modulating the reactivity of these high energy radical intermediates. More specifically, the team examined and quantified the role of water molecules in influencing the reactivity and the driving force for the formation of these important radicals; this information provides a ruler for understanding how the transfer of electrons are tightly controlled in complex biological systems.</p> <p>&nbsp;</p> <p>This grant has supported hands-on technical training using an interdisciplinary approach across organic, analytical, computational, and biological chemistries, for a total of 11 undergraduate and 6 master?s students at East Carolina University, which is located in the predominantly rural, and economically challenged region of eastern North Carolina (ENC). Of these students, nearly all (15 of 17) have co-authored manuscripts, including the paper reporting the development and characterization of the unnatural tryptophan sidechains in <em>Chemical Communications.</em> Several students have presented posters at regional and national meetings, including the National American Chemical Society meeting. &nbsp;Select students also had the opportunity to visit collaborator laboratories outside of ECU that provided specialized and advanced hands-on technical training to increase the students? skillsets. One student was highlighted in ECU?s Thomas Harriet College of Arts and Sciences newsletter: https://news.ecu.edu/2021/01/13/the-road-to-discovery/.</p> <p>&nbsp;</p> <p>Of the eleven students who have graduated from the program, six are pursuing advanced PhD or medical degrees while six are employed in regional (bio)chemical related industries. Thus, the collective training provided by this proposal has contributed positively to the growing demand for science and technology workforce, especially in the ENC region.</p> <p>&nbsp;</p> <p>The award also provided support for advancing educational initiatives and outreach opportunities. PI Offenbacher developed a Course-based Undergraduate Research Experience (CURE) for students in Biological Chemistry laboratory course at ECU. This incorporated relevant biochemical and structure-function research projects into the undergraduate curriculum. Further, the team has presented hands-on science demonstrations, in concepts related to understanding energy flow, for over 400 children in K-5<sup>th</sup> grades at local schools in ENC to increase the exposure of students to STEM.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: Adam&nbsp;R&nbsp;Offenbacher</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695042470493_CURE_Banner-7557--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695042470493_CURE_Banner-7557--rgov-800width.jpg" title="Course-based Undergraduate Research Experience in Biochemistry"><img src="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695042470493_CURE_Banner-7557--rgov-66x44.jpg" alt="Course-based Undergraduate Research Experience in Biochemistry"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Photo of a Team of undergraduate students conducting biochemical research in a CURE lab at ECU.</div> <div class="imageCredit">Rhett Butler</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Adam&nbsp;R&nbsp;Offenbacher</div> <div class="imageTitle">Course-based Undergraduate Research Experience in Biochemistry</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041764074_Outreach--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041764074_Outreach--rgov-800width.jpg" title="Hands-on science demos"><img src="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041764074_Outreach--rgov-66x44.jpg" alt="Hands-on science demos"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Representative photos of PI Offenbacher performing hands-on science demonstrations in local elementary schools.</div> <div class="imageCredit">Beth Smith</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Adam&nbsp;R&nbsp;Offenbacher</div> <div class="imageTitle">Hands-on science demos</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041940070_IMG_20200106_155839858--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041940070_IMG_20200106_155839858--rgov-800width.jpg" title="Advanced Trainings"><img src="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041940070_IMG_20200106_155839858--rgov-66x44.jpg" alt="Advanced Trainings"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The award provided support for students to travel to other institutions to gain training in diverse and advanced techniques.</div> <div class="imageCredit">Adam Offenbacher</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Adam&nbsp;R&nbsp;Offenbacher</div> <div class="imageTitle">Advanced Trainings</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041293510_Slide1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041293510_Slide1--rgov-800width.jpg" title="Synthetic Scheme for Unnatural Tryptophan"><img src="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695041293510_Slide1--rgov-66x44.jpg" alt="Synthetic Scheme for Unnatural Tryptophan"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of the synthetic scheme for the generation of fluorinated hydroxytryptophan amino acids with distinct spectroscopic fingerprints of the oxidized species.</div> <div class="imageCredit">Adam Offenbacher</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Adam&nbsp;R&nbsp;Offenbacher</div> <div class="imageTitle">Synthetic Scheme for Unnatural Tryptophan</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695042152041_IMG_0587--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695042152041_IMG_0587--rgov-800width.jpg" title="Poster Presentations"><img src="/por/images/Reports/POR/2023/2003956/2003956_10697471_1695042152041_IMG_0587--rgov-66x44.jpg" alt="Poster Presentations"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The award provided support for several students to attend and present posters at regional and national conferences, such as the SouthEastern Regional Meeting of the American Chemical Society shown here.</div> <div class="imageCredit">Amanda Ohler</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Adam&nbsp;R&nbsp;Offenbacher</div> <div class="imageTitle">Poster Presentations</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Proteins are composed of 20 naturally occurring building blocks called amino acids. Of these 20 natural amino acids, a select few, such as tyrosine and tryptophan, are redox-active or capable of mediating long-range electron transfer. These electron transfer reactions are crucial to many life-sustaining bioenergetic processes such as light-driven water oxidation in photosynthesis as well as DNA biosynthesis and repair mechanisms.     As a means of advancing our understanding into how Nature regulates the generation of high-energy intermediates - called radicals ? to mediate electron transfer, unnatural amino acids (UAAs) have previously been developed. UAAs are often accompanied with distinctive signatures for the detection of radical intermediates and/or altered reactivities that enable the modification or re-engineering of biological function. Several UAA examples have been advanced for the amino acid tyrosine. This award focused on the development of new UAA tools for tryptophan. We have demonstrated unique spectroscopic ?fingerprints? that enable the detection of tryptophan radicals in proteins and enzymes. Thereby, these new chemical probes add to and expand the chemical toolset for protein biochemists and protein engineers for the study of long-range movement of electrons.     During this study, the team had also discovered an important role for the impact of the local environment in modulating the reactivity of these high energy radical intermediates. More specifically, the team examined and quantified the role of water molecules in influencing the reactivity and the driving force for the formation of these important radicals; this information provides a ruler for understanding how the transfer of electrons are tightly controlled in complex biological systems.     This grant has supported hands-on technical training using an interdisciplinary approach across organic, analytical, computational, and biological chemistries, for a total of 11 undergraduate and 6 master?s students at East Carolina University, which is located in the predominantly rural, and economically challenged region of eastern North Carolina (ENC). Of these students, nearly all (15 of 17) have co-authored manuscripts, including the paper reporting the development and characterization of the unnatural tryptophan sidechains in Chemical Communications. Several students have presented posters at regional and national meetings, including the National American Chemical Society meeting.  Select students also had the opportunity to visit collaborator laboratories outside of ECU that provided specialized and advanced hands-on technical training to increase the students? skillsets. One student was highlighted in ECU?s Thomas Harriet College of Arts and Sciences newsletter: https://news.ecu.edu/2021/01/13/the-road-to-discovery/.     Of the eleven students who have graduated from the program, six are pursuing advanced PhD or medical degrees while six are employed in regional (bio)chemical related industries. Thus, the collective training provided by this proposal has contributed positively to the growing demand for science and technology workforce, especially in the ENC region.     The award also provided support for advancing educational initiatives and outreach opportunities. PI Offenbacher developed a Course-based Undergraduate Research Experience (CURE) for students in Biological Chemistry laboratory course at ECU. This incorporated relevant biochemical and structure-function research projects into the undergraduate curriculum. Further, the team has presented hands-on science demonstrations, in concepts related to understanding energy flow, for over 400 children in K-5th grades at local schools in ENC to increase the exposure of students to STEM.          Last Modified: 09/29/2023       Submitted by: Adam R Offenbacher]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

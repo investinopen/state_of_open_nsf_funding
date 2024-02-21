@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Instabilities in Particle-laden Stratified Fluids in Hele-Shaw Cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>158351.00</AwardTotalIntnAmount>
+<AwardAmount>133682</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The flow of fluids through porous media is an important problem relevant to a variety of processes such as underground transport of contaminants, certain filtration processes, and hydraulic fracturing.  These flows are sometimes subject to flow instabilities, which are sudden transitions of the flow to a qualitatively different type of flow.  For example, when a dense fluid overlies a less dense fluid, "fingers" of fluid develop extending up and down into the two fluids.  This instability, known as the Rayleigh-Taylor instability, can increase rates fluid mixing and material transport.  This project explores instabilities in layers of fluids that occupy a narrow gap between two vertical glass plates.  The project will investigate cases in which the fluids contain particles and solutes such as salt.  Experiments will be used to image the flow in a layer of fresh water above a layer of salt water.  The effects of instabilities on the flow will be tracked in the experiment and compared with numerical simulations.  Rates at which the particles settle as well as rates of particle and salt diffusion through the liquids will be obtained.  The results will help reveal the role of particle sedimentation in triggering instabilities and lead to better predictions when instabilities are likely to occur.  Project outcomes will help devise strategies for efficient energy production while minimizing environmental impact.  The project will be conducted by undergraduate students at a small liberal arts college who will benefit from increased opportunities in science and engineering education.  An outreach program will be conducted to acquaint under-represented and disadvantaged kids in inner-city Kansas City to the excitement of science and engineering. &lt;br/&gt;&lt;br/&gt;This project addresses how sediment settling initiates or modifies flow instabilities for stratified fluids in the narrow gap of a Hele-Shaw cell.  Sediment-laden fresh water above salt water will be studied along with related configurations. On the computational side, Darcy's Law coupled with an advection-diffusion equation for salt and an advection-diffusion equation for particle concentration that includes a settling velocity will be solved for two-dimensional stratified fluids in the presence of particle-loading. The flows will be parametrized in terms of a stability ratio, a gravity parameter that relates gravitational force to viscous forces, and a dimensionless settling velocity. Results will be analyzed in terms of relative dimensions of concentration profiles of sediment and salt. On the experimental side, Schlieren imaging will be used to image sediment-laden fresh water layered above salt water and related configurations. Controlled densities of sediment will be introduced using microspheres of known size and density. Viscosity will be controlled using various concentrations of aqueous glycerol, which directly effects the gravity parameter. Dimensionless wavelength, fingertip velocity, and particle concentration profiles will be measured. Rayleigh-Taylor, double-diffusive, and leaking instabilities are expected.  Combining computation with flow imaging will help expose the role of sedimentation on these instabilities and help determine the applicability of Darcy's law in predicting which instabilities occur and when they occur.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038397</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Bunton</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick H Bunton</PI_FULL_NAME>
+<EmailAddress><![CDATA[Patrick.Bunton@ung.edu]]></EmailAddress>
+<NSF_ID>000346534</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Georgia</Name>
+<CityName>DAHLONEGA</CityName>
+<ZipCode>305970001</ZipCode>
+<PhoneNumber>7068672064</PhoneNumber>
+<StreetAddress>82 COLLEGE CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GZYPDGXHXDB3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH GEORGIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SMV4HJLNJLP3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Georgia]]></Name>
+<CityName>Dahlonega</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>305970001</ZipCode>
+<StreetAddress><![CDATA[82 College Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~133682</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Fluid flows are amazingly common and significantly affect much of our daily life from ocean currents to weather, industrial processes, underground water flow, and even inside our bodies. Oftentimes these fluids are not pure but contain other materials such as sediment like when a river flows into the ocean. Materials may even be intentionally added such as particles (termed proppants) that are added in hydraulic fracturing, commonly known as fracking, to hold the underground rocks open so that petroleum or natural gas can escape. Whether naturally occurring or intentionally added, adding particles to fluids can dramatically affect the resultant fluid flows. These changes are sometimes termed "instabilities."&nbsp; For example, when a heavier fluid is on top of a lighter fluid, the heavier one will often start to penetrate or "finger" down into the lighter one.&nbsp; You may have seen this in pictures of coffee drinks with the cream on top fingering down into the coffee. These fingering instabilities cause fluids to mix and flow much faster than they would otherwise.&nbsp; Take the case of sediment.&nbsp; If small particles of sediment merely settle into a fluid, the process takes far longer than if they cause an instability &ndash; a change in the overall flow. This research was about searching for simple ways to predict when and what kind of instabilities or changes in fluid flow occur because of particles settling down in a fluid. In particular, Rayleigh-Taylor (RT) and Double-Diffusive (DD) instabilities were studied.&nbsp; RT is the one already mentioned, a heavier (more properly, "denser") fluid on top of a lighter or less dense fluid.&nbsp; DD is a little more complicated. It is a bit like a race between two things that diffuse (that is, move essentially randomly by collisions of the molecules or particles). For example, if you bring a hot fluid in contact with a salty fluid, the race between the heat and the salt can cause changes in the flow. These types of flows can be predicted using very advanced calculations.&nbsp; But it would be nice if rather simple measures could tell you if they are likely. We did experiments where particles in fresh water were layered over dextrose (or sugar) water. Two competing things then happen. The sugar diffuses upward into the fresh water, and the particles settle downward into the sugar water.&nbsp; So, both RT and DD are potentially possible. In our experiment we had three cases: sugar diffused faster than particles settled, the particles settled faster than the sugar diffused, or both settling and diffusion were occurring at about the same rate. When the diffusion was faster or the rates were about the same, fingering instabilities almost always occurred. However, when the particles settled too fast, then no instability occurred.&nbsp; We characterized these cases based on simple ratios of measurable quantities. Incidentally, all of these experiments were performed by undergraduate students giving them far more research experience than they would have had apart from this funding.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/19/2023<br> Modified by: Patrick&nbsp;H&nbsp;Bunton</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2038397/2038397_10619613_1703014610425_Silica_over_sugar--rgov-214x142.png" original="/por/images/Reports/POR/2023/2038397/2038397_10619613_1703014610425_Silica_over_sugar--rgov-800width.png" title="Fingering due to silica particles over top of sugar water."><img src="/por/images/Reports/POR/2023/2038397/2038397_10619613_1703014610425_Silica_over_sugar--rgov-66x44.png" alt="Fingering due to silica particles over top of sugar water."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fingering of 500 nm silica particles in fresh water layered over the top of sugar water (aqueous dextrose) such that the system would have been stable except for instabilities due to diffusion and settling.</div> <div class="imageCredit">Patrick Bunton</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Patrick&nbsp;H&nbsp;Bunton <div class="imageTitle">Fingering due to silica particles over top of sugar water.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Fluid flows are amazingly common and significantly affect much of our daily life from ocean currents to weather, industrial processes, underground water flow, and even inside our bodies. Oftentimes these fluids are not pure but contain other materials such as sediment like when a river flows into the ocean. Materials may even be intentionally added such as particles (termed proppants) that are added in hydraulic fracturing, commonly known as fracking, to hold the underground rocks open so that petroleum or natural gas can escape. Whether naturally occurring or intentionally added, adding particles to fluids can dramatically affect the resultant fluid flows. These changes are sometimes termed "instabilities." For example, when a heavier fluid is on top of a lighter fluid, the heavier one will often start to penetrate or "finger" down into the lighter one. You may have seen this in pictures of coffee drinks with the cream on top fingering down into the coffee. These fingering instabilities cause fluids to mix and flow much faster than they would otherwise. Take the case of sediment. If small particles of sediment merely settle into a fluid, the process takes far longer than if they cause an instability  a change in the overall flow. This research was about searching for simple ways to predict when and what kind of instabilities or changes in fluid flow occur because of particles settling down in a fluid. In particular, Rayleigh-Taylor (RT) and Double-Diffusive (DD) instabilities were studied. RT is the one already mentioned, a heavier (more properly, "denser") fluid on top of a lighter or less dense fluid. DD is a little more complicated. It is a bit like a race between two things that diffuse (that is, move essentially randomly by collisions of the molecules or particles). For example, if you bring a hot fluid in contact with a salty fluid, the race between the heat and the salt can cause changes in the flow. These types of flows can be predicted using very advanced calculations. But it would be nice if rather simple measures could tell you if they are likely. We did experiments where particles in fresh water were layered over dextrose (or sugar) water. Two competing things then happen. The sugar diffuses upward into the fresh water, and the particles settle downward into the sugar water. So, both RT and DD are potentially possible. In our experiment we had three cases: sugar diffused faster than particles settled, the particles settled faster than the sugar diffused, or both settling and diffusion were occurring at about the same rate. When the diffusion was faster or the rates were about the same, fingering instabilities almost always occurred. However, when the particles settled too fast, then no instability occurred. We characterized these cases based on simple ratios of measurable quantities. Incidentally, all of these experiments were performed by undergraduate students giving them far more research experience than they would have had apart from this funding.        Last Modified: 12/19/2023       Submitted by: PatrickHBunton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

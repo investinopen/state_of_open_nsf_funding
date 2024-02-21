@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Trackable Reasoning and Analysis Software for Collaboration and Evaluation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a software application that intelligence analysts can use to improve the quality and accuracy of their analyses. Errors in critical reasoning are detrimental to data analyses. Furthermore, the reports often do not provide readers with a clear sense of the analyst's work, which can result in poor decision-making. Past approaches to address these issues have had limited success and do not cover each step in the analytical process. The proposed technology offers a more flexible reasoning approach by identifying key information, determining the best path forward, and composing a quality final report that enhances the analysts' reasoning and provides decision-makers with a clear sense of the analyst's process. By transforming the proposed technology into a commercially viable application, the likelihood of intelligence failures could be reduced as decision-makers access the necessary analyses to pursue policies and strategies that promote national security. This application could also serve as the foundation for additional research and commercial technologies oriented towards helping analysts working in other fields, such as law enforcement, forensics, corporate security, insurance, and finance.&lt;br/&gt;&lt;br/&gt;This I-Corps project builds from the team's prior research on developing a state-of-the-art technology to help national intelligence analysts engage in better reasoning and report writing. Intelligence analysts often struggle to ensure that their research and reasoning avoid critical errors, such as cognitive biases. Past approaches to address errors have had limited uptake because analysts find them burdensome and unappealing.  Current approaches do not cover each step in the analytical process. The proposed approach represents an end-to-end workflow solution, that offers a more flexible reasoning approach by identifying key information, determining the path forward, and composing a quality final report that provides decision-makers with a clear sense of the analyst's process. This technology offers report templates and several optional tools that help analysts process and evaluate information, offload their memory and reasoning work to the application, and share that reasoning effortlessly with collaborators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002287</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Stromer-Galley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer Stromer-Galley</PI_FULL_NAME>
+<EmailAddress><![CDATA[jstromer@syr.edu]]></EmailAddress>
+<NSF_ID>000401768</NSF_ID>
+<StartDate>03/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132440001</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress><![CDATA[900 S CROUSE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4BXLBC11LC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYRACUSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>132441200</ZipCode>
+<StreetAddress><![CDATA[OFFICE OF SPONSORED PROGRAMS]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4097</Code>
+<Text>NETWORKING RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Trackable Reasoning and Analysis for Collaboration and Evaluation (TRACE) project aimed to engage in customer discovery work and develop an initial business model. TRACE is a method for supporting complex reasoning and analysis that reduces cognitive biases and memory errors that lead to faulty reasoning. Our basic research that led to the invention of the method was funded through a contract with the Intelligence Advance Research Projects Activity.</p> <p>The outcomes of the iCorp grant were several. We conducted over 120 interviews with a variety of different potential customers, including national intelligence, corporate security, journalists, corporate business analysis, and educators and students. We explored severaly hypotheses pertaining to potential market segments including education technology, journalism, national security, and corporate strategy and security. We identified education technology and national security sectors as our two most likely hypotheses. We learned how to develop an an initial business plan and a basic and clear pitch for our product idea. We successfully secured a patent for the invention (Patent No. US 11,507,859 B2). We submitted a grant proposal to the National Science Foundation's Partnership for Innovation program to build a prototype.</p> <p>The intellectual merit of our approach includes <span style="font-size: 12pt; font-family: 'Times New Roman',serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">increasing the likelihood of successfully transferring our experimental version of TRACE into a commercially viable product. The commercial version of TRACE could provide analysts with a state-of-the-art technology to support better reasoning. The result of this work will contribute new insights into effective techniques to promote better reasoning and decision-making and correspondingly the further development of cutting-edge technologies to assist analysts working in a variety of fields. </span></p> <p><span id="docs-internal-guid-a828ceb7-7fff-1e75-b915-f523877f5eac" style="font-size: 12pt; font-family: 'Times New Roman',serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The broader impact of our effort is in supporting national intelligence efforts. The 9/11 Commission Report and the Report on the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction demonstrated how intelligence failures can contribute to catastrophic outcomes. By transforming our alpha version of TRACE into a commercially viable product that analysts will want to use, we hope to decrease the likelihood of such catastrophic intelligence failures going forward and thus to help the Intelligence Community provide decision-makers with the analyses necessary to pursue policies and strategies that promote national security and prosperity.</span></p> <p><span style="font-size: 12pt; font-family: 'Times New Roman',serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">There also exists the possibility that our effort could support better research and analysis for researchers in higher education or corporate research to aid in clearer, better evidenced, and more accurate analysis to inform insights on human behavior and society. </span></p><br> <p>  Last Modified: 11/28/2023<br> Modified by: Jennifer&nbsp;Stromer-Galley</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The Trackable Reasoning and Analysis for Collaboration and Evaluation (TRACE) project aimed to engage in customer discovery work and develop an initial business model. TRACE is a method for supporting complex reasoning and analysis that reduces cognitive biases and memory errors that lead to faulty reasoning. Our basic research that led to the invention of the method was funded through a contract with the Intelligence Advance Research Projects Activity.   The outcomes of the iCorp grant were several. We conducted over 120 interviews with a variety of different potential customers, including national intelligence, corporate security, journalists, corporate business analysis, and educators and students. We explored severaly hypotheses pertaining to potential market segments including education technology, journalism, national security, and corporate strategy and security. We identified education technology and national security sectors as our two most likely hypotheses. We learned how to develop an an initial business plan and a basic and clear pitch for our product idea. We successfully secured a patent for the invention (Patent No. US 11,507,859 B2). We submitted a grant proposal to the National Science Foundation's Partnership for Innovation program to build a prototype.   The intellectual merit of our approach includes increasing the likelihood of successfully transferring our experimental version of TRACE into a commercially viable product. The commercial version of TRACE could provide analysts with a state-of-the-art technology to support better reasoning. The result of this work will contribute new insights into effective techniques to promote better reasoning and decision-making and correspondingly the further development of cutting-edge technologies to assist analysts working in a variety of fields.    The broader impact of our effort is in supporting national intelligence efforts. The 9/11 Commission Report and the Report on the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction demonstrated how intelligence failures can contribute to catastrophic outcomes. By transforming our alpha version of TRACE into a commercially viable product that analysts will want to use, we hope to decrease the likelihood of such catastrophic intelligence failures going forward and thus to help the Intelligence Community provide decision-makers with the analyses necessary to pursue policies and strategies that promote national security and prosperity.   There also exists the possibility that our effort could support better research and analysis for researchers in higher education or corporate research to aid in clearer, better evidenced, and more accurate analysis to inform insights on human behavior and society.      Last Modified: 11/28/2023       Submitted by: JenniferStromer-Galley]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

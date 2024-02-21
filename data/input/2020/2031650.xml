@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Direct Numerical Simulation and Analysis of Turbulent Pipe Flow at High Reynolds Numbers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>9117.00</AwardTotalIntnAmount>
+<AwardAmount>9117</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+<PO_EMAI>edwalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032924863</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[For nearly four decades, the National Science Foundation (NSF) has played a leadership role in provisioning advanced cyberinfrastructure capabilities for the Nation's Science and Engineering (S&amp;E) researchers. An important component in this investment is the leadership-class computing program that provides computational and data analytics capabilities at the largest scale to inspire transformative S&amp;E discoveries that would not be possible otherwise. NSF's current leadership-class computing investment supports Frontera, the largest High-Performance Computing (HPC) system on a US academic campus. The Frontera system is deployed and operated by the Texas Advanced Computing Center (TACC) at the University of Texas (UT) at Austin. This travel grant will support the participation of researchers who have been awarded a computer time allocation on the Frontera system at a future Principal Investigator (PI) meeting organized by TACC. The award will also support travel for technical coordination between researchers and the Frontera project to ensure optimal and effective utilization of the Frontera system.&lt;br/&gt;&lt;br/&gt;The goal of the PI meeting is to allow Frontera research users, as well as their students, to share scientific results, exchange practical lessons-learned, and present their overall experience from using the Frontera system. In addition to research presentations, the meeting will have ample time, as well as facilitated sessions, to promote increased interaction between Frontera research users and project staff. The outcome of the PI meeting will not only enable the Frontera project to better understand and serve the scientific research community, but also build a community to better represent the unique needs of S&amp;E research that require access to NSF leadership computing facilities. To facilitate deeper coordination beyond the PI meeting, this award will also provide travel support to enable technical coordination between the research user teams and the Frontera project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031650</AwardID>
+<Investigator>
+<FirstName>Fazle</FirstName>
+<LastName>Hussain</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fazle Hussain</PI_FULL_NAME>
+<EmailAddress><![CDATA[fazle.hussain@ttu.edu]]></EmailAddress>
+<NSF_ID>000469913</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>YAO</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jie YAO</PI_FULL_NAME>
+<EmailAddress><![CDATA[jie.yao@ttu.edu]]></EmailAddress>
+<NSF_ID>000826447</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>2500 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>Lubbock</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>794091030</ZipCode>
+<StreetAddress><![CDATA[349 Administration Bldg]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>Leadership-Class Computing</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~9117</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="western"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><strong>Project Title: </strong></span></span><span><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><strong>Direct numerical simulation and analysis of turbulent pipe flow at high Reynolds numbers<br /></strong></span></span></span><span style="color: #242424;"><span style="font-family: &quot;Times New Roman&quot;, serif;">Award Number:</span></span><span style="font-family: &quot;Times New Roman&quot;, serif;"> </span><span style="color: #242424;"><span style="font-family: &quot;Times New Roman&quot;, serif;">2031650<br /></span></span><span style="font-family: &quot;Times New Roman&quot;, serif;">Principal Investigator: Fazle Hussain<br /></span><span style="font-family: &quot;Times New Roman&quot;, serif;">Institution: Texas Tech University</span></p> <p class="western">&nbsp;<span style="font-family: &quot;Times New Roman&quot;, serif;">The main outcome of this award was to achieve direct numerical simulation (DNS) of high Reynolds number turbulent pipe flow. High Reynolds numbers turbulent flows have numerous applications, </span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span lang="en-US">hence</span></span></span><span style="font-family: &quot;Times New Roman&quot;, serif;"> we aimed to enhance our understanding of turbulence physics and contribute to the development of more accurate turbulence models for industrial applications. In addition, pipe flow is enshrouded in a number of controversies, some of which we also hope to address and resolve.</span></p> <p class="western"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><strong>Intellectual Merit</strong></span></span></p> <p class="western"><span style="font-family: &quot;Times New Roman&quot;, serif;">High Reynolds number turbulent flows have numerous applications, </span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">hence</span></span></span></span><span style="font-family: &quot;Times New Roman&quot;, serif;"> we aimed to enhance our understanding of turbulence physics and contribute to the development of more accurate turbulence models. </span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">W</span></span></span></span><span style="font-family: &quot;Times New Roman&quot;, serif;">e have performed </span><span style="font-family: &quot;Times New Roman&quot;, serif;">high-fidelity</span><span style="font-family: &quot;Times New Roman&quot;, serif;"> DNS up to </span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">a Reynolds number of 5,200</span></span></span></span><span style="font-family: &quot;Times New Roman&quot;, serif;"> using the open-source </span><span><span style="color: #333333;"><span style="font-family: &quot;Times New Roman&quot;, serif;">pseudo-spectral code </span></span></span><span style="font-family: &quot;Times New Roman&quot;, serif;">OPENPIPEFLOW. </span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">This is the highest Reynolds number pipe flow simulation so far, and we are extending it to much higher Reynolds numbers (currently Re_tau is 10,000). Our </span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">particular focus has been to provide accurate data by using a high-order numerical method, large domains, and sufficient integration time with quantified uncertainty. </span></span></span></span></span><span><span style="color: #333333;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">We have gathered a wealth of statistical data with uncertainties from our simulations, including mean velocity, Reynolds stress, pressure and its fluctuations, and energy spectra (available online at </span></span></span></span></span><a href="https://dataverse.tdl.org/dataverse/turbpipe"><span><span style="color: #006fca;"><span><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">https://dataverse.tdl.org/dataverse/turbpipe</span></span></span></span></span></span></a><span><span style="color: #333333;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">).</span></span></span></span></span></p> <p class="western"><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">Extensive comparisons between our new pipe data and other simulation and experimental data have been made, and differences between the various datasets were identified, and we have come up with some explanations for some of these differences. </span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">This work resulted i</span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">n </span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">a</span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US"> major paper in </span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">a </span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">top journal and three high level conference presentations, and has been enthusiastically </span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">received and appreciated</span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US"> by leading experts </span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">as evidenced by recent citations in top journals and top conference presentations.</span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US"> Additional papers are under preparation.</span></span></span></span></span></p> <p class="western"><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">Paper:</span></span></span></span></span></p> <p class="western"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span><span lang="en-US">1. </span></span><span><span lang="en-US"><span>Direct numerical simulations of turbulent pipe flow up to</span></span></span><span><span lang="en-US"> Re_tau=5200, </span></span><span><span lang="en-US"><span>J Yao, S Rezaeiravesh, P Schlatter, F Hussain, Journal of Fluid Mechanics 956, A18, </span></span></span><span><span lang="en-US"><span>2023.</span></span></span></span></span></p> <p class="western"><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">Presentations:</span></span></span></span></span></p> <p class="western"><span style="color: #1a0dab;"><span style="font-family: Arial, sans-serif;"><span><span lang="en-US">1. </span></span></span></span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">Spectral data-driven analysis of high Reynolds-number turbulent pipe flows, D Massaro, J Yao, S Rezaeiravesh, F Hussain, P Schlatter, Bulletin of the American Physical Society, </span></span></span></span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">2023.</span></span></span></span></p> <p class="western"><span style="color: #777777;"><span style="font-family: Arial, sans-serif;"><span><span lang="en-US">2. </span></span></span></span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">Direct numerical simulation of turbulent pipe flow at Re_tau= 10,000, P Schlatter, J Yao, D Massaro, S Rezaeiravesh, F Hussain, Bulletin of the American Physical Society, </span></span></span></span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">2023.</span></span></span></span></p> <p class="western"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span style="color: #000000;"><span lang="en-US">3. Estimating uncertainty of low-and high-order turbulence statistics in wall turbulence, S Rezaeiravesh, D Xavier, R Vinuesa, J Yao, F Hussain, P Schlatter, 12th International Symposium on Turbulence and Shear Flow Phenomena, TSFP, 2022.&nbsp;</span></span></span></span></p> <p class="western"><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US"><strong>Broader Impact</strong></span></span></span></span></span></p> <p class="western"><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US">This work not only complements both the existing high-Re simulations of turbulent boundary layer and channel flows, but also is critical for addressing some important issues/controversies revealed in recent high-Re turbulent pipe experiments. Apart from its fundamental importance as a paradigm flow with translational and rotational symmetries, pipe flow is ubiquitous in a variety of situations including city water supply, gas and oil pipelines, etc. The data we have made freely available is a valuable resource for the scientific community, facilitating further research and experimentation in the field of</span></span></span></span></span><span><span style="color: #000000;"><span style="font-family: &quot;Times New Roman&quot;, serif;"><span><span lang="en-US"> turbulent pipe flow physics and fluid dynamics in general and various technological devices involving heat and mass transfer.</span></span></span></span></span></p> <p class="western">&nbsp;</p> <p class="western">&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/16/2024<br> Modified by: Fazle&nbsp;Hussain</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Title: Direct numerical simulation and analysis of turbulent pipe flow at high Reynolds numbers Award Number: 2031650 Principal Investigator: Fazle Hussain Institution: Texas Tech University   The main outcome of this award was to achieve direct numerical simulation (DNS) of high Reynolds number turbulent pipe flow. High Reynolds numbers turbulent flows have numerous applications, hence we aimed to enhance our understanding of turbulence physics and contribute to the development of more accurate turbulence models for industrial applications. In addition, pipe flow is enshrouded in a number of controversies, some of which we also hope to address and resolve.   Intellectual Merit   High Reynolds number turbulent flows have numerous applications, hence we aimed to enhance our understanding of turbulence physics and contribute to the development of more accurate turbulence models. We have performed high-fidelity DNS up to a Reynolds number of 5,200 using the open-source pseudo-spectral code OPENPIPEFLOW. This is the highest Reynolds number pipe flow simulation so far, and we are extending it to much higher Reynolds numbers (currently Re_tau is 10,000). Our particular focus has been to provide accurate data by using a high-order numerical method, large domains, and sufficient integration time with quantified uncertainty. We have gathered a wealth of statistical data with uncertainties from our simulations, including mean velocity, Reynolds stress, pressure and its fluctuations, and energy spectra (available online at https://dataverse.tdl.org/dataverse/turbpipe).   Extensive comparisons between our new pipe data and other simulation and experimental data have been made, and differences between the various datasets were identified, and we have come up with some explanations for some of these differences. This work resulted in a major paper in a top journal and three high level conference presentations, and has been enthusiastically received and appreciated by leading experts as evidenced by recent citations in top journals and top conference presentations. Additional papers are under preparation.   Paper:   1. Direct numerical simulations of turbulent pipe flow up to Re_tau=5200, J Yao, S Rezaeiravesh, P Schlatter, F Hussain, Journal of Fluid Mechanics 956, A18, 2023.   Presentations:   1. Spectral data-driven analysis of high Reynolds-number turbulent pipe flows, D Massaro, J Yao, S Rezaeiravesh, F Hussain, P Schlatter, Bulletin of the American Physical Society, 2023.   2. Direct numerical simulation of turbulent pipe flow at Re_tau= 10,000, P Schlatter, J Yao, D Massaro, S Rezaeiravesh, F Hussain, Bulletin of the American Physical Society, 2023.   3. Estimating uncertainty of low-and high-order turbulence statistics in wall turbulence, S Rezaeiravesh, D Xavier, R Vinuesa, J Yao, F Hussain, P Schlatter, 12th International Symposium on Turbulence and Shear Flow Phenomena, TSFP, 2022.   Broader Impact   This work not only complements both the existing high-Re simulations of turbulent boundary layer and channel flows, but also is critical for addressing some important issues/controversies revealed in recent high-Re turbulent pipe experiments. Apart from its fundamental importance as a paradigm flow with translational and rotational symmetries, pipe flow is ubiquitous in a variety of situations including city water supply, gas and oil pipelines, etc. The data we have made freely available is a valuable resource for the scientific community, facilitating further research and experimentation in the field of turbulent pipe flow physics and fluid dynamics in general and various technological devices involving heat and mass transfer.              Last Modified: 01/16/2024       Submitted by: FazleHussain]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

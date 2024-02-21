@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER-QAC-QSA: COLLABORATIVE RESEARCH: QUANTUM SIMULATION OF EXCITATIONS, BRAIDING, AND THE NONEQUILIBRIUM DYNAMICS OF FRACTIONAL QUANTUM HALL STATES]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>165086.00</AwardTotalIntnAmount>
+<AwardAmount>165086</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl Hess</SignBlockName>
+<PO_EMAI>dhess@nsf.gov</PO_EMAI>
+<PO_PHON>7032924942</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical research on the studies of dynamics of fractional quantum Hall states using a quantum computer.  Recently, we have witnessed extensive development in building quantum computing devices. These advances have allowed efficient calculations of the properties of molecular systems of a few electrons, beyond the capabilities of classical computers. On the other hand, interactions among macroscopically large numbers of electrons lead to the emergence of novel states of matter such the fractional quantum Hall effect, which arises when electrons confined to two dimensions are placed in a strong magnetic field. Interestingly, it has been shown recently that there are connections between fractional quantum Hall states and quantum gravity. The understanding of these novel phenomena requires study of the quantum dynamics of many-particle states when driven out of equilibrium. Experimental and numerical investigations of such states are particularly challenging, motivating a completely new approach. The PIs will develop quantum algorithms to simulate and study these concepts using near-term quantum computing devices. This project will create a new table-top setup to explore questions ranging from quantum dynamics to gravity.&lt;br/&gt;&lt;br/&gt;The educational component of the activity will provide opportunities for undergraduate and graduate students, particularly from underrepresented groups, to learn about quantum computing and gain hands-on computational experience with quantum circuit design using Google's open-source packages.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical research on the nonequilibrium quench dynamics and the excitations of fractional quantum Hall states using superconducting qubits. Recent advances in quantum computing devices have motivated using them to simulate quantum states.  Given the long-standing challenges in studying correlated many-electron phases, it is compelling to explore the possibility of using quantum computers to investigate these states. This project examines fractional quantum Hall states by developing efficient quantum algorithms that can be implemented on near-term quantum computers.&lt;br/&gt;&lt;br/&gt;Fractional quantum Hall states are significant examples of quantum phases, where topological order arises from strong electron-electron interactions. The understanding of fractional Hall states is primarily based on insightful trial wave functions, conformal field theory methods, exact diagonalization, and the density-matrix renormalization group. Despite extensive efforts, very little is known about the many-body excitation spectrum and the far-from-equilibrium dynamics of these systems. Notably, there has been a new understanding of novel geometric properties of fractional Hall states, which relates them to concepts in gravity. Advances in quantum computing and quantum simulations provide a new avenue to study fractional Hall phases out of equilibrium. In this research, the PIs pursue two particular directions:&lt;br/&gt;&lt;br/&gt;1- Quantum algorithms to generate dynamical quantum braiding and observe its signatures in fractional Hall phases. Even in natural quantum Hall systems, controlled generation of topological excitations and observation of quantum braiding have proved quite challenging.  This project opens the door to using quantum computers as an experimental platform for realizing quantum braiding.&lt;br/&gt;&lt;br/&gt;2- Generating and observing signatures of geometric high-energy excitations, such as the putative emergent graviton in fractional quantum Hall states. To this end, the research utilizes the simulation of nonequilibrium geometric quenches of fractional Hall states on quantum computers.&lt;br/&gt;&lt;br/&gt;The PIs will use the network available at City College to involve high-school, undergraduate, and graduate students from underrepresented groups in the efforts to develop quantum algorithms. The PIs engage undergraduate students in this research, allowing them to gain authentic experience and independent research credit toward graduation. In particular, both PIs will use publicly available resources from Google AI lab to train the students in using software packages to design quantum algorithms and visualize them in terms of quantum gates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037996</AwardID>
+<Investigator>
+<FirstName>Pouyan</FirstName>
+<LastName>Ghaemi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pouyan Ghaemi</PI_FULL_NAME>
+<EmailAddress><![CDATA[pghaemi@ccny.cuny.edu]]></EmailAddress>
+<NSF_ID>000676441</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>160 CONVENT AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L952KGDMSLV5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY City College]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100319101</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~165086</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p id="docs-internal-guid-348fa7aa-7fff-34d5-994a-41ceb558526c" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 15pt 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: 'Times New Roman',serif; color: #1b1b1b; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In recent years, substantial advancements have been made in quantum computing devices; however, these devices still contend with considerable noise, and the presence of quantum errors hinders the realization of many proposed applications. It is crucial at this juncture to identify and suggest applications that align with the current capabilities of noisy quantum computers while simultaneously pushing the boundaries of our knowledge.</span></p> <p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 15pt 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: 'Times New Roman',serif; color: #1b1b1b; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Quantum materials present numerous unresolved challenges that stand to benefit from quantum computing. This project demonstrates that existing quantum computers are particularly adept at investigating the properties of topologically ordered correlated electronic phases, which manifest at extremely low temperatures and exhibit unique phenomena, including emergent particles with unconventional behavior. The study of correlated electron phases, both experimentally and theoretically, poses significant research challenges. Our findings underscore the potential of quantum computers as tabletop experimental labs for probing these phases.</span></p> <p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 15pt 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: 'Times New Roman',serif; color: #1b1b1b; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The specific quantum systems scrutinized in this project belong to the fractional quantum Hall liquid class, a state of quantum matter arising when electrons in two-dimensional layers are subjected to a magnetic field. These systems showcase extraordinary phenomena, such as emergent particles with a fraction of the electron charge. We have successfully generated such states on existing quantum computers and observed several characteristic signatures.</span></p> <p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: 'Times New Roman',serif; color: #1b1b1b; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Furthermore, the grant facilitated the development of high-school-level lectures on quantum computing, well-received by students, the establishment of a new undergraduate-level course on quantum computing, and the training of researchers at various levels. Undergraduate students and a postdoctoral scholar were mentored in this project and made important contributions to the research. These efforts encourage a new generation of students to pursue quantum science and engineering, addressing the demand for workforce development in this field.</span></p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Pouyan&nbsp;Ghaemi</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In recent years, substantial advancements have been made in quantum computing devices; however, these devices still contend with considerable noise, and the presence of quantum errors hinders the realization of many proposed applications. It is crucial at this juncture to identify and suggest applications that align with the current capabilities of noisy quantum computers while simultaneously pushing the boundaries of our knowledge.   Quantum materials present numerous unresolved challenges that stand to benefit from quantum computing. This project demonstrates that existing quantum computers are particularly adept at investigating the properties of topologically ordered correlated electronic phases, which manifest at extremely low temperatures and exhibit unique phenomena, including emergent particles with unconventional behavior. The study of correlated electron phases, both experimentally and theoretically, poses significant research challenges. Our findings underscore the potential of quantum computers as tabletop experimental labs for probing these phases.   The specific quantum systems scrutinized in this project belong to the fractional quantum Hall liquid class, a state of quantum matter arising when electrons in two-dimensional layers are subjected to a magnetic field. These systems showcase extraordinary phenomena, such as emergent particles with a fraction of the electron charge. We have successfully generated such states on existing quantum computers and observed several characteristic signatures.   Furthermore, the grant facilitated the development of high-school-level lectures on quantum computing, well-received by students, the establishment of a new undergraduate-level course on quantum computing, and the training of researchers at various levels. Undergraduate students and a postdoctoral scholar were mentored in this project and made important contributions to the research. These efforts encourage a new generation of students to pursue quantum science and engineering, addressing the demand for workforce development in this field.     Last Modified: 12/27/2023       Submitted by: PouyanGhaemi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

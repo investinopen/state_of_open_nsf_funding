@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Probing Ion Injection in Organic Electrochemical Transistors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>505581.00</AwardTotalIntnAmount>
+<AwardAmount>505581</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Plastics that can conduct both electrons and ions are important for numerous applications such as bioelectronic sensors that convert biological nerve impulses into signals readable by digital electronics, energy storage devices that can deliver high currents for short times, and next-generation computers that mimic the function of the brain. One of the factors limiting technological developments in these fields is limited understanding of how ions inject into and transport within these semiconducting plastics. This project addresses this question by analyzing polymers (plastics) at the nanometer scale using advanced microscopy techniques. These methods can determine where polymers are swelling from ion injection and can correlate that response with the chemical signature of the ion using infrared light, also at the nanoscale. The microscopic information is then compared to transistor measurements to gain a fundamental understanding of how the polymer processing and structure influences ion motion. The scientific knowledge from this project enables better design and processing/manufacturing of polymers for the applications noted above. The project additionally builds upon the track record of the principal investigator in education by enabling development of new outreach materials such as polymer electrochemistry kits that are suitable for integration into existing outreach programs and networks. The project also provides direct support for undergraduate research through continuation of the successful partnership with the Rainier Scholars organization to provide pathways to assist under-represented groups and first-generation college students succeed in the sciences. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The scientific goal of this project is to gain a fundamental understanding of the structure/function relationships controlling ion injection in pi-conjugated polymers operating as mixed ionic/electronic conductors while using blended organic electrochemical transistors as an experimental testbed. These polymers and blends typically exhibit features on the scale of tens of nanometers, and therefore this project uses advanced scanning probe microscopy tools to investigate the ion transport process at the nanoscale. Conjugated polymers have emerged as promising electronic and photonic materials for transducing signals at the interface between the biological and digital environments, and the proposed project will explore fundamental structure/function properties of these materials relevant to these applications in a way that is distinct from other efforts through a combination of unique local and bulk methods. Specifically, the project will: 1) use a new method, photoinduced force microscopy (PiFM), to make nanoscale maps probing how local chemical structure and morphology combine to affect local ion injection; 2) apply electrochemical strain microscopy (ESM) to measure local swelling due to ion uptake in homopolymers, block copolymers, and blends; and, 3) do so while exploring new blend and composite architectures as a means to overcome the bottlenecks of existing materials performance. Notably, this project uses nanoscale infrared microscopy to probe blends of conducting polymers and ionic conductors to test the hypothesis that decoupling the high electronic mobility component and high ionic mobility component can enable improved electrochemical transistors. The principal investigator has shown in previous work that ion injection and electronic mobility are often anti-correlated in mixed conductors, which serves as a device bottleneck. These experiments yield a distinct set of measurements that enable multimodal analysis of the structure-function relationships underpinning ion injection. The project provides important insight into how mobility and volumetric capacitance in mixed ionic-electronic conductors are related, and whether it is possible to rationally improve conducting polymers and polymer blends design by focusing on how ions move into the polymer from the ground up.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003456</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Ginger</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David S Ginger</PI_FULL_NAME>
+<EmailAddress><![CDATA[ginger@chem.washington.edu]]></EmailAddress>
+<NSF_ID>000270926</NSF_ID>
+<StartDate>01/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~505581</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Plastics that can conduct both electrons and ions are important for numerous applications including bioelectronic sensors that convert biological nerve impulses into signals that are readable by digital electronics, energy storage devices that can deliver high currents for short times, and next-generation computers that mimic the function of the brain. These materials offer much technological promise; however, one of the factors limiting technological developments in these fields is our limited understanding of how ions inject into and transport within these semiconducting plastic materials.</p> <p>In this project, supported by a grant from the Division of Materials Research, we have investigated the fundamental properties that control ion transport in soft polymeric semiconducting materials. We studied these materials using a combination of microscopy and measurement methods like optical microscopy, atomic force microscopy, and device data. Using these techniques, we studied several different materials, revealing new insights the properties that control the ion injection process, as well as the ion expulsion process. First, we combined optical measurements with atomic force microscopy (AFM) techniques to probe the effects of using polymer nanowire films on the kinetics of ion injection. Polymers normally form an amorphous film but can be engineered to form long wire-like strands. We showed that ions more easily penetrate the nanowire matrix compared to an amorphous film, causing a significant improvement in the speed of turn on due to faster ion injection, and we used combined AFM with infrared laser excitation to directly show that ions aggregate on the surface in the non-nanowire film. Next, we worked with a range of different polymers to understand the effect of changing the chemistry of the sidechain on the speed of switching. By changing the position of an oxygen atom on the sidechain of a semiconducting polymer called polythiophene, we could observe significant changes in ion injection speed and transistor performance. Next, we applied these techniques to a polymer that does not have any sidechains yet is an efficient ion transport material, a fact that has confused researchers for many years. We showed that this sidechain-free polymer, called BBL, can swell in salt solution as soon as a voltage is applied to the water, allowing for ions to penetrate between crystallites due to this swelling effect. This observation provided key insight into how to design polymers without sidechains that still work with ions. Lastly, we recently completed work studying the asymmetric kinetics of ion injection into conducting polymers. Researchers have commonly observed this phenomenon, where ions are very slow to enter a material but quick to leave the material (&ldquo;doping&rdquo; and &ldquo;dedoping,&rdquo; respectively). We used optical microscopy on devices to show the ion injection profiles in realtime, and we used these data to develop a model that explains why ions inject into the film relatively slowly.</p> <p>Our reports provide a set of work that help explain the different properties that control ion injection, from exploring the polymer structure and sidechain chemistry to fundamental studies of the ion injection/expulsion process. These experiments combined AFM measurements and optical studies, and the work generated by this grant has laid the groundwork for future studies into understanding how to exploit kinetics for devices that mimic memory cells.</p> <p>In addition, this project supported workforce development through the interdisciplinary training of several graduate and undergraduate students, and supported the core Ph.D. work of 2 students who graduated with their doctorates (one is now working in the U.S. semiconductor industry, and one now working for a U.S. national laboratory),&nbsp; one student who graduated with a masters degree, and multiple summer undergraduates students who were recruited through partnerships with local organizations that focus on provide opportunities to hard-working, low-income students, many of whom are the first in their families to attend college.</p><br> <p>  Last Modified: 01/02/2024<br> Modified by: David&nbsp;S&nbsp;Ginger</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Plastics that can conduct both electrons and ions are important for numerous applications including bioelectronic sensors that convert biological nerve impulses into signals that are readable by digital electronics, energy storage devices that can deliver high currents for short times, and next-generation computers that mimic the function of the brain. These materials offer much technological promise; however, one of the factors limiting technological developments in these fields is our limited understanding of how ions inject into and transport within these semiconducting plastic materials.   In this project, supported by a grant from the Division of Materials Research, we have investigated the fundamental properties that control ion transport in soft polymeric semiconducting materials. We studied these materials using a combination of microscopy and measurement methods like optical microscopy, atomic force microscopy, and device data. Using these techniques, we studied several different materials, revealing new insights the properties that control the ion injection process, as well as the ion expulsion process. First, we combined optical measurements with atomic force microscopy (AFM) techniques to probe the effects of using polymer nanowire films on the kinetics of ion injection. Polymers normally form an amorphous film but can be engineered to form long wire-like strands. We showed that ions more easily penetrate the nanowire matrix compared to an amorphous film, causing a significant improvement in the speed of turn on due to faster ion injection, and we used combined AFM with infrared laser excitation to directly show that ions aggregate on the surface in the non-nanowire film. Next, we worked with a range of different polymers to understand the effect of changing the chemistry of the sidechain on the speed of switching. By changing the position of an oxygen atom on the sidechain of a semiconducting polymer called polythiophene, we could observe significant changes in ion injection speed and transistor performance. Next, we applied these techniques to a polymer that does not have any sidechains yet is an efficient ion transport material, a fact that has confused researchers for many years. We showed that this sidechain-free polymer, called BBL, can swell in salt solution as soon as a voltage is applied to the water, allowing for ions to penetrate between crystallites due to this swelling effect. This observation provided key insight into how to design polymers without sidechains that still work with ions. Lastly, we recently completed work studying the asymmetric kinetics of ion injection into conducting polymers. Researchers have commonly observed this phenomenon, where ions are very slow to enter a material but quick to leave the material (doping and dedoping, respectively). We used optical microscopy on devices to show the ion injection profiles in realtime, and we used these data to develop a model that explains why ions inject into the film relatively slowly.   Our reports provide a set of work that help explain the different properties that control ion injection, from exploring the polymer structure and sidechain chemistry to fundamental studies of the ion injection/expulsion process. These experiments combined AFM measurements and optical studies, and the work generated by this grant has laid the groundwork for future studies into understanding how to exploit kinetics for devices that mimic memory cells.   In addition, this project supported workforce development through the interdisciplinary training of several graduate and undergraduate students, and supported the core Ph.D. work of 2 students who graduated with their doctorates (one is now working in the U.S. semiconductor industry, and one now working for a U.S. national laboratory), one student who graduated with a masters degree, and multiple summer undergraduates students who were recruited through partnerships with local organizations that focus on provide opportunities to hard-working, low-income students, many of whom are the first in their families to attend college.     Last Modified: 01/02/2024       Submitted by: DavidSGinger]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

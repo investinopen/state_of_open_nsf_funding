@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  A novel label-free imaging device for real-time detection of lymph nodes during laparoscopic cancer surgeries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to enable surgeons to see lymph nodes directly during cancer surgeries to (1) improve the quality-of-care for lung cancer, rectal cancer, and some gynecological cancers; and (2) save costs for hospitals by accelerating a time-consuming and potentially inaccurate step in cancer surgeries; (3) improve hospital accreditation performance, since lymph node number is a quality metric and many hospitals fail to meet the requirements stipulated by medical authorities. Decades of clinical evidence have shown evaluating lymph nodes is linked to higher survival rates for cancer patients. This project will develop a device to be seamlessly integrated into the existing surgical protocols and used as an accessory to existing laparoscopic towers and surgical robots. Any cancer hospital will be able to purchase this device, attach it to their existing towers or surgical robots, and improve their quality of care, surgery efficiency, and accreditation performance immediately at an affordable price.&lt;br/&gt;&lt;br/&gt;The proposed project addresses a difficult and common problem in surgical oncology – finding lymph nodes in cancer surgeries. Lymph nodes are critically important in the context of cancer because they are the channels for cancers to spread. However, lymph nodes are translucent in color and surrounded by fat, also translucent, making it difficult to find them with current optical systems. This project aims to develop a label-free optical imaging device to visualize lymph nodes with high contrast in real time without any injection. The goals of this project are to (1) build an accessory device attachable to a commercially available laparoscopic tower, (2) obtain optical performance testing results from animal carcasses, and (3) obtain optical performance testing results from cadaver specimens.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/26/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/26/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051771</AwardID>
+<Investigator>
+<FirstName>Zhongming</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhongming Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeremy@cisionvision.com]]></EmailAddress>
+<NSF_ID>000832796</NSF_ID>
+<StartDate>11/26/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[CISION VISION, INC.]]></Name>
+<CityName>MOUNTAIN VIEW</CityName>
+<ZipCode>940435225</ZipCode>
+<PhoneNumber>6175108998</PhoneNumber>
+<StreetAddress><![CDATA[319 BERNARDO AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FNVQX85EX6C5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CISION VISION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cision Vision Inc.]]></Name>
+<CityName>Mountain View</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940403554</ZipCode>
+<StreetAddress><![CDATA[877 Heatherstone Way, Apt. 501]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Through this project, we successfully helped surgeons visualize lymph nodes in vivo directly for the first time in history without any injection or radiation. Lymph nodes are the channels for cancers to spread, so identifying whether cancer has spread to the nearby lymph nodes is one of the most important steps in cancer staging. But because lymph nodes are translucent in color, similar to the surrounding fat, the process of finding lymph nodes is extremely inconsistent and prone to human error. Sentinel lymph node procedure, a dye injection-based procedure mitigated the problem and has become the biggest technological advances in surgical oncology in the past decade. However, it is only compatible with breast, melanoma, and GYN cancers. The cancers that are deep inside the body, such as lung cancer, is not compatible with sentinel lymph node procedures. As a result, the majority of lung cancer procedures in the US do not meet the lymph node dissection standards stipulated by medical authorities. Our project will be a major step forward to address this unmet need in surgical oncology to help all lung cancer patients.</span></p> <p><span>Our project is to use the novel shortwave infrared imaging that was previously not available for civil applications to visualize lymph nodes. Our team has successfully commercialize this novel shortwave infrared imaging technology for lymph node imaging in surgical specimens in the anatomic pathology market. This project will be the adaption of this technology in the surgical oncology market. Our approach of retrofitting our technology into existing laparoscopic towers will also enable us to make a large impact immediately after it is introduced commercially to the market.</span></p> <p><span>From benchtop testing to ex vivo cadaver testing and in vivo live pig model testing, we have de-risked the technology substantially to show that our technological approach is viable for clinical adoption. We built a laparoscopic imaging connector that can be connected to standard off-the-shelf laparoscopes and towers. The prototype is able to show two imaging modalities, standard visible light imaging and our proprietary imaging, at the same time. The images are perfectly overlapped with each other, so real time insights of the locations of lymph nodes are shared with surgeons without comprising the regular visible image ability that surgeons already have.</span></p> <p><span>The project will have a profound impact on cancer staging for 240,000 American lung cancer patients. It will bring more accurate and suitable cancer treatments to them, and substantially increase their survival rates as a result.</span></p> <p><span>As the next step, we will continue to improve the&nbsp;user-friendliness&nbsp;of our prototype to improve its combability with an operating room environment. The specific factors that we will be working on are the size, ergonomics, image co-registration algorithms. Once these factors are addressed, our device will become a valuable asset to all thoracic surgeons and make direct impacts on patient care for lung cancer patients.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: Zhongming&nbsp;Li</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Through this project, we successfully helped surgeons visualize lymph nodes in vivo directly for the first time in history without any injection or radiation. Lymph nodes are the channels for cancers to spread, so identifying whether cancer has spread to the nearby lymph nodes is one of the most important steps in cancer staging. But because lymph nodes are translucent in color, similar to the surrounding fat, the process of finding lymph nodes is extremely inconsistent and prone to human error. Sentinel lymph node procedure, a dye injection-based procedure mitigated the problem and has become the biggest technological advances in surgical oncology in the past decade. However, it is only compatible with breast, melanoma, and GYN cancers. The cancers that are deep inside the body, such as lung cancer, is not compatible with sentinel lymph node procedures. As a result, the majority of lung cancer procedures in the US do not meet the lymph node dissection standards stipulated by medical authorities. Our project will be a major step forward to address this unmet need in surgical oncology to help all lung cancer patients.  Our project is to use the novel shortwave infrared imaging that was previously not available for civil applications to visualize lymph nodes. Our team has successfully commercialize this novel shortwave infrared imaging technology for lymph node imaging in surgical specimens in the anatomic pathology market. This project will be the adaption of this technology in the surgical oncology market. Our approach of retrofitting our technology into existing laparoscopic towers will also enable us to make a large impact immediately after it is introduced commercially to the market.  From benchtop testing to ex vivo cadaver testing and in vivo live pig model testing, we have de-risked the technology substantially to show that our technological approach is viable for clinical adoption. We built a laparoscopic imaging connector that can be connected to standard off-the-shelf laparoscopes and towers. The prototype is able to show two imaging modalities, standard visible light imaging and our proprietary imaging, at the same time. The images are perfectly overlapped with each other, so real time insights of the locations of lymph nodes are shared with surgeons without comprising the regular visible image ability that surgeons already have.  The project will have a profound impact on cancer staging for 240,000 American lung cancer patients. It will bring more accurate and suitable cancer treatments to them, and substantially increase their survival rates as a result.  As the next step, we will continue to improve the user-friendliness of our prototype to improve its combability with an operating room environment. The specific factors that we will be working on are the size, ergonomics, image co-registration algorithms. Once these factors are addressed, our device will become a valuable asset to all thoracic surgeons and make direct impacts on patient care for lung cancer patients.          Last Modified: 09/29/2023       Submitted by: Zhongming Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

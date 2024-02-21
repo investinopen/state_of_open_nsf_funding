@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Mitigation and Suppression of Coronavirus Pandemic with Data-driven RAPID Decisions Using COVID-19 Simulator]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>103858.00</AwardTotalIntnAmount>
+<AwardAmount>103858</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Coronavirus disease 2019 (COVID-19), a global pandemic, has affected every sector of human life. While our understanding of the spread of COVID-19 is still evolving, policymakers need to make strategic decisions amidst this uncertainty to mitigate the pandemic. Appropriate policy decisions can reduce morbidity, mortality, and damage to the healthcare system. This study will estimate the underlying prevalence of COVID-19 at the county level and project future trajectories of COVID-19 under various sequences of non-pharmaceutical and pharmaceutical interventions. In addition, these new estimations and projections will be incorporated into our existing online COVID-19 Simulator (www.covid19sim.org) to inform county-level decisions. In addition, the COVID-19 Simulator will detect early signs of community-level COVID-19 outbreaks and predict hotspots in different jurisdictions. From a societal perspective, this research will improve our understanding of COVID-19 transmission and inform policies to mitigate the spread of the virus, ultimately leading to a reduction in COVID-19 disease burden.&lt;br/&gt;&lt;br/&gt;This research will use epidemiological and operations research modeling approaches to simulate the spread of COVID-19 at the county level and the effects of different interventions on mitigation of COVID-19. In addition, causal decision tree and mixed-integer programing-based machine learning algorithms will be used to identify county level hotspots of transmission. The proposed research will not only inform key decisions with important public health implications, but also contribute to intellectual merits, including 1) linking and using various datasets in near real-time to improve our understanding of disease epidemiology, 2) estimating the underlying prevalence of COVID-19 and projecting future trajectories under various interventions, 3) developing innovative approaches for real time parameter estimations,  model calibrations, and projections, and (4) detecting early signs of community-level COVID-19 outbreaks using epidemiological, statistical and machine learning based modeling techniques.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Ecology and Evolution of Infectious Diseases Program in the Division of Environmental Biology, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035361</AwardID>
+<Investigator>
+<FirstName>Jagpreet</FirstName>
+<LastName>Chhatwal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jagpreet Chhatwal</PI_FULL_NAME>
+<EmailAddress><![CDATA[jagchhatwal@mgh.harvard.edu]]></EmailAddress>
+<NSF_ID>000739686</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts General Hospital]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021142621</ZipCode>
+<PhoneNumber>8572821670</PhoneNumber>
+<StreetAddress><![CDATA[55 FRUIT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FLJ7DQKLL226</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE GENERAL HOSPITAL CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts General Hospital]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021144724</ZipCode>
+<StreetAddress><![CDATA[101 Merrimac Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~103858</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary objective was to address time-sensitive policy decisions at state and national levels concerning COVID-19. &nbsp;This project resulted in the development of online, publicly available set of tools, which enabled policymakers and stakeholders to directly utilize the power of decision-analytic modeling for complex decision-making, presenting readily accessible and relevant information to stakeholders. The COVID-19 Simulator (<a href="https://covid19sim.org/">https://covid19sim.org/</a>) was accessed more than 100,000 times in the first two months of its launch and was used in CDC&rsquo;s weekly COVID-19 forecast. This suite of tools informed several timely decisions to control/mitigate the spread of COVID-19, and it likely helped with safe lifting of restrictions in multiple states.</p> <p>&nbsp;</p> <p>The project successfully achieved its objectives, providing valuable tools, insights, and information to guide policy decisions and public health responses amidst the COVID-19 pandemic. The project findings were disseminated widely through media outlets, including CNN Health, Harvard Gazette, U.S. News &amp; World Report, National Geographic, and others.</p> <p>&nbsp;</p> <p>Project outcomes that address the intellectual merit and broader of impacts.</p> <p>&nbsp;</p> <p>1.&nbsp;&nbsp;&nbsp;&nbsp; State-level seroprevalence estimation: We extended the COVID-19 Simulator to estimate seroprevalence due to past infection and vaccination in each U.S. state. The model's projections were validated against seroprevalence study results, accounting for vaccination rates and variants of concern.</p> <p>&nbsp;</p> <p>2.&nbsp;&nbsp;&nbsp;&nbsp; County-level outbreak detection: We developed and regularly updated the COVID-19 Outbreak Detection Tool, leveraging machine learning to predict the spread rate of outbreaks at the county level. The tool considers various factors like reported cases, deaths, interventions, and vulnerability indices, providing an interactive map and data explorer.</p> <p>&nbsp;</p> <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Association of Limited In-Person Attendance with County-Level COVID-19 Cases: We studied the association between limited in-person attendance at NFL and NCAA games and local COVID-19 cases. Utilized matching methods and a difference-in-difference estimator, we found no consistent increase in COVID-19 cases in counties hosting these games with limited attendance.</p> <p>&nbsp;</p> <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Safe Reopening of Colleges in the United States: We utilized the COVID-19 Simulator to analyze the impact of vaccination mandates on COVID-19 outbreaks at colleges. We estimated seroprevalence and student movement to inform the safe reopening of colleges. Using these data, we ffound that most colleges could safely open with limited cases, and vaccination coverage would reduce new outbreaks.</p> <p>&nbsp;</p> <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Opportunities for Training and Professional Development: The project supported training for undergraduate and graduate students at MGH, allowing exposure to complex healthcare problems and simulation-based solutions while working with clinicians, policymakers, and health service researchers.</p><br> <p>  Last Modified: 11/06/2023<br> Modified by: Jagpreet&nbsp;Chhatwal</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary objective was to address time-sensitive policy decisions at state and national levels concerning COVID-19. This project resulted in the development of online, publicly available set of tools, which enabled policymakers and stakeholders to directly utilize the power of decision-analytic modeling for complex decision-making, presenting readily accessible and relevant information to stakeholders. The COVID-19 Simulator (https://covid19sim.org/) was accessed more than 100,000 times in the first two months of its launch and was used in CDCs weekly COVID-19 forecast. This suite of tools informed several timely decisions to control/mitigate the spread of COVID-19, and it likely helped with safe lifting of restrictions in multiple states.      The project successfully achieved its objectives, providing valuable tools, insights, and information to guide policy decisions and public health responses amidst the COVID-19 pandemic. The project findings were disseminated widely through media outlets, including CNN Health, Harvard Gazette, U.S. News & World Report, National Geographic, and others.      Project outcomes that address the intellectual merit and broader of impacts.      1. State-level seroprevalence estimation: We extended the COVID-19 Simulator to estimate seroprevalence due to past infection and vaccination in each U.S. state. The model's projections were validated against seroprevalence study results, accounting for vaccination rates and variants of concern.      2. County-level outbreak detection: We developed and regularly updated the COVID-19 Outbreak Detection Tool, leveraging machine learning to predict the spread rate of outbreaks at the county level. The tool considers various factors like reported cases, deaths, interventions, and vulnerability indices, providing an interactive map and data explorer.      3. Association of Limited In-Person Attendance with County-Level COVID-19 Cases: We studied the association between limited in-person attendance at NFL and NCAA games and local COVID-19 cases. Utilized matching methods and a difference-in-difference estimator, we found no consistent increase in COVID-19 cases in counties hosting these games with limited attendance.      4. Safe Reopening of Colleges in the United States: We utilized the COVID-19 Simulator to analyze the impact of vaccination mandates on COVID-19 outbreaks at colleges. We estimated seroprevalence and student movement to inform the safe reopening of colleges. Using these data, we ffound that most colleges could safely open with limited cases, and vaccination coverage would reduce new outbreaks.      5. Opportunities for Training and Professional Development: The project supported training for undergraduate and graduate students at MGH, allowing exposure to complex healthcare problems and simulation-based solutions while working with clinicians, policymakers, and health service researchers.     Last Modified: 11/06/2023       Submitted by: JagpreetChhatwal]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Measuring Learning and Improving Teaching of the Physics of Fluids in Introductory Physics for the Life Sciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>22998.00</AwardTotalIntnAmount>
+<AwardAmount>22998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eleanor Sayre</SignBlockName>
+<PO_EMAI>esayre@nsf.gov</PO_EMAI>
+<PO_PHON>7032922997</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project aims to serve the national interest by improving biology students' mastery of physics concepts. More than 100,000 students graduate from college each year with degrees in the biological sciences, and many of them go on to become physicians and other health professionals. Most of these biological sciences majors take an introductory physics course as part of their degree program or as a prerequisite for admission to a graduate or professional school.  This course is usually the only physics course they take in college and it is often a special introductory physics class targeted to biology majors.  As a result, this course provides their most significant opportunity to understand how physics constrains and enables life. Although these Introductory Physics for Life Sciences (IPLS) courses have been the target of significant national reform efforts, more improvements are needed. This project will address a specific area of need: the study of static and dynamic fluids.  Fluids are essential to life and understanding fluids is essential to life science students. The need for students to understand the physics of fluids has been cited by biologists and health professionals alike.  However, these topics are not always included or taught well in IPLS courses. To help physics instructors design more effective approaches to teaching fluids, this project will develop and pilot-test a Fluids Conceptual Evaluation (FCE), which will allow instructors to evaluate the effectiveness of their teaching and measure students' understanding of the concepts. While developing this assessment tool, the investigators will also develop supports to help IPLS instructors teach the physics of fluids well.&lt;br/&gt;&lt;br/&gt;The investigators will pursue two complementary lines of work in the project. First, they will develop a preliminary version of the FCE, using a process that is novel not only in the content covered but also in following psychometric methodologies, in gathering data from a diverse set of students, and in producing several forms of the conceptual evaluation. The FCE will consist entirely of two-tier test items, where the first tier consists of a multiple-choice conceptual question and the second tier consists of a multiple-choice question asking test-takers to explain the reason they chose the answer they did for the first question. Using Rasch analysis, the investigators will create several forms of the instrument that are on the same scale. These variations are intended to address the concern that conceptual evaluations do not function well as both a pre-test and a post-test, since some questions are too hard for the pre-test and others are too easy for the post-test. The availability of different forms will also address the concern that some topics are not included in different IPLS courses. In summary, the development process is designed to increase the rigor and flexibility of conceptual evaluations. Second, the investigators will conduct surveys and virtual discussions with IPLS instructors to develop insights about how they perceive the difficulty and value of teaching fluids. With that information, the investigators aim to build supports and dissemination activities to meet instructors' needs. Those resources should increase the likelihood that fluids will be included in IPLS courses, as recommended.  This collaborative project involves investigators at the University of New Hampshire (Award DUE-2021273), the American Association of Physics Teachers (Award DUE-2021059), the University of New England (Award DUE-2021261), and the University of North Carolina at Chapel Hill (Award DUE-2021224).  This project is funded by the Improving Undergraduate STEM Education (IUSE: EHR) program, which supports research and development projects to improve the effectiveness of STEM education for all students. Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021224</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Young</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Young</PI_FULL_NAME>
+<EmailAddress><![CDATA[dyoung4@email.unc.edu]]></EmailAddress>
+<NSF_ID>000763756</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>275991350</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~22998</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">Static and dynamic fluids are topics which have been cited as essential for life science students by biologists and health professionals, and yet are not always taught in IPLS courses, or are not taught as deeply as they could be</span><span class="NormalTextRun SCXW41640318 BCX0">.&nbsp; </span><span class="NormalTextRun SCXW41640318 BCX0">In addition, we do not yet have all supports in place for the teaching of fluids: there is no conceptual evaluation instrument to help instructors evaluate the effectiveness of their curriculum, and we do not yet understand the </span><span class="NormalTextRun SCXW41640318 BCX0">various ways</span><span class="NormalTextRun SCXW41640318 BCX0"> that IPLS instructors perceive the difficulty and value of teaching fluids.&nbsp;</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">The goal of this project</span><span class="NormalTextRun SCXW41640318 BCX0"> therefore</span><span class="NormalTextRun SCXW41640318 BCX0"> is to support the teaching and learning of static and dynamic fluids to Life Science students by designing a research-based fluids conceptual evaluation (FCE) which will aid instructors</span><span class="NormalTextRun SCXW41640318 BCX0"> by providing them with feedback on the efficacy of their teaching</span><span class="NormalTextRun SCXW41640318 BCX0">, as well as diagnosing student difficulties with the concept of fluids.</span><span class="NormalTextRun SCXW41640318 BCX0"> </span><span class="NormalTextRun SCXW41640318 BCX0">Furthermore, by increasing the number of IPLS instructors teaching fluids in authentic biological systems through our dissemination activities, we are increasing an essential knowledge base of students going into life science careers.</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">As this report is being prepared before the group </span><span class="NormalTextRun SCXW41640318 BCX0">submits</span><span class="NormalTextRun SCXW41640318 BCX0"> the final project report, t</span><span class="NormalTextRun SCXW41640318 BCX0">his outcome report therefore reflects the work we have performed up to this point along with </span><span class="NormalTextRun SCXW41640318 BCX0">a summary</span><span class="NormalTextRun SCXW41640318 BCX0"> of </span><span class="NormalTextRun SCXW41640318 BCX0">anticipated</span><span class="NormalTextRun SCXW41640318 BCX0"> future</span><span class="NormalTextRun SCXW41640318 BCX0"> </span><span class="NormalTextRun SCXW41640318 BCX0">work.</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US">At the current time of writing, we have</span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </div> <div class="ListContainerWrapper SCXW41640318 BCX0"> <ul class="BulletListStyle1 SCXW41640318 BCX0"> <li class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">performed over</span><span class="NormalTextRun SCXW41640318 BCX0"> </span><span class="NormalTextRun SCXW41640318 BCX0">70</span><span class="NormalTextRun SCXW41640318 BCX0"> interviews</span><span class="NormalTextRun SCXW41640318 BCX0"> across a wide range of </span><span class="NormalTextRun SCXW41640318 BCX0">student </span><span class="NormalTextRun SCXW41640318 BCX0">demographics </span><span class="NormalTextRun SCXW41640318 BCX0">via</span><span class="NormalTextRun SCXW41640318 BCX0"> multiple </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW41640318 BCX0">minority</span><span class="NormalTextRun SCXW41640318 BCX0"> serving institutions (such as Texas State and Santa Rosa)</span><span class="NormalTextRun SCXW41640318 BCX0"> which lends a diverse voice to the student responses</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </li> <li class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">compiled</span><span class="NormalTextRun SCXW41640318 BCX0">, coded,</span><span class="NormalTextRun SCXW41640318 BCX0"> and discussed the data received (along with</span><span class="NormalTextRun SCXW41640318 BCX0"> </span><span class="NormalTextRun SCXW41640318 BCX0">disseminating</span><span class="NormalTextRun SCXW41640318 BCX0"> and</span><span class="NormalTextRun SCXW41640318 BCX0"> presenting our results at various conferences)</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </li> <li class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US">generated over 100 questions for the FCE which we have refined down to 66 based on what we learned during the interview process,</span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </li> <li class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">and are ready to </span><span class="NormalTextRun SCXW41640318 BCX0">pilot test the FCE to </span><span class="NormalTextRun SCXW41640318 BCX0">generate</span><span class="NormalTextRun SCXW41640318 BCX0"> </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW41640318 BCX0">the second</span><span class="NormalTextRun SCXW41640318 BCX0">-tier responses</span><span class="NormalTextRun SCXW41640318 BCX0">.</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </li> </ul> </div> <div class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">Throughout this process, w</span><span class="NormalTextRun SCXW41640318 BCX0">e have discovered</span><span class="NormalTextRun SCXW41640318 BCX0">:</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </div> <div class="ListContainerWrapper SCXW41640318 BCX0"> <ul class="BulletListStyle1 SCXW41640318 BCX0"> <li class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US">students have many naive intuitions about fluids (for example, &ldquo;faster moving fluids exert higher pressures&rdquo;)</span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </li> <li class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">some fluidic terms are not equally represented or </span><span class="NormalTextRun SCXW41640318 BCX0">stated</span><span class="NormalTextRun SCXW41640318 BCX0"> in various undergraduate textbooks, most notably,</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </li> <li class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">concepts of viscous drag versus pressure drag are challe</span><span class="NormalTextRun SCXW41640318 BCX0">nging even for experts to detangle</span><span class="NormalTextRun SCXW41640318 BCX0"> which caused us to make a modification to the constructs we are considering</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </li> </ul> </div> <div class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">This has resulted in many useful roundtable discussions at various conferences where we have </span><span class="NormalTextRun SCXW41640318 BCX0">also </span><span class="NormalTextRun SCXW41640318 BCX0">disseminated</span><span class="NormalTextRun SCXW41640318 BCX0"> materials we have developed and</span><span class="NormalTextRun SCXW41640318 BCX0"> received corresponding in</span><span class="NormalTextRun SCXW41640318 BCX0">pu</span><span class="NormalTextRun SCXW41640318 BCX0">t</span><span class="NormalTextRun SCXW41640318 BCX0"> </span><span class="NormalTextRun SCXW41640318 BCX0">regar</span><span class="NormalTextRun SCXW41640318 BCX0">ding</span><span class="NormalTextRun SCXW41640318 BCX0"> how we can </span><span class="NormalTextRun SCXW41640318 BCX0">further </span><span class="NormalTextRun SCXW41640318 BCX0">generate helpful curricular materials</span><span class="NormalTextRun SCXW41640318 BCX0"> to use in the classroom.</span></span><span class="EOP SCXW41640318 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW41640318 BCX0"> <p class="Paragraph SCXW41640318 BCX0"><span class="TextRun SCXW41640318 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW41640318 BCX0">These results position us to be able to</span><span class="NormalTextRun SCXW41640318 BCX0"> </span><span class="NormalTextRun SCXW41640318 BCX0">create</span><span class="NormalTextRun SCXW41640318 BCX0"> a research-based pilot version of the FCE </span><span class="NormalTextRun SCXW41640318 BCX0">along with a corresponding </span><span class="NormalTextRun SCXW41640318 BCX0">IRT</span><span class="NormalTextRun SCXW41640318 BCX0"> analysis performed </span><span class="NormalTextRun SCXW41640318 BCX0">which will serve as a basis for a further Rasch analysis to enable multiple equivalent forms of the FCE</span><span class="NormalTextRun SCXW41640318 BCX0">.</span></span></p> </div><br> <p>  Last Modified: 01/29/2024<br> Modified by: Daniel&nbsp;Young</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Static and dynamic fluids are topics which have been cited as essential for life science students by biologists and health professionals, and yet are not always taught in IPLS courses, or are not taught as deeply as they could be. In addition, we do not yet have all supports in place for the teaching of fluids: there is no conceptual evaluation instrument to help instructors evaluate the effectiveness of their curriculum, and we do not yet understand the various ways that IPLS instructors perceive the difficulty and value of teaching fluids.     The goal of this project therefore is to support the teaching and learning of static and dynamic fluids to Life Science students by designing a research-based fluids conceptual evaluation (FCE) which will aid instructors by providing them with feedback on the efficacy of their teaching, as well as diagnosing student difficulties with the concept of fluids. Furthermore, by increasing the number of IPLS instructors teaching fluids in authentic biological systems through our dissemination activities, we are increasing an essential knowledge base of students going into life science careers.     As this report is being prepared before the group submits the final project report, this outcome report therefore reflects the work we have performed up to this point along with a summary of anticipated future work.     At the current time of writing, we have       performed over 70 interviews across a wide range of student demographics via multiple minority serving institutions (such as Texas State and Santa Rosa) which lends a diverse voice to the student responses     compiled, coded, and discussed the data received (along with disseminating and presenting our results at various conferences)     generated over 100 questions for the FCE which we have refined down to 66 based on what we learned during the interview process,     and are ready to pilot test the FCE to generate the second-tier responses.       Throughout this process, we have discovered:       students have many naive intuitions about fluids (for example, faster moving fluids exert higher pressures)     some fluidic terms are not equally represented or stated in various undergraduate textbooks, most notably,     concepts of viscous drag versus pressure drag are challenging even for experts to detangle which caused us to make a modification to the constructs we are considering       This has resulted in many useful roundtable discussions at various conferences where we have also disseminated materials we have developed and received corresponding input regarding how we can further generate helpful curricular materials to use in the classroom.     These results position us to be able to create a research-based pilot version of the FCE along with a corresponding IRT analysis performed which will serve as a basis for a further Rasch analysis to enable multiple equivalent forms of the FCE.      Last Modified: 01/29/2024       Submitted by: DanielYoung]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

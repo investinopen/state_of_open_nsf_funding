@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS:Small: Incorporating and Balancing Stakeholder Values in Algorithm Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>532000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will create a general method for value-sensitive algorithm design and develop tools and techniques to help incorporate the tacit values of stakeholders, balance multiple stakeholders' values, and achieve collective goals in the development of an algorithm.  The research community has paid increasing attention to the role of human values in algorithm design and development. For example, fairness-aware machine learning research attempts to translate fairness notions into formal algorithmic constraints and develop algorithms subject to such constraints. Despite the mathematical rigor of these approaches, prior research suggests a disconnect between the current discrimination-aware machine learning research and stakeholders' realities, context, and constraints; this disconnect is likely to undermine practical initiatives. Furthermore, studies have suggested that there are often tensions among a diverse set of values relevant to the design of the algorithm.  A new general method will be developed in the context of Redesigning Wikipedia's Objective Revision Evaluation Service (ORES), a machine learning-based service designed to generate real-time predictions on edit quality and article quality, which will benefit vast numbers of people who consume the Wikipedia content either directly or indirectly through other applications.&lt;br/&gt;&lt;br/&gt;There are four major goals of this research.  The first is to articulate and demonstrate a general method for creating algorithmic systems that respect and balance stakeholders' values.  The second goal is to create techniques for generating an algorithmic system's value report and explaining the value trade-offs. The third goal to create, deploy, and evaluate social and technical innovations to address fundamental trade-offs between different values.  The final goal is to design and implement improvements to ORES, which will improve a wide variety of applications that rely on ORES, and Wikipedia's content and community as a whole.  For an example of the kinds of problems that must be solved, quality control algorithms that prioritize efficiency in deleting low quality content incur the risk of undermining the motivation of contributors in peer production communities, particularly new contributors who are still learning how to contribute. To date, however, little work has been conducted to create solutions to address tensions and trade-offs between different values in algorithm design.  The research will be performed through multiple studies by stepping through the process for a diverse set of tasks, each of which will allow interaction with multiple stakeholders, who have different (and perhaps conflicting) values.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001851</AwardID>
+<Investigator>
+<FirstName>Haiyi</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haiyi Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[haiyiz@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000686407</NSF_ID>
+<StartDate>10/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~500000</FUND_OBLG>
+<FUND_OBLG>2020~16000</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-b8388727-7fff-bea8-82d0-d760e4498dc4"> </span></p> <p dir="ltr"><span><span>During the funding period, we actively engaged in significant research activities, focusing on integrating stakeholder values into AI technologies.</span> These values encompass the perspectives and insights of community members, frontline workers, and policymakers. Our aim was to incorporate these values into the design and evaluation of various algorithmic tools, including AI-based decision support and generative AI tools, across diverse domains. These domains included online content moderation, child welfare, and homeless services.</span></p> <p dir="ltr"><span>&nbsp;</span>(1) As an example of our work, we conducted interviews with community stakeholders within the English Wikipedia community to gain a deep understanding of their values concerning the Objective Revision Evaluation System (ORES), an AI-based decision-support system extensively used in various Wikipedia applications and contexts. This research earned recognition as a <span style="text-decoration: underline;">Best Paper honorable mention at CHI 2020</span>. We also developed visualization tools to illustrate the trade-offs between community goals related to Wikipedia ORES, which we published at <span style="text-decoration: underline;">DIS 2021</span>. Additionally, we created the Model Card Authoring Toolkit, a resource that supports community members in comprehending, navigating, and making choices regarding a range of machine learning models through deliberation. We conducted workshops to empirically assess the initial effectiveness of our approach in two online communities - English and Dutch Wikipedia. Our findings documented how participants collectively established thresholds for machine learning-based quality prediction systems used in their content moderation applications, and this research was published at <span style="text-decoration: underline;">FAccT 2022</span>.</p> <p dir="ltr">(2) Our research extended into the context of child welfare, including studies to understand fairness notions among community stakeholders concerning the use of decision-support tools in child maltreatment (published at <span style="text-decoration: underline;">CHI 2021)</span>. We also explored how child welfare frontline workers address racial disparities in algorithmic decisions (<span style="text-decoration: underline;">CHI 2022</span>) and investigated ways to enhance human-AI partnerships in the design and evaluation of AI decision support systems in child welfare (<span style="text-decoration: underline;">CHI 2022, with a best paper honorable mention)</span>. Moreover, we engaged community stakeholders to envision new futures beyond AI decision support systems in child welfare, aligning more closely with stakeholder needs and values. This work was published at <span style="text-decoration: underline;">FAccT 2022</span>.</p> <p dir="ltr">(3) In recent years, AI-based decision support systems (ADS) have seen increased adoption in homeless services. However, we had limited knowledge of stakeholder desires and concerns regarding their use. To address this gap, we aimed to understand impacted stakeholders' perspectives on a deployed ADS that prioritizes scarce housing resources. We employed AI lifecycle comicboarding, an adapted version of the comicboarding method, to elicit stakeholder feedback and design ideas across various components of an AI system's design. <span style="text-decoration: underline;">This research was recognized with the best paper award at CHI 2023.</span></p> <p dir="ltr">(4) While there is a growing body of work focusing on improving value alignment in AI-based decision support tools, less work has centered on concerns related to the fundamental justifiability of using these tools. Our work aimed to center validity considerations in discussions about whether and how to build data-driven algorithms in high-stakes domains. To achieve this, we translated key concepts from validity theory to predictive algorithms, using this lens to re-examine common challenges in problem formulation and data issues that could compromise the justifiability of predictive algorithms. Our research demonstrated how these validity considerations could be distilled into a series of high-level questions intended to promote and document reflections on the legitimacy of the predictive task and the suitability of the data. <span style="text-decoration: underline;">This research earned the Best Paper Award at SatML 2023.</span></p> <p dir="ltr">(5) Large generative AI models (GMs) like GPT and DALL-E are trained to generate content for various purposes. GM content filters are generally designed to filter out potentially harmful content, such as hate speech. However, harm and benefit are value judgments based on how these models are used in specific contexts. We introduce the term "green teaming" to describe methods for bypassing GM content filters to design for beneficial use cases. We illustrate green teaming through various examples, including using ChatGPT as a virtual patient for suicide support training, using Codex to intentionally generate buggy solutions to train students on debugging, and examining an Instagram page using Midjourney to generate images of anti-LGBTQ+ politicians in drag. This work was presented at the <span style="text-decoration: underline;">ICML workshop on Challenges in Deployable Generative AI.</span></p> <p dir="ltr"><span>The research supported by this NSF award resulted in 26 papers published in top conferences, including best paper awards at CHI 2023, SatML 2023, and CHIWork 2023, along with best paper honorable mentions at CHI 2020 and CHI 2022. We disseminated our research results to the communities of interest through research publications, conference and workshop presentations, and keynote speeches at various conferences and institutions. PI Zhu delivered talks on this topic at events such as the WikiResearch Showcase live stream, The Metagovernance Seminar at the University of Washington, IBM Research, Toyota Research Institute, Stanford University, Microsoft, Seoul National University, and Microsoft Research Asia.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 10/17/2023<br>      Modified by: Haiyi&nbsp;Zhu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   During the funding period, we actively engaged in significant research activities, focusing on integrating stakeholder values into AI technologies. These values encompass the perspectives and insights of community members, frontline workers, and policymakers. Our aim was to incorporate these values into the design and evaluation of various algorithmic tools, including AI-based decision support and generative AI tools, across diverse domains. These domains included online content moderation, child welfare, and homeless services.  (1) As an example of our work, we conducted interviews with community stakeholders within the English Wikipedia community to gain a deep understanding of their values concerning the Objective Revision Evaluation System (ORES), an AI-based decision-support system extensively used in various Wikipedia applications and contexts. This research earned recognition as a Best Paper honorable mention at CHI 2020. We also developed visualization tools to illustrate the trade-offs between community goals related to Wikipedia ORES, which we published at DIS 2021. Additionally, we created the Model Card Authoring Toolkit, a resource that supports community members in comprehending, navigating, and making choices regarding a range of machine learning models through deliberation. We conducted workshops to empirically assess the initial effectiveness of our approach in two online communities - English and Dutch Wikipedia. Our findings documented how participants collectively established thresholds for machine learning-based quality prediction systems used in their content moderation applications, and this research was published at FAccT 2022. (2) Our research extended into the context of child welfare, including studies to understand fairness notions among community stakeholders concerning the use of decision-support tools in child maltreatment (published at CHI 2021). We also explored how child welfare frontline workers address racial disparities in algorithmic decisions (CHI 2022) and investigated ways to enhance human-AI partnerships in the design and evaluation of AI decision support systems in child welfare (CHI 2022, with a best paper honorable mention). Moreover, we engaged community stakeholders to envision new futures beyond AI decision support systems in child welfare, aligning more closely with stakeholder needs and values. This work was published at FAccT 2022. (3) In recent years, AI-based decision support systems (ADS) have seen increased adoption in homeless services. However, we had limited knowledge of stakeholder desires and concerns regarding their use. To address this gap, we aimed to understand impacted stakeholders' perspectives on a deployed ADS that prioritizes scarce housing resources. We employed AI lifecycle comicboarding, an adapted version of the comicboarding method, to elicit stakeholder feedback and design ideas across various components of an AI system's design. This research was recognized with the best paper award at CHI 2023. (4) While there is a growing body of work focusing on improving value alignment in AI-based decision support tools, less work has centered on concerns related to the fundamental justifiability of using these tools. Our work aimed to center validity considerations in discussions about whether and how to build data-driven algorithms in high-stakes domains. To achieve this, we translated key concepts from validity theory to predictive algorithms, using this lens to re-examine common challenges in problem formulation and data issues that could compromise the justifiability of predictive algorithms. Our research demonstrated how these validity considerations could be distilled into a series of high-level questions intended to promote and document reflections on the legitimacy of the predictive task and the suitability of the data. This research earned the Best Paper Award at SatML 2023. (5) Large generative AI models (GMs) like GPT and DALL-E are trained to generate content for various purposes. GM content filters are generally designed to filter out potentially harmful content, such as hate speech. However, harm and benefit are value judgments based on how these models are used in specific contexts. We introduce the term "green teaming" to describe methods for bypassing GM content filters to design for beneficial use cases. We illustrate green teaming through various examples, including using ChatGPT as a virtual patient for suicide support training, using Codex to intentionally generate buggy solutions to train students on debugging, and examining an Instagram page using Midjourney to generate images of anti-LGBTQ+ politicians in drag. This work was presented at the ICML workshop on Challenges in Deployable Generative AI. The research supported by this NSF award resulted in 26 papers published in top conferences, including best paper awards at CHI 2023, SatML 2023, and CHIWork 2023, along with best paper honorable mentions at CHI 2020 and CHI 2022. We disseminated our research results to the communities of interest through research publications, conference and workshop presentations, and keynote speeches at various conferences and institutions. PI Zhu delivered talks on this topic at events such as the WikiResearch Showcase live stream, The Metagovernance Seminar at the University of Washington, IBM Research, Toyota Research Institute, Stanford University, Microsoft, Seoul National University, and Microsoft Research Asia.          Last Modified: 10/17/2023       Submitted by: Haiyi Zhu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

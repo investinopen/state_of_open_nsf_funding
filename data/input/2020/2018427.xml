@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Expansion of the Molecular Education and Research Consortium in Undergraduate Computational ChemistRY (MERCURY) via Addition of High Performance Computers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This high-performance computer (HPC) adds to the HPC MERCURY resources, and enables 12 more research groups to benefit, expanding the consortium to 38 computational chemists and physicists at 33 different institutions. The consortium is the Molecular Education and Research Consortium in Undergraduate computational chemistRY (MERCURY).     Its objective is to increase the number of undergraduate students participating and benefiting from this stimulating and highly productive environment. The enabled research projects described utilize the tools of computational chemistry to solve significant problems in chemistry and chemical physics. &lt;br/&gt;&lt;br/&gt;The Instrument is expected to increase the number of undergraduate students participating and benefiting from this stimulating and highly productive environment. The enabled research projects utilize the tools of computational chemistry to solve significant problems in chemistry and chemical physics. This Instrument expansion builds on the progress and momentum of the 2001 MRI grant, which allowed the consortium to purchase a high-performance computer and assisted in formally establishing rigorous, accessible research programs at the member institutions. The instrument enables research in computational chemistry, spanning the fields of biochemistry, biological, bioinorganic, biophysical, environmental, inorganic, materials, machine learning, nanoparticles, physical, physical organic, photochemistry, polymers, and solvation effects.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018427</AwardID>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Gomez</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maria A Gomez</PI_FULL_NAME>
+<EmailAddress><![CDATA[magomez@mtholyoke.edu]]></EmailAddress>
+<NSF_ID>000110461</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Shields</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George C Shields</PI_FULL_NAME>
+<EmailAddress><![CDATA[george.shields@furman.edu]]></EmailAddress>
+<NSF_ID>000166671</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Parish</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carol A Parish</PI_FULL_NAME>
+<EmailAddress><![CDATA[cparish@richmond.edu]]></EmailAddress>
+<NSF_ID>000159116</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Furman University</Name>
+<CityName>GREENVILLE</CityName>
+<ZipCode>296130002</ZipCode>
+<PhoneNumber>8642943470</PhoneNumber>
+<StreetAddress>3300 POINSETT HWY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZLTJ59VMX17</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FURMAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Furman University]]></Name>
+<CityName>Greenville</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296131000</ZipCode>
+<StreetAddress><![CDATA[3300 Poinsett Hwy]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual Merit&nbsp;</p> <p>The MERCURY consortium, which consists of faculty who work without Ph.D. graduate students, is known for academic excellence combined with intensive human resource development. The overall major goals of the MERCURY consortium are to do excellent science with undergraduates, motivate undergraduates to continue in Science, Technology, Engineering, and Math (STEM) for graduate or professional school, support the development of faculty who work at predominately undergraduate institutions (PUIs), and increase the diversity of the STEM workforce. A major goal in these pursuits is to provide training for undergraduate chemistry, biochemistry, chemistry, chemical physics, computer science, environmental science, geology, math, neuroscience, and physics majors <span>in computational chemistry</span>. Over the past three years we have published a total of 199 peer-reviewed articles, which is 1.7 papers per faculty member per year, a number which is 3.7 times greater than the typical rate of 0.5 papers/faculty/year at PUIs. This highlights the academic excellence of the MERCURY consortium.</p> <p>Broader Impacts</p> <p class="Default">An authentic undergraduate research project is the best high-impact practice in higher education. While the faculty average 1.7 papers/faculty/year, with most of these papers including their undergraduate researchers, the ability to diversify the STEM workforce is equally notable. The authentic research experience, resulting in publication in the scientific literature and presentations at conferences, motivates our undergraduate students to pursue STEM careers. Over half of the students who work with MERCURY faculty go on to graduate school in science or engineering, and many of the rest pursue careers in medicine. During the past three years, the MERCURY faculty have worked with 391 undergraduates, an average of 10.5 per year per MERCURY research group. Of these 391 undergraduates, 201 or 51.4% were female, and 170 or 43.5% were students of color. The total number of students who are underrepresented in science was 276, or 70.6%.&nbsp;<span>Our annual conference provides a networking opportunity for faculty at PUIs, undergraduates, and speakers from research universities, national labs, and industry.</span></p><br> <p>  Last Modified: 01/28/2024<br> Modified by: George&nbsp;C&nbsp;Shields</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2018427/2018427_10703345_1706468619294_Image_2--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2018427/2018427_10703345_1706468619294_Image_2--rgov-800width.jpeg" title="2023 MERCURY Conference"><img src="/por/images/Reports/POR/2024/2018427/2018427_10703345_1706468619294_Image_2--rgov-66x44.jpeg" alt="2023 MERCURY Conference"></a> <div class="imageCaptionContainer"> <div class="imageCaption">2023 MERCURY Conference at Furman University</div> <div class="imageCredit">George Shields</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">George&nbsp;C&nbsp;Shields <div class="imageTitle">2023 MERCURY Conference</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit   The MERCURY consortium, which consists of faculty who work without Ph.D. graduate students, is known for academic excellence combined with intensive human resource development. The overall major goals of the MERCURY consortium are to do excellent science with undergraduates, motivate undergraduates to continue in Science, Technology, Engineering, and Math (STEM) for graduate or professional school, support the development of faculty who work at predominately undergraduate institutions (PUIs), and increase the diversity of the STEM workforce. A major goal in these pursuits is to provide training for undergraduate chemistry, biochemistry, chemistry, chemical physics, computer science, environmental science, geology, math, neuroscience, and physics majors in computational chemistry. Over the past three years we have published a total of 199 peer-reviewed articles, which is 1.7 papers per faculty member per year, a number which is 3.7 times greater than the typical rate of 0.5 papers/faculty/year at PUIs. This highlights the academic excellence of the MERCURY consortium.   Broader Impacts   An authentic undergraduate research project is the best high-impact practice in higher education. While the faculty average 1.7 papers/faculty/year, with most of these papers including their undergraduate researchers, the ability to diversify the STEM workforce is equally notable. The authentic research experience, resulting in publication in the scientific literature and presentations at conferences, motivates our undergraduate students to pursue STEM careers. Over half of the students who work with MERCURY faculty go on to graduate school in science or engineering, and many of the rest pursue careers in medicine. During the past three years, the MERCURY faculty have worked with 391 undergraduates, an average of 10.5 per year per MERCURY research group. Of these 391 undergraduates, 201 or 51.4% were female, and 170 or 43.5% were students of color. The total number of students who are underrepresented in science was 276, or 70.6%.Our annual conference provides a networking opportunity for faculty at PUIs, undergraduates, and speakers from research universities, national labs, and industry.     Last Modified: 01/28/2024       Submitted by: GeorgeCShields]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

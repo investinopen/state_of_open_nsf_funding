@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Heme Distortion and Protein-Protein Contacts in Oxygen-Dependent Globin Coupled Sensor Signaling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>497199.00</AwardTotalIntnAmount>
+<AwardAmount>497199</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pumtiwitt McCarthy</SignBlockName>
+<PO_EMAI>pmccarth@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award, the Chemistry of Life Processes Program in the Chemistry Division is funding Dr. Emily Weinert from Pennsylvania State University, Dr. Christine Dunham from Emory University, and Dr. James Kincaid from Marquette University to investigate bacterial oxygen-sensing proteins. Bacteria are integral to the health of ecosystems, plants, animals, and humans, and have evolved to adapt to constantly changing conditions within their environment. However, the mechanisms by which bacteria sense and respond to changes in the levels of environmental gases are poorly understood. The research supported by this award examines the roles of environmental signals in controlling bacterial phenotypes; more specifically it examines the signaling mechanism and pathway of a family of proteins termed globin-coupled sensors that are responsible for sensing oxygen. This project provides specialized training for students in protein chemistry, spectroscopy, and X-ray crystallography. Additionally, the participants in this project are integrating their research results into a board game to create lesson plans that make elementary and middle school students aware of how proteins help bacteria sense and react to changes in their environment. &lt;br/&gt; &lt;br/&gt;This research project seeks to characterize the intra- and inter-molecular protein interactions that control oxygen-dependent signaling by a family of bacterial heme proteins termed globin-coupled sensors. Globin-coupled sensor proteins are widely distributed within bacteria and contain output domains that are linked to important phenotypes, including biofilm formation, motility, and virulence. A combination of research methods that includes mutagenesis/screening, enzyme kinetics, resonance Raman spectroscopy, and X-ray crystallography is being used to interrogate the oxygen-dependent signaling mechanism within globin coupled sensor proteins and the transmission of the signaling events to downstream partners. Results from this study are expected to provide new information about bacterial gas-sensing proteins, signal transduction pathways, and regulation of key bacterial enzymatic domains involved in controlling biofilm formation and virulence.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003350</AwardID>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Weinert</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emily E Weinert</PI_FULL_NAME>
+<EmailAddress><![CDATA[emily.weinert@psu.edu]]></EmailAddress>
+<NSF_ID>000648597</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>University Park</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~497199</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="white-space: pre;"> </span>This award has resulted in new insights into the mechanisms by which bacteria sense and respond to environmental oxygen levels. Bacteria are integral to the health of ecosystems, plants, animals, and humans, and have evolved to adapt to constantly changing conditions within their environment to allow for survival. As oxygen plays an important role in cellular metabolism, bacteria have evolved a family of heme-based sensing proteins, termed globin coupled sensors (GCS), to transduce changes in oxygen levels into cellular signals. In particular, these studies have focused on elucidating the signaling mechanism of globin coupled sensor proteins that synthesize c-di-GMP, a bacterial second messenger that controls biofilm formation. Biofilm formation is a key growth phenotype that protects bacteria from environmental stressors, predation, and antibacterial agents. Results from this award have identified protein conformational changes within the GCS protein from <em>Pectobacterium carotovorum </em>(<em>Pcc</em>GCS), a plant pathogen that results in crop rotting, that are required for oxygen-dependent activation of c-di-GMP synthesis. Key amino acid residues within the heme binding site that are required for the conformational changes also have been identified, highlighting specific interactions involved in signaling. &nbsp;</p> <p><span style="white-space: pre;"> </span>While oxygen-binding typically activates enzymatic activity of GCS proteins, such as the <em>Pcc</em>GCS, this work also has characterized a GCS protein from <em>Paenibacillus dendritiformis</em> (DcpG) that exhibits differential modulation of two enzymatic domains by oxygen and nitric oxide. DcpG contains a diguanylate cyclase domain, which synthesizes c-di-GMP, and a phosphodiesterase domain, which hydrolyzes c-di-GMP. Results of the studies demonstrated that nitric oxide activated c-di-GMP synthesis (DGC activity) and increased <em>P. dendritiformis </em>biofilm formation, while oxygen activated c-di-GMP hydrolysis (EAL activity), resulting in decreased biofilm formation (Figure 1). Using resonance Raman spectroscopy, the changes in O<sub>2</sub> affinity and signaling have been linked to altered heme deformation modes and propionate hydrogen bonding. Through a combination of mutagenesis, O<sub>2</sub> binding measurements, enzyme kinetic assays, and small angle X-ray scattering, we have linked key interactions at the heme edge with changes in protein conformation, enzymatic activity, and biofilm formation (Figure 1).</p> <p><span style="white-space: pre;"> </span>The effects of oxygen-dependent signaling by <em>Pcc</em>GCS within <em>P. carotovorum</em> were investigated to further understand the cellular roles of GCS signaling in bacteria. Results of these studies identified broad changes in bacterial metabolic pathways, inter-cell communication (quorum sensing), and resistance to metal stress. Taken together, these results from this award provide new insights into the mechanism by which ligand binding modulates heme-protein interactions to control activity and downstream signaling of GCSs, as well as the broader physiological effects of O<sub>2</sub> sensing, including bacterial growth and virulence.</p> <p><span style="white-space: pre;"> </span>Broader impact activities of this award have yielded a board game suitable for grades 5+ that introduces the players to the key concepts in bacterial signaling and survival. In addition, lesson plans that complement the board game have been developed that do not require any specialized resources and can be used in any middle or high school classroom. The board game and lessons have been presented to middle school students and senior citizens to engage within the local community. All the files associated with the board game components and lesson plans are freely available on the group website to provide a new resource for introducing students (or any interested person) to current research directions in the field of bacterial signaling.&nbsp;</p><br> <p>  Last Modified: 12/12/2023<br> Modified by: Emily&nbsp;E&nbsp;Weinert</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2003350/2003350_10697327_1702409597114_Fig1_DcpG--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2003350/2003350_10697327_1702409597114_Fig1_DcpG--rgov-800width.jpg" title="Globin Coupled Sensor Signaling"><img src="/por/images/Reports/POR/2023/2003350/2003350_10697327_1702409597114_Fig1_DcpG--rgov-66x44.jpg" alt="Globin Coupled Sensor Signaling"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Outcomes from this award have identified ligand-dependent conformation changes in GCSs that regulate enzymatic activity and bacterial phenotypes.</div> <div class="imageCredit">E.E. Weinert</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Emily&nbsp;E&nbsp;Weinert <div class="imageTitle">Globin Coupled Sensor Signaling</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   This award has resulted in new insights into the mechanisms by which bacteria sense and respond to environmental oxygen levels. Bacteria are integral to the health of ecosystems, plants, animals, and humans, and have evolved to adapt to constantly changing conditions within their environment to allow for survival. As oxygen plays an important role in cellular metabolism, bacteria have evolved a family of heme-based sensing proteins, termed globin coupled sensors (GCS), to transduce changes in oxygen levels into cellular signals. In particular, these studies have focused on elucidating the signaling mechanism of globin coupled sensor proteins that synthesize c-di-GMP, a bacterial second messenger that controls biofilm formation. Biofilm formation is a key growth phenotype that protects bacteria from environmental stressors, predation, and antibacterial agents. Results from this award have identified protein conformational changes within the GCS protein from Pectobacterium carotovorum (PccGCS), a plant pathogen that results in crop rotting, that are required for oxygen-dependent activation of c-di-GMP synthesis. Key amino acid residues within the heme binding site that are required for the conformational changes also have been identified, highlighting specific interactions involved in signaling.     While oxygen-binding typically activates enzymatic activity of GCS proteins, such as the PccGCS, this work also has characterized a GCS protein from Paenibacillus dendritiformis (DcpG) that exhibits differential modulation of two enzymatic domains by oxygen and nitric oxide. DcpG contains a diguanylate cyclase domain, which synthesizes c-di-GMP, and a phosphodiesterase domain, which hydrolyzes c-di-GMP. Results of the studies demonstrated that nitric oxide activated c-di-GMP synthesis (DGC activity) and increased P. dendritiformis biofilm formation, while oxygen activated c-di-GMP hydrolysis (EAL activity), resulting in decreased biofilm formation (Figure 1). Using resonance Raman spectroscopy, the changes in O2 affinity and signaling have been linked to altered heme deformation modes and propionate hydrogen bonding. Through a combination of mutagenesis, O2 binding measurements, enzyme kinetic assays, and small angle X-ray scattering, we have linked key interactions at the heme edge with changes in protein conformation, enzymatic activity, and biofilm formation (Figure 1).    The effects of oxygen-dependent signaling by PccGCS within P. carotovorum were investigated to further understand the cellular roles of GCS signaling in bacteria. Results of these studies identified broad changes in bacterial metabolic pathways, inter-cell communication (quorum sensing), and resistance to metal stress. Taken together, these results from this award provide new insights into the mechanism by which ligand binding modulates heme-protein interactions to control activity and downstream signaling of GCSs, as well as the broader physiological effects of O2 sensing, including bacterial growth and virulence.    Broader impact activities of this award have yielded a board game suitable for grades 5+ that introduces the players to the key concepts in bacterial signaling and survival. In addition, lesson plans that complement the board game have been developed that do not require any specialized resources and can be used in any middle or high school classroom. The board game and lessons have been presented to middle school students and senior citizens to engage within the local community. All the files associated with the board game components and lesson plans are freely available on the group website to provide a new resource for introducing students (or any interested person) to current research directions in the field of bacterial signaling.     Last Modified: 12/12/2023       Submitted by: EmilyEWeinert]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

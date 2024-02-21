@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Immune Responses to CoV Infections in African and North American Bats]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Shisler</SignBlockName>
+<PO_EMAI>jshisler@nsf.gov</PO_EMAI>
+<PO_PHON>7032925368</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Bats appear to have co-evolved with coronaviruses (CoVs) for millennia. The CoVs that bats carry include the closest relatives of SARS-COV-2, the causative agent of COVID-19. The relationship between the bat host and CoV virus appears to have selected for immune tolerance that enables bats to control CoV replication and yet avoid immune damage. Although some novel CoV hosts (humans) are able to manage and clear the virus without significant consequence, many do not, falling victim instead to a pathological inflammatory response that results from overly-exuberant immune signaling. Understanding how bats avoid this deleterious path may provide insight into new disease mitigation strategies. The researchers supported by this award will leverage a large existing set of bat samples to better understand how bats respond to infection with CoVs. Beyond these direct COVID-19 societal benefits, this project will benefit society by training young scientists in disease ecology and in bioinformatics, preparing them for future careers in the transdisciplinary STEM workforce.  Data from this study will be published in peer-reviewed journals, presented at scientific meetings, and shared through public data repositories.&lt;br/&gt;&lt;br/&gt;The purpose of this study is to identify immune mechanisms associated with tolerance of Coronavirus (CoV) infections in bats. Gaining information on bat responses to CoV infections will shed light on the mechanisms of effective immune control. Parallel study of (1) the CoV virome, and (2) the accompanying gene up- or down-regulation in response to infection will reveal immune system signatures of viral tolerance and advance fundamental understandings of antiviral immunity. By comparing responses in the African little epauletted fruit bat (Epomophorus labiatus), which host beta-CoVs, and the North American little brown myotis (Myotis lucifugus), which host alpha-CoVs, the common mechanisms of tolerance to both alpha- and beta-CoVs will be determined. A powerful dual RNA sequencing approach will be deployed to simultaneously sequence the virome and the host transcriptome. Using weighted gene correlation network analysis, gene expression counts will be used to determine gene networks in the host that are most tightly correlated to each CoV infection. These correlated gene networks will be analyzed functionally to determine which immune pathways are associated with CoV tolerance by either blocking inflammation and immune activation or by dampening tissue damage. Finally, the functions of these co-regulated genes will be compared to those documented in novel hosts (human and other animals). This RAPID award is made by the Physiological and Structural Systems Cluster in the BIO Division of Integrative Organismal Systems, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032774</AwardID>
+<Investigator>
+<FirstName>DeeAnn</FirstName>
+<LastName>Reeder</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>DeeAnn M Reeder</PI_FULL_NAME>
+<EmailAddress><![CDATA[dreeder@bucknell.edu]]></EmailAddress>
+<NSF_ID>000078901</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Field</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ken Field</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfield@bucknell.edu]]></EmailAddress>
+<NSF_ID>000584188</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bucknell University</Name>
+<CityName>LEWISBURG</CityName>
+<ZipCode>178372005</ZipCode>
+<PhoneNumber>5705773510</PhoneNumber>
+<StreetAddress>1 DENT DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT7CLFEE1ZW4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BUCKNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bucknell University]]></Name>
+<CityName/>
+<StateCode>PA</StateCode>
+<ZipCode>178372005</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The purpose of this study is to identify immune mechanisms associated with tolerance of coronavirus (CoV) infections in bats. Bats have a long co-evolutionary history with CoVs, including, SARS-related CoVs. This project used bat tissue samples previously collected by the investigators for other studies. We had an archive of frozen samples from bats from North America (little brown bats) and bats in Africa (little epauletted fruit bats). In this project, we accomplished the following three objectives. (1) We determined that the North American bat tissues contained an alpha-coronavirus that had been previously characterized. Similar to previous studies, we found that infection levels with this virus were higher in bats with white-nose syndrome, a fungal disease that infects the skin of bats. (2) In the African fruit bat tissues, we found a beta-coronavirus that was previously detected in other African fruit bats. We plan on sequencing the entire genome of this virus to compare it to other beta-coronaviruses like SARS-COV2, although that is beyond the scope of this project. (3) We have characterized significant changes in gene expression in the small intestine of the African bats infected with the CoV. However, signs of increased inflammation were not among these gene expression changes, which is quite different from what is found in humans infected with SARS-COV-2. These results support the hypothesis that tolerance of viral infections in bats contribute to their ability to serve as reservoir hosts for coronaviruses and other viruses. We also failed to detect any CoVs that appear to pose human health risks in these samples, as the only two viruses found are known only to infect bats (although full biosafety precautions were maintained to ensure no possibility of human exposure).</p> <p><strong><span style="text-decoration: underline;">Intellectual Merit</span></strong><strong>:</strong></p> <p>The project has helped fill significant gaps in our understanding of bat-viral interactions. Our findings have illuminated the delicate immunological dance that bats are hypothesized to be performing: balancing immune mechanisms that control infection with those that avoid excessive inflammation.</p> <p><strong><span style="text-decoration: underline;">Broader Impacts</span></strong><strong>:</strong></p> <p>Our results have implications for the continued surveillance of bats for other potential viruses that could cause spillovers because we have confirmed that bats who harbor such viruses may not show outward symptoms of disease. This project also provided training for six young scientists in disease ecology and in bioinformatics, preparing them for future careers in the transdisciplinary STEM workforce. In the classes taught by the investigators, students are using the results from this study to understand host-microbe interactions, disease spillover risks, spillback possibilities, and learn to apply bioinformatics approaches to solve real-world biological problems.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2023<br>      Modified by: Ken&nbsp;Field</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The purpose of this study is to identify immune mechanisms associated with tolerance of coronavirus (CoV) infections in bats. Bats have a long co-evolutionary history with CoVs, including, SARS-related CoVs. This project used bat tissue samples previously collected by the investigators for other studies. We had an archive of frozen samples from bats from North America (little brown bats) and bats in Africa (little epauletted fruit bats). In this project, we accomplished the following three objectives. (1) We determined that the North American bat tissues contained an alpha-coronavirus that had been previously characterized. Similar to previous studies, we found that infection levels with this virus were higher in bats with white-nose syndrome, a fungal disease that infects the skin of bats. (2) In the African fruit bat tissues, we found a beta-coronavirus that was previously detected in other African fruit bats. We plan on sequencing the entire genome of this virus to compare it to other beta-coronaviruses like SARS-COV2, although that is beyond the scope of this project. (3) We have characterized significant changes in gene expression in the small intestine of the African bats infected with the CoV. However, signs of increased inflammation were not among these gene expression changes, which is quite different from what is found in humans infected with SARS-COV-2. These results support the hypothesis that tolerance of viral infections in bats contribute to their ability to serve as reservoir hosts for coronaviruses and other viruses. We also failed to detect any CoVs that appear to pose human health risks in these samples, as the only two viruses found are known only to infect bats (although full biosafety precautions were maintained to ensure no possibility of human exposure).  Intellectual Merit:  The project has helped fill significant gaps in our understanding of bat-viral interactions. Our findings have illuminated the delicate immunological dance that bats are hypothesized to be performing: balancing immune mechanisms that control infection with those that avoid excessive inflammation.  Broader Impacts:  Our results have implications for the continued surveillance of bats for other potential viruses that could cause spillovers because we have confirmed that bats who harbor such viruses may not show outward symptoms of disease. This project also provided training for six young scientists in disease ecology and in bioinformatics, preparing them for future careers in the transdisciplinary STEM workforce. In the classes taught by the investigators, students are using the results from this study to understand host-microbe interactions, disease spillover risks, spillback possibilities, and learn to apply bioinformatics approaches to solve real-world biological problems.          Last Modified: 09/29/2023       Submitted by: Ken Field]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

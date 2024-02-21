@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: SaTC-EDU: Mathematically-grounded metaphors to teach AI-related cybersecurity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299982.00</AwardTotalIntnAmount>
+<AwardAmount>335982</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DGE</Abbreviation>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ambareen Siraj</SignBlockName>
+<PO_EMAI>asiraj@nsf.gov</PO_EMAI>
+<PO_PHON>7032928182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the use of artificial intelligence (AI) becomes increasingly widespread in modern society, the need for children to learn cybersecurity practices that protect against the privacy and security risks created by digital systems is increasingly urgent. This project will address this need by developing and implementing   a time- and teacher-friendly learning module that  is geared towards middle school students. The learning module will be designed to integrate into existing middle school math curricula. There is a critical need to develop such educational materials, particularly for adolescents from minority groups that are underrepresented in STEM because they unduly experience harm from AI-related cybersecurity issues and are less likely to have school-based experiences that can inform their responses. The project seeks to empower middle school adolescents to manage their own digital identities and risk-taking in an increasingly AI-influenced world. This project will also support graduate students in computing and education to participate meaningfully and gain experience in collaborative, school-based, transdisciplinary research. The project will share materials developed to provide flexible, widespread access to the resources for middle school education stakeholders across the U.S.&lt;br/&gt;&lt;br/&gt;This project aims to improve middle school students’ use of security “best-practices” in their day-to-day online activities, while enhancing their fundamental understanding of the underlying security principles and math concepts that drive AI and cybersecurity technologies. To this end, the project team is developing a learning module that relies on the educational principle of “metaphors as reification” to teach AI-related cybersecurity. The innovation in this approach entails grounding these metaphors in their underlying mathematical principles. The project transcends research on “explainable AI” by giving end users a fundamental understanding of the mathematical principles behind AI, which constitutes a key advance in cybersecurity training. To investigate middle school students’ AI-related cybersecurity competencies relative to their mathematics knowledge and behaviors, the project team will use a mixed methods, exploratory research approach. A combination of pre- and post-tests of students’ cybersecurity knowledge, behavioral intention surveys, math affinity, observed decision-making in a “cybersecurity drill,” and module-specific test scores, will be used to evaluate the project.&lt;br/&gt;&lt;br/&gt; This project is supported by a special initiative of the Secure and Trustworthy Cyberspace (SaTC) program to foster new, previously unexplored, collaborations between the fields of cybersecurity, artificial intelligence, and education. The SaTC program aligns with the Federal Cybersecurity Research and Development Strategic Plan and the National Privacy Research Strategy to protect and preserve the growing social and economic benefits of cyber systems while ensuring security and privacy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039616</AwardID>
+<Investigator>
+<FirstName>Kelly</FirstName>
+<LastName>Caine</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kelly Caine</PI_FULL_NAME>
+<EmailAddress><![CDATA[caine@clemson.edu]]></EmailAddress>
+<NSF_ID>000574181</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bart</FirstName>
+<LastName>Knijnenburg</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bart P Knijnenburg</PI_FULL_NAME>
+<EmailAddress><![CDATA[bartk@clemson.edu]]></EmailAddress>
+<NSF_ID>000705398</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Bannister Sinwell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicole Bannister Sinwell</PI_FULL_NAME>
+<EmailAddress><![CDATA[nbannis@clemson.edu]]></EmailAddress>
+<NSF_ID>000700047</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>201 SIKES HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>Clemson</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[403 Gantt Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093Z</Code>
+<Text>AI Education/Workforce Develop</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299982</FUND_OBLG>
+<FUND_OBLG>2021~36000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p id="docs-internal-guid-dbefcbdb-7fff-adf7-37ce-71e327e29c6c" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The cybersecurity implications stemming from the increasingly pervasive use of Artificial Intelligence (AI) directly impact some of our nation&rsquo;s most vulnerable people. With the protections of the Children&rsquo;s Online Privacy Protection Act (COPPA) ending at age 13, it is crucial for adolescents to develop AI-related cybersecurity literacies so that they may effectively and responsibly take ownership of their digital identities. This project aimed to enhance middle school students&rsquo; fundamental understanding of the underlying security principles and math concepts that drive AI and cybersecurity technologies while at the same time improving their use of security &ldquo;best-practices&rdquo; in their day-to-day online activities.&nbsp;</span></p> <p>&nbsp;</p> <p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Major goals of this project included identifying AI-related cybersecurity competencies relative to students&rsquo; mathematics knowledge and behaviors and applying these findings in middle school classrooms. To this end, this project made a trailblazing effort to link AI and cybersecurity principles to their mathematical underpinnings through learning modules that were collaboratively designed with RET teachers in mathematics and computer science and integrated into </span><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">existing</span><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> middle school STEM curricula, schedules, and structures.&nbsp;</span></p> <p>&nbsp;</p> <p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We designed and implemented modules based on the following topics: (1) Data collection by AI chatbots; (2) Tracking and personalized advertisement; (2) &ldquo;Going viral&rdquo; on social media (newsfeed algorithms); (3) Misinformation, fake news and phishing; (4) Filter bubbles; and, (4) Algorithmic fairness and bias. We administered pre- and post- tests for each module, as well as a global pre- and post- test at the beginning and end of the project. We held listening sessions with teachers who implemented the modules to</span></p> <p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">get feedback on what worked well and what needs to be improved for future implementation.&nbsp;</span></p> <p>&nbsp;</p> <p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our research resulted in a grounded theory of students&rsquo; folk models of AI cybersecurity and related concepts. We found that students&rsquo; perceptions of mathematics, cybersecurity, and artificial intelligence depend on their affinity towards mathematics. Particularly, students with a lower affinity for math could efficiently address the societal implications of math in connection to cybersecurity and artificial intelligence, suggesting a better folk model. On the other hand, students with a greater affinity for math struggled substantially more to articulate their folk model. This distinctive finding, which identifies students with a weaker affinity for math to have a superior latent folk model, illustrated that students&rsquo; mastery of mathematics may not necessarily help them acquire the skills needed to engage in a data-driven society. In further investigating this issue, we found that students frequently compared their mathematical knowledge and skills with other students in terms of speed. Their perceptions of math are limited to answering math problems as quickly as possible. Mathematically inclined students, in particular, fail to see how math can be more than just numbers. Instead, students who are less engaged in math reflect on how it is used in their daily lives. Arguably, this explains our surprising findings: students have reified &ldquo;mastery of mathematics&rdquo; as a matter of speed, rather than as a skill needed to meaningfully engage with societal problems.</span></p> <p>&nbsp;</p> <p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">To optimize our impact, we partnered with a high-needs, rural-identifying middle school that serves underrepresented students for module implementation. Students from underrepresented backgrounds are disproportionately affected by AI-related cybersecurity issues as well as disproportionately less likely to have school-based experiences that support strong performance in math and motivate future interest in STEM careers. We also engaged in outreach activities that expanded the reach of our project to local community members and educational stakeholders, including participation in state-level curriculum conversations and workshops for girl scouts and their friends.&nbsp;</span></p> <p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></p> <p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We will provide open access to the final modules and engage in extensive efforts to disseminate the materials to other middle schools, especially those serving predominantly underrepresented communities. Taken together, our mathematically-grounded efforts collectively supported progress toward an AI and cybersecurity literate citizenry.</span></p><br> <p>  Last Modified: 11/29/2023<br> Modified by: Nicole&nbsp;Bannister Sinwell</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2039616/2039616_10690496_1701295349863_Free_ice_cream_Clemson_researchers_team_up_with_teachers_to_show_middle_school_students_how_misinformation_spreads_Cle--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039616/2039616_10690496_1701295349863_Free_ice_cream_Clemson_researchers_team_up_with_teachers_to_show_middle_school_students_how_misinformation_spreads_Cle--rgov-800width.jpg" title="Free Ice Cream"><img src="/por/images/Reports/POR/2023/2039616/2039616_10690496_1701295349863_Free_ice_cream_Clemson_researchers_team_up_with_teachers_to_show_middle_school_students_how_misinformation_spreads_Cle--rgov-66x44.jpg" alt="Free Ice Cream"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Free ice cream: Clemson researchers team up with teachers to show middle-school students how misinformation spreads</div> <div class="imageCredit">Paul Alongi, Clemson News</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Nicole&nbsp;Bannister Sinwell <div class="imageTitle">Free Ice Cream</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The cybersecurity implications stemming from the increasingly pervasive use of Artificial Intelligence (AI) directly impact some of our nations most vulnerable people. With the protections of the Childrens Online Privacy Protection Act (COPPA) ending at age 13, it is crucial for adolescents to develop AI-related cybersecurity literacies so that they may effectively and responsibly take ownership of their digital identities. This project aimed to enhance middle school students fundamental understanding of the underlying security principles and math concepts that drive AI and cybersecurity technologies while at the same time improving their use of security best-practices in their day-to-day online activities.      Major goals of this project included identifying AI-related cybersecurity competencies relative to students mathematics knowledge and behaviors and applying these findings in middle school classrooms. To this end, this project made a trailblazing effort to link AI and cybersecurity principles to their mathematical underpinnings through learning modules that were collaboratively designed with RET teachers in mathematics and computer science and integrated into existing middle school STEM curricula, schedules, and structures.      We designed and implemented modules based on the following topics: (1) Data collection by AI chatbots; (2) Tracking and personalized advertisement; (2) Going viral on social media (newsfeed algorithms); (3) Misinformation, fake news and phishing; (4) Filter bubbles; and, (4) Algorithmic fairness and bias. We administered pre- and post- tests for each module, as well as a global pre- and post- test at the beginning and end of the project. We held listening sessions with teachers who implemented the modules to   get feedback on what worked well and what needs to be improved for future implementation.      Our research resulted in a grounded theory of students folk models of AI cybersecurity and related concepts. We found that students perceptions of mathematics, cybersecurity, and artificial intelligence depend on their affinity towards mathematics. Particularly, students with a lower affinity for math could efficiently address the societal implications of math in connection to cybersecurity and artificial intelligence, suggesting a better folk model. On the other hand, students with a greater affinity for math struggled substantially more to articulate their folk model. This distinctive finding, which identifies students with a weaker affinity for math to have a superior latent folk model, illustrated that students mastery of mathematics may not necessarily help them acquire the skills needed to engage in a data-driven society. In further investigating this issue, we found that students frequently compared their mathematical knowledge and skills with other students in terms of speed. Their perceptions of math are limited to answering math problems as quickly as possible. Mathematically inclined students, in particular, fail to see how math can be more than just numbers. Instead, students who are less engaged in math reflect on how it is used in their daily lives. Arguably, this explains our surprising findings: students have reified mastery of mathematics as a matter of speed, rather than as a skill needed to meaningfully engage with societal problems.      To optimize our impact, we partnered with a high-needs, rural-identifying middle school that serves underrepresented students for module implementation. Students from underrepresented backgrounds are disproportionately affected by AI-related cybersecurity issues as well as disproportionately less likely to have school-based experiences that support strong performance in math and motivate future interest in STEM careers. We also engaged in outreach activities that expanded the reach of our project to local community members and educational stakeholders, including participation in state-level curriculum conversations and workshops for girl scouts and their friends.       We will provide open access to the final modules and engage in extensive efforts to disseminate the materials to other middle schools, especially those serving predominantly underrepresented communities. Taken together, our mathematically-grounded efforts collectively supported progress toward an AI and cybersecurity literate citizenry.     Last Modified: 11/29/2023       Submitted by: NicoleBannister Sinwell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Remote COVID-19 Diagnosis Using a Smart Device]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is in the development of a remote COVID-19 diagnosis technology using a smart device. Current testing methods are face-to-face, expensive, time-consuming, and unsafe for healthcare providers and patients due to high transmission risk. In addition, getting test results is time-consuming and often requires a wait time of several days to get the result. The proposed technology provides a remote, safe, instant, reliable, portable, and cost-effective diagnostic test for COVID-19 that may be readily shared with healthcare providers. This technology may be extended to disease detection and health management via telemedicine.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of the COVID-19 diagnosis solution that may remotely detect COVID-19 symptoms. This innovation uses sensor technology and biomedical engineering technology to acquire a subject’s physiology data pertinent to COVID-19 symptoms using a smart device.   The technology uses signal processing, image processing, and machine learning algorithms to detect COVID-19 symptoms from the subject’s physiological data acquired by the sensors in the smart device. In addition, the technology includes forming a database from those who test both positive and negative to increase the accuracy of COVID-19 symptom detection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2042120</AwardID>
+<Investigator>
+<FirstName>Jo Woon</FirstName>
+<LastName>Chong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jo Woon Chong</PI_FULL_NAME>
+<EmailAddress><![CDATA[j.chong@ttu.edu]]></EmailAddress>
+<NSF_ID>000739360</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>Lubbock</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>794091035</ZipCode>
+<StreetAddress><![CDATA[2500 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This I-Corps project has explored the commercial potential of remote COVID-19 diagnosis using a smart device and has made it broadly available for scientific discovery and engineering and clinical applications. The project has further developed a remote COVID-19 diagnosis solution using a smart device with signal processing and machine learning. We have designed and developed a remote COVID-19 diagnosis solution for smart devices that acquire breathing and coughing signals using smart devices and determine if the acquired signals have COVID-19 based on the difference in breath or coughing characteristics between COVID-19 and non-COVID-19 patients. The novelty of this innovation includes 1) an &ldquo;interactive&rdquo; way of acquiring breathing and coughing data from smart devices, 2) "novel" COVID-19 characteristics detection, and 3) a &ldquo;novel&rdquo; COVID-19 classification algorithm. The technology has the advantage of being accurate but easier to use compared to the current methods. The proposed smart device-based remote COVID-19 diagnosis method has used COVID-19 characteristics in the breathing and coughing signals. The intellectual merit of this project is advancing scientific knowledge with regard to integrating multiple functions related to remote COVID-19 detection using the sensors or components embedded in a smart device.<br /><br />This project has a broader societal impact by reducing the risk of COVID-19 transmission and minimizing expense and time and expense since this solution can provide a contactless way of diagnosis using personal smart devices in detecting COVID-19. In the aspect of economic broader impact, this project impacts on reducing huge costs involved in COVID-19 test kit manufacture. The commercial impact of this project is to provide a key solution to increasing the economic competitiveness of this remote healthcare industry with the necessary technological advancement. The educational impact of this project is to engage underrepresented student groups to learn in the lab and research for this project.</p><br> <p>            Last Modified: 10/02/2023<br>      Modified by: Jo Woon&nbsp;Chong</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This I-Corps project has explored the commercial potential of remote COVID-19 diagnosis using a smart device and has made it broadly available for scientific discovery and engineering and clinical applications. The project has further developed a remote COVID-19 diagnosis solution using a smart device with signal processing and machine learning. We have designed and developed a remote COVID-19 diagnosis solution for smart devices that acquire breathing and coughing signals using smart devices and determine if the acquired signals have COVID-19 based on the difference in breath or coughing characteristics between COVID-19 and non-COVID-19 patients. The novelty of this innovation includes 1) an "interactive" way of acquiring breathing and coughing data from smart devices, 2) "novel" COVID-19 characteristics detection, and 3) a "novel" COVID-19 classification algorithm. The technology has the advantage of being accurate but easier to use compared to the current methods. The proposed smart device-based remote COVID-19 diagnosis method has used COVID-19 characteristics in the breathing and coughing signals. The intellectual merit of this project is advancing scientific knowledge with regard to integrating multiple functions related to remote COVID-19 detection using the sensors or components embedded in a smart device.  This project has a broader societal impact by reducing the risk of COVID-19 transmission and minimizing expense and time and expense since this solution can provide a contactless way of diagnosis using personal smart devices in detecting COVID-19. In the aspect of economic broader impact, this project impacts on reducing huge costs involved in COVID-19 test kit manufacture. The commercial impact of this project is to provide a key solution to increasing the economic competitiveness of this remote healthcare industry with the necessary technological advancement. The educational impact of this project is to engage underrepresented student groups to learn in the lab and research for this project.       Last Modified: 10/02/2023       Submitted by: Jo Woon Chong]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

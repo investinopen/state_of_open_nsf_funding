@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS Core: Small: Autogenerating fast packet-processing code using program synthesis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+<PO_EMAI>avonlehm@nsf.gov</PO_EMAI>
+<PO_PHON>7032924756</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer networks are a foundational part of today’s digital society. A critical component of these networks is the infrastructure of base stations, access points, and routers that glues computers together, and moves network traffic (broken up into ‘packets’) from place to place.   Over time, in addition to packet forwarding, the network infrastructure has taken on many additional requirements to make it more efficient and robust, such as attack detection and prevention, access control, load balancing, packet scheduling, and measurement. To implement these requirements, new network devices have emerged that are ‘programmable’.  This proposal proposes to develop novel compiler technology to enable fast, efficient network programmability.&lt;br/&gt;&lt;br/&gt;Programmable network devices (e.g., switches, SmartNICs, and FPGAs) are now rapidly becoming mainstream. While it is easy to get started with programming these devices, it is still hard to write fast packet-processing code that fits within the resource constraints of each device. Writing such fast packet-processing code today largely falls to experts with deep knowledge of the underlying hardware. While compilers should alleviate the burden of generating high-performance code, the compilers for these devices are still preliminary, and developing good compilers takes significant engineering effort and time. In response, the proposal proposes the use of program synthesis technology to build compilers that generate high-quality machine code for packet processing. This proposal has three key thrusts: (i) Code generation for programmable networks-developing code generators that generate high-quality machine code from a higher-level language (e.g., P4 or C) for a variety of different packet-processing substrates like programmable switches, FPGAs, and x86 processors. (ii) Speeding up program synthesis for code generation: Specializing program synthesis algorithms to the use case of code generation and speeding up synthesis algorithms in the process, so that code generation using program synthesis isn’t significantly slower than code generation using rule-based compiler techniques. (iii) Pushing the boundaries of synthesis-based code generation: Exploring relaxed notions of equivalence between higher-level programs and generated machine code so that higher-performance machine code can be generated at the cost of some loss of accuracy relative to the original program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008048</AwardID>
+<Investigator>
+<FirstName>Anirudh</FirstName>
+<LastName>Sivaraman Kaushalram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anirudh Sivaraman Kaushalram</PI_FULL_NAME>
+<EmailAddress><![CDATA[as11800@nyu.edu]]></EmailAddress>
+<NSF_ID>000754267</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100118868</ZipCode>
+<StreetAddress><![CDATA[60 5th Avenue, Room 408]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project leveraged developments in the area of formal methods (program synthesis, SMT solvers, ILP engines) to develop better compiler technology for emerging programmable packet-processing devices.</p> <p>Intellectual Merit:</p> <p>=============</p> <p>1. K2: Extensions written in Extended Berkeley Packet Filter (eBPF) bytecode have become the dominant method of extending operating system kernels today. However, generating high-performance eBPF bytecode is complicated by the requirement that eBPF must additionally satisfy safety properties for it to run within the kernel. In the K2 project, we leveraged superoptimization techniques to perform randomized and exhaustive search for safe eBPF bytecode. One of the main conceptual difficulties was adapting superoptimization to handle safety constraints. Led to a SIGCOMM paper.</p> <p>2. CaT and Chipmunk: Compiling packet-processing programs to run on packet-processing pipelines is a challenging problem because of the resource constraints of these pipelines and the unintuitive restrictions of the pipeline's compute units. In Chipmunk, we leveraged program synthesis to perform code generation and developed a new domain-specific program synthesis technique called slicing to speed up code generation. In CaT, we developed a compiler that leveraged program synthesis to perform code generation, employing techniques from the circuit synthesis literature to speed up code generation. We also leveraged integer linear programming (ILP) solvers to perform resource allocation of scarce resource units. Led to a SIGCOMM paper and an ASPLOS paper.</p> <p>3. P4Testgen and Gauntlet: Testing the implementation of packet-processing programs is critical to ensuring that network devices are functioning correctly. In P4Testgen, we leveraged symbolic execution based on a solver for&nbsp;Satisfiability modulo theories (SMT) to generate comprehensive tests given a P4 program. In Gauntlet, we leveraged SMT solvers to perform translation validation on randomly generated P4 programs to probe P4 compilers for bugs. Led to a SIGCOMM paper and an OSDI paper.</p> <p>4. NetVRM and Menshen: These prototypes provided the ability to multiplex a packet-processing pipeline across multiple different, potentially mutually distrustful packet-processing programs, written in P4. Both projects involved program analysis and compiler technology to check or transform programs to make them amenable to multi-tenancy. Led to 2 papers at NSDI 22.</p> <p>5. Snicket and QuEST: We developed techniques to dynamically trace application requests to a network of interconnected web services (Snicket) and store trace data (QuEST). Both of these projects involved significant programming language design components. Led to a paper at HotNets and another at CloudDB.</p> <p>Broader Impacts:</p> <p>1. We have open-sourced code for Menshen, Snicket, QuEST, K2, Chipmunk, Gauntlet, and P4Testgen.</p> <p>2. Gauntlet was used to find nearly 100 bugs in the reference P4 compiler and now runs as part of the continuous integration pipeline of the reference P4 compiler, testing every commit to the P4 compiler. It also led to several changes to the P4 specification.</p> <p>3. P4Testgen is a top-level open-source project within the P4 ecosystem. It has found several bugs in mature P4 toolchains and has attracted interest from several companies including Intel, Google, and Microsoft.</p> <p>4. The project supported the research of several students: Fabian Ruffy, Xiangyu Gao, Muhammad Haseeb, and Jessica Berg.</p><br> <p>  Last Modified: 02/01/2024<br> Modified by: Anirudh&nbsp;Sivaraman Kaushalram</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project leveraged developments in the area of formal methods (program synthesis, SMT solvers, ILP engines) to develop better compiler technology for emerging programmable packet-processing devices.   Intellectual Merit:   =============   1. K2: Extensions written in Extended Berkeley Packet Filter (eBPF) bytecode have become the dominant method of extending operating system kernels today. However, generating high-performance eBPF bytecode is complicated by the requirement that eBPF must additionally satisfy safety properties for it to run within the kernel. In the K2 project, we leveraged superoptimization techniques to perform randomized and exhaustive search for safe eBPF bytecode. One of the main conceptual difficulties was adapting superoptimization to handle safety constraints. Led to a SIGCOMM paper.   2. CaT and Chipmunk: Compiling packet-processing programs to run on packet-processing pipelines is a challenging problem because of the resource constraints of these pipelines and the unintuitive restrictions of the pipeline's compute units. In Chipmunk, we leveraged program synthesis to perform code generation and developed a new domain-specific program synthesis technique called slicing to speed up code generation. In CaT, we developed a compiler that leveraged program synthesis to perform code generation, employing techniques from the circuit synthesis literature to speed up code generation. We also leveraged integer linear programming (ILP) solvers to perform resource allocation of scarce resource units. Led to a SIGCOMM paper and an ASPLOS paper.   3. P4Testgen and Gauntlet: Testing the implementation of packet-processing programs is critical to ensuring that network devices are functioning correctly. In P4Testgen, we leveraged symbolic execution based on a solver forSatisfiability modulo theories (SMT) to generate comprehensive tests given a P4 program. In Gauntlet, we leveraged SMT solvers to perform translation validation on randomly generated P4 programs to probe P4 compilers for bugs. Led to a SIGCOMM paper and an OSDI paper.   4. NetVRM and Menshen: These prototypes provided the ability to multiplex a packet-processing pipeline across multiple different, potentially mutually distrustful packet-processing programs, written in P4. Both projects involved program analysis and compiler technology to check or transform programs to make them amenable to multi-tenancy. Led to 2 papers at NSDI 22.   5. Snicket and QuEST: We developed techniques to dynamically trace application requests to a network of interconnected web services (Snicket) and store trace data (QuEST). Both of these projects involved significant programming language design components. Led to a paper at HotNets and another at CloudDB.   Broader Impacts:   1. We have open-sourced code for Menshen, Snicket, QuEST, K2, Chipmunk, Gauntlet, and P4Testgen.   2. Gauntlet was used to find nearly 100 bugs in the reference P4 compiler and now runs as part of the continuous integration pipeline of the reference P4 compiler, testing every commit to the P4 compiler. It also led to several changes to the P4 specification.   3. P4Testgen is a top-level open-source project within the P4 ecosystem. It has found several bugs in mature P4 toolchains and has attracted interest from several companies including Intel, Google, and Microsoft.   4. The project supported the research of several students: Fabian Ruffy, Xiangyu Gao, Muhammad Haseeb, and Jessica Berg.     Last Modified: 02/01/2024       Submitted by: AnirudhSivaraman Kaushalram]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

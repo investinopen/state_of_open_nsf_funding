@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developing a 15-Year Agenda for Computing Education Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>79378.00</AwardTotalIntnAmount>
+<AwardAmount>79378</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computing has an essential role in nearly all aspects of the modern world.  Beginning as specialized equipment used by few people, computers are now integral to virtually every field and are used by billions of people across every continent.  As a result, computing education is no longer a specialized field that only future computing professionals need to master.  Instead, computing education must evolve to ensure that all students master the computing skills needed to thrive in a world that will increasingly depend on computing. The goal of this project is to facilitate a virtual workshop attended by a range of computing professionals, including academics and practitioners.  These professionals will explore the problems and challenges affecting the growth and vitality of computing education.  They will also identify strategies and solutions to help address these challenges and to ensure that computing education meets future societal needs.  The results of this workshop will provide a research agenda of the critical topics and questions that must be addressed by computing education research so that the nation can prepare a computing literate public as well as the computing workforce of the future.&lt;br/&gt; &lt;br/&gt;The workshop will facilitate a discussion among the affinity groups who collectively participate in computing education research, specifically targeting issues related to preparing students who are computationally fluent, and building and enhancing the computing professional workforce, which includes research software engineers, research data science professionals, advanced cyberinfrastructure systems professionals, and others.  The goals will be to identify challenge areas, discuss and identify potential research directions, and develop a set of recommendations for consideration by the national research community and funding agencies. The workshop will explore how to advance the computing education research areas that will produce the knowledge needed to advance computing education’s outcomes, efficiency, and effectiveness for all learners. The project will produce a report with recommendations for a computing education research agenda that will lay the foundation for educating a computing-savvy public and preparing learners for computing career paths.  Completing this agenda is expected to support the growth of a diverse computing workforce that can collaborate across traditional boundaries and that supports the computing research and education enterprise. The NSF IUSE: EHR Program supports research and development projects to improve the effectiveness of STEM education for all students. Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.  It is also supported by the IUSE:CUE program, which seeks to re-envision the role of computing in undergraduate education while continuing to emphasize the need for more diverse student populations for careers in both computing and non-computing fields, and the Secure and Trustworthy Cyberspace (SaTC) program, which funds proposals that address cybersecurity and privacy, and in this case specifically cybersecurity education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039848</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Weiss</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Weiss</PI_FULL_NAME>
+<EmailAddress><![CDATA[weiss@fiu.edu]]></EmailAddress>
+<NSF_ID>000713984</NSF_ID>
+<StartDate>07/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>Miami</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331741630</ZipCode>
+<StreetAddress><![CDATA[10555 W Flagler ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~79378</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-fbd1ff21-7fff-cdf4-9058-385dabd95ad3"> </span></p> <p dir="ltr"><span>The project brought together more than forty leaders in the area of computing education together to discuss, ruminate, and speculate on the current state and future directions of computing education research. The most important objectives for this project were to:</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Facilitate the dialog that will enable thinking of broader picture research themes as opposed to personal research projects</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Suggest concrete pathways for addressing the research challenges identified</span></p> </li> </ul> <p dir="ltr"><span>Leaders were sought for their knowledge of the field, their background, and to ensure as broad a representation as possible within the group. In this case, broad representation referred to multiple facets of representation including type of institution (public vs. private, teaching vs. research focus, large vs. small), educational background of participants (computing, education, sociology, learning sciences), level of experience (postdoctoral associates and new assistant professors to full professors), race, ethnicity, cultural background, and gender.</span></p> <p dir="ltr"><span>During the life of the project, preliminary results were presented at several venues, including the 2022 53rd ACM SIGCSE Technical Symposium, and the 2023 19th ACM Conference on International Computing Education Research.</span></p> <p dir="ltr"><span>The final result of the work is a website&nbsp; </span><a href="https://cerfutureworkshop.wordpress.com/"><span>https://cerfutureworkshop.wordpress.com/</span></a><span> that, in addition to listing the participants, has three main components.</span></p> <p dir="ltr"><span>First, there are a series of reports encompassing "Teaching and Learning", "K-12: Inside and Outside the Classroom", "Computing Education Research &ndash; Disciplinary Issues", and "DEI/Broadening Participation in Computing".</span></p> <p dir="ltr"><span>Second, there are a series of podcasts, roughly twenty minutes each, for the community: "Critically Conscious Computing", "Systems Approach to Equity in K-12 Computing Education", "From Research to Practice in Computing Education", "Academic Integrity in an Online World", and "How AI Will Change the Teaching of Programming".</span></p> <p dir="ltr"><span>Finally, there is a summary report that is a description of the main pathways for computing education research for the next 15 years. It is a roadmap for opportunities for established researchers as well as newcomers in this field. The five main themes in this report are:</span></p> <ol> <li dir="ltr"> <p dir="ltr"><span style="text-decoration: underline;"><strong>CS Curriculum is Bloated</strong></span><span>: The computer science curriculum has not significantly changed in 50 years, yet the discipline that we know as computer science continues to grow and change. What do we need to do to account for these changes?</span></p> </li> <li dir="ltr"> <p dir="ltr"><span style="text-decoration: underline;"><strong>Teaching and Pedagogy</strong></span><span>: In the age of LLMs, our traditional ways of teaching simply aren&rsquo;t going to be as effective as they once were (or maybe never were).</span></p> </li> <li dir="ltr"> <p dir="ltr"><span style="text-decoration: underline;"><strong>Infusing Humanities</strong></span><span>: We know that technology is not neutral. How do we educate the technologist of the future about these impacts? How do we infuse these kinds of humanities topics into a curriculum that is already full?</span></p> </li> <li dir="ltr"> <p dir="ltr"><span style="text-decoration: underline;"><strong>Pathways for Everyone</strong></span><span>: How do we enact computing as a fundamental literacy for anyone both inside and outside the "tech" sphere?</span></p> </li> <li dir="ltr"> <p dir="ltr"><span style="text-decoration: underline;"><strong>Social Justice and Computing Education</strong></span><span>: How can we change the narrative to include topics like ethics, and other social justice issues as central to the narrative and not side quests that students must complete to finally earn their degrees?</span></p> </li> </ol> <p dir="ltr"><span>This work as a whole can have a wide-sweeping impact on the field of computing education research. Charting a path for the research themes for the next 15 years provides goals for funding from major funding organizations, and also provides a common touchstone for researchers in the field to use as conversation starters for their prospective students and within the community. While the focus of the work is not specifically on broadening participation, the results of this work reflect that the future direction of computing education can and must have an impact on broadening participation. Better understanding of what and how we do things in the field can only have the effect of improving educational outcomes for everyone.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 12/21/2023<br> Modified by: Mark&nbsp;A&nbsp;Weiss</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      The project brought together more than forty leaders in the area of computing education together to discuss, ruminate, and speculate on the current state and future directions of computing education research. The most important objectives for this project were to:     Facilitate the dialog that will enable thinking of broader picture research themes as opposed to personal research projects     Suggest concrete pathways for addressing the research challenges identified     Leaders were sought for their knowledge of the field, their background, and to ensure as broad a representation as possible within the group. In this case, broad representation referred to multiple facets of representation including type of institution (public vs. private, teaching vs. research focus, large vs. small), educational background of participants (computing, education, sociology, learning sciences), level of experience (postdoctoral associates and new assistant professors to full professors), race, ethnicity, cultural background, and gender.   During the life of the project, preliminary results were presented at several venues, including the 2022 53rd ACM SIGCSE Technical Symposium, and the 2023 19th ACM Conference on International Computing Education Research.   The final result of the work is a website https://cerfutureworkshop.wordpress.com/ that, in addition to listing the participants, has three main components.   First, there are a series of reports encompassing "Teaching and Learning", "K-12: Inside and Outside the Classroom", "Computing Education Research  Disciplinary Issues", and "DEI/Broadening Participation in Computing".   Second, there are a series of podcasts, roughly twenty minutes each, for the community: "Critically Conscious Computing", "Systems Approach to Equity in K-12 Computing Education", "From Research to Practice in Computing Education", "Academic Integrity in an Online World", and "How AI Will Change the Teaching of Programming".   Finally, there is a summary report that is a description of the main pathways for computing education research for the next 15 years. It is a roadmap for opportunities for established researchers as well as newcomers in this field. The five main themes in this report are:     CS Curriculum is Bloated: The computer science curriculum has not significantly changed in 50 years, yet the discipline that we know as computer science continues to grow and change. What do we need to do to account for these changes?     Teaching and Pedagogy: In the age of LLMs, our traditional ways of teaching simply arent going to be as effective as they once were (or maybe never were).     Infusing Humanities: We know that technology is not neutral. How do we educate the technologist of the future about these impacts? How do we infuse these kinds of humanities topics into a curriculum that is already full?     Pathways for Everyone: How do we enact computing as a fundamental literacy for anyone both inside and outside the "tech" sphere?     Social Justice and Computing Education: How can we change the narrative to include topics like ethics, and other social justice issues as central to the narrative and not side quests that students must complete to finally earn their degrees?     This work as a whole can have a wide-sweeping impact on the field of computing education research. Charting a path for the research themes for the next 15 years provides goals for funding from major funding organizations, and also provides a common touchstone for researchers in the field to use as conversation starters for their prospective students and within the community. While the focus of the work is not specifically on broadening participation, the results of this work reflect that the future direction of computing education can and must have an impact on broadening participation. Better understanding of what and how we do things in the field can only have the effect of improving educational outcomes for everyone.        Last Modified: 12/21/2023       Submitted by: MarkAWeiss]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

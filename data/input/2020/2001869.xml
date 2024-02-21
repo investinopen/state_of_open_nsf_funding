@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Galactic Archaeology Using Luminous Red Giant Asteroseismology with TESS and Gaia]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>230887</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Prestwich</SignBlockName>
+<PO_EMAI>aprestwi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922210</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Joel Zinn is awarded an NSF Astronomy and Astrophysics Fellowship to conduct a program of research and education at the American Museum of Natural History.  Using high quality observations from the Gaia satellite and Transiting Exoplanet Survey Satellite, Zinn will build a large catalog of masses and ages of luminous red giant stars in the distant reaches of the Milky Way.  Information from the catalog will allow astronomers to understand the processes that shaped the Milky Way over billions of years.  Along with this research, Zinn will use connections between art and astronomy to develop a science enrichment course for high school students, and a planetarium show at the Museum. &lt;br/&gt;&lt;br/&gt;By developing a catalog of masses, metallicities, and ages of 100,000 luminous red giants out to 10 kiloparsecs, Zinn will demonstrate the efficacy of asteroseismology in a regime that has remained largely unexplored. The catalog will serve as an invaluable resource which will enable astronomers to address open questions in Galactic dynamics: Has the Milky Way had an unusual merger history compared to other galaxies? What has been the contribution from proposed dynamical heating mechanisms on the evolution of stellar dynamics in the Galactic disk? Using this large data set, Zinn will be able to determine the ages of ancient merger remnants in the Galactic halo and constrain models of heating in the outer disk, which has been inaccessible due to the lack of reliable distant stellar clocks older than 8 billion years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/30/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001869</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Zinn</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joel C Zinn</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000811403</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Zinn, Joel Coyle</Name>
+<CityName>Sydney</CityName>
+<ZipCode>2032</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>Australasia</CountryName>
+<StateName/>
+<StateCode/>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Museum of Natural History]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100245193</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<FUND_OBLG>2021~100000</FUND_OBLG>
+<FUND_OBLG>2022~30887</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Stars near the end of their lives expand to more than one hundred times the size of the Sun, becoming red giants and vastly increasing their light output. These luminous giants become observable in regions of the Galaxy that are otherwise difficult to explore with other types of stars. The present award supported exploring the use of these luminous giants as probes to understand the evolution of our Galaxy.</p> <p>The intrinsic luminosity of these giants is not constant, varying on hours- to days-long timescales due to sound waves that cause temperature variations at the surface. These sound waves are the study of asteroseismology, which translates the frequency of light output variations into physical properties of the star, including its radius, mass, and age.</p> <p>Although luminous giants are potentially useful tools for understanding the ages of different components of the Galaxy, the accuracy of asteroseismic ages is not as reliable as ages from less luminous giants.</p> <p>In an effort to improve age estimates for luminous giants, I led a publication to better understand the reason behind the inaccuracy of luminous asteroseismology. We found that the size of the outer layers in these stars means that the energy of the sound waves cannot be considered to be constant: they can gain and lose energy through radiation more than small, less luminous stars do. Because of this, the prevailing methods for calculating asteroseismic frequencies, which assume the asteroseismic waves lose no energy as they travel in the star, are incorrect. We demonstrated that part of the luminous asteroseismology inaccuracies may be due to these modelling errors.</p> <p>Remaining errors in luminous asteroseismology could potentially be corrected by calibrating the asteroseismic radius scale to an independent radius scale. The Gaia satellite, having catalogued distances to over one billion stars, can provide estimates of stellar radii by virtue of a relationship between the size of a star, how bright it appears, and its distance. In another study, I quantified the accuracy of Gaia radii using a self-calibrating approach: asteroseismic radii are more accurate at large distances than Gaia radii, and vice versa, so the two can calibrate each other. This work is important for establishing Gaia radii as calibration tools for luminous asteroseismology, but also is of fundamental importance to a wide range of fields in astronomy that rely on the accuracy of Gaia distances.</p> <p>The award also supported studies using giant asteroseismology to understand the evolution of the Galaxy using data from NASA's TESS mission. I contributed to a study confirming with asteroseismology that the Galaxy's stellar populations near the disc are younger than those farther away, and one in which the Galaxy's most distant and ancient component --- the halo --- was age dated, which constrains the Milky Way's early formation history.</p> <p>Two curricula at the intersection of art and astronomy were developed in collaboration with working artists: a theatre/history of astronomy course and a dance/Galactic dynamics course. The theatre course went up at the American Museum of Natural History as part of the Lang Science Program: a group of ~20 high school students collaboratively devised theatrical pieces based on the lives and science of historical and contemporary astronomers. A separate dance course exploring Galactic dynamics through individual and collective movement was developed to kinesthetically investigate physical concepts and to create physics-inspired choreography.</p> <!-- @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;  mso-font-charset:0;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;  mso-font-charset:0;  mso-generic-font-family:swiss;  mso-font-pitch:variable;  mso-font-signature:-536859905 -1073732485 9 0 511 0;}@font-face  {font-family:"Yu Mincho";  panose-1:2 2 4 0 0 0 0 0 0 0;  mso-font-alt:&#28216;&#26126;&#26397;;  mso-font-charset:128;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-2147482905 717749503 18 0 131231 0;}@font-face  {font-family:"\@Yu Mincho";  mso-font-charset:128;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-2147482905 717749503 18 0 131231 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal  {mso-style-unhide:no;  mso-style-qformat:yes;  mso-style-parent:";  margin:0cm;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:"Yu Mincho";  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-font-kerning:1.0pt;  mso-ligatures:standardcontextual;  mso-fareast-language:JA;}p  {mso-style-noshow:yes;  mso-style-priority:99;  mso-margin-top-alt:auto;  margin-right:0cm;  mso-margin-bottom-alt:auto;  margin-left:0cm;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Times New Roman",serif;  mso-fareast-font-family:"Times New Roman";}.MsoChpDefault  {mso-style-type:export-only;  mso-default-props:yes;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:"Yu Mincho";  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-fareast-language:JA;}div.WordSection1  {page:WordSection1;} --><br> <p>  Last Modified: 11/17/2023<br> Modified by: Joel&nbsp;C&nbsp;Zinn</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Stars near the end of their lives expand to more than one hundred times the size of the Sun, becoming red giants and vastly increasing their light output. These luminous giants become observable in regions of the Galaxy that are otherwise difficult to explore with other types of stars. The present award supported exploring the use of these luminous giants as probes to understand the evolution of our Galaxy.   The intrinsic luminosity of these giants is not constant, varying on hours- to days-long timescales due to sound waves that cause temperature variations at the surface. These sound waves are the study of asteroseismology, which translates the frequency of light output variations into physical properties of the star, including its radius, mass, and age.   Although luminous giants are potentially useful tools for understanding the ages of different components of the Galaxy, the accuracy of asteroseismic ages is not as reliable as ages from less luminous giants.   In an effort to improve age estimates for luminous giants, I led a publication to better understand the reason behind the inaccuracy of luminous asteroseismology. We found that the size of the outer layers in these stars means that the energy of the sound waves cannot be considered to be constant: they can gain and lose energy through radiation more than small, less luminous stars do. Because of this, the prevailing methods for calculating asteroseismic frequencies, which assume the asteroseismic waves lose no energy as they travel in the star, are incorrect. We demonstrated that part of the luminous asteroseismology inaccuracies may be due to these modelling errors.   Remaining errors in luminous asteroseismology could potentially be corrected by calibrating the asteroseismic radius scale to an independent radius scale. The Gaia satellite, having catalogued distances to over one billion stars, can provide estimates of stellar radii by virtue of a relationship between the size of a star, how bright it appears, and its distance. In another study, I quantified the accuracy of Gaia radii using a self-calibrating approach: asteroseismic radii are more accurate at large distances than Gaia radii, and vice versa, so the two can calibrate each other. This work is important for establishing Gaia radii as calibration tools for luminous asteroseismology, but also is of fundamental importance to a wide range of fields in astronomy that rely on the accuracy of Gaia distances.   The award also supported studies using giant asteroseismology to understand the evolution of the Galaxy using data from NASA's TESS mission. I contributed to a study confirming with asteroseismology that the Galaxy's stellar populations near the disc are younger than those farther away, and one in which the Galaxy's most distant and ancient component --- the halo --- was age dated, which constrains the Milky Way's early formation history.   Two curricula at the intersection of art and astronomy were developed in collaboration with working artists: a theatre/history of astronomy course and a dance/Galactic dynamics course. The theatre course went up at the American Museum of Natural History as part of the Lang Science Program: a group of ~20 high school students collaboratively devised theatrical pieces based on the lives and science of historical and contemporary astronomers. A separate dance course exploring Galactic dynamics through individual and collective movement was developed to kinesthetically investigate physical concepts and to create physics-inspired choreography.      Last Modified: 11/17/2023       Submitted by: JoelCZinn]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

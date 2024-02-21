@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Technique For Remote Location Of Underwater Sites]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>34990.00</AwardTotalIntnAmount>
+<AwardAmount>34990</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Yellen</SignBlockName>
+<PO_EMAI>jyellen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this research is to study the effectiveness of a technique which may result in the ability to detect some types of indigenous archaeological sites on landscapes that are now submerged due to sea-level rise during the Late Pleistocene and Holocene (i.e., following the last Ice Age). While methods exist that can non-invasively identify underwater historic archaeological sites (such as shipwrecks) efficiently and reliably, no such method exists for indigenous archaeological sites. Thus, the indigenous archaeological record on continental shelves is mostly unknown and at potential risk of illegal looting, impact due to climate change, and offshore energy development. Remote detection and avoidance of such sites expedite comprehensive cultural resource surveys on submerged lands while simultaneously increasing the number of recorded (and thus, preserved) sites on continental shelves. Despite many more millennia of indigenous use of submerged landscapes than that which is recorded during colonial seafaring times, indigenous sites are less frequently identified, less often studied, and thus underrepresented in the underwater archaeological record. The results of this project will attempt to ensure that future research on the continental shelves is more balanced. The project will also provide hands-on training to a graduate and undergraduate student in underwater archaeology and geophysics.  &lt;br/&gt;&lt;br/&gt;The PI will lead a team of archaeologists to test a method which could remotely detect lithic (stone) artifacts, a hallmark of indigenous cultures worldwide. The primary research question being addressed is whether or not lithic artifacts produce an acoustic resonance that is observable in remote sensing data. This method relies on using a sub-bottom profiler, which emits low-frequency acoustic waves (~4-24kHz), to produce vibrations within lithic artifacts. These vibrations may then be observed as wavy signatures in the water column of sub-bottom profiler data readouts. The test site for this project is Apalachee Bay, Florida, where a total of 23 indigenous sites will be scanned with a sub-bottom profiler, and the presence or absence of acoustic resonance features at each site will be recorded. Precise locations of each resonance feature will then be explored by divers to test for the presence or absence of lithic artifacts at each location. The overall accuracy and effectiveness of the method will be determined through this field trial, and recommendations will be made based on these results to policy-makers and researchers. If successful, the method will facilitate the location and preservation of submerged indigenous sites during cultural resource management surveys and provide researchers with a new tool for understanding the role submerged landscapes played in the early hominid dispersal out of Africa, the adaptation of early peoples to marine resources, the peopling of Australia and the Americas, and environmental change during Late Pleistocene and Early Holocene.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052026</AwardID>
+<Investigator>
+<FirstName>Morgan</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Morgan Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[morgan-f-smith@utc.edu]]></EmailAddress>
+<NSF_ID>000824293</NSF_ID>
+<StartDate>12/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Chattanooga]]></Name>
+<CityName>CHATTANOOGA</CityName>
+<ZipCode>374032504</ZipCode>
+<PhoneNumber>4234254431</PhoneNumber>
+<StreetAddress><![CDATA[615 MCCALLIE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JNZFHMGJN7M3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JBG7T7RXQ2B7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Chattanooga]]></Name>
+<CityName>Chattanooga</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>374032598</ZipCode>
+<StreetAddress><![CDATA[615 McCallie Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1391</Code>
+<Text>Archaeology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1391</Code>
+<Text>ARCHAEOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~34990</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In 2011, research was published by scientists in Europe suggesting low-frequency sound waves can produce resonance within archaeological material, particularly stone tool debris and fragments made by previous human cultures thousands of years ago. This study, following a series of publications which independently replicated this intial finding, aimed to conduct a test of this method in field as opposed to laboratory settings. Initiated in 2019 and concluded in 2022, the objective of this study was to scan a suite of submerged precontact archaeological sites in the Gulf of Mexico with remote sensing instruments, record the presence or absence of any acoustic resonance features in the vicinity of the sites which may remotely and non-invasively indicate the presence of lithic artifacts underwater, and dive each site to record artifact concentrations (if present) in relation to any observed resonance features. These resonance features, referred to as "haystacks" elsewhere, are wavy signatures in the water column that seem to be produced by attentuation of the sound wave emitted through artifact vibrations, though the physics of the method are not yet fully resolved.</p> <p>If successful, this method would be significant in ensuring more comprehensive protection of indigenous archaeological sites on submerged lands.&nbsp;The inability to locate submerged indigenous sites has stymied an untapped source of revenue in the United States, where the cultural resource management (CRM) industry hires more than 10,000 archaeologists who generate over $1 billion in revenue annually. Our method could provide more high-paying jobs for underwater remote sensing and submerged indigenous archaeological specialists in the United States, attracting and grooming expertise which will ensure that the United States stays at the forefront of archaeological inquiry. Ensuring that this economic development continues requires thorough but expedient investigations into the adverse impacts of development on submerged cultural resources. This technique would prove useful in this regard, allowing for rapid and efficient site detection.<br />Furthermore, identifying submerged indigenous resources is a prerogative for Native American groups, who recognize that much of their patrimony is now inundated. These resources are routinely understudied relative to submerged historic resources, such as shipwrecks, resulting in an imbalance of knowledge. To restore this balance, our project will prioritize the identification and study of submerged Native American heritage. Additionally, compliance with section 106 of the National Historic Preservation Act requires the consideration of submerged indigenous resources, despite the current inability to reliably identify these sites. If successful, our project will enable regulatory agencies and industry groups to conduct more thorough cultural resource assessments before ground-disturbing activities. Thus, our work will facilitate meaningful interaction between academic, private, industry, tribal, and government groups while opening another viable career path for students of underwater archaeology and geophysics to pursue in graduate school. Last, the identification of submerged archaeological sites will help raise awareness of the impact that sea-level rise has had on human populations over time. This increased awareness will make the current issue of climate change-induced sea-level rise more tangible to the general public, thereby increasing public attention to the matter. The enhanced discovery of such sites underwater on public lands will increase a sense of public ownership of these resources. Increasing public awareness will help to ensure the protection of these resources and hopefully diminish and deter the looting of offshore indigenous sites, which is an ongoing problem in the study region.</p> <p>Fundamentally, the project was a success in achieving its stated goal of a side identification rate by acoustic resonance of greater than 10%: resonance was observed at 18 sites of 20 scanned (three sites could not be surveyed due to foul weather or the inability to locate the site). Of sites where resonance observed, 11 of the 18 sites were verified by divers to contain resonance targets associated with surface lithic artifacts, giving a 52% correlation between resonance features and observable lithic artifacts. The remaining seven sites produced resonance targets but no artifacts were observed. These 7 misses may be due to our inability to excavate beneath the seafloor to prospect for buried site components or may represent false positives. A number of unforeseen complications arose, including a global pandemic, the lack of precision for some site GPS coordinates, unseasonably poor weather, and difficulty in anchoring on a precise GPS point to dive resonance targets.</p> <p>However, it cannot be stressed enough that more studies are necessary to better understand the possibilities and pitfalls of this method, though these initial results are promising. Yet, this initial study demonstrates that this phenomena, though riddled with possible variables to address, may be a useful tool in offshore archaeological site identification.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/07/2023<br> Modified by: Morgan&nbsp;Smith</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017520158_Picture7--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017520158_Picture7--rgov-800width.jpg" title="Liquid Landscapes"><img src="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017520158_Picture7--rgov-66x44.jpg" alt="Liquid Landscapes"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Boats anchored over a series of submerged archaeological sites in the Gulf of Mexico, dating back at least 5,000 years ago.</div> <div class="imageCredit">Morgan F. Smith</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Morgan&nbsp;Smith <div class="imageTitle">Liquid Landscapes</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017369121_Picture3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017369121_Picture3--rgov-800width.jpg" title="Submerged Precontact Archaeology"><img src="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017369121_Picture3--rgov-66x44.jpg" alt="Submerged Precontact Archaeology"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A diver holds a stone tool production fragment in Apalachee Bay, Gulf of Mexico.</div> <div class="imageCredit">Morgan F. Smith</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Morgan&nbsp;Smith <div class="imageTitle">Submerged Precontact Archaeology</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017424137_Picture6(1)--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017424137_Picture6(1)--rgov-800width.jpg" title="Taking Notes"><img src="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017424137_Picture6(1)--rgov-66x44.jpg" alt="Taking Notes"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A diver records the location of artifacts at an offshore archaeological site in the Gulf of Mexico.</div> <div class="imageCredit">Morgan F. Smith</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Morgan&nbsp;Smith <div class="imageTitle">Taking Notes</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017624949_Picture5--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017624949_Picture5--rgov-800width.jpg" title="Divers Down"><img src="/por/images/Reports/POR/2023/2052026/2052026_10709959_1696017624949_Picture5--rgov-66x44.jpg" alt="Divers Down"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Divers begin survey at a submerged indigenous archaeological site in the Gulf of Mexico.</div> <div class="imageCredit">Morgan F Smith.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Morgan&nbsp;Smith <div class="imageTitle">Divers Down</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In 2011, research was published by scientists in Europe suggesting low-frequency sound waves can produce resonance within archaeological material, particularly stone tool debris and fragments made by previous human cultures thousands of years ago. This study, following a series of publications which independently replicated this intial finding, aimed to conduct a test of this method in field as opposed to laboratory settings. Initiated in 2019 and concluded in 2022, the objective of this study was to scan a suite of submerged precontact archaeological sites in the Gulf of Mexico with remote sensing instruments, record the presence or absence of any acoustic resonance features in the vicinity of the sites which may remotely and non-invasively indicate the presence of lithic artifacts underwater, and dive each site to record artifact concentrations (if present) in relation to any observed resonance features. These resonance features, referred to as "haystacks" elsewhere, are wavy signatures in the water column that seem to be produced by attentuation of the sound wave emitted through artifact vibrations, though the physics of the method are not yet fully resolved.   If successful, this method would be significant in ensuring more comprehensive protection of indigenous archaeological sites on submerged lands.The inability to locate submerged indigenous sites has stymied an untapped source of revenue in the United States, where the cultural resource management (CRM) industry hires more than 10,000 archaeologists who generate over $1 billion in revenue annually. Our method could provide more high-paying jobs for underwater remote sensing and submerged indigenous archaeological specialists in the United States, attracting and grooming expertise which will ensure that the United States stays at the forefront of archaeological inquiry. Ensuring that this economic development continues requires thorough but expedient investigations into the adverse impacts of development on submerged cultural resources. This technique would prove useful in this regard, allowing for rapid and efficient site detection. Furthermore, identifying submerged indigenous resources is a prerogative for Native American groups, who recognize that much of their patrimony is now inundated. These resources are routinely understudied relative to submerged historic resources, such as shipwrecks, resulting in an imbalance of knowledge. To restore this balance, our project will prioritize the identification and study of submerged Native American heritage. Additionally, compliance with section 106 of the National Historic Preservation Act requires the consideration of submerged indigenous resources, despite the current inability to reliably identify these sites. If successful, our project will enable regulatory agencies and industry groups to conduct more thorough cultural resource assessments before ground-disturbing activities. Thus, our work will facilitate meaningful interaction between academic, private, industry, tribal, and government groups while opening another viable career path for students of underwater archaeology and geophysics to pursue in graduate school. Last, the identification of submerged archaeological sites will help raise awareness of the impact that sea-level rise has had on human populations over time. This increased awareness will make the current issue of climate change-induced sea-level rise more tangible to the general public, thereby increasing public attention to the matter. The enhanced discovery of such sites underwater on public lands will increase a sense of public ownership of these resources. Increasing public awareness will help to ensure the protection of these resources and hopefully diminish and deter the looting of offshore indigenous sites, which is an ongoing problem in the study region.   Fundamentally, the project was a success in achieving its stated goal of a side identification rate by acoustic resonance of greater than 10%: resonance was observed at 18 sites of 20 scanned (three sites could not be surveyed due to foul weather or the inability to locate the site). Of sites where resonance observed, 11 of the 18 sites were verified by divers to contain resonance targets associated with surface lithic artifacts, giving a 52% correlation between resonance features and observable lithic artifacts. The remaining seven sites produced resonance targets but no artifacts were observed. These 7 misses may be due to our inability to excavate beneath the seafloor to prospect for buried site components or may represent false positives. A number of unforeseen complications arose, including a global pandemic, the lack of precision for some site GPS coordinates, unseasonably poor weather, and difficulty in anchoring on a precise GPS point to dive resonance targets.   However, it cannot be stressed enough that more studies are necessary to better understand the possibilities and pitfalls of this method, though these initial results are promising. Yet, this initial study demonstrates that this phenomena, though riddled with possible variables to address, may be a useful tool in offshore archaeological site identification.           Last Modified: 11/07/2023       Submitted by: MorganSmith]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

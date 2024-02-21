@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developments in Gaussian Processes and Beyond: Applications in Geostatistics and Deep Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>120000.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Gaussian processes have diverse applications in statistics and machine learning and are of great contemporary interest. To give a few examples, they arise in the modeling of spatial data, computer experiments, and in studying the limits of deep neural networks. Key reasons for the appeal of Gaussian processes include their simplicity and wide tractability: the entire process is characterized by just the mean and the covariance functions. Yet, although Gaussian processes are popular with well-developed theoretical and computational properties, there are some distinct limitations in using them. Moreover, there are several situations where Gaussian processes are inappropriate as a modeling choice. New methodology will be developed to address some of these limitations, with wide-ranging implications from spatial statistics to deep learning. Publicly available software development, student mentoring, and broad dissemination of research will have impacts beyond the particular research problems at hand.&lt;br/&gt;&lt;br/&gt;Key areas of the technical investigation are as follows. The first issue concerns the use of the ubiquitous Matern covariance function. A key benefit of the Matern family is the precise control over the smoothness of the resultant Gaussian processes (GP) realizations. However, the tails of the Matern covariance decay exponentially fast, which is inappropriate in the presence of polynomial dependence. Polynomial covariances such as Cauchy remedy this issue, but at the expense of a loss of control over smoothness, in that, GP realizations using Cauchy covariances are either infinitely differentiable or not at all. The PI will develop a new covariance function that combines the flexibility of the Matern and polynomial covariances. Next, the PI will study the limiting behavior of deep neural networks under global-local horseshoe regularization priors on the weights. The lack of bounded moments necessitates the construction of a new Levy process that can be used to study the limits of neural networks under such priors, thereby aiding uncertainty quantification. The PI will study the theoretical and computational properties of the resultant process. Finally, the PI will use recently developed global-local shrinkage approaches for Bayesian regularization in GP regression, with distinct improvements upon existing methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014371</AwardID>
+<Investigator>
+<FirstName>Anindya</FirstName>
+<LastName>Bhadra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anindya Bhadra</PI_FULL_NAME>
+<EmailAddress><![CDATA[Bhadra@purdue.edu]]></EmailAddress>
+<NSF_ID>000660036</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072067</ZipCode>
+<StreetAddress><![CDATA[150 N University Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~120000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Overview:</strong>&nbsp;This project addressed the development of new statistical methodology in Gaussian and non-Gaussian stochastic processes, with applications in the modeling of climate data and "infinite width" scaling limits of deep neural networks.&nbsp;</p> <p><strong>Intellectual Merit:</strong> The PI developed a new&nbsp;<em>Confluent Hypergeometric</em>&nbsp;(CH) class of covariance functions for Gaussian process models as a successful alternative to the widely used&nbsp;Mat&eacute;rn model. A crucial limitation of the&nbsp;Mat&eacute;rn model is that its tails decay exponentially fast, which could be inadequate in situations where distant observations in a random field are highly correlated.&nbsp;&nbsp;The CH class allows for polynomial tail decay, while maintaining the flexibility of the&nbsp;Mat&eacute;rn in terms of modeling the smoothness of the random process.&nbsp;The PI also developed posterior inference methodology for "non-Gaussian" infinite-width limit of Bayesian neural networks under infinite variance (stable) weights. In this case, the lack of a covariance function precludes inference as in a Gaussian process case. The PI remedies this situation using a latent Gaussian model. In total, the project has so far resulted in 4 peer-reviewed publications, with 8 further publications using the NSF support under various stages of revision.</p> <p><strong>Broader Impacts: </strong>The research was disseminated via invited talks and colloquia lectures at statistics departments and conferences by the PI and his graduate student. Further, the graduate student supported by this award was trained in all aspects of research, software development and conference presentations as part of dissertation research.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/18/2023<br> Modified by: Anindya&nbsp;Bhadra</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Overview:This project addressed the development of new statistical methodology in Gaussian and non-Gaussian stochastic processes, with applications in the modeling of climate data and "infinite width" scaling limits of deep neural networks.   Intellectual Merit: The PI developed a newConfluent Hypergeometric(CH) class of covariance functions for Gaussian process models as a successful alternative to the widely usedMatrn model. A crucial limitation of theMatrn model is that its tails decay exponentially fast, which could be inadequate in situations where distant observations in a random field are highly correlated.The CH class allows for polynomial tail decay, while maintaining the flexibility of theMatrn in terms of modeling the smoothness of the random process.The PI also developed posterior inference methodology for "non-Gaussian" infinite-width limit of Bayesian neural networks under infinite variance (stable) weights. In this case, the lack of a covariance function precludes inference as in a Gaussian process case. The PI remedies this situation using a latent Gaussian model. In total, the project has so far resulted in 4 peer-reviewed publications, with 8 further publications using the NSF support under various stages of revision.   Broader Impacts: The research was disseminated via invited talks and colloquia lectures at statistics departments and conferences by the PI and his graduate student. Further, the graduate student supported by this award was trained in all aspects of research, software development and conference presentations as part of dissertation research.           Last Modified: 11/18/2023       Submitted by: AnindyaBhadra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

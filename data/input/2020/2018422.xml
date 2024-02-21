@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of Transmission Electron Microscope Digital Camera]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>139860.00</AwardTotalIntnAmount>
+<AwardAmount>139860</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Carter</SignBlockName>
+<PO_EMAI>krcarter@nsf.gov</PO_EMAI>
+<PO_PHON>7032922335</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs as well as the Established Program to Stimulate Competitive Research (EPSCoR). The University of South Dakota is acquiring a digital camera for a transmission electron microscope (TEM) to support Professor James Hoefelmeyer and colleagues Ranjit Koodali, Chaoyang Jiang, Grigoriy Sereda and Aravind Baride. In general, a TEM sends a beam of electrons through a thin layer of material. The electron beam interacts with the substance to produce a visual image, similar to a microscope. The images are recorded by a camera and they are important for research on the chemical properties of materials. The images reveal details of the structure, such as size and shape of a nanoparticle or a protein. This information helps researchers understand the material's properties and improve them. The acquisition enhances the training of undergraduates in research. This instrument is an integral part of teaching as well as research and research training of undergraduate and graduate students at this institution and nearby universities such as South Dakota State University, Nebraska Indian Community College (NICC, in South Sioux City, Macy and Santee, NE) and Red Cloud Indian School.&lt;br/&gt;&lt;br/&gt;The award significantly increases the capabilities and gives a new life to a heavily used transmission electron microscope. The award is aimed at enhancing research and education at all levels. It especially impacts studies controlling and characterizing plasmonic nanomaterials for surface enhanced Raman scattering and anti-counterfeiting applications. The instrumentation is also used for studying photocatalytic degradation of aqueous pollutants using nanoporous carbon materials and investigating lanthanide-doped NaYF4 (sodium ytrium tetrafluoride) upconversion nanocrystals for anti-counterfeiting applications. In addition, it provides information for exploring the use of solar fuels catalysis, fuel cells, and lithium ion batteries. The instrumentation is also used to identify antimicrobial coatings prepared by functionalized multilayered microparticles of graphene.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018422</AwardID>
+<Investigator>
+<FirstName>Ranjit</FirstName>
+<LastName>Koodali</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ranjit T Koodali</PI_FULL_NAME>
+<EmailAddress><![CDATA[ranjit.koodali@wku.edu]]></EmailAddress>
+<NSF_ID>000493047</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chaoyang</FirstName>
+<LastName>Jiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chaoyang Jiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[CY.Jiang@usd.edu]]></EmailAddress>
+<NSF_ID>000389007</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aravind</FirstName>
+<LastName>Baride</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aravind Baride</PI_FULL_NAME>
+<EmailAddress><![CDATA[aravind.baride@usd.edu]]></EmailAddress>
+<NSF_ID>000799695</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Grigoriy</FirstName>
+<LastName>Sereda</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME>Ph.D</PI_SUFX_NAME>
+<PI_FULL_NAME>Grigoriy A Sereda</PI_FULL_NAME>
+<EmailAddress><![CDATA[Grigoriy.Sereda@usd.edu]]></EmailAddress>
+<NSF_ID>000582828</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Hoefelmeyer</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James D Hoefelmeyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[James.Hoefelmeyer@usd.edu]]></EmailAddress>
+<NSF_ID>000492713</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Dakota Main Campus</Name>
+<CityName>VERMILLION</CityName>
+<ZipCode>570692307</ZipCode>
+<PhoneNumber>6056775370</PhoneNumber>
+<StreetAddress>414 E CLARK ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SD00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U9EDNSCHTBE7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF SOUTH DAKOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Dakota]]></Name>
+<CityName>Vermillion</CityName>
+<StateCode>SD</StateCode>
+<ZipCode>570692307</ZipCode>
+<StreetAddress><![CDATA[414 E. Clark St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SD00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8604</Code>
+<Text>Fuel Cells</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~139860</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The department of chemistry at the University of South Dakota (USD) used NSF project funds to purchase a new digital camera for its transmission electron microscope (TEM). The camera was installed in April 2021 and will extend the effective life of the electron microscope by several years. The TEM enables scientists to observe and image nanoscale materials. USD Chemistry is developing advanced materials for security printing, anti-counterfeiting, fuel cells, batteries, antimicrobial coatings, and cancer imaging and treatment. New nanomaterials discoveries include gold nanostars, enzyme-responsive mesoporous silica nanoparticles as targeted drug carriers, luminescent polymer and carbon nanoparticles, lanthanide doped sodium yttrium fluoride (NaYF<sub>4</sub>) nanocrystals, hollow nanoparticles of manganese oxide (Mn<sub>3</sub>O<sub>4</sub>), nanocrystal junctions of nickel oxide (NiO) or silver (Ag) with titanium oxide (TiO<sub>2</sub>), nanostructured calcium carbonate (CaCO<sub>3</sub>) and hydroxyapatite (Ca<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>(OH)<sub>2</sub>), and modified graphene. The project led to two US patent applications with a patent granted for a new method and composition to treat cancer. We are training students to enter the STEM workforce and inspiring members of the community to understand and appreciate the work of scientists, the tools scientist use, and opportunities available to become a scientist. Annual participants include undergraduate students in laboratory courses from first-year Honors General Chemistry Laboratory to upper level Inorganic Chemistry Laboratory, undergraduate students participating in research projects, including participants in the NSF:REU Site hosted by USD Chemistry, graduate students, high school teachers and students, and faculty.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/01/2023<br>      Modified by: James&nbsp;D&nbsp;Hoefelmeyer</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2018422/2018422_10694833_1698886784360_TEMMRIphoto--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018422/2018422_10694833_1698886784360_TEMMRIphoto--rgov-800width.jpg" title="Faculty member training a student to use the TEM"><img src="/por/images/Reports/POR/2023/2018422/2018422_10694833_1698886784360_TEMMRIphoto--rgov-66x44.jpg" alt="Faculty member training a student to use the TEM"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Project PI, Dr. Hoefelmeyer, trains  undergraduate student and NSF:REU participant, Lydia Lang, to use a transmission electron microscope.</div> <div class="imageCredit">Anji Putta</div> <div class="imageSubmitted">James&nbsp;D&nbsp;Hoefelmeyer</div> <div class="imageTitle">Faculty member training a student to use the TEM</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The department of chemistry at the University of South Dakota (USD) used NSF project funds to purchase a new digital camera for its transmission electron microscope (TEM). The camera was installed in April 2021 and will extend the effective life of the electron microscope by several years. The TEM enables scientists to observe and image nanoscale materials. USD Chemistry is developing advanced materials for security printing, anti-counterfeiting, fuel cells, batteries, antimicrobial coatings, and cancer imaging and treatment. New nanomaterials discoveries include gold nanostars, enzyme-responsive mesoporous silica nanoparticles as targeted drug carriers, luminescent polymer and carbon nanoparticles, lanthanide doped sodium yttrium fluoride (NaYF4) nanocrystals, hollow nanoparticles of manganese oxide (Mn3O4), nanocrystal junctions of nickel oxide (NiO) or silver (Ag) with titanium oxide (TiO2), nanostructured calcium carbonate (CaCO3) and hydroxyapatite (Ca10(PO4)6(OH)2), and modified graphene. The project led to two US patent applications with a patent granted for a new method and composition to treat cancer. We are training students to enter the STEM workforce and inspiring members of the community to understand and appreciate the work of scientists, the tools scientist use, and opportunities available to become a scientist. Annual participants include undergraduate students in laboratory courses from first-year Honors General Chemistry Laboratory to upper level Inorganic Chemistry Laboratory, undergraduate students participating in research projects, including participants in the NSF:REU Site hosted by USD Chemistry, graduate students, high school teachers and students, and faculty.             Last Modified: 11/01/2023       Submitted by: James D Hoefelmeyer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

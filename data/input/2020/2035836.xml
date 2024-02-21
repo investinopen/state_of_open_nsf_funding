@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Quantitative Tissue Oxygen Sensors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is to personalize therapies and improve outcomes for patients with a wide range of diseases and ailments. Deviation from normal tissue oxygen levels can cause poor outcomes for patients, ranging from resistance to radiation therapy for cancer patients to amputation for a patient suffering from a crushed limb. Clinical interventions to address these and other diseases require an oxygen sensing method that produces actionable data and is in a format that is compatible with current clinical care. For example, when treating cancer, understanding the distribution and quantitative levels of tumor oxygen could enable physicians to apply higher doses of radiation to the low oxygen regions in order to combat the treatment resistance typically observed in these environments. This oxygen sensor is a platform technology that can be used in a wide range of clinical and pre-clinical applications. It overcomes the limitations of both past and current oxygen sensing alternatives and provides minimally invasive, quantitative, and absolute measurements of tissue oxygen. &lt;br/&gt;&lt;br/&gt;This I-Corps project focuses on advancing a novel oxygen sensing polymer that is measured non-invasively using magnetic resonance imaging (MRI). This material is used to quantify oxygen by measuring the influence of molecular oxygen on the MRI properties of the silicone. The MRI properties are a function of the concentration of oxygen that is in the sensor at any given time.  The MRI measurements can be converted to oxygen values using a calibration curve to provide the actionable clinical information to physicians. The sensor is made completely of silicone which limits the ingress of water and biological materials that could compromise measurement quality. The elastomeric nature of the silicone sensor allows it to be customized for a wide range of clinical applications. The sensor offers quantitative and long-term tracking of tissue oxygen with a technique and device that is compatible with the clinical workflow. This sensor has been evaluated in multiple pre-clinical small animal models and is in an early feasibility clinical trial for cervical cancer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035836</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Lubynsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman Lubynsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[rml@mit.edu]]></EmailAddress>
+<NSF_ID>000648609</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Ekchian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory Ekchian</PI_FULL_NAME>
+<EmailAddress><![CDATA[gekchian@mit.edu]]></EmailAddress>
+<NSF_ID>000829196</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Cima</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Cima</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjcima@MIT.EDU]]></EmailAddress>
+<NSF_ID>000453239</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021390001</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-3f367683-7fff-b43c-090a-7d6cdf7565ae"> </span></p> <p dir="ltr"><span>This NSF I-Corps award provided the framework and training to understand the potential applications, customers and key value propositions of a new technology arising from university research that produced an </span><span>oxygen sensing polymer.&nbsp; This polymer is 100% silicone, is completely wireless, and has no electronics. It is measured non-invasively using MRI and enables a direct and quantitative measurement of tissue oxygen levels. Some of the technological achievements include using 100% silicone also limits the ingress of biological material which would confound the influence of oxygen on the polymer. Our technology addresses a pressing medical need for quantitative oxygen sensing in a form factor and format that is compatible with the clinical workflow.</span></p> <p>During the award, the team explored potential applications and customer segments including oncology and other medical challenges involving tissue health and viability where there is a need for quantitative oxygen sensing.&nbsp; During the award, the team conducted over 200 customer discovery interviews with key stakeholders such as doctors, surgeons, hospital administrators, insurance companies and others involved in the adoption process. The interview process has driven changes in our development pipeline, including product format and in which order to bring products to market. Additionally, it has highlighted new market opportunities focused around research products for both pre-clinical and clinical use. This has helped us to restructure our plans for collaborations and partnerships within academia, as well as efforts to engage with potential customers through clinical conferences and tradeshows.</p> <p>Based on the lessons learned as a result of the I-Corps project, the team has developed a platform technology that can be deployed in a wide range of clinical and pre-clinical applications. It overcomes the limitations of both past oxygen sensors which were overly invasive and incompatible with the current clinical workflow and current alternatives which are indirect, qualitative, and/or overly invasive. There is a need for quantitative oxygen sensing in applications including oncology and tissue health and viability. Our initial focus is on oncology where low oxygen, hypoxic, tumors are more resistant to treatment with radiation and chemotherapy. This leads to worse tumor control, a higher likelihood of metastasis formation, and greater rates of relapse and mortality. Treatment of these tumors requires that they be identified in advance so that hypoxia-targeting treatments can be implemented. This can include radiation dose escalation to hypoxic sub-volumes, selection of a hypoxia targeting chemotherapy, modifying the tumor environment to make it more susceptible to the current standard of care, or conducting enhanced monitoring due to the greater likelihood of relapse.&nbsp;</p> <p>This project led to the formation of a startup to complete the applied research and commercialize this technology. The company has received SBIR funding from the NIH and has also raised capital from private investors. The project provided the team with immersive training and hands-on experience to investigate the application of an emerging new technology from a university lab. The team found that the customer discovery and validation framework is an invaluable process. Through this work the team became comfortable in communicating with staff and decision makers in industry. The new skills and understanding developed during this I-Corps project resulted in significant professional development.</p><br> <p>            Last Modified: 10/23/2023<br>      Modified by: Roman&nbsp;Lubynsky</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   This NSF I-Corps award provided the framework and training to understand the potential applications, customers and key value propositions of a new technology arising from university research that produced an oxygen sensing polymer.  This polymer is 100% silicone, is completely wireless, and has no electronics. It is measured non-invasively using MRI and enables a direct and quantitative measurement of tissue oxygen levels. Some of the technological achievements include using 100% silicone also limits the ingress of biological material which would confound the influence of oxygen on the polymer. Our technology addresses a pressing medical need for quantitative oxygen sensing in a form factor and format that is compatible with the clinical workflow.  During the award, the team explored potential applications and customer segments including oncology and other medical challenges involving tissue health and viability where there is a need for quantitative oxygen sensing.  During the award, the team conducted over 200 customer discovery interviews with key stakeholders such as doctors, surgeons, hospital administrators, insurance companies and others involved in the adoption process. The interview process has driven changes in our development pipeline, including product format and in which order to bring products to market. Additionally, it has highlighted new market opportunities focused around research products for both pre-clinical and clinical use. This has helped us to restructure our plans for collaborations and partnerships within academia, as well as efforts to engage with potential customers through clinical conferences and tradeshows.  Based on the lessons learned as a result of the I-Corps project, the team has developed a platform technology that can be deployed in a wide range of clinical and pre-clinical applications. It overcomes the limitations of both past oxygen sensors which were overly invasive and incompatible with the current clinical workflow and current alternatives which are indirect, qualitative, and/or overly invasive. There is a need for quantitative oxygen sensing in applications including oncology and tissue health and viability. Our initial focus is on oncology where low oxygen, hypoxic, tumors are more resistant to treatment with radiation and chemotherapy. This leads to worse tumor control, a higher likelihood of metastasis formation, and greater rates of relapse and mortality. Treatment of these tumors requires that they be identified in advance so that hypoxia-targeting treatments can be implemented. This can include radiation dose escalation to hypoxic sub-volumes, selection of a hypoxia targeting chemotherapy, modifying the tumor environment to make it more susceptible to the current standard of care, or conducting enhanced monitoring due to the greater likelihood of relapse.   This project led to the formation of a startup to complete the applied research and commercialize this technology. The company has received SBIR funding from the NIH and has also raised capital from private investors. The project provided the team with immersive training and hands-on experience to investigate the application of an emerging new technology from a university lab. The team found that the customer discovery and validation framework is an invaluable process. Through this work the team became comfortable in communicating with staff and decision makers in industry. The new skills and understanding developed during this I-Corps project resulted in significant professional development.       Last Modified: 10/23/2023       Submitted by: Roman Lubynsky]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

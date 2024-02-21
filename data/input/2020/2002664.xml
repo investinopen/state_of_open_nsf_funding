@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: MLWiNS: Physical Layer Communication revisited via  Deep Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>223334.00</AwardTotalIntnAmount>
+<AwardAmount>223334</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Reliable communication is a workhorse of the modern information age. The disciplines of communication, coding, and information theory drive the innovation by designing efficient codes that allow transmissions to be robustly decoded. Progress in near optimal codes is made by individual human ingenuity and breakthroughs have been, befittingly, sporadic, spread over several decades. Deep learning has recently shown strong promise in problems where the space of algorithmic choices is enormous (e.g., Go). This scenario likewise characterizes communication theory. Deep learning methods can play a crucial role in achieving the aforementioned goals. All resulting algorithms will be maintained on an online repository with full source code and documentation. The practical applications of the new codes will be explored in the context of wireless deployments. The research outcomes will be used to develop new undergraduate and graduate curricula. &lt;br/&gt; &lt;br/&gt;The fundamental nature of the research spans two areas of independent scientific and technical interest: finite block length information theory and the mathematics of deep learning. This project aims to bring the tools of deep learning to design a new family of encoding and decoding methods for canonical communication models; the codes so generated are naturally built for finite block lengths. In parallel, the viewpoint of neural network architectures as encoding and decoding procedures provides a unique vantage point to study their mathematical properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002664</AwardID>
+<Investigator>
+<FirstName>Sewoong</FirstName>
+<LastName>Oh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sewoong Oh</PI_FULL_NAME>
+<EmailAddress><![CDATA[sewoong@cs.washington.edu]]></EmailAddress>
+<NSF_ID>000642594</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName/>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~223334</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Reliable digital communication is a primary workhorse of the modern information age. The disciplines of communication, coding, and information theories drive innovation by designing efficient codes that allow transmissions to be robustly decoded. The goal of this project is to develop techniques that leverage advances in deep learning to assist physical layer communication systems, by learning more reliable encoding and decoding schemes. The first intellectual merit of this project lies in discovering new codes building upon the popular Reed-Muller codes. Reed-Muller codes achieve the capacity on some common channels and have favorable practical performance. However, Reed-Muller codes admit only a certain discrete set of rates. To this end, we propose using subcodes of Reed-Muller codes in order to admit any flexible rates. For these codes, we propose a recursive projection-aggregation decoder that is computationally efficient. This decoder is further improved by machine learning techniques that learn the set of projections that minimizes the decoding error rate. The second intellectual merit of this project is a training method for training decoders for the polar family of codes. This is based on curriculum learning, a popular training technique for complex tasks, tailored for training decoders. When training a decoder on simulated data, the optimization gets stuck at local minima, which results in an inferior error rate. We propose overcoming such local minima by progressively training the decoder on multiple carefully chosen sets of tasks of increasing complexity. Specifically, given a polar code, we prescribe how to select a series of polar codes of lower rate that are increasingly easier to decode. When training a decoder, showing examples from these simpler codes significantly improves the reliability of the decoder we get at the end of this progressive training. This can potentially be used for any coding schemes where the difficulty of the task of decoding a code can be controlled and designed. The broader impact of this project is that machine learning-assisted encoding and decoding schemes are being tested in the wild with various real-world constraints to improve the reliability and efficiency.</span></p><br> <p>  Last Modified: 12/23/2023<br> Modified by: Sewoong&nbsp;Oh</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Reliable digital communication is a primary workhorse of the modern information age. The disciplines of communication, coding, and information theories drive innovation by designing efficient codes that allow transmissions to be robustly decoded. The goal of this project is to develop techniques that leverage advances in deep learning to assist physical layer communication systems, by learning more reliable encoding and decoding schemes. The first intellectual merit of this project lies in discovering new codes building upon the popular Reed-Muller codes. Reed-Muller codes achieve the capacity on some common channels and have favorable practical performance. However, Reed-Muller codes admit only a certain discrete set of rates. To this end, we propose using subcodes of Reed-Muller codes in order to admit any flexible rates. For these codes, we propose a recursive projection-aggregation decoder that is computationally efficient. This decoder is further improved by machine learning techniques that learn the set of projections that minimizes the decoding error rate. The second intellectual merit of this project is a training method for training decoders for the polar family of codes. This is based on curriculum learning, a popular training technique for complex tasks, tailored for training decoders. When training a decoder on simulated data, the optimization gets stuck at local minima, which results in an inferior error rate. We propose overcoming such local minima by progressively training the decoder on multiple carefully chosen sets of tasks of increasing complexity. Specifically, given a polar code, we prescribe how to select a series of polar codes of lower rate that are increasingly easier to decode. When training a decoder, showing examples from these simpler codes significantly improves the reliability of the decoder we get at the end of this progressive training. This can potentially be used for any coding schemes where the difficulty of the task of decoding a code can be controlled and designed. The broader impact of this project is that machine learning-assisted encoding and decoding schemes are being tested in the wild with various real-world constraints to improve the reliability and efficiency.     Last Modified: 12/23/2023       Submitted by: SewoongOh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

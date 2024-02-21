@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID:  Unprecedented Hypoxia in Cape Cod Bay]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>163255.00</AwardTotalIntnAmount>
+<AwardAmount>163255</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Baris Uz</SignBlockName>
+<PO_EMAI>bmuz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924557</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This is rapid response study of oxygen dynamics in southern Cape Cod Bay (CCB) in order to better understand the physical processes that are contributing to an unprecedented second consecutive summer of extensive bottom hypoxia. Comprehensive measurements will be made during the critical months of September and October, in order to resolve the important spatial and temporal scales needed to better understand the frontal dynamics of this region, which are hypothesized to play a key role in controlling bottom oxygen concentration. Hypoxia in coastal waters is typically associated with either large anthropogenic nutrient inputs or strong and persistent upwelling. Southern CCB has neither, yet extensive hypoxic bottom waters have developed for the second consecutive summer. This developing hypoxia event provides a unique opportunity to examine the physical and biogeochemical processes responsible for this novel hypoxia&lt;br/&gt;regime. Concentration of organic carbon in a localized area that also receives less oxygen input because of reduced mixing is expected to be the causal mechanism. Results from this research will be communicated to both the Massachusetts Department of Marine Fisheries and the Massachusetts Lobstermen’s Association. This research will help foster collaborations with these groups with the goal of assessing whether hypoxia is likely to persist in the coming year and become more severe as regional surface waters warm. Results from this research will help develop mitigation strategies to minimize economic losses and harm to the lobster fishery.&lt;br/&gt;&lt;br/&gt;It is hypothesized that in CCB, and other systems without persistent strong upwelling or large anthropogenic nutrient inputs, the production of organic carbon is insufficient to drive widespread hypoxia during the summer, but localized hypoxia can occur when convergent transport concentrates organic carbon in sufficient quantities to deplete bottom oxygen levels. In CCB, hypoxia is expected to develop in association with a strong bottom density front that occurs where the seasonal pycnocline intersects the seafloor. At this location, strong thermal stratification immediately adjacent to the seabed suppresses turbulence, preventing ventilation via vertical mixing and the front accumulates organic material that enhances respiration at this location. In order to maintain this bottom front during summer conditions, frequent relaxation/downwelling winds are needed. The mechanism of oxygen depleting associated with a bottom front is fundamentally different from what drives hypoxia in more commonly studied upwelling regions. However, it may be important in other environments with strong thermal stratification and variable wind forcing. This interdisciplinary research will resolve the mechanisms that drive hypoxia in CCB and provide insight into why low oxygen conditions appear to be occurring more frequently in this economically important region. The team will 1) conduct ship-based sampling roughly every 5 days to resolve the full three-dimensional distribution of temperature, salinity, dissolved oxygen, chlorophyll fluorescence and turbidity and how these variables respond to wind forcing; 2) deploy 3 bottom landers that span the hypoxic region on a N-S transect to continuously record bottom temperature, salinity and DO and water column circulation; and 3) conduct numerical simulations of the region using a coupled hydrodynamic-biogeochemical model to better understand the basic processes that result in low bottom oxygen.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053240</AwardID>
+<Investigator>
+<FirstName>Wayne</FirstName>
+<LastName>Geyer</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wayne R Geyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[rgeyer@whoi.edu]]></EmailAddress>
+<NSF_ID>000117621</NSF_ID>
+<StartDate>12/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Malcolm</FirstName>
+<LastName>Scully</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Malcolm E Scully</PI_FULL_NAME>
+<EmailAddress><![CDATA[mscully@whoi.edu]]></EmailAddress>
+<NSF_ID>000499213</NSF_ID>
+<StartDate>12/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431535</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>266 WOODS HOLE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GFKFBWG2TV98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WOODS HOLE OCEANOGRAPHIC INSTITUTION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Woods Hole Oceanographic Institution]]></Name>
+<CityName>Woods Hole</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>025431535</ZipCode>
+<StreetAddress><![CDATA[266 Woods Hole Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1670</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~163255</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In late summer 2019, and again in 2020, bottom waters in southern Cape Cod Bay became depleted of dissolved oxygen.&nbsp;&nbsp;These low oxygen (hypoxic) conditions resulted in the mortality of benthic organisms including lobsters, scallops and some fish.&nbsp;&nbsp;This was the first time that hypoxic conditions had been reported in this area, despite the fact that routine water quality monitoring has been performed in the region for decades.&nbsp;&nbsp;This NSF RAPID project requested funds to respond to the developing hypoxic conditions during the summer of 2020, in order to provide a more complete understanding of the causes of unprecedented hypoxia in two consecutive summers.</p> <p>This project supported the deployment of in-situ instruments and ship-based surveys in southern Cape Cod Bay in late summer 2020 and the analysis of historical data.&nbsp;&nbsp;The in-situ instruments measured currents, temperature, salinity and bottom dissolved oxygen in the area where hypoxic conditions were observed.&nbsp;&nbsp;These instruments quantified the hypoxic conditions, their modulation by wind and tidal forcing, and the ultimate increase in dissolved oxygen of bottom waters associated with intensified storm activity in early fall.&nbsp;&nbsp;Roughly weekly ship-based surveys characterized the temperature structure of the water column and measured the full 3-dimensional distribution of dissolved oxygen and chlorophyll fluorescence.&nbsp;&nbsp;Discrete bottle samples were collected and analyzed by colleagues for inorganic nutrients and phytoplankton species composition.&nbsp;&nbsp;In conjunction with the field sampling program, historical data were analyzed to better understand how conditions in southern Cape Cod Bay had changed and how these changes may have contributed to the recent occurrence of summer hypoxia.&nbsp;&nbsp;These historical data included water temperature and wind speed/direction from the National Data Buoy Center (NDBC) buoy 44013, data from monthly water quality surveys collected by the Center for Coastal Studies (CCS), bottom temperature data collected by the Massachusetts Division of Marine Fisheries (MDMF), and phytoplankton species composition data collected through the Massachusetts Water Resource Authority (MWRA).&nbsp;</p> <p>This project demonstrated that hypoxic conditions formed in relatively shallow water in Cape Cod Bay where the strong seasonal thermocline intersected the sea floor, both limiting vertical mixing and concentrating biological oxygen demand over a very thin bottom boundary layer (figure 1).&nbsp;&nbsp;In 2020, anomalously high sub-surface phytoplankton blooms were observed in the thermocline, and the biomass from these blooms is thought to have provided the fuel to deplete bottom waters of dissolved oxygen.&nbsp;&nbsp;The increased chlorophyll fluorescence was accompanied by a corresponding decrease in bottom nutrients, suggesting that prior to 2019 physical conditions were unfavorable for the utilization of these deep nutrients by the late summer phytoplankton community (figure 2).&nbsp;&nbsp;A simple calculation demonstrates that the overall decrease in bottom nutrients is generally consistent with the anomalous increase in algal biomass in late summer 2019 and 2020.&nbsp;&nbsp;We hypothesize that significant alteration of physical conditions in Cape Cod Bay during late summer, which is the result of regional climate change, has favored the recent increase in sub-surface phytoplankton production.&nbsp;&nbsp;These changes include rapidly warming surface waters and significant shifts in summer wind direction, both of which impact the intensity and vertical distribution of thermal stratification and vertical mixing within the water column (figure 3). &nbsp;</p> <p>These changes in water column structure not only create conditions that are more physically susceptible to hypoxia, but also have significant implications for the local phytoplankton dynamics, potentially allowing a new species to bloom in late summer.&nbsp;&nbsp;<em>Karenia mikimotoi</em>&nbsp;is a&nbsp;planktonic dinoflagellate species responsible for harmful blooms in coastal waters worldwide.&nbsp;&nbsp;Prior to 2017,&nbsp;<em>K. mikimotoi</em>&nbsp;had never been detected in Cape Cod Bay or adjacent waters.&nbsp;&nbsp;However, increasing cell densities have been reported in recent years and&nbsp;<em>K. mikimotoi</em>&nbsp;is now detected year round in routine sampling throughout the region (figure 2).&nbsp;&nbsp;Samples collected during this project from the sub-surface region of high chlorophyll fluorescence had&nbsp;<em>K. mikimotoi</em>&nbsp;counts that exceeded 771,000 cell/L, accounting for over 70% of the identifiable species.&nbsp;&nbsp;The emergence of this new late summer bloom species is consistent with a rapidly changing ecosystem and is hypothesized to be the primary reason why hypoxia was observed in both 2019 and 2020.&nbsp;&nbsp;The dramatic changes in habitat in Cape Cod Bay illustrate how the complex response to climate change can play an important role in controlling the floral composition of a coastal marine ecosystem, with significant implications for bottom oxygen dynamics and regional water quality.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/04/2024<br> Modified by: Malcolm&nbsp;E&nbsp;Scully</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397665697_Slide7--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397665697_Slide7--rgov-800width.jpeg" title="Changing Environment in Cape Cod Bay"><img src="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397665697_Slide7--rgov-66x44.jpeg" alt="Changing Environment in Cape Cod Bay"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3.  Changes in summer conditions in Cape Cod Bay including: a) surface water temperature, b) number of days with temperature greater than 20 degrees Celcius, c) top-to-bottom temperature difference, d) shifts in summer winds.</div> <div class="imageCredit">Scully et al. 2022, Biogeosciences</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Malcolm&nbsp;E&nbsp;Scully <div class="imageTitle">Changing Environment in Cape Cod Bay</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397453208_Slide3--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397453208_Slide3--rgov-800width.jpeg" title="Hypoxia Surveys from Cape Cod Bay"><img src="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397453208_Slide3--rgov-66x44.jpeg" alt="Hypoxia Surveys from Cape Cod Bay"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1.  Conditions observed during late summer 2020 including winds (panel a), dissolved oxygen (left), chlorophyll (center) and optical backscatter (right).  Each panel has contours of temperature and highlights the response to wind forcing.</div> <div class="imageCredit">Scully et al. 2022, Biogeosciences</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Malcolm&nbsp;E&nbsp;Scully <div class="imageTitle">Hypoxia Surveys from Cape Cod Bay</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397599117_Slide6--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397599117_Slide6--rgov-800width.jpeg" title="Emergence of K. mikimotoi"><img src="/por/images/Reports/POR/2024/2053240/2053240_10710132_1704397599117_Slide6--rgov-66x44.jpeg" alt="Emergence of K. mikimotoi"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2.  Time series of the average summer a) depth-integrated chlorophyll fluorescence, b) bottom  boundary layer (BBL) integrated inorganic nitrogen, c) maximum abundance of K. mikimotoi from late-summer samples.</div> <div class="imageCredit">Scully et al. 2022, Biogeosciences</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Malcolm&nbsp;E&nbsp;Scully <div class="imageTitle">Emergence of K. mikimotoi</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In late summer 2019, and again in 2020, bottom waters in southern Cape Cod Bay became depleted of dissolved oxygen.These low oxygen (hypoxic) conditions resulted in the mortality of benthic organisms including lobsters, scallops and some fish.This was the first time that hypoxic conditions had been reported in this area, despite the fact that routine water quality monitoring has been performed in the region for decades.This NSF RAPID project requested funds to respond to the developing hypoxic conditions during the summer of 2020, in order to provide a more complete understanding of the causes of unprecedented hypoxia in two consecutive summers.   This project supported the deployment of in-situ instruments and ship-based surveys in southern Cape Cod Bay in late summer 2020 and the analysis of historical data.The in-situ instruments measured currents, temperature, salinity and bottom dissolved oxygen in the area where hypoxic conditions were observed.These instruments quantified the hypoxic conditions, their modulation by wind and tidal forcing, and the ultimate increase in dissolved oxygen of bottom waters associated with intensified storm activity in early fall.Roughly weekly ship-based surveys characterized the temperature structure of the water column and measured the full 3-dimensional distribution of dissolved oxygen and chlorophyll fluorescence.Discrete bottle samples were collected and analyzed by colleagues for inorganic nutrients and phytoplankton species composition.In conjunction with the field sampling program, historical data were analyzed to better understand how conditions in southern Cape Cod Bay had changed and how these changes may have contributed to the recent occurrence of summer hypoxia.These historical data included water temperature and wind speed/direction from the National Data Buoy Center (NDBC) buoy 44013, data from monthly water quality surveys collected by the Center for Coastal Studies (CCS), bottom temperature data collected by the Massachusetts Division of Marine Fisheries (MDMF), and phytoplankton species composition data collected through the Massachusetts Water Resource Authority (MWRA).   This project demonstrated that hypoxic conditions formed in relatively shallow water in Cape Cod Bay where the strong seasonal thermocline intersected the sea floor, both limiting vertical mixing and concentrating biological oxygen demand over a very thin bottom boundary layer (figure 1).In 2020, anomalously high sub-surface phytoplankton blooms were observed in the thermocline, and the biomass from these blooms is thought to have provided the fuel to deplete bottom waters of dissolved oxygen.The increased chlorophyll fluorescence was accompanied by a corresponding decrease in bottom nutrients, suggesting that prior to 2019 physical conditions were unfavorable for the utilization of these deep nutrients by the late summer phytoplankton community (figure 2).A simple calculation demonstrates that the overall decrease in bottom nutrients is generally consistent with the anomalous increase in algal biomass in late summer 2019 and 2020.We hypothesize that significant alteration of physical conditions in Cape Cod Bay during late summer, which is the result of regional climate change, has favored the recent increase in sub-surface phytoplankton production.These changes include rapidly warming surface waters and significant shifts in summer wind direction, both of which impact the intensity and vertical distribution of thermal stratification and vertical mixing within the water column (figure 3).    These changes in water column structure not only create conditions that are more physically susceptible to hypoxia, but also have significant implications for the local phytoplankton dynamics, potentially allowing a new species to bloom in late summer.Karenia mikimotoiis aplanktonic dinoflagellate species responsible for harmful blooms in coastal waters worldwide.Prior to 2017,K. mikimotoihad never been detected in Cape Cod Bay or adjacent waters.However, increasing cell densities have been reported in recent years andK. mikimotoiis now detected year round in routine sampling throughout the region (figure 2).Samples collected during this project from the sub-surface region of high chlorophyll fluorescence hadK. mikimotoicounts that exceeded 771,000 cell/L, accounting for over 70% of the identifiable species.The emergence of this new late summer bloom species is consistent with a rapidly changing ecosystem and is hypothesized to be the primary reason why hypoxia was observed in both 2019 and 2020.The dramatic changes in habitat in Cape Cod Bay illustrate how the complex response to climate change can play an important role in controlling the floral composition of a coastal marine ecosystem, with significant implications for bottom oxygen dynamics and regional water quality.        Last Modified: 01/04/2024       Submitted by: MalcolmEScully]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

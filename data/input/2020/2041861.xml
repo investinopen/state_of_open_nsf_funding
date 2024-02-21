@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  A near real-time analyzer for MRSA screening and diagnosis of MRSA infections]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project are significant. The prevalence of multi-drug resistant organisms (MDROs) or superbugs, which include S. aureus and methicillin-resistant S. aureus (MRSA), is one of the greatest threats to public health.  Annually in the United States, over 2 million people acquire MDRO infections, leading to at least 23,000 deaths.  Further, MDRO infections has been recognized as co-infections of COVID-19 that complicates the therapeutics of the pandemic disease in the healthcare environment.  The analyzer will lead to fast containment and rapid diagnosis of MRSA and S. aureus infections. When its capacity is expanded to include other MDROs, the analyzer will allow clinicians to significantly enhanced treatment efficacy, leading to decreased morbidity and mortality, reduced costs of treatment and hospital stay, reduced prevalence of MDROs.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will address the long time-to-result of current MRSA testing technologies. The current culture-based diagnosis of bacterial infections requires 16-48 hours to produce results. The long diagnosis-time leads to overuse of broad-spectrum antibiotics (BSAs), resulting in under-treatment, severe side effects, morbidity and mortality as well as the development of MDROs. The culture-free analyzer will complete the diagnosis in 120 minutes. The analyzer will allow clinicians to limit the use of BSAs and start using narrow spectrum antibiotics in the early stage of treatment to enhance efficacy and reduce the prevalence of MDROs. The goals of the project are: (1) To construct a prototype analyzer, which will provide simultaneous diagnosis on multiple samples in 120 minutes, and (2) To conduct a small-scale characterization of the clinical performance of the prototype with clinical samples to establish its credibility as a clinical diagnostic technology. The prototype analyzer will consist of a multi-channel signal acquisition electronics console and detection plates.  The detection plate will contain an array of bacteria-specific detection electrodes and will be inserted into the console and operated by the console for measurements. The analyzer will detect MRSA in clinical samples and distinguish MRSA from S. aureus.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041861</AwardID>
+<Investigator>
+<FirstName>Siu-Tung</FirstName>
+<LastName>Yau</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siu-Tung Yau</PI_FULL_NAME>
+<EmailAddress><![CDATA[syau@rapidect.com]]></EmailAddress>
+<NSF_ID>000799924</NSF_ID>
+<StartDate>05/12/2021</StartDate>
+<EndDate>04/20/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shivani</FirstName>
+<LastName>Sharma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shivani Sharma</PI_FULL_NAME>
+<EmailAddress><![CDATA[shivaniphy.rsh@gndu.ac.in]]></EmailAddress>
+<NSF_ID>000931041</NSF_ID>
+<StartDate>04/20/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>RAPIDECT INC</Name>
+<CityName>SOLON</CityName>
+<ZipCode>441392067</ZipCode>
+<PhoneNumber>4404980742</PhoneNumber>
+<StreetAddress>32832 SPRINGSIDE LN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XWDFCKC3RTJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RAPIDECT, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rapidect, Inc]]></Name>
+<CityName>Solon</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>441392067</ZipCode>
+<StreetAddress><![CDATA[32832 Springside Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></strong></p> <p><strong>&nbsp;</strong></p> <p>The objective of the Phase I project was to produce an integrated prototype of the Rapidect Analyzer that is equipped with multiplexing capability to perform parallel measurements on multiple samples for the detection/screening-identification (ID)-antibiotics susceptibility testing (AST) diagnostic process of methicillin-resistant <em>Staphylococcus aureus</em> (MRSA) and methicillin-sensitive <em>Staphylococcus aureus</em> (MSSA) without culture<strong><em>. </em></strong>The<strong><em> </em></strong>time-to-result will be less than 2 hours (near real-time) for MRSA screening and AST. The two specific goals (SGs)<strong> </strong>are:</p> <p>&nbsp;</p> <p><strong>SG (1)</strong> To construct and test the prototype analyzer, which will consist of an electronics console and screen-printed electrode (SPE) plates. The console will contain a multi-channel electrochemical potentiostat system for parallel measurements on multiple samples. The SPE plate will contain an array of bacteria-specific detection SPEs with associated electrode assemblies. The SPEs on the plate will be operated by the console .</p> <p>&nbsp;</p> <p><strong>SG (2)</strong> To conduct a small-scale characterization of the performance of the prototype analyzer with clinical samples in order to establish its credibility as a clinical technology.&nbsp;</p> <p>&nbsp;</p> <p><strong>&nbsp;</strong></p> <p>&nbsp;</p> <p><strong>Outcomes of Phase I research</strong></p> <p>&nbsp;</p> <p>(1)&nbsp;&nbsp; Prototype &ndash; electronics console</p> <p>We have produced a 4-channel electronics console, that integrates the individual components of the previous console into a compact 15cm x 10cm x 4cm box. The console is capable of making parallel measurements on 4 detection electrodes.</p> <p>&nbsp;</p> <p>(2)&nbsp;&nbsp; Prototype &ndash; SPE plates</p> <p>&nbsp;</p> <p>We have devised two options to construct the SPE plate. We will attach individual SPEs side by side on a solid support.&nbsp; Or we will print the required SPEs on a solid support using the screen-printed technique. &nbsp;The first option was implemented in this project.</p> <p>&nbsp;</p> <p>(3)&nbsp;&nbsp; System operation</p> <p>We have demonstrated that the prototype is capable to perform parallel measurements on multiple samples with a total operation time of 23 minutes. Using prepared samples, we demonstrated that the prototype was capable of differentiating MRSA and MSSA. We have demonstrated the prototype&rsquo;s capability of performing AST on a MRSA strain spiked in human blood at 5 CFU/mL.</p> <p><strong>&nbsp;</strong></p> <p>(4)&nbsp;&nbsp; Analytical validation</p> <p>&nbsp;</p> <p>We have conducted an analytical validation of the prototype (using the custom SPE) following the guidelines for laboratory-developed test. The limit of detection of the prototype is 2 CFU/mL.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>(5) Validation with clinical samples</p> <p>We have performed the validation of the prototype using clinical samples at the lab of University Hospitals (UH) in Cleveland.</p> <p>&nbsp;</p> <p>We have conducted an initial small-scale validation of the prototype&rsquo;s performance in MRSA detection using clinical MRSA samples which were collected from patients&rsquo; nostrils using swabs.&nbsp; The UH lab method for MRSA detection was chromogenic agar plating, that requires 24-48 hours to yield results. The prototype analyzer was used to test on the leftover of the same samples and produced similar test results from 22 to 46 hours early. To date, 21 such samples have been tested. These samples include samples containing either MRSA, MSSA and samples showing the absence of these bacteria (negative swab samples).</p> <p>&nbsp;</p> <p><strong>Unfilled research objectives</strong></p> <p>&nbsp;</p> <p>The following tasks have not yet to be completed.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><span style="text-decoration: underline;">Construction of the SPE plate set </span></p> <p>This task will be one of the foci of the Phase II project. It will require experience in machining delicate objects/structures. When the SPE Plate Set is available, we will demonstrate parallel sample handling and SPE processing.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><span style="text-decoration: underline;">Demonstration of operation of the complete analyzer system</span></p> <p>The entire procedure of using the multichannel console to operate the SPEs of the SPE Plate will be implemented in the Phase II project with the completion of the SPE Plate. We will perform parallel sample-handling and SPE-processing using multi-channel pipette. We will combine this practice with parallel measurements to demonstrate the near real-time (&lt; 2 hours) time-to-result provided by the analyzer.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><span style="text-decoration: underline;">Validation of prototype analyzer with clinical samples</span></p> <p>The current validation of the analyzer using clinical samples will be completed in the Phase II project. The process will be conducted in three rounds. In the first round, 100 discarded MRSA swabs from nostril will be tested using the analyzer. The second round will consist of 50 diverse MRSA and MSSA isolates from blood, urine, respiratory, and wounds. These isolates will be used for contrived swab specimens. In the third round, 100 de-identified leftover blood samples that correlate with standard lab diagnosis, will be tested for AST results. In this validation process, 50 negative blood samples will be tested to provide a reference for the test results from the positive samples.</p> <p>&nbsp;</p> <p><strong>Conclusion</strong></p> <p>In the Phase I project, we have established the feasibility of using the analyzer as&nbsp; for&nbsp; MRSA screening in a<strong> </strong>near real-time time frame. In particular, the time-to-result achieved by the prototype analyzer is close to the targeted near real-time range. Although the objective of the Phase I project has been partially achieved, the results obtained thus far clearly indicate that, with the additional support for the Phase II project, the complete Rapidect Analyzer unit will provide the expected performance.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/01/2023<br> Modified by: Shivani&nbsp; &nbsp;Sharma</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[          The objective of the Phase I project was to produce an integrated prototype of the Rapidect Analyzer that is equipped with multiplexing capability to perform parallel measurements on multiple samples for the detection/screening-identification (ID)-antibiotics susceptibility testing (AST) diagnostic process of methicillin-resistant Staphylococcus aureus (MRSA) and methicillin-sensitive Staphylococcus aureus (MSSA) without culture. The time-to-result will be less than 2 hours (near real-time) for MRSA screening and AST. The two specific goals (SGs) are:      SG (1) To construct and test the prototype analyzer, which will consist of an electronics console and screen-printed electrode (SPE) plates. The console will contain a multi-channel electrochemical potentiostat system for parallel measurements on multiple samples. The SPE plate will contain an array of bacteria-specific detection SPEs with associated electrode assemblies. The SPEs on the plate will be operated by the console .      SG (2) To conduct a small-scale characterization of the performance of the prototype analyzer with clinical samples in order to establish its credibility as a clinical technology.            Outcomes of Phase I research      (1) Prototype  electronics console   We have produced a 4-channel electronics console, that integrates the individual components of the previous console into a compact 15cm x 10cm x 4cm box. The console is capable of making parallel measurements on 4 detection electrodes.      (2) Prototype  SPE plates      We have devised two options to construct the SPE plate. We will attach individual SPEs side by side on a solid support. Or we will print the required SPEs on a solid support using the screen-printed technique. The first option was implemented in this project.      (3) System operation   We have demonstrated that the prototype is capable to perform parallel measurements on multiple samples with a total operation time of 23 minutes. Using prepared samples, we demonstrated that the prototype was capable of differentiating MRSA and MSSA. We have demonstrated the prototypes capability of performing AST on a MRSA strain spiked in human blood at 5 CFU/mL.      (4) Analytical validation      We have conducted an analytical validation of the prototype (using the custom SPE) following the guidelines for laboratory-developed test. The limit of detection of the prototype is 2 CFU/mL.         (5) Validation with clinical samples   We have performed the validation of the prototype using clinical samples at the lab of University Hospitals (UH) in Cleveland.      We have conducted an initial small-scale validation of the prototypes performance in MRSA detection using clinical MRSA samples which were collected from patients nostrils using swabs. The UH lab method for MRSA detection was chromogenic agar plating, that requires 24-48 hours to yield results. The prototype analyzer was used to test on the leftover of the same samples and produced similar test results from 22 to 46 hours early. To date, 21 such samples have been tested. These samples include samples containing either MRSA, MSSA and samples showing the absence of these bacteria (negative swab samples).      Unfilled research objectives      The following tasks have not yet to be completed.            Construction of the SPE plate set    This task will be one of the foci of the Phase II project. It will require experience in machining delicate objects/structures. When the SPE Plate Set is available, we will demonstrate parallel sample handling and SPE processing.               Demonstration of operation of the complete analyzer system   The entire procedure of using the multichannel console to operate the SPEs of the SPE Plate will be implemented in the Phase II project with the completion of the SPE Plate. We will perform parallel sample-handling and SPE-processing using multi-channel pipette. We will combine this practice with parallel measurements to demonstrate the near real-time (         Validation of prototype analyzer with clinical samples   The current validation of the analyzer using clinical samples will be completed in the Phase II project. The process will be conducted in three rounds. In the first round, 100 discarded MRSA swabs from nostril will be tested using the analyzer. The second round will consist of 50 diverse MRSA and MSSA isolates from blood, urine, respiratory, and wounds. These isolates will be used for contrived swab specimens. In the third round, 100 de-identified leftover blood samples that correlate with standard lab diagnosis, will be tested for AST results. In this validation process, 50 negative blood samples will be tested to provide a reference for the test results from the positive samples.      Conclusion   In the Phase I project, we have established the feasibility of using the analyzer as for MRSA screening in a near real-time time frame. In particular, the time-to-result achieved by the prototype analyzer is close to the targeted near real-time range. Although the objective of the Phase I project has been partially achieved, the results obtained thus far clearly indicate that, with the additional support for the Phase II project, the complete Rapidect Analyzer unit will provide the expected performance.                    Last Modified: 12/01/2023       Submitted by: Shivani Sharma]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

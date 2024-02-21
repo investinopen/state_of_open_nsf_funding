@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research in Economics: What Does Innovation Tell Us about Market Concentration?]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>52146.00</AwardTotalIntnAmount>
+<AwardAmount>52146</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;This project explores the role of firm innovation in explaining the recent trend of increasing market concentration in the U.S. economy. It measures innovation input and output at the firm-level using research and development (R&amp;D) surveys together with data on production-side activities. Using this detailed data, the project documents the concentration of innovation activity and its evolution over time, where the concentration innovation is measured as the relation between firm size and R&amp;D inputs and research productivity. The project further investigates the impact of innovation concentration on the aggregate economy by distinguishing between two types of innovation---internal and external innovation. The former measures firms’ quality improvements of their own products, and the latter measures firms’ attempts to gain market share from other firms’ product lines. The project then studies the impact of innovation concentration on aggregate growth and social welfare for each type of innovation through the lens of an R&amp;D-based growth model.  &lt;br/&gt;&lt;br/&gt;The project measures firm-level R&amp;D productivity by the input-output ratio for each type of innovation. To distinguish between internal and external innovation, the project leverages unique information on product innovation from the R&amp;D surveys together with data on product-level sales. Innovation concentration is then estimated by projecting R&amp;D variables on measures of firm size while controlling for firm characteristics. The measured patterns of firm-level innovation are used to differentiate between competing R&amp;D based theories of rising market concentration. The project further estimates the impact of currently experienced concentration on aggregate growth and welfare.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018048</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Bils</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Bils</PI_FULL_NAME>
+<EmailAddress><![CDATA[mark.bils@gmail.com]]></EmailAddress>
+<NSF_ID>000279346</NSF_ID>
+<StartDate>07/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lorenz</FirstName>
+<LastName>Ekerdt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lorenz Ekerdt</PI_FULL_NAME>
+<EmailAddress><![CDATA[lekerdt@ur.rochester.edu]]></EmailAddress>
+<NSF_ID>000819762</NSF_ID>
+<StartDate>07/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kai-Jie</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kai-Jie Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[kwu17@ur.rochester.edu]]></EmailAddress>
+<NSF_ID>000819409</NSF_ID>
+<StartDate>07/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>Rochester</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146270140</ZipCode>
+<StreetAddress><![CDATA[518 Hylan, RC Box 270140]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~52146</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary goal of this project is to study the role of innovation in explaining the  rising industrial concentration in the United States, where large firms&nbsp;within narrowly defined industries&nbsp;(e.g.,  6-digit NAICS) now account for a greater share of total sales.  Specifically, we want to examine the ``innovation concentration''  explanation proposed by previous studies, using Census restricted-use economic data  sets, particularly their unique information on the universe of U.S.  firms' production at the detailed industry level.</p> <p>We use NSF award 2018048 to fund our travel expenses to access the U.S.  Census restricted-use data through the Cornell Federal Statistics  Research Data Center (FSRDC).</p> <p>Our main finding is that <strong>market concentration only increases at the detailed  industry level</strong> (6-digit NAICS). When production over industries is  aggregated to the firm level, the share of the largest firms in the U.S.  has not increased over time. This is because industry leaders may not  be leaders nationally. Particularly, we find that <strong>firms specializing in fewer industries now account for a substantially greater share of production than 40 years ago</strong>. This   reallocation is a key driver of rising industry concentration.   Specialized firms have displaced diversified firms among industry   leaders---absent this reallocation concentration would have decreased. We   refer to this newly documented fact as "the rise of specialized firms."</p> <p>On the other hand, data on innovation, such as R&amp;D expenditure  and patents, are only available at the firm level. Researchers do not  observe how R&amp;D is distributed over industries within a firm.  Therefore, <strong>there is no evidence of rising innovation concentration at  the detailed industry level</strong>. Previous studies combine the rising  industry-level concentration of production with the national-level  concentration of R&amp;D to support their economic models. We remark  that such attempts would be misleading because&#8232; their unit of  observation is inconsistent, and the resulting misconception worsens  over time because of the rise of specialized firms.</p> <p>We then  provide evidence that specialized firms produce higher-quality goods:  specialized firms tend to charge higher unit prices and are more  insulated against Chinese import competition. Based on our empirical  findings, we propose a theory in which growth shifts demand toward  specialized, high-quality firms, which eventually increases  concentration. Our theory indicates that one should expect rising  industry concentration in a growing economy. Other inferences on the changes of industry concentration should be made relative to this trend.</p> <p>The main outcome of this project is a working paper titled "The Rise of  Specialized Firms," which&nbsp;is currently under review in the <em>Quarterly Journal of Economics</em>. This paper is also the first chapter of Kai-Jie Wu's  Ph.D. dissertation: <em>Essays on Firms, Growth, and Competition</em>. University of Rochester, 2023. URL: https://www.proquest.com/docview/2862039871.</p> <p>The intellectual merit of this project is straightforward. The empirical findings are new to the field of Economics. They help improve our understanding of the changing market structure of the U.S. economy and its attendant welfare implications.</p> <p>This project also has broader impacts on society beyond science and technology. It will aid the Census Bureau in disseminating the data it  collects and help improve the design of its surveys by conducting  external validity checks on previously rarely used parts of the U.S.  Economic Census and the Business Innovation Surveys. In doing so, the  project will enable policymakers, future researchers, and the general  public to derive insights from the Census Economic data.</p> <p>This project also provides opportunities for training and professional development. The two co-PIs were graduate students when conducting the project.They completed the main chapter of their dissertations, "The Rise of  Specialized Firms," based on the research outcome of this project. Both  co-PIs continue professional careers as economists after graduation.  Lorenz Ekerdt joined the U.S. Census Bureau as a research fellow, and  Kai-Jie Wu joined the Pennsylvania State University as an assistant  professor. As their advisor, the PI guides the project and helps the co-PIs develop their research skills for future academic endeavors.</p><br> <p>  Last Modified: 11/21/2023<br> Modified by: Kai-Jie&nbsp;Wu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary goal of this project is to study the role of innovation in explaining the  rising industrial concentration in the United States, where large firmswithin narrowly defined industries(e.g.,  6-digit NAICS) now account for a greater share of total sales.  Specifically, we want to examine the ``innovation concentration''  explanation proposed by previous studies, using Census restricted-use economic data  sets, particularly their unique information on the universe of U.S.  firms' production at the detailed industry level.   We use NSF award 2018048 to fund our travel expenses to access the U.S.  Census restricted-use data through the Cornell Federal Statistics  Research Data Center (FSRDC).   Our main finding is that market concentration only increases at the detailed  industry level (6-digit NAICS). When production over industries is  aggregated to the firm level, the share of the largest firms in the U.S.  has not increased over time. This is because industry leaders may not  be leaders nationally. Particularly, we find that firms specializing in fewer industries now account for a substantially greater share of production than 40 years ago. This   reallocation is a key driver of rising industry concentration.   Specialized firms have displaced diversified firms among industry   leaders---absent this reallocation concentration would have decreased. We   refer to this newly documented fact as "the rise of specialized firms."   On the other hand, data on innovation, such as R&D expenditure  and patents, are only available at the firm level. Researchers do not  observe how R&D is distributed over industries within a firm.  Therefore, there is no evidence of rising innovation concentration at  the detailed industry level. Previous studies combine the rising  industry-level concentration of production with the national-level  concentration of R&D to support their economic models. We remark  that such attempts would be misleading because&#8232; their unit of  observation is inconsistent, and the resulting misconception worsens  over time because of the rise of specialized firms.   We then  provide evidence that specialized firms produce higher-quality goods:  specialized firms tend to charge higher unit prices and are more  insulated against Chinese import competition. Based on our empirical  findings, we propose a theory in which growth shifts demand toward  specialized, high-quality firms, which eventually increases  concentration. Our theory indicates that one should expect rising  industry concentration in a growing economy. Other inferences on the changes of industry concentration should be made relative to this trend.   The main outcome of this project is a working paper titled "The Rise of  Specialized Firms," whichis currently under review in the Quarterly Journal of Economics. This paper is also the first chapter of Kai-Jie Wu's  Ph.D. dissertation: Essays on Firms, Growth, and Competition. University of Rochester, 2023. URL: https://www.proquest.com/docview/2862039871.   The intellectual merit of this project is straightforward. The empirical findings are new to the field of Economics. They help improve our understanding of the changing market structure of the U.S. economy and its attendant welfare implications.   This project also has broader impacts on society beyond science and technology. It will aid the Census Bureau in disseminating the data it  collects and help improve the design of its surveys by conducting  external validity checks on previously rarely used parts of the U.S.  Economic Census and the Business Innovation Surveys. In doing so, the  project will enable policymakers, future researchers, and the general  public to derive insights from the Census Economic data.   This project also provides opportunities for training and professional development. The two co-PIs were graduate students when conducting the project.They completed the main chapter of their dissertations, "The Rise of  Specialized Firms," based on the research outcome of this project. Both  co-PIs continue professional careers as economists after graduation.  Lorenz Ekerdt joined the U.S. Census Bureau as a research fellow, and  Kai-Jie Wu joined the Pennsylvania State University as an assistant  professor. As their advisor, the PI guides the project and helps the co-PIs develop their research skills for future academic endeavors.     Last Modified: 11/21/2023       Submitted by: Kai-JieWu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

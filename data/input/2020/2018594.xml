@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Shared High-Performance Computing System for  Cyber-Enabled System Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This instrument, a new high-performance computing (HPC) platform, aims to accelerate knowledge discovery by supporting the research of 32 investigators from 15 departments. Building upon an institutional focus on simulation- and data-driven science, it will enable significant advances in two types of research, foundational and translational, and support training and development.  Leveraging the HPC cluster, investigators in computer science, engineering, statistics, agriculture, and biology will conduct research on cyber-enabled systems design, thermal flows in the built environment, the design of materials, and phenotyping methods for plant and animal agriculture. This HPC cluster will enhance existing collaborative efforts and enable building new ones, support advanced student training in computational modeling and algorithm development, and allow sustained workforce development. &lt;br/&gt;&lt;br/&gt;This HPC system for Cyber-Enabled System Design includes a mix of computing nodes and nodes with general-purpose graphics processing units (GPGPUs), with sufficient memory, disk storage and parallel input/output capability to support cutting-edge research. The instrument will enable: (a) foundational data science advances with a focus on algorithms for system design under uncertainty, for cyber-physical data assimilation, and analysis of complex flow and material systems, (b) translation research in three thematic areas: energy, materials and manufacturing, and precision agriculture, with a focus on “materials by design”, smart power grid, quieter aircraft and wind turbines, and precision animal science, and (c) HPC training for undergraduate, graduate, and postgraduate students, to prepare a globally engaged, HPC aware workforce.  Research using this computer system has the potential to improve food production, energy usage and manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018594</AwardID>
+<Investigator>
+<FirstName>Anupam</FirstName>
+<LastName>Sharma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anupam Sharma</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharma@iastate.edu]]></EmailAddress>
+<NSF_ID>000617186</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arun</FirstName>
+<LastName>Somani</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arun K Somani</PI_FULL_NAME>
+<EmailAddress><![CDATA[arun@iastate.edu]]></EmailAddress>
+<NSF_ID>000429780</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Ryan</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah M Ryan</PI_FULL_NAME>
+<EmailAddress><![CDATA[smryan@iastate.edu]]></EmailAddress>
+<NSF_ID>000283856</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Baskar</FirstName>
+<LastName>Ganapathysubramanian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Baskar Ganapathysubramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[baskarg@iastate.edu]]></EmailAddress>
+<NSF_ID>000512459</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Lawrence-Dill</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carolyn J Lawrence-Dill</PI_FULL_NAME>
+<EmailAddress><![CDATA[triffid@iastate.edu]]></EmailAddress>
+<NSF_ID>000373627</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1350 BEARDSHEAR HALL</StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112100</ZipCode>
+<StreetAddress><![CDATA[Durham Center, 613 MORRILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~600000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default"><strong>Acquisition of a Shared High-Performance Computing System for Cyber-Enabled System Design </strong></p> <p><strong>&nbsp;</strong></p> <p>The NOVA-Extension machine was to enable ISU scientists and researchers to make significant advances in ISU&rsquo;s signature areas with the following themes.</p> <p>&nbsp;</p> <ul> <li>foundational data science advances with a focus on cyber-physical system design algorithms under uncertainty.</li> <li>translation research in Energy, Materials and Manufacturing, and Precision Agriculture with a focus on material by design.</li> <li>HPC research, training, and development that prepares an HPC-aware workforce.</li> </ul> <p>&nbsp;</p> <p>Selected science outcomes enabled by NOVA-Extension are described below.</p> <p>&nbsp;</p> <p><em>Efficient Hardware-Aware Neural Architecture Search (NAS) and Benchmarks. </em>The end-to-end design of a convolutional neural network (CNN) is a challenging and time-consuming task requiring expertise in multiple areas and knowledge of different hardware platforms. We automate the architectural design process of deep neural networks (DNNs) to alleviate human effort and generate efficient models with acceptable accuracy-performance tradeoffs. The goals are to minimize the need for significantly large computation resources for training and fair evaluation of various search methods. NAS Benchmarks can provide critical insights and a deeper understanding of the design process. The benchmarking process lays the groundwork for future advancements in this area.</p> <p><strong><em>&nbsp;</em></strong></p> <p><em>Multigrid Distributed Deep CNNs Solvers</em>. We develop deep learning (DL)-based methods on high-resolution 3D geometries to predict the optimized topology. We use a multi-resolution CNN approach, where we train the network at a lower resolution in a distributed manner and then transfer the learned network to continue training at a higher resolution. Our scalable framework integrates two distinct advances, accelerating training a large model and implementing a distributed deep learning framework which significantly reduces the training time. We prove theoretically and perform experiments for convergence to suggest that a mesh-based neural network approach is a promising approach for solving parametric partial differential equations.</p> <p>&nbsp;</p> <p><em>MDPGT: Momentum-Based Decentralized Policy Gradient Tracking</em>. We developed a novel policy gradient method for multi-agent reinforcement learning. Specifically, we proposed a momentum-based decentralized policy gradient tracking (MDPGT) to approximate the local policy gradient surrogate with importance sampling. Our novel discrete-time dynamical system-based algorithm aims to find the saddle point of a min&ndash;max optimization problem in the presence of uncertainties. We support our theoretical findings through empirical results on a multi-agent reinforcement learning benchmark environment. The code is available on GitHub.</p> <p>&nbsp;</p> <p><em>Deep learning-based multigrid topology optimization of manufacturable designs</em>. We develop a novel framework for enhancing the accuracy of additive manufacturing simulations, particularly in extrusion-based processes, using a digital twin of the dynamic printing process through physics simulations with intermediate print geometries. Effectiveness is achieved using DL-based approaches to generate high-resolution topology-optimized 3D geometries. Our results confirm scalability to high voxel resolutions, leading to a foundation for building real-time digital twins. We also address statistical quality assurance by performing the similarity evaluation leveraging high-density data to improve the quality and repeatability of additive-manufactured parts.</p> <p>&nbsp;</p> <p><em>Precision Agriculture. </em>Computing on language-based descriptions of gene function and phenotype relies on the use of controlled vocabularies and strict graphs called ontologies.&nbsp; We have advanced tools for computing gene function and phenotype.&nbsp; For gene function, our system predicts functions more accurately for plant genomes for over twenty crop genomes.&nbsp; Our methods also allow researchers to compute directly on phenotype descriptions directly using natural language processing to recover biologically relevant associations to collect and document phenotype data in human-readable, highly technical terms.&nbsp; We also developed a probabilistic voxel carving algorithm to efficiently reconstruct 3D models of maize plants and extract leaf traits for phenotyping robustly. Our approach shows that 3D reconstructions of plants from multi-view images can accurately extract multiple phenotypic traits, enabling better plant breeding programs.</p> <p>&nbsp;</p> <p><em>Developing an insect classifier using Self-Supervised Learning and citizen science data</em>. We developed an advanced insect classification system, InsectNet, through a pipeline of data collection and selection of appropriate pretraining strategies. The classifier achieved an impressive accuracy (96%) across the diverse insect species. We successfully integrated cutting-edge DL techniques, large-scale datasets, and high-performance GPUs, leading to the creation of a robust insect classification tool with practical applications in the agricultural sector.</p> <p><em>&nbsp;</em></p> <p><em>Design of ultrasonic bat deterrents</em>. The deterrents are based on the idea of aerodynamic whistles wherein &#64258;ow-acoustic resonance is used to produce high-amplitude tonal sound at desired ultrasonic frequencies. The passive deterrents are designed to be mounted on wind turbine blades and are &ldquo;powered&rdquo; by the energy in the air moving past the rotor blades. Two prototypes were fabricated and acoustically tested for stability.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/16/2024<br> Modified by: Arun&nbsp;K&nbsp;Somani</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2018594/2018594_10705221_1703877042483_HW_NAS_overview--rgov-214x142.png" original="/por/images/Reports/POR/2023/2018594/2018594_10705221_1703877042483_HW_NAS_overview--rgov-800width.png" title="Neural Architecture Search process"><img src="/por/images/Reports/POR/2023/2018594/2018594_10705221_1703877042483_HW_NAS_overview--rgov-66x44.png" alt="Neural Architecture Search process"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Schematics of Neural Architecture Search (NAS) process. The number of parameters governs the complexity of the search process.</div> <div class="imageCredit">K.T. Chitty-Venkata</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Arun&nbsp;K&nbsp;Somani <div class="imageTitle">Neural Architecture Search process</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018594/2018594_10705221_1704078913052_overview__1_--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018594/2018594_10705221_1704078913052_overview__1_--rgov-800width.jpg" title="Distributed Multigrid Neural Solvers on Megavoxel Domains"><img src="/por/images/Reports/POR/2023/2018594/2018594_10705221_1704078913052_overview__1_--rgov-66x44.jpg" alt="Distributed Multigrid Neural Solvers on Megavoxel Domains"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We demonstrate a distributed multigrid strategy to train a  neural solver that maps a coefficient field with solution field for a given parametric PDE. This allowed training a neural PDE solver at 512x512x512 resolution, at 25X the solution speed compared to conventional finite element solvers.</div> <div class="imageCredit">Baskar Ganapathysubramanian</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Baskar&nbsp;Ganapathysubramanian <div class="imageTitle">Distributed Multigrid Neural Solvers on Megavoxel Domains</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018594/2018594_10705221_1703876834149_whistle--rgov-214x142.png" original="/por/images/Reports/POR/2023/2018594/2018594_10705221_1703876834149_whistle--rgov-800width.png" title="active ultrasonic deterrent"><img src="/por/images/Reports/POR/2023/2018594/2018594_10705221_1703876834149_whistle--rgov-66x44.png" alt="active ultrasonic deterrent"></a> <div class="imageCaptionContainer"> <div class="imageCaption">ISU�s active ultrasonic deterrent (in the top left corner) and a visualization of the ultrasound radiation emanating from the deterrent. The acoustic waves are visualized using instantaneous pressure contours from the numerical simulations performed on the ISU Nova cluster. The unsteady Navier-Stoke</div> <div class="imageCredit">Anupam Sharma</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Arun&nbsp;K&nbsp;Somani <div class="imageTitle">active ultrasonic deterrent</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Acquisition of a Shared High-Performance Computing System for Cyber-Enabled System Design       The NOVA-Extension machine was to enable ISU scientists and researchers to make significant advances in ISUs signature areas with the following themes.     foundational data science advances with a focus on cyber-physical system design algorithms under uncertainty. translation research in Energy, Materials and Manufacturing, and Precision Agriculture with a focus on material by design. HPC research, training, and development that prepares an HPC-aware workforce.       Selected science outcomes enabled by NOVA-Extension are described below.      Efficient Hardware-Aware Neural Architecture Search (NAS) and Benchmarks. The end-to-end design of a convolutional neural network (CNN) is a challenging and time-consuming task requiring expertise in multiple areas and knowledge of different hardware platforms. We automate the architectural design process of deep neural networks (DNNs) to alleviate human effort and generate efficient models with acceptable accuracy-performance tradeoffs. The goals are to minimize the need for significantly large computation resources for training and fair evaluation of various search methods. NAS Benchmarks can provide critical insights and a deeper understanding of the design process. The benchmarking process lays the groundwork for future advancements in this area.      Multigrid Distributed Deep CNNs Solvers. We develop deep learning (DL)-based methods on high-resolution 3D geometries to predict the optimized topology. We use a multi-resolution CNN approach, where we train the network at a lower resolution in a distributed manner and then transfer the learned network to continue training at a higher resolution. Our scalable framework integrates two distinct advances, accelerating training a large model and implementing a distributed deep learning framework which significantly reduces the training time. We prove theoretically and perform experiments for convergence to suggest that a mesh-based neural network approach is a promising approach for solving parametric partial differential equations.      MDPGT: Momentum-Based Decentralized Policy Gradient Tracking. We developed a novel policy gradient method for multi-agent reinforcement learning. Specifically, we proposed a momentum-based decentralized policy gradient tracking (MDPGT) to approximate the local policy gradient surrogate with importance sampling. Our novel discrete-time dynamical system-based algorithm aims to find the saddle point of a minmax optimization problem in the presence of uncertainties. We support our theoretical findings through empirical results on a multi-agent reinforcement learning benchmark environment. The code is available on GitHub.      Deep learning-based multigrid topology optimization of manufacturable designs. We develop a novel framework for enhancing the accuracy of additive manufacturing simulations, particularly in extrusion-based processes, using a digital twin of the dynamic printing process through physics simulations with intermediate print geometries. Effectiveness is achieved using DL-based approaches to generate high-resolution topology-optimized 3D geometries. Our results confirm scalability to high voxel resolutions, leading to a foundation for building real-time digital twins. We also address statistical quality assurance by performing the similarity evaluation leveraging high-density data to improve the quality and repeatability of additive-manufactured parts.      Precision Agriculture. Computing on language-based descriptions of gene function and phenotype relies on the use of controlled vocabularies and strict graphs called ontologies. We have advanced tools for computing gene function and phenotype. For gene function, our system predicts functions more accurately for plant genomes for over twenty crop genomes. Our methods also allow researchers to compute directly on phenotype descriptions directly using natural language processing to recover biologically relevant associations to collect and document phenotype data in human-readable, highly technical terms. We also developed a probabilistic voxel carving algorithm to efficiently reconstruct 3D models of maize plants and extract leaf traits for phenotyping robustly. Our approach shows that 3D reconstructions of plants from multi-view images can accurately extract multiple phenotypic traits, enabling better plant breeding programs.      Developing an insect classifier using Self-Supervised Learning and citizen science data. We developed an advanced insect classification system, InsectNet, through a pipeline of data collection and selection of appropriate pretraining strategies. The classifier achieved an impressive accuracy (96%) across the diverse insect species. We successfully integrated cutting-edge DL techniques, large-scale datasets, and high-performance GPUs, leading to the creation of a robust insect classification tool with practical applications in the agricultural sector.      Design of ultrasonic bat deterrents. The deterrents are based on the idea of aerodynamic whistles wherein &#64258;ow-acoustic resonance is used to produce high-amplitude tonal sound at desired ultrasonic frequencies. The passive deterrents are designed to be mounted on wind turbine blades and are powered by the energy in the air moving past the rotor blades. Two prototypes were fabricated and acoustically tested for stability.        Last Modified: 01/16/2024       Submitted by: ArunKSomani]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

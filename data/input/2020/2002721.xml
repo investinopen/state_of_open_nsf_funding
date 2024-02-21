@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Interactive Block Games for Routine Cognitive Assessment of Mild Cognitive Impairment and Alzheimer's Disease]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>299998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Debora Rodrigues</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project addresses the urgent social need of a low-cost, long-term solution for routine cognitive assessment of mild cognitive impairment (MCI) and Alzheimer's disease (AD). Early detection at the MCI stage is a key to delaying onset of this degenerative disease and slow worsening of the symptoms. This project will re-invent a novel, automated, game-based technology that can be used for routine cognitive assessment of older individuals who are at a high risk of developing AD. This technology-enabled method will significantly lower the cost associated with cognitive assessment and enable objective and accurate measurements of one's cognitive status, which will lead to early detection of cognitive declines associated with MCI and AD. This project also brings unique and valuable learning and training opportunities for the diverse students participating in the research and workshop activities.  The proposed applied research will be tightly integrated with the training and mentoring of graduate students to become future leaders in technology innovation and entrepreneurship.&lt;br/&gt;&lt;br/&gt;The proposed project will develop a novel technology platform for automated, play-based routine cognitive assessment in older adults and demonstrate its commercial potential. This innovative system employs a set of highly instrumented cubes interfacing with computerized games. The cubes feature programmable visual, auditory, and tactile sensory feedback mechanisms and embedded motion sensors for user performance and behavior assessment via interactive play. The games will be designed to capture working memory, spatial reasoning, response time, and hand-eye coordination skills tailored for the target population. The integrated computational measures of play complexity will enable the system to automatic adjust the game difficulty based on the user performance. The system will not only automate the administration and data collection process, but also produce new types of behavioral data, such as hand tremor, repetitive or hyperactive motions, and manipulation speed. The proposed technology development and evaluation will take the co-design approach in order to effectively address user-specific requirements and technical improvements for potential commercialization. A partnership with a local continuing care retirement community (CCRC) will streamline and accelerate the complex co-design process via utilizing the living lab established in the partnering CCRC.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002721</AwardID>
+<Investigator>
+<FirstName>Kiju</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kiju Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[kiju.lee@tamu.edu]]></EmailAddress>
+<NSF_ID>000547312</NSF_ID>
+<StartDate>02/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454645</ZipCode>
+<StreetAddress><![CDATA[1470 William D. Fitch Parkway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~250000</FUND_OBLG>
+<FUND_OBLG>2022~49998</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This PFI-TT project leveraged an NSF-supported technology to transform it into an economical, innovative solution with significant commercial promise. This solution, called e-Cube, aimed to automate cognitive assessment in older adults through play-based block games, addressing the pressing need for early detection of cognitive decline, a primary indicator in most Alzheimer&rsquo;s disease cases &ndash; predicted to be a major medical epidemic by 2050.&nbsp;</p> <p>The developed e-Cube games targeted working memory, cognitive problem-solving, hand-eye coordination, and fine-motor skills in older users (Figure 1). Featuring an adaptive item generator, these games dynamically generated test items based on individual performance, enabling personalized assessments. Initial testing involved 80 young adults, split into two groups &ndash; one using the adaptive version and the other the non-adaptive version of the games. The adaptive e-Cube games demonstrated stronger correlations with standardized instrument scores (specifically, three subtests from the Wechsler Adults Intelligence Scale &ndash; 4<sup>th</sup>&nbsp;Edition (WAIS-IV)).&nbsp;</p> <p>Subsequent modifications tailored the adaptive e-Cube games for older adults, tested on 29 individuals aged 65 and above. This study employed the e-Cube games with WAIS-IV, Montreal Cognitive Assessment (MoCA), Clinical Dementia Rating (CDR), and System Usability Score (SUS). Correlations between the e-Cube scores and WAIS-IV, MoCA, and CDR scores showcased its potential as an automated cognitive screening tool. SUS results indicated the acceptability and usability of the e-Cube games for older adults.&nbsp;</p> <p>Beyond the technology refinement and validation, our team engaged in NSF I-Corps Teams. Over seven weeks, we conducted 100 interviews involving diverse stakeholders: 25 older adults, 50 caregivers, 3 senior care experts, 16 medical service providers, 2 brain health researchers, 1 MoCA employee, 1 health insurance company employee, and 2 engineers experienced with FDA protocols.&nbsp;&nbsp;Insights from these interviews shaped the final business model, highlighting an educational platform as the means to access or purchase e-Cube tools. Our findings emphasized the necessity of a comprehensive study to further validate e-Cube&rsquo;s clinical efficacy in the expanding aging healthcare market. Publishing the results from such clinical studies will underscore the importance of disseminating results to broader medical and clinical communities who will serve as the first adopters or recommenders of the e-Cube games.&nbsp;</p><br> <p>  Last Modified: 12/19/2023<br> Modified by: Kiju&nbsp;Lee</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2002721/2002721_10627441_1703015384358_Picture1--rgov-214x142.png" original="/por/images/Reports/POR/2023/2002721/2002721_10627441_1703015384358_Picture1--rgov-800width.png" title="Figure 1"><img src="/por/images/Reports/POR/2023/2002721/2002721_10627441_1703015384358_Picture1--rgov-66x44.png" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The e-Cube technology consisting of a computing device with display, an overhead camera, and a set of cubes.</div> <div class="imageCredit">Kiju Lee (kiju.lee@tamu.edu)</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kiju&nbsp;Lee <div class="imageTitle">Figure 1</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This PFI-TT project leveraged an NSF-supported technology to transform it into an economical, innovative solution with significant commercial promise. This solution, called e-Cube, aimed to automate cognitive assessment in older adults through play-based block games, addressing the pressing need for early detection of cognitive decline, a primary indicator in most Alzheimers disease cases  predicted to be a major medical epidemic by 2050.   The developed e-Cube games targeted working memory, cognitive problem-solving, hand-eye coordination, and fine-motor skills in older users (Figure 1). Featuring an adaptive item generator, these games dynamically generated test items based on individual performance, enabling personalized assessments. Initial testing involved 80 young adults, split into two groups  one using the adaptive version and the other the non-adaptive version of the games. The adaptive e-Cube games demonstrated stronger correlations with standardized instrument scores (specifically, three subtests from the Wechsler Adults Intelligence Scale  4thEdition (WAIS-IV)).   Subsequent modifications tailored the adaptive e-Cube games for older adults, tested on 29 individuals aged 65 and above. This study employed the e-Cube games with WAIS-IV, Montreal Cognitive Assessment (MoCA), Clinical Dementia Rating (CDR), and System Usability Score (SUS). Correlations between the e-Cube scores and WAIS-IV, MoCA, and CDR scores showcased its potential as an automated cognitive screening tool. SUS results indicated the acceptability and usability of the e-Cube games for older adults.   Beyond the technology refinement and validation, our team engaged in NSF I-Corps Teams. Over seven weeks, we conducted 100 interviews involving diverse stakeholders: 25 older adults, 50 caregivers, 3 senior care experts, 16 medical service providers, 2 brain health researchers, 1 MoCA employee, 1 health insurance company employee, and 2 engineers experienced with FDA protocols.Insights from these interviews shaped the final business model, highlighting an educational platform as the means to access or purchase e-Cube tools. Our findings emphasized the necessity of a comprehensive study to further validate e-Cubes clinical efficacy in the expanding aging healthcare market. Publishing the results from such clinical studies will underscore the importance of disseminating results to broader medical and clinical communities who will serve as the first adopters or recommenders of the e-Cube games.     Last Modified: 12/19/2023       Submitted by: KijuLee]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

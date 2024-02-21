@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID:Investigating the Impact of COVID-19 on the Future of the U.S. STEM Workforce]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199132.00</AwardTotalIntnAmount>
+<AwardAmount>199132</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carrie Hall</SignBlockName>
+<PO_EMAI>carhall@nsf.gov</PO_EMAI>
+<PO_PHON>7032924641</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This RAPID project addresses the need to maintain resilience in the STEM workforce during a pandemic. The researchers aim to assess which STEM jobs in which industries are more or less able to telework in the near term during the COVID-19 pandemic. The project also will examine the distribution of STEM occupations and wages within firms and compare across industries to gain insight into how disruptive COVID-19 will be at the workplace level. The research team will use large-scale population data, linked employee-employer data, and business establishment and firm microdata to model the 2008-2009 Great Recession and subsequent recovery and estimate the likely effects of COVID-19 recession on STEM workers and the STEM labor market.  The research will provide policymakers with information and estimates that can shape policies to ameliorate the effects of the COVID-19 pandemic on the STEM workforce. &lt;br/&gt;&lt;br/&gt;The research goals are to (1) measure how much of the STEM workforce is able to continue work in which occupations and industries during the COVID-19 pandemic, (2) model the likely effect of the COVID-19 work disruption and economic recession on STEM workers and the  STEM labor market, and (3) inform policies that can ameliorate the effects of pandemics on STEM workers. The research team will merge Occupation Information Network (O*NET) and American Community Survey (ACS) data to assess which STEM workers are potentially able to continue work during the COVID-19 pandemic and to what extent.  To estimate the likely effects of COVID-19 recession and recovery on STEM workers, the team will construct a longitudinal dataset of workers and firms and augment the data with occupations that can support telework.  The researchers will use the experience of the 2008-2009 Great Recession and subsequent recovery to evaluate the wider economic recession effects of COVID-19 to document factors that mitigate or exacerbate effects of recession on STEM employment. The research results can help guide policies that support telework and other changes in the structure of work and workplaces to enhance future workforce resilience. &lt;br/&gt;&lt;br/&gt;The project responds to the COVID-19 pandemic. It is supported by the ECR: Building Capacity in STEM Education Research competition of the EHR Core Research Program (ECR) that funds fundamental research focused on STEM learning sand learning environments, broadening participation in STEM fields, and STEM professional workforce development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032147</AwardID>
+<Investigator>
+<FirstName>Gerald</FirstName>
+<LastName>Marschke</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerald R Marschke</PI_FULL_NAME>
+<EmailAddress><![CDATA[gerald_marschke@nber.org]]></EmailAddress>
+<NSF_ID>000465718</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew J Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[awang@nber.org]]></EmailAddress>
+<NSF_ID>000521575</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Bureau of Economic Research Inc</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385359</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress>1050 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GT28BRBA2Q49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL BUREAU OF ECONOMIC RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385398</ZipCode>
+<StreetAddress><![CDATA[1050 Massachusetts Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>162Y</Code>
+<Text>ECR:BCSER Capcity STEM Ed Rscr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8055</Code>
+<Text>Capacity-Building Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199132</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Given the STEM workforce's crucial role in R&amp;D and economic growth, along with its increasing size and influence on the economy, an analysis of how it fared during the pandemic and in economic downturns more generally is of significant interest. Our project examined the disemployment effects of COVID on STEM workers, utilizing the Current Population Survey for a worker-level analysis and Census employer-employee data for a firm-level analysis.</p> <p><em><span style="text-decoration: underline;">Worker-level analysis </span></em></p> <p><em>Intellectual Merit: </em>STEM jobs showed more resilience than non-STEM during the Great Recession and COVID-19, with smaller employment declines. We assessed how demographics, education, job tasks, remote work capability, industry, and the importance of STEM knowledge to the job contributed to this resilience. Notably, the job relevance of STEM knowledge was a key factor, while remote work feasibility and industry, which have been shown to be important in other studies of the pandemic and employment, played smaller roles.<em></em></p> <p><em>Broader impacts: </em>Our finding that STEM knowledge use on the job is associated with employment resiliency in economic downturns complements and expands on the recent literature showing college-educated workers with degrees in quantitatively oriented fields fare better during recessions and that STEM skills enable workers to better-adapt to changing labor markets. Our findings that non-college educated workers in non-STEM occupations who use STEM knowledge at work also experienced less job loss suggest to young workers the potential value of STEM training opportunities beyond traditional college education.</p> <p><span style="text-decoration: underline;">Firm-level analysis</span>:</p> <p><em>Intellectual Merit: </em>&nbsp;The results described here have passed disclosure avoidance review. When publicizing these results, the U.S. Census Bureau requires the following disclaimer:</p> <p>"Any views expressed are those of the authors and not those of the U.S. Census Bureau. The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data used to produce this product. This research was performed at a Federal Statistical Research Data Center under FSRDC Project Number 1315. (CBDRB-FY24-P1315-R11089)"</p> <p>We examined firm-level employment changes between 2019Q4 and 2020Q2, when the bulk of the employment loss of the pandemic occurred, using the Census&rsquo;s Longitudinal Employer-Household Dynamics database (LEHD). The LEHD database includes quarterly employment data on nearly all US workers and employers.</p> <p>Our findings suggest that larger firms shed STEM workers at lower rates compared to non-STEM workers during COVID, contrasting with smaller firms where STEM workers faced higher separation rates. Among firms that innovate&mdash; those investing in R&amp;D and/or holding patents&mdash;there was less overall disemployment and specifically less among STEM workers, even after accounting for industry and firm size.</p> <p>The Payment Protection Program (PPP), a trillion-dollar initiative launched early in the pandemic, offered forgivable loans to small firms to enable and encourage them to maintain their workforces. The PPP was the most significant employer-focused federal program designed to stabilize employment during the pandemic. While PPP-eligible firms showed slightly lower overall employment declines, there was no significant difference in STEM worker retention compared to ineligible firms.</p> <p><em>Broader impacts:</em> Larger firms, mirroring results from the worker-level data, retained STEM workers at higher rates than non-STEM workers. In innovating firms, where temporary employment shocks can have significant and long-term impacts on the economy, the pandemic's impact was less disruptive for both STEM and non-STEM employees. We find no evidence that the federal government&rsquo;s most significant employer-centered jobs program, the Payment Protection Program, specifically protected STEM jobs, though it may have had a marginally positive impact on jobs overall.</p><br> <p>  Last Modified: 01/03/2024<br> Modified by: Gerald&nbsp;R&nbsp;Marschke</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Given the STEM workforce's crucial role in R&D and economic growth, along with its increasing size and influence on the economy, an analysis of how it fared during the pandemic and in economic downturns more generally is of significant interest. Our project examined the disemployment effects of COVID on STEM workers, utilizing the Current Population Survey for a worker-level analysis and Census employer-employee data for a firm-level analysis.   Worker-level analysis    Intellectual Merit: STEM jobs showed more resilience than non-STEM during the Great Recession and COVID-19, with smaller employment declines. We assessed how demographics, education, job tasks, remote work capability, industry, and the importance of STEM knowledge to the job contributed to this resilience. Notably, the job relevance of STEM knowledge was a key factor, while remote work feasibility and industry, which have been shown to be important in other studies of the pandemic and employment, played smaller roles.   Broader impacts: Our finding that STEM knowledge use on the job is associated with employment resiliency in economic downturns complements and expands on the recent literature showing college-educated workers with degrees in quantitatively oriented fields fare better during recessions and that STEM skills enable workers to better-adapt to changing labor markets. Our findings that non-college educated workers in non-STEM occupations who use STEM knowledge at work also experienced less job loss suggest to young workers the potential value of STEM training opportunities beyond traditional college education.   Firm-level analysis:   Intellectual Merit: The results described here have passed disclosure avoidance review. When publicizing these results, the U.S. Census Bureau requires the following disclaimer:   "Any views expressed are those of the authors and not those of the U.S. Census Bureau. The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data used to produce this product. This research was performed at a Federal Statistical Research Data Center under FSRDC Project Number 1315. (CBDRB-FY24-P1315-R11089)"   We examined firm-level employment changes between 2019Q4 and 2020Q2, when the bulk of the employment loss of the pandemic occurred, using the Censuss Longitudinal Employer-Household Dynamics database (LEHD). The LEHD database includes quarterly employment data on nearly all US workers and employers.   Our findings suggest that larger firms shed STEM workers at lower rates compared to non-STEM workers during COVID, contrasting with smaller firms where STEM workers faced higher separation rates. Among firms that innovate those investing in R&D and/or holding patentsthere was less overall disemployment and specifically less among STEM workers, even after accounting for industry and firm size.   The Payment Protection Program (PPP), a trillion-dollar initiative launched early in the pandemic, offered forgivable loans to small firms to enable and encourage them to maintain their workforces. The PPP was the most significant employer-focused federal program designed to stabilize employment during the pandemic. While PPP-eligible firms showed slightly lower overall employment declines, there was no significant difference in STEM worker retention compared to ineligible firms.   Broader impacts: Larger firms, mirroring results from the worker-level data, retained STEM workers at higher rates than non-STEM workers. In innovating firms, where temporary employment shocks can have significant and long-term impacts on the economy, the pandemic's impact was less disruptive for both STEM and non-STEM employees. We find no evidence that the federal governments most significant employer-centered jobs program, the Payment Protection Program, specifically protected STEM jobs, though it may have had a marginally positive impact on jobs overall.     Last Modified: 01/03/2024       Submitted by: GeraldRMarschke]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

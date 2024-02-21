@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Electro-Chemo-Mechanics of Polymer/Active Material Interface Fracture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>283058.00</AwardTotalIntnAmount>
+<AwardAmount>295575</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Fyhrie</SignBlockName>
+<PO_EMAI>dfyhrie@nsf.gov</PO_EMAI>
+<PO_PHON>7032922107</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Faculty Early Career Development (CAREER) Program research project aims to provide a fundamental and quantitative understanding of the fracture behavior of polymer/active material interfaces that are found in almost all existing and many emerging rechargeable battery chemistries. The mechanical integrity of these interfaces is critical for sustaining electrochemical reactions in the battery systems; consequently, it dictates the long-term performance (or durability) of batteries. Fracture of the polymer/active particle interface electrically isolates active particles and is one of the predominant mechanisms by which capacity fade occurs in batteries, yet the mechanics of this interface failure is the least understood problem. Also, the interfaces in batteries are more complex and their properties change continuously. The novel in situ techniques and fracture criterion developed here will be useful in the validation of multi-physics battery models and development of new electrode material designs for emerging battery technologies that can transform automotive, biomedical, aerospace, and military applications where durability is an important requirement. The integrated education plan includes development of a lab module for students at NJIT that demonstrates the process of stress generation (cause of mechanical damage) during electrochemical cycling processes. This module will be modified and adapted into outreach programs for K-12 students and teachers. This award also enables elementary teacher trainees from the Newark school system to participate in the research. &lt;br/&gt;&lt;br/&gt;The polymer/active material interface fracture has been a major roadblock for the rapid advancement of next generation battery electrodes such as Si, Sn, Al, and other large volume change materials. To address these challenges, a combination of novel in situ fracture experiments and supporting models will provide a fundamental understanding of how the interface properties evolve during battery operation and to understand the chemo-mechanical factors that influence the interface fracture behavior. To keep the effort more focused, the interface system in lithium-ion batteries is considered as a model system. A fracture mechanics framework with an interface constitutive model that can incorporate in situ observations, will be developed for prediction of interface failure during an electrochemical reaction. This research will enable interface failure prediction under concurrent mechanical and electrochemical loading using the fracture mechanics models; hence, it lays the groundwork for the essential fundamental understanding to develop long cyclic life, low-cost, and durable batteries for a diverse range of applications.]]></AbstractNarration>
+<MinAmdLetterDate>04/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026717</AwardID>
+<Investigator>
+<FirstName>Siva</FirstName>
+<LastName>Nadimpalli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siva Nadimpalli</PI_FULL_NAME>
+<EmailAddress><![CDATA[sivan@msu.edu]]></EmailAddress>
+<NSF_ID>000676335</NSF_ID>
+<StartDate>04/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[Office of Sponsored Programs 426 Administration Bldg]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~283056</FUND_OBLG>
+<FUND_OBLG>2019~4518</FUND_OBLG>
+<FUND_OBLG>2021~8000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Scientific outcomes of the project.</strong></p> <p>At present, the approach to dealing with interface fracture in battery electrodes has primarily been trial-and-error, i.e., to use or synthesize different polymers with functional groups that promote relatively strong bonding with native active material. However, such strategies based on the as-prepared interface properties may not be adequate, because the interfaces in batteries are more complex and change their properties continuously. Therefore, the approaches based on the bonding between polymer and native active material is not sufficient to solve the fracture and durability issue.</p> <p>This work produced fundamental knowledge of how solvent absorption of polymer, phase transformation of active material, and passive layer formation at the interface alter the polymer/active material interface fracture properties during electrochemical cycling. This work explains how mechanical and electrochemical factors influence the fracture energy required to cause debonding at the polymer/active material interface and lays foundation for predicting battery electrode degradation.</p> <p>We were able to accomplish all the major objectives of the project successfully.</p> <p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In situ test setup that is capable of characterizing fracture behavior of polymer/active material interface has been designed and fabricated. We were able to fabricate fracture samples, assemble specially designed electrochemical cell, and investigate the fracture behavior of the polymer/active material interface under various conditions. Specifically, the interface fracture properties were measured under ambient conditions, electrolyte-soaked conditions, and after electrochemical cycling of active material. It was observed that the coatings on active materials will enhance adhesion. Also, the strength of the interface depends on whether it is loaded under ambient conditions or during electrochemical cycling. In fact, the strength decreases significantly during electrochemical cycling. Hence, the design decisions of electrodes based on ambient measurements, which is common practice in industry, may lead to inefficient electrode designs. In addition, effect of stress on solid-state transport properties of the electrode material has been measured, and novel experimental methods to measure transport properties and interface adhesion properties of polymeric gels have been established.</p> <p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An enhanced continuum mechanics model that is capable of handling diffusion in large deformation material coupled with electrochemistry was numerically implemented in Abaqus finite element software. The model includes an enhanced reaction kinetics and captures the transient behavior of electrodes which was missing in the earlier models. The model has been calibrated with Li and Na battery chemistries and the predictions agree very well with the experimental observations. Few manuscripts are in preparation based on this work.</p> <p>The fracture issues addressed here in the context of Li-ion batteries will help in advancing other battery technologies (e.g., Na-ion, and Al-ion) which could transform automotive, aerospace, biomedical, and energy sectors. Novel in situ techniques developed in this study will be useful not only in the validation of multi-physics battery models but are also helpful in the development of new electrode materials.</p> <p><strong>Graduate (PhD, MS) and Undergraduate Student Training and K-12 Outreach</strong></p> <p>During this project three PhD students and several undergraduate students were financially supported and trained.&nbsp; Outreach activities to numerous K-12 students and teachers were conducted which included lab tours and hands-on demonstrations on Li-ion battery technology. Besides the PhD students and undergraduates, master&rsquo;s level students were also recruited. The students who worked on this project have gained valuable interdisciplinary skills and were successfully placed in industry and academia after graduating. The experience gained in the project played a key role in their success. Specifically, the skills gained by the students are in line with the Chips and Science Act 2022 which puts emphasis on semiconductor fabrication processes. The unique skill sets were developed not just at the PhD level but also at the masters and undergraduate levels which is crucial next generation workforce that will support the advancement of energy storage solutions.</p> <p>The graduate courses such as the fatigue and fracture of solids and other that the PI offered at the Michigan State University had some inputs from this project. Also, some observations and outcomes of the project were incorporated in the undergraduate courses on the mechanics of materials by the PI. As a result, some of the graduate and undergraduate students of mechanical engineering who otherwise don&rsquo;t get any exposure to such an interdisciplinary topic are exposed to these new ideas. These courses have certainly been improved by the inputs from the research.</p> <p><strong>Peer-reviewed publications, invited talks, conference presentations, and keynotes</strong></p> <p>Several high impact peer reviewed journal articles have been published in high quality journal such as, Journal of Mechanics and Physics of Solids, Journal of Experimental Mechanics, International Journal of Solids and Structures, and Journal of the Electrochemical Society. In addition to the peer reviewed journals, we presented our research work at several international conferences and universities. We delivered a key note address at an international conference based on the research outcome from this project.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/13/2023<br> Modified by: Siva&nbsp;Nadimpalli</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Scientific outcomes of the project.   At present, the approach to dealing with interface fracture in battery electrodes has primarily been trial-and-error, i.e., to use or synthesize different polymers with functional groups that promote relatively strong bonding with native active material. However, such strategies based on the as-prepared interface properties may not be adequate, because the interfaces in batteries are more complex and change their properties continuously. Therefore, the approaches based on the bonding between polymer and native active material is not sufficient to solve the fracture and durability issue.   This work produced fundamental knowledge of how solvent absorption of polymer, phase transformation of active material, and passive layer formation at the interface alter the polymer/active material interface fracture properties during electrochemical cycling. This work explains how mechanical and electrochemical factors influence the fracture energy required to cause debonding at the polymer/active material interface and lays foundation for predicting battery electrode degradation.   We were able to accomplish all the major objectives of the project successfully.   1) In situ test setup that is capable of characterizing fracture behavior of polymer/active material interface has been designed and fabricated. We were able to fabricate fracture samples, assemble specially designed electrochemical cell, and investigate the fracture behavior of the polymer/active material interface under various conditions. Specifically, the interface fracture properties were measured under ambient conditions, electrolyte-soaked conditions, and after electrochemical cycling of active material. It was observed that the coatings on active materials will enhance adhesion. Also, the strength of the interface depends on whether it is loaded under ambient conditions or during electrochemical cycling. In fact, the strength decreases significantly during electrochemical cycling. Hence, the design decisions of electrodes based on ambient measurements, which is common practice in industry, may lead to inefficient electrode designs. In addition, effect of stress on solid-state transport properties of the electrode material has been measured, and novel experimental methods to measure transport properties and interface adhesion properties of polymeric gels have been established.   2) An enhanced continuum mechanics model that is capable of handling diffusion in large deformation material coupled with electrochemistry was numerically implemented in Abaqus finite element software. The model includes an enhanced reaction kinetics and captures the transient behavior of electrodes which was missing in the earlier models. The model has been calibrated with Li and Na battery chemistries and the predictions agree very well with the experimental observations. Few manuscripts are in preparation based on this work.   The fracture issues addressed here in the context of Li-ion batteries will help in advancing other battery technologies (e.g., Na-ion, and Al-ion) which could transform automotive, aerospace, biomedical, and energy sectors. Novel in situ techniques developed in this study will be useful not only in the validation of multi-physics battery models but are also helpful in the development of new electrode materials.   Graduate (PhD, MS) and Undergraduate Student Training and K-12 Outreach   During this project three PhD students and several undergraduate students were financially supported and trained. Outreach activities to numerous K-12 students and teachers were conducted which included lab tours and hands-on demonstrations on Li-ion battery technology. Besides the PhD students and undergraduates, masters level students were also recruited. The students who worked on this project have gained valuable interdisciplinary skills and were successfully placed in industry and academia after graduating. The experience gained in the project played a key role in their success. Specifically, the skills gained by the students are in line with the Chips and Science Act 2022 which puts emphasis on semiconductor fabrication processes. The unique skill sets were developed not just at the PhD level but also at the masters and undergraduate levels which is crucial next generation workforce that will support the advancement of energy storage solutions.   The graduate courses such as the fatigue and fracture of solids and other that the PI offered at the Michigan State University had some inputs from this project. Also, some observations and outcomes of the project were incorporated in the undergraduate courses on the mechanics of materials by the PI. As a result, some of the graduate and undergraduate students of mechanical engineering who otherwise dont get any exposure to such an interdisciplinary topic are exposed to these new ideas. These courses have certainly been improved by the inputs from the research.   Peer-reviewed publications, invited talks, conference presentations, and keynotes   Several high impact peer reviewed journal articles have been published in high quality journal such as, Journal of Mechanics and Physics of Solids, Journal of Experimental Mechanics, International Journal of Solids and Structures, and Journal of the Electrochemical Society. In addition to the peer reviewed journals, we presented our research work at several international conferences and universities. We delivered a key note address at an international conference based on the research outcome from this project.        Last Modified: 11/13/2023       Submitted by: SivaNadimpalli]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

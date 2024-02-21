@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Molten Inorganic Salts as Solvents and Reactive Media for Colloidal and Solid-State Chemistry of Low-Dimensional Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>495000.00</AwardTotalIntnAmount>
+<AwardAmount>495000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Meulenberg</SignBlockName>
+<PO_EMAI>rmeulenb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927106</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[PART 1:   NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Nanometer-sized two-dimensional materials are widely used for lighting and display applications, catalysis, and healthcare. Such materials are often made by chemical reactions in liquid solutions. As a result, the properties of a solvent used for the reactions become an important factor that determines the ability to make novel materials and give them specific functional abilities. This project, supported by the Solid State and Materials Chemistry program within the Division of Materials Research, explores the use of molten salts, such as liquid sodium chloride (cooking salt), as solvents for making new types of two-dimensional materials. Specifically, unique properties of molten inorganic salts are used to develop unprecedented surface chemistry for two-dimensional nanomaterials known as MXenes. The synthetic methods, which researchers at the University of Chicago develop, are directly relevant to the preparation of novel, technologically important materials with eventual applications in display technologies and for energy storage. A comprehensive education and outreach program accompanies the research and focus on education enrichment for the local underrepresented African American and Hispanic K-12 populations on Chicago's South Side. The major components of the broader impact activities include training undergraduate and high school students in research, curriculum development, and public outreach. &lt;br/&gt;&lt;br/&gt;PART 2:   TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This project, supported by the Solid State and Materials Chemistry program in the Division of Materials Research, develops molten inorganic salts as versatile media for unprecedented colloidal and solid-state chemistry of two-dimensional materials. The observed colloidal stability in molten salts cannot be explained by traditional electrostatic and steric stabilization mechanisms. Materials in molten salts likely form through a novel mechanism related to the long-range ion correlations in the molten salt induced by the crystal surface. The approach provides unmatched thermal stability and chemical inertness during reaction conditions, and this study uses the unique properties of molten inorganic salts to develop unprecedented surface chemistry for two-dimensional transition metal carbides and nitrides (MXenes). Thereby the research program expands the boundaries for solution synthesis of covalent surface functionalization of extended inorganic materials. A comprehensive education and outreach program accompanies the research and focus on education enrichment for the local underrepresented African American and Hispanic K-12 populations on Chicago's South Side. The major components of the broader impact activities include training undergraduate and high school students in research, curriculum development, and public outreach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004880</AwardID>
+<Investigator>
+<FirstName>Dmitri</FirstName>
+<LastName>Talapin</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dmitri V Talapin</PI_FULL_NAME>
+<EmailAddress><![CDATA[dvtalapin@uchicago.edu]]></EmailAddress>
+<NSF_ID>000509301</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606371454</ZipCode>
+<StreetAddress><![CDATA[929 East 57th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1762</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~495000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Quantum dots (QDs) have been the subject of vigorous research for over three decades. The preparation of QDs usually takes place in a liquid medium, specifically conventional (melting below room temperature) solvents: nonpolar organic molecules. These restrict the accessible temperature limits for the reaction: even the sturdiest organic molecules are unstable at temperatures above 400&deg;C. Many very useful classes of materials, such as the group III-V (e.g., gallium nitride) semiconductors require much higher temperatures to prepare in usable form.</p> <p>Workers at the University of Chicago under grant DMR-2004880 explored a new field of solvents for nanoparticle synthesis: molten inorganic salts. In 2017, the Talapin group reported in <em>Nature</em> that QDs originally prepared in organic solution could be transferred to totally inorganic liquids prepared from salts, such as a mixture of aluminum, sodium, and potassium chlorides, which are known for stability at high temperatures. This work showed that QDs and other nanoparticles could be made stable in solution at temperatures well in excess of those used in organic solvents, enabling, for example, the annealing of low-quality gallium arsenide QDs to finally remove intractable defects.</p> <p>Work from DMR-2004880 exploited these solvents as media for the post-synthetic transformation of QDs by cation exchange, where metal components of the original QDs are replaced with a new element. The Talapin lab demonstrated with cation exchange the synthesis of luminescent, robust ternary indium gallium phosphide QDs, which could be the basis for emitters with high color purity in display applications. In addition to providing new high-performance materials, cation exchange in molten salts also provides ways to measure the rates of material transport over very short distances by diffusion and answer solid-state physics questions such as the effect of quantum confinement on the type of energy gap exhibited by QDs. After completing an investigation of molten salt chemical speciation, the group found that by precisely controlling the redox activity of molten salt mixtures, they were able to stabilize semiconductor QDs at temperatures above 500&deg;C, where it becomes possible to prepare QDs in many complex compositions by cation exchange.</p> <p>DMR-2004880 also enabled major developments in the burgeoning field of two-dimensional nanomaterials known as MXenes, which are under heavy investigation as electromagnetic absorbers, catalysts, and energy storage materials. Workers from the Talapin group established the first direct and general synthesis of nearly any MXene from inorganic precursors in both bulk powder form and as coatings on electrode materials, an achievement recognized on the cover of <em>Science</em> in March 2023. They also introduced an entirely new class of materials by adapting molten salt methods to cover MXene sheets with organic amine functional groups, producing &shy;<em>h</em>-MXenes.</p> <p>Finally, the Talapin lab has discovered that the existence of a liquid gallium halide phase alongside an organic phase enabled the production of highly crystalline gallium nitride and aluminum nitride in colloidal form for the first time. Preliminary results have indicated that <em>direct</em> synthesis of QDs, by addition of reagents to hot solvent as in conventional syntheses, was possible for gallium phosphide and arsenide quantum dots&mdash;potentially simplifying future syntheses of materials in QD form.</p> <p>During the term of DMR-2004880, the Talapin group engaged in an outreach program to members of the public in the South Side of Chicago. Graduate students participated in many community events and science fairs and clubs, spanning ages K-12, to provide training and exploration activities to underrepresented individuals. They helped UChicago establish the South Side Science Festival, a celebration of science and STEM in the community that attracted thousands of attendees in its first event and established itself as a yearly major event in Hyde Park.</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/08/2024<br> Modified by: Dmitri&nbsp;V&nbsp;Talapin</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Quantum dots (QDs) have been the subject of vigorous research for over three decades. The preparation of QDs usually takes place in a liquid medium, specifically conventional (melting below room temperature) solvents: nonpolar organic molecules. These restrict the accessible temperature limits for the reaction: even the sturdiest organic molecules are unstable at temperatures above 400C. Many very useful classes of materials, such as the group III-V (e.g., gallium nitride) semiconductors require much higher temperatures to prepare in usable form.   Workers at the University of Chicago under grant DMR-2004880 explored a new field of solvents for nanoparticle synthesis: molten inorganic salts. In 2017, the Talapin group reported in Nature that QDs originally prepared in organic solution could be transferred to totally inorganic liquids prepared from salts, such as a mixture of aluminum, sodium, and potassium chlorides, which are known for stability at high temperatures. This work showed that QDs and other nanoparticles could be made stable in solution at temperatures well in excess of those used in organic solvents, enabling, for example, the annealing of low-quality gallium arsenide QDs to finally remove intractable defects.   Work from DMR-2004880 exploited these solvents as media for the post-synthetic transformation of QDs by cation exchange, where metal components of the original QDs are replaced with a new element. The Talapin lab demonstrated with cation exchange the synthesis of luminescent, robust ternary indium gallium phosphide QDs, which could be the basis for emitters with high color purity in display applications. In addition to providing new high-performance materials, cation exchange in molten salts also provides ways to measure the rates of material transport over very short distances by diffusion and answer solid-state physics questions such as the effect of quantum confinement on the type of energy gap exhibited by QDs. After completing an investigation of molten salt chemical speciation, the group found that by precisely controlling the redox activity of molten salt mixtures, they were able to stabilize semiconductor QDs at temperatures above 500C, where it becomes possible to prepare QDs in many complex compositions by cation exchange.   DMR-2004880 also enabled major developments in the burgeoning field of two-dimensional nanomaterials known as MXenes, which are under heavy investigation as electromagnetic absorbers, catalysts, and energy storage materials. Workers from the Talapin group established the first direct and general synthesis of nearly any MXene from inorganic precursors in both bulk powder form and as coatings on electrode materials, an achievement recognized on the cover of Science in March 2023. They also introduced an entirely new class of materials by adapting molten salt methods to cover MXene sheets with organic amine functional groups, producing h-MXenes.   Finally, the Talapin lab has discovered that the existence of a liquid gallium halide phase alongside an organic phase enabled the production of highly crystalline gallium nitride and aluminum nitride in colloidal form for the first time. Preliminary results have indicated that direct synthesis of QDs, by addition of reagents to hot solvent as in conventional syntheses, was possible for gallium phosphide and arsenide quantum dotspotentially simplifying future syntheses of materials in QD form.   During the term of DMR-2004880, the Talapin group engaged in an outreach program to members of the public in the South Side of Chicago. Graduate students participated in many community events and science fairs and clubs, spanning ages K-12, to provide training and exploration activities to underrepresented individuals. They helped UChicago establish the South Side Science Festival, a celebration of science and STEM in the community that attracted thousands of attendees in its first event and established itself as a yearly major event in Hyde Park.        Last Modified: 02/08/2024       Submitted by: DmitriVTalapin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

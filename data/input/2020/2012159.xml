@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[WoU-MMA: Gravitational Wave Data Analysis and Improved Multi-Messenger Astrophysics Capabilities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>390000.00</AwardTotalIntnAmount>
+<AwardAmount>390000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports research in relativity and relativistic astrophysics and it addresses the priority areas of NSF's "Windows on the Universe" Big Idea. NSF's LIGO observatories are providing a remarkable new window on the universe by detecting gravitational waves from rare but powerful events.  The LIGO observatories have now detected dozens of cases in which two black holes, each many times more massive than our Sun, spiral around each other and merge into a single black hole.  This project will support and improve data analysis to enlarge the catalog of such events using data from LIGO's current and next observing runs, revealing the life histories of heavy stars and how they trace the evolution of galaxies and structure.  In addition, LIGO has detected two mergers of neutron stars so far.  The first, named GW170817, was accompanied by a gamma-ray burst followed by visible-light, ultraviolet and infrared emissions, and an X-ray and radio afterglow.  The combined "multi-messenger" observations have provided crucial data for neutron-star astrophysics and have tested models for the expansion of the universe and the formation of elements heavier than iron.   This project will maintain and improve the methods used to detect neutron-star mergers and to quickly communicate information about them to other astronomers and to the public, enabling new discoveries like GW170817 and extending multi-messenger astrophysics farther into the universe using new data.  Many searches for other kinds of gravitational-wave signals are also being carried out, and this project will support the coordination and timely publication of those results.  The project will also provide training for scientists at the graduate level and STEM skill development experiences for secondary-school students, including informal education initiatives at the University of Maryland which serve school-age children, in particular a Physics Electronics Camp for rising 9th graders.&lt;br/&gt;&lt;br/&gt;This project addresses specific needs of the LIGO Scientific Collaboration (LSC) and its collaborative work with Virgo and KAGRA, as well as with the astronomy community.  The PI will coordinate the completion and publication of LSC-Virgo observational results from the O3 run and support publication planning for the O4 run, maintaining LSC-Virgo's internal PubPlan system.  A graduate student supported by this award will analyze data from the second half of the O3 run using the PyCBC toolkit to contribute to the final catalog of binary merger events from O3, and will similarly contribute to the detection and publication of binary merger events in the next observing run, O4.  The PI will initiate and guide an LSC-Virgo-KAGRA process to establish policies and a new science-motivated framework for the content of public alerts in O4.  The PI and students will work to implement necessary improvements in the low-latency candidate selection and public alert systems to make them faster, more flexible, smarter (with multi-trigger consistency checks), and more robust.  A graduate student will help to adapt and tune the PyCBC Live low-latency search pipeline for the O4 run, incorporating KAGRA together with the LIGO and Virgo detectors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012159</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Shawhan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter S Shawhan</PI_FULL_NAME>
+<EmailAddress><![CDATA[pshawhan@umd.edu]]></EmailAddress>
+<NSF_ID>000387999</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress><![CDATA[4296 Stadium Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1252</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~130000</FUND_OBLG>
+<FUND_OBLG>2021~130000</FUND_OBLG>
+<FUND_OBLG>2022~130000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Laser Interferometer Gravitational-wave Observatory (LIGO) detected gravitational waves directly for the first time in 2015, confirming the prediction of Albert Einstein's general theory of relativity ("GR") that gravitational waves should exist and opening new areas of astronomy and astrophysics research.&nbsp; Built primarily with funding from the U.S. National Science Foundation, with supporting contributions from a number of other countries, the two LIGO observatories continue to be improved and to make new discoveries.&nbsp; The additional data collected in 2015-16, 2016-17 and 2019-20 yielded about 90 significant signals from merging black holes and/or neutron stars, some of them also detected by the Virgo detector in Europe.</p> <p>This NSF award enabled our research group at the University of Maryland to coordinate the completion and publication of dozens of observational results from the 2019-20 run (called 'O3'), to implement and test improved data analysis methods for the next observing run ('O4'), and to ensure smooth data analysis operations during the O4 run since it began in May 2023.</p> <p>The PI of this award served as Data Analysis Council chair and Observational Science Division chair for the LIGO Scientific Collaboration (LSC), and in that role coordinated and facilitated the analysis of data from O3 and completion and publication of papers with the results.&nbsp; Besides reporting the significant binary merger events mentioned above, the LSC and its partners -- the Virgo Collaboration in Europe, and more recently also the KAGRA Collaboration based in Japan -- have searched the data for many other types of gravitational wave signals.&nbsp; While none other than binary mergers has been discovered so far, the collaborations have used those non-detections to limit some possible theories and models of astrophysical sources.&nbsp; The collaborations have also carefully interpreted the set of significant binary merger signals to reach conclusions about the distribution of binary system properties, mainly the masses and spins of the black holes and neutron stars that merged, and what those can tell us about how the binary systems formed and whether GR is really the correct theory of gravity.</p> <p>The O4 observing run, which is in progress as of this writing, promises to significantly expand the set of binary merger events and possibly to reveal new exceptional signals, whether special binary mergers or other types.&nbsp; There is an excellent chance to capture one or more additional "multi-messenger" events with electromagnetic or neutrino emissions complementing the gravitational wave signatures, like the spectacular binary neutron star event GW170817 that was detected in August 2017.&nbsp; This award has enabled improvements to one of the main search algorithms for binary merger signals, PyCBC, including the 'PyCBC Live' version which is used to rapidly detect promising signals.&nbsp; It has also supported the operation of PyCBC Live during the O4 run and the formulation of procedures and software tools for rapidly responding to event candidates, allowing humans to quickly confirm if they are valid and communicating that information to astronomers.&nbsp; Thus, this support of the University of Maryland Gravitational Waves research group has helped to maximize the scientific output from NSF's LIGO observatories and public distribution of the results.</p> <p>During the award period, it supported the professional training and career development of three graduate students as well as sharing the excitement of scientific research with hundreds of undergraduates and younger students through public lectures, informal education programs, talks to physics and astronomy student groups, and class lectures melding course curriculum with&nbsp; examples drawn from gravitational wave research.&nbsp; We expect that these occasions have had the broader impact of encouraging many students to pursue STEM careers.</p><br> <p>  Last Modified: 12/28/2023<br> Modified by: Peter&nbsp;S&nbsp;Shawhan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The Laser Interferometer Gravitational-wave Observatory (LIGO) detected gravitational waves directly for the first time in 2015, confirming the prediction of Albert Einstein's general theory of relativity ("GR") that gravitational waves should exist and opening new areas of astronomy and astrophysics research. Built primarily with funding from the U.S. National Science Foundation, with supporting contributions from a number of other countries, the two LIGO observatories continue to be improved and to make new discoveries. The additional data collected in 2015-16, 2016-17 and 2019-20 yielded about 90 significant signals from merging black holes and/or neutron stars, some of them also detected by the Virgo detector in Europe.   This NSF award enabled our research group at the University of Maryland to coordinate the completion and publication of dozens of observational results from the 2019-20 run (called 'O3'), to implement and test improved data analysis methods for the next observing run ('O4'), and to ensure smooth data analysis operations during the O4 run since it began in May 2023.   The PI of this award served as Data Analysis Council chair and Observational Science Division chair for the LIGO Scientific Collaboration (LSC), and in that role coordinated and facilitated the analysis of data from O3 and completion and publication of papers with the results. Besides reporting the significant binary merger events mentioned above, the LSC and its partners -- the Virgo Collaboration in Europe, and more recently also the KAGRA Collaboration based in Japan -- have searched the data for many other types of gravitational wave signals. While none other than binary mergers has been discovered so far, the collaborations have used those non-detections to limit some possible theories and models of astrophysical sources. The collaborations have also carefully interpreted the set of significant binary merger signals to reach conclusions about the distribution of binary system properties, mainly the masses and spins of the black holes and neutron stars that merged, and what those can tell us about how the binary systems formed and whether GR is really the correct theory of gravity.   The O4 observing run, which is in progress as of this writing, promises to significantly expand the set of binary merger events and possibly to reveal new exceptional signals, whether special binary mergers or other types. There is an excellent chance to capture one or more additional "multi-messenger" events with electromagnetic or neutrino emissions complementing the gravitational wave signatures, like the spectacular binary neutron star event GW170817 that was detected in August 2017. This award has enabled improvements to one of the main search algorithms for binary merger signals, PyCBC, including the 'PyCBC Live' version which is used to rapidly detect promising signals. It has also supported the operation of PyCBC Live during the O4 run and the formulation of procedures and software tools for rapidly responding to event candidates, allowing humans to quickly confirm if they are valid and communicating that information to astronomers. Thus, this support of the University of Maryland Gravitational Waves research group has helped to maximize the scientific output from NSF's LIGO observatories and public distribution of the results.   During the award period, it supported the professional training and career development of three graduate students as well as sharing the excitement of scientific research with hundreds of undergraduates and younger students through public lectures, informal education programs, talks to physics and astronomy student groups, and class lectures melding course curriculum with examples drawn from gravitational wave research. We expect that these occasions have had the broader impact of encouraging many students to pursue STEM careers.     Last Modified: 12/28/2023       Submitted by: PeterSShawhan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

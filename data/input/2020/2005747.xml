@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scalable Production of Radiative Cooling Paint for Thermal Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>366459.00</AwardTotalIntnAmount>
+<AwardAmount>366459</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Wells</SignBlockName>
+<PO_EMAI>awells@nsf.gov</PO_EMAI>
+<PO_PHON>7032927225</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant supports research that will contribute new knowledge related to large-scale manufacturing of radiative cooling paints, promoting both the progress of science and advancing national prosperity and sustainability. Radiative cooling is a strategy to provide electricity-free cooling by fully reflecting sunlight and effectively emitting heat to the cold sky: a net cooling effect can be realized without using any electricity. It has the potential to reduce electricity consumption and CO2 generation for air conditioning in buildings and vehicles. Conventional approaches for manufacturing radiative cooling coatings demand complex and high-cost thin-film deposition processes, which hinder large-scale applications. This award supports fundamental research to provide needed knowledge for the development of a room temperature solution-based technique to produce radiative cooling porous polymer paints. The new process will enable fast, large-scale, and low-cost manufacturing of polymeric radiative cooling paints without using organic solvents. The paints will have potential applications in building, automotive, food, chemical, and pharmaceutical industries, which benefits the US economy and society. This research involves several disciplines including manufacturing, optics, polymer science, and material science. The multi-disciplinary approach will help broaden participation of underrepresented groups in research and positively impact engineering education.&lt;br/&gt;&lt;br/&gt;Radiative cooling can alleviate several disadvantages in existing cooling techniques, such as high consumption of electricity, and usage of ozone-depleting and greenhouse gases. The research team will conduct fundamental studies to bridge the knowledge gap between scientific concept of radiative cooling and scalable manufacturing of high-performance and low-cost cooling coatings. Specifically, the team will: 1) conduct full-wave simulations to understand the interactions between solar and thermal radiations and porous polymeric materials; 2) develop scalable solution-based manufacturing methods to produce porous polymer radiative cooling neutral-colored and colorful paints, understanding effects of various parameters, such as solution concentration, vapor pressure, and temperature, on the morphology and performance of the porous paints; and 3) conduct field tests to quantify the radiative cooling capabilities of the paints under various environmental and meteorological conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005747</AwardID>
+<Investigator>
+<FirstName>Yuan</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuan Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yy2664@columbia.edu]]></EmailAddress>
+<NSF_ID>000699921</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nanfang</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nanfang Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ny2214@columbia.edu]]></EmailAddress>
+<NSF_ID>000631451</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Trustee of Columbia University in the City of New York]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276623</ZipCode>
+<StreetAddress><![CDATA[500 W 120th st, 1128 Mudd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>085E</Code>
+<Text>POLYMER &amp; COMPOSITES PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~366459</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The study in the last three years provides new insight and new designs of radiative cooling materials for a sustainable future, which has applications in building envelopes, transportation, cold chain and other scenarios where radiative cooling is a part of thermal management. Specifically we have made fundamental contributions in following aspects.</p> <p>1. Modeling and theoretical framework. Porous polymers are attractive for passive daytime radiative cooling (PDRC) since they have excellent performance and scalability. A fundamental question remaining is how PDRC performance depends on pore properties (e.g., radius, porosity), which is critical to guiding future structure designs. We developed a 2D full electromagnetic wave model to answer this question which balanced accuracy and computational cost. Effects of pore size, porosity, and thickness are studied. We find that mixed nanopores (e.g., radii of 100 and 200 nm) have a much higher solar reflectance R<sub>solar</sub> (0.951) than single-sized pores (0.811) at a thickness of 300 &mu;m. With an Al substrate underneath, solar reflectance, thermal emittance in the long wavelength infrared window, and net cooling power P<sub>cool</sub> reach 0.980, 0.984, and 72 W/m<sup>2</sup>, respectively, under a semihumid atmospheric condition. These simulation results provide a guide for designing high-performance porous coating for PDRC applications.</p> <p>2. Aqueous processing of porous PVdF-HFP radiative cooling paint. The traditional approach to make porous PVdF-HFP radiative cooling paint requires 70-80 wt% acetone, which is too much for onsite deployment. We developed a new aqueous processing with only 71 g/L volatile organic compound (VOC). Moreover, we identified that a key to realize high-performance aqueous radiative cooling coating is to use adequate force to break agglomeration and reassemble the dispersed particles into secondary microparticles. High solar reflectance of 0.94 and high emittance of 0.97 are achieved by this aqueous process and the film is stable in water for over two months.&nbsp;</p> <p>3. Radiative cooling walls. Current research on passive daytime radiative cooling mainly focuses on roofs, but limited attention has been paid to the walls, which typically occupy more surface area of building envelope than the roof. We designed a new zigzag structure to control the angular asymmetry of thermal emittance of a wall, and thus a wall has a high emittance towards the cold sky and low emittance towards the hot land surface. At a ground surface temperature &gt; 50 ?C, such asymmetry leads to a relative cooling power up to 67 W m<sup>-2</sup> compared to conventional walls coated with PDRC materials, and temperature drops of 3.1 ?C (peak) / 2.3 ?C (daily average) compared to the control wall. The zigzag wall can provide up to 37 GJ (28.2 MJ m<sup>-2</sup>, ~15%) annual energy saving for a typical midrise apartment, and benefit 42% population in the U.S., particularly in the southern warm areas.</p> <p>The project results in 6 publications in Nano Letters, Advanced Functional Materials, Next Energy, and two more in preparation or submitted.&nbsp;</p> <p>In terms of broader impact, the patent on aqueous processing has been licensed to a startup. The project has trained 1 postdoc, 2 Ph.D., 4 master students, 4 undergraduates and 1 high school students. The team gave &gt;10 presentations in other universities and top conferences in the last three years.</p><br> <p>            Last Modified: 10/18/2023<br>      Modified by: Yuan&nbsp;Yang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697656673407_figure1-aqueouspaint--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697656673407_figure1-aqueouspaint--rgov-800width.jpg" title="Radiative cooling paints by aqueous processing"><img src="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697656673407_figure1-aqueouspaint--rgov-66x44.jpg" alt="Radiative cooling paints by aqueous processing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Radiative cooling paints prepared by aqueous processing, which showed high uniformity and good stability in water and under UV tests.</div> <div class="imageCredit">Yuan Yang</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Yuan&nbsp;Yang</div> <div class="imageTitle">Radiative cooling paints by aqueous processing</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697656938970_figure3-radiativecoolingwall--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697656938970_figure3-radiativecoolingwall--rgov-800width.jpg" title="Asymmetric radiative cooling walls"><img src="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697656938970_figure3-radiativecoolingwall--rgov-66x44.jpg" alt="Asymmetric radiative cooling walls"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The design of zigzag asymmetric radiative cooling walls and corresponding utility saving in United States.</div> <div class="imageCredit">Yuan Yang</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Yuan&nbsp;Yang</div> <div class="imageTitle">Asymmetric radiative cooling walls</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697657081517_figure2-modeling--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697657081517_figure2-modeling--rgov-800width.jpg" title="Modeling of light field in a porous polymer radiative cooling coating"><img src="/por/images/Reports/POR/2023/2005747/2005747_10679631_1697657081517_figure2-modeling--rgov-66x44.jpg" alt="Modeling of light field in a porous polymer radiative cooling coating"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Left: the light field in a porous polymer radiative cooling paint. Right: effects of bimodal pores on solar reflectance of a porous radiative cooling coating layer</div> <div class="imageCredit">Yuan Yang</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Yuan&nbsp;Yang</div> <div class="imageTitle">Modeling of light field in a porous polymer radiative cooling coating</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The study in the last three years provides new insight and new designs of radiative cooling materials for a sustainable future, which has applications in building envelopes, transportation, cold chain and other scenarios where radiative cooling is a part of thermal management. Specifically we have made fundamental contributions in following aspects.  1. Modeling and theoretical framework. Porous polymers are attractive for passive daytime radiative cooling (PDRC) since they have excellent performance and scalability. A fundamental question remaining is how PDRC performance depends on pore properties (e.g., radius, porosity), which is critical to guiding future structure designs. We developed a 2D full electromagnetic wave model to answer this question which balanced accuracy and computational cost. Effects of pore size, porosity, and thickness are studied. We find that mixed nanopores (e.g., radii of 100 and 200 nm) have a much higher solar reflectance Rsolar (0.951) than single-sized pores (0.811) at a thickness of 300 &mu;m. With an Al substrate underneath, solar reflectance, thermal emittance in the long wavelength infrared window, and net cooling power Pcool reach 0.980, 0.984, and 72 W/m2, respectively, under a semihumid atmospheric condition. These simulation results provide a guide for designing high-performance porous coating for PDRC applications.  2. Aqueous processing of porous PVdF-HFP radiative cooling paint. The traditional approach to make porous PVdF-HFP radiative cooling paint requires 70-80 wt% acetone, which is too much for onsite deployment. We developed a new aqueous processing with only 71 g/L volatile organic compound (VOC). Moreover, we identified that a key to realize high-performance aqueous radiative cooling coating is to use adequate force to break agglomeration and reassemble the dispersed particles into secondary microparticles. High solar reflectance of 0.94 and high emittance of 0.97 are achieved by this aqueous process and the film is stable in water for over two months.   3. Radiative cooling walls. Current research on passive daytime radiative cooling mainly focuses on roofs, but limited attention has been paid to the walls, which typically occupy more surface area of building envelope than the roof. We designed a new zigzag structure to control the angular asymmetry of thermal emittance of a wall, and thus a wall has a high emittance towards the cold sky and low emittance towards the hot land surface. At a ground surface temperature &gt; 50 ?C, such asymmetry leads to a relative cooling power up to 67 W m-2 compared to conventional walls coated with PDRC materials, and temperature drops of 3.1 ?C (peak) / 2.3 ?C (daily average) compared to the control wall. The zigzag wall can provide up to 37 GJ (28.2 MJ m-2, ~15%) annual energy saving for a typical midrise apartment, and benefit 42% population in the U.S., particularly in the southern warm areas.  The project results in 6 publications in Nano Letters, Advanced Functional Materials, Next Energy, and two more in preparation or submitted.   In terms of broader impact, the patent on aqueous processing has been licensed to a startup. The project has trained 1 postdoc, 2 Ph.D., 4 master students, 4 undergraduates and 1 high school students. The team gave &gt;10 presentations in other universities and top conferences in the last three years.       Last Modified: 10/18/2023       Submitted by: Yuan Yang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

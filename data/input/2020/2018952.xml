@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Seahorse XFe96 Analyzer for High-Throughput Measurements of Glycolysis and Mitochondrial Respiration at Skidmore College]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>266517.00</AwardTotalIntnAmount>
+<AwardAmount>266517</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Weller</SignBlockName>
+<PO_EMAI>jweller@nsf.gov</PO_EMAI>
+<PO_PHON>7032922224</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[An award is made to Skidmore College to support the purchase of instrumentation for measuring subtle, real-time changes in mitochondrial respiration by two primary output measurements: oxygen consumption and extracellular acidification. The 96-well automated format allows for high throughput analysis of small sample volumes with high accuracy and high resolution. The analyzer will be used by faculty and students in the Neuroscience Program and the Departments of Biology, Chemistry and Health &amp; Human Physiological Sciences for basic science research, translational research and teaching. Experimental use and data analysis will be integrated into multiple courses across the undergraduate science curriculum, thereby reaching a broad array of undergraduate users. Furthermore, the instrument will be featured in summer workshops for Skidmore Scholars in Science and Math (S3M). S3M scholars are rising sophomores who are strong science students from underrepresented backgrounds in STEM. It is expected that exposure to the instrument and analytical practice through courses and the S3M workshop will lead students to incorporate the instrument into their student-driven independent research under the guidance of their faculty.&lt;br/&gt;&lt;br/&gt;The analyzer works with a wide variety of samples including cultured cells, excised tissue, bacteria and small animal embryos making it ideal for the various research interests of Skidmore faculty. Immediate research uses by the PI and co-PIs include investigation of mitochondrial function in neuronal cells, the impact of aging on muscle and endothelial cells, the identification and screening of novel respiratory genes in C. elegans mutants, identification of endocrine control of fish gill ionocyte metabolism, and investigation of metal homeostasis in bacteria. The acquisition of the instrument coincides with the opening of Skidmore College’s new Center for Integrated Sciences, a new science building which brings together all 10 STEM departments and programs under one roof. Importantly, the intellectual merit regarding the shared use of the instrument is in line with the College’s mission to integrate research and teaching within the sciences. Additionally, the instrument will contribute to existing active and future collaborations between Skidmore scientists and outside researchers. Data acquired on the new system will be disseminated in peer-reviewed publications and through scientific meetings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018952</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Breves</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason Breves</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbreves@skidmore.edu]]></EmailAddress>
+<NSF_ID>000715412</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Bonner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer Bonner</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbonner@skidmore.edu]]></EmailAddress>
+<NSF_ID>000533994</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarita</FirstName>
+<LastName>Lagalwar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarita Lagalwar</PI_FULL_NAME>
+<EmailAddress><![CDATA[slagalwa@skidmore.edu]]></EmailAddress>
+<NSF_ID>000614029</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sylvia</FirstName>
+<LastName>Franke McDevitt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sylvia Franke McDevitt</PI_FULL_NAME>
+<EmailAddress><![CDATA[sfranke@skidmore.edu]]></EmailAddress>
+<NSF_ID>000524333</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Ives</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen J Ives</PI_FULL_NAME>
+<EmailAddress><![CDATA[Sives@skidmore.edu]]></EmailAddress>
+<NSF_ID>000796842</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Skidmore College]]></Name>
+<CityName>SARATOGA SPRINGS</CityName>
+<ZipCode>128661632</ZipCode>
+<PhoneNumber>5185808052</PhoneNumber>
+<StreetAddress><![CDATA[815 N BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K2DDAS2E6DP7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SKIDMORE COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Skidmore College]]></Name>
+<CityName>Saratoga Springs</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>128661632</ZipCode>
+<StreetAddress><![CDATA[815 North Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~266517</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>INTELLECTUAL MERIT</strong></p> <p><em>PI Lagalwar</em>: The Lagalwar lab spent time calibrating the addition of oligomycin using the Agilent Seahorse Mito Stress Test/XFe96 assay in order to determine the best volume for optimal solvency of the compound and thus reduction of variability in the data.&nbsp; The calibration work was successful as data consistency has improved.&nbsp; Additionally, the lab is close to submitting a manuscript characterizing cell culture models of Spinocerebellar ataxia type 1.&nbsp; The manuscript includes the completed results from Seahorse XFe96 data showing that the mutant cell line features a cellular stress phenotype, including increased basal respiration, increased proton leak and decreased coupling efficiency, compared to the wild type cell line (Figure 1).&nbsp; A &ldquo;double mutant&rdquo; line in which the transgenic ATXN1 protein does not translocate into the nucleus and is readily degraded displays an in-between phenotype (Figure 1).&nbsp; &nbsp;The data from the Seahorse assay complements and supports additional data generated in the Lagalwar lab from live assay experiments showing that the mutant cell line features decreased cellular ATP levels, increased reactive oxygen species, altered mitochondrial membrane potential dynamics, and altered cellular Ca<sup>2+</sup> dynamics (Figure 2).</p> <p>&nbsp;</p> <p>Having now optimized multiple live cell assays, including the XFe96 bioanalyzer Mito Stress Test, the Lagalwar lab will utilize these assays for two new research projects that are currently in preliminary stages: 1) testing the functional consequences of exosomal transfer of proteins from mutant to wild type cells and from wild type to mutant cells; and 2) initial <em>in vitro</em> screens of mitochondrial-targeted compounds or cocktails that enhance mitochondrial functioning prior to preclinical testing in mouse models.&nbsp; NSF RUI and NIH R15/AREA grants will be sought to fund these two projects.</p> <p>&nbsp;</p> <p><em>Co-PI McDevitt</em>: The McDevitt lab continued to characterize the survival under copper stress of several strains of <em>Escherichia coli </em>harboring plasmids containing a 20-gene gene cluster, <em>pco/sil</em>, that has been referred to as Copper-Pathogenicity Island (1) or Copper Homeostasis and Silver Resistance Island (CHASRI) (2) originating from four different genera of Enterobacteriaceae. Choosing copper concentrations based on obtained MIC (minimal inhibitory concentration) data, they tested copper induced redox stress to analyze to what extent the presence of CHASRI might reduce this effect. Initial tests on the XFe96 measuring copper stress-induced redox-related alterations of cell physiology in wild-type <em>Escherichia coli</em>, and <em>E. coli</em> strains harboring CHASRI containing plasmids show inconsistent results. The McDevitt lab is currently optimizing their protocol to reduce variability within their replicates.&nbsp;</p> <p>&nbsp;</p> <p>Throughout the last year, the McDevitt lab was working on establishing a protocol to measure metabolic activity in <em>Dictyostelium discoideum</em> via the Seahorse XFe96 Analyzer. They recently different CHASRI-containing strains of <em>E. coli</em> to the experimental set up and initial data indicate differences in OCR and ECAR depending on the presence of copper resistance determinants in the strains of <em>E. coli</em> fed to <em>Dictyostelium discoideum.</em> These experiments will be continued, testing additional strains of <em>E. coli</em> and different MOI. They are also planning to repeat these experiments using mouse macrophage cell lines in addition to <em>Dictyostelium discoideum</em>.</p> <p>&nbsp;</p> <p><em>Regional Collaborator</em>: Dr. Taylor Bertucci, Ph.D., from the Neural Stem Cell Institute (35 miles southeast of Skidmore College) is beginning to test iPSC-derived brain organoids on Skidmore&rsquo;s XFe96 using the Mito Stress Test kit in collaboration with Dr. Lagalwar.&nbsp; The Bertucci lab is interested in understanding the metabolism of organoids, the consequences to metabolism in different mutant models of organoids, and changes to metabolism in organoids over time.</p> <p>&nbsp;</p> <p><strong>BROADER IMPACT</strong></p> <p><em>PI Lagalwar</em>: Having established the use of the Seahorse XFe96 instrument for use in research, multiple undergraduate research students will use it as part of the Exosome project or mitochondrial drug screening project. Additionally, the Seahorse XFe96 has been used each year (2021, 2022, 2023) in the Cellular and Molecular Neuroscience lab course to teach 14-16 sophomores and juniors about mitochondrial respiration, cellular health and neuronal differentiation and involve them in Seahorse instrument data analysis.&nbsp; The course is taught every fall semester and will continue to use the Seahorse in the future.</p> <p>&nbsp;</p> <p><em>Co-PI McDevitt</em>: Plans are underway to incorporate analysis of redox-related alterations to cell physiology under copper stress of microbial communities in the intermediateupper-level Environmental Microbiology course.&nbsp; Additionally, once the protocols are in place, the copper resistance experiments are planned to be incorporated into the classroom lab, specifically the upper-level Bacterial Pathogenesis course.&nbsp; Timing to offer the proposed laboratory courses depends on departmental course needs and staffing.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/18/2023<br> Modified by: Sarita&nbsp;Lagalwar</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2018952/2018952_10692653_1700341900348_Figure_2_2023_MRI_Seahorse_annual_report--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018952/2018952_10692653_1700341900348_Figure_2_2023_MRI_Seahorse_annual_report--rgov-800width.jpg" title="Figure 2. Decreased ATP production, altered ROS generation and altered mitochondrial membrane potential dynamics in live cells expressing mutant ATXN1."><img src="/por/images/Reports/POR/2023/2018952/2018952_10692653_1700341900348_Figure_2_2023_MRI_Seahorse_annual_report--rgov-66x44.jpg" alt="Figure 2. Decreased ATP production, altered ROS generation and altered mitochondrial membrane potential dynamics in live cells expressing mutant ATXN1."></a> <div class="imageCaptionContainer"> <div class="imageCaption">SCA1 cell models expressing RFP-ATXN1[82Q] display decreased ATP production (A), enhanced peroxide ROS production (B), altered mitochondrial membrane potential dynamics (C,D) and altered intracellular Ca2+ dynamics compared to wild type cells.</div> <div class="imageCredit">S. Lagalwar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sarita&nbsp;Lagalwar <div class="imageTitle">Figure 2. Decreased ATP production, altered ROS generation and altered mitochondrial membrane potential dynamics in live cells expressing mutant ATXN1.</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018952/2018952_10692653_1700341762561_Figure_1_2023_MRI_Seahorse_annual_report--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018952/2018952_10692653_1700341762561_Figure_1_2023_MRI_Seahorse_annual_report--rgov-800width.jpg" title="Figure 1. Altered mitochondrial membrane potential dynamics in live cells expressing mutant ATXN1."><img src="/por/images/Reports/POR/2023/2018952/2018952_10692653_1700341762561_Figure_1_2023_MRI_Seahorse_annual_report--rgov-66x44.jpg" alt="Figure 1. Altered mitochondrial membrane potential dynamics in live cells expressing mutant ATXN1."></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Seahorse MitoStress test shows that wild type Daoy cells display low ECAR and OCR rates, indicative of a quiescent state and mutant ATXN1[82Q] cells display increased ECAR and OCR rates indicative of a stressed state.  �Double mutant� ATXN1[82Q-A776] cells display  an intermediate phenotype.</div> <div class="imageCredit">S. Lagalwar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sarita&nbsp;Lagalwar <div class="imageTitle">Figure 1. Altered mitochondrial membrane potential dynamics in live cells expressing mutant ATXN1.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  INTELLECTUAL MERIT   PI Lagalwar: The Lagalwar lab spent time calibrating the addition of oligomycin using the Agilent Seahorse Mito Stress Test/XFe96 assay in order to determine the best volume for optimal solvency of the compound and thus reduction of variability in the data. The calibration work was successful as data consistency has improved. Additionally, the lab is close to submitting a manuscript characterizing cell culture models of Spinocerebellar ataxia type 1. The manuscript includes the completed results from Seahorse XFe96 data showing that the mutant cell line features a cellular stress phenotype, including increased basal respiration, increased proton leak and decreased coupling efficiency, compared to the wild type cell line (Figure 1). A double mutant line in which the transgenic ATXN1 protein does not translocate into the nucleus and is readily degraded displays an in-between phenotype (Figure 1). The data from the Seahorse assay complements and supports additional data generated in the Lagalwar lab from live assay experiments showing that the mutant cell line features decreased cellular ATP levels, increased reactive oxygen species, altered mitochondrial membrane potential dynamics, and altered cellular Ca2+ dynamics (Figure 2).      Having now optimized multiple live cell assays, including the XFe96 bioanalyzer Mito Stress Test, the Lagalwar lab will utilize these assays for two new research projects that are currently in preliminary stages: 1) testing the functional consequences of exosomal transfer of proteins from mutant to wild type cells and from wild type to mutant cells; and 2) initial in vitro screens of mitochondrial-targeted compounds or cocktails that enhance mitochondrial functioning prior to preclinical testing in mouse models. NSF RUI and NIH R15/AREA grants will be sought to fund these two projects.      Co-PI McDevitt: The McDevitt lab continued to characterize the survival under copper stress of several strains of Escherichia coli harboring plasmids containing a 20-gene gene cluster, pco/sil, that has been referred to as Copper-Pathogenicity Island (1) or Copper Homeostasis and Silver Resistance Island (CHASRI) (2) originating from four different genera of Enterobacteriaceae. Choosing copper concentrations based on obtained MIC (minimal inhibitory concentration) data, they tested copper induced redox stress to analyze to what extent the presence of CHASRI might reduce this effect. Initial tests on the XFe96 measuring copper stress-induced redox-related alterations of cell physiology in wild-type Escherichia coli, and E. coli strains harboring CHASRI containing plasmids show inconsistent results. The McDevitt lab is currently optimizing their protocol to reduce variability within their replicates.      Throughout the last year, the McDevitt lab was working on establishing a protocol to measure metabolic activity in Dictyostelium discoideum via the Seahorse XFe96 Analyzer. They recently different CHASRI-containing strains of E. coli to the experimental set up and initial data indicate differences in OCR and ECAR depending on the presence of copper resistance determinants in the strains of E. coli fed to Dictyostelium discoideum. These experiments will be continued, testing additional strains of E. coli and different MOI. They are also planning to repeat these experiments using mouse macrophage cell lines in addition to Dictyostelium discoideum.      Regional Collaborator: Dr. Taylor Bertucci, Ph.D., from the Neural Stem Cell Institute (35 miles southeast of Skidmore College) is beginning to test iPSC-derived brain organoids on Skidmores XFe96 using the Mito Stress Test kit in collaboration with Dr. Lagalwar. The Bertucci lab is interested in understanding the metabolism of organoids, the consequences to metabolism in different mutant models of organoids, and changes to metabolism in organoids over time.      BROADER IMPACT   PI Lagalwar: Having established the use of the Seahorse XFe96 instrument for use in research, multiple undergraduate research students will use it as part of the Exosome project or mitochondrial drug screening project. Additionally, the Seahorse XFe96 has been used each year (2021, 2022, 2023) in the Cellular and Molecular Neuroscience lab course to teach 14-16 sophomores and juniors about mitochondrial respiration, cellular health and neuronal differentiation and involve them in Seahorse instrument data analysis. The course is taught every fall semester and will continue to use the Seahorse in the future.      Co-PI McDevitt: Plans are underway to incorporate analysis of redox-related alterations to cell physiology under copper stress of microbial communities in the intermediateupper-level Environmental Microbiology course. Additionally, once the protocols are in place, the copper resistance experiments are planned to be incorporated into the classroom lab, specifically the upper-level Bacterial Pathogenesis course. Timing to offer the proposed laboratory courses depends on departmental course needs and staffing.        Last Modified: 11/18/2023       Submitted by: SaritaLagalwar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

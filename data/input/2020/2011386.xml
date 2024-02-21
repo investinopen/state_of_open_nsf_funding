@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Strongly Interacting Atoms under Quantum Gas Microscope]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Forrey</SignBlockName>
+<PO_EMAI>rforrey@nsf.gov</PO_EMAI>
+<PO_PHON>7032925199</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Comprehending quantum matter consisting of many strongly interacting quantum units, such as atoms, spins, or quantum bits, remains a great challenge. It underpins our capacity to design better materials or to solve hard problems beyond the reach of classical computers. A quantum simulator is a man-made system where the individual quantum units as well as their couplings are under precise control. Quantum gases of ultracold atoms confined in optical lattices formed by laser light have emerged as a leading platform for quantum simulation. The recent invention of the quantum gas microscope offers unprecedented precision readout of these simulators with single-atom and single-site resolution. It opens up new opportunities to probe the properties of strongly interacting ultracold atoms confined in two dimensions to solve long-standing open problems in strongly correlated quantum matter, for instance regarding the existence of d-wave superfluid in the Fermi-Hubbard model or quantum spin liquids in frustrated spin models. The ongoing experiments demand from theory quantitatively accurate predictions to boost the superfluid transition temperature or to scout out the locations of spin liquids in the parameter space. These tasks are challenging because strongly interacting quantum gases are marred with many closely competing orders. To treat them on equal footing, one is usually limited to small system sizes or low momentum resolution in order to keep the calculation tractable.  The proposed research stimulates the cross-fertilization between quantum gases, quantum simulation and machine learning. Students involved in this project will be trained to acquire transferable skills in high performance computing and data analysis.&lt;br/&gt;&lt;br/&gt;This project develops new high-precision numerical algorithms to compute the properties of strongly interacting ultracold atoms confined in two-dimensional lattices. Two innovative many-body techniques are proposed to overcome the aforementioned technical challenges. First, functional renormalization group with full momentum resolution will be developed to accurately track the competing many-body instabilities for interacting fermionic atoms on optical lattices. It will be applied to optimize the optical lattice designs to promote d-wave superfluidity in repulsive Fermi-Hubbard gases. Second, frustrated quantum spin models of cold atoms localized in optical lattices are solved by neural network parametrization of the many-body wave function inspired by machine learning. Variational ansatz based on feed-forward neural networks will be developed to resolve the nature of their ground states. The proposed work expands the boundary of precision many-body algorithms for strongly interacting atoms and spins. It improves the number of running couplings in functional renormalization group from hundred thousands to tens of millions by solving the flow equations massively parallel on Graphics Processing Units. The resultant superior resolution will yield more accurate phase boundaries and estimations of the transition temperature to guide experiments. Large-scale neural network ansatz will help answer open questions regarding the existence and nature of spin liquids and other exotic phases in quantum spin systems. These many-body techniques developed are general and can be applied to correlated quantum materials or quantum spin models of interacting molecules and trapped ions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011386</AwardID>
+<Investigator>
+<FirstName>Erhai</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erhai Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[ezhao2@gmu.edu]]></EmailAddress>
+<NSF_ID>000516784</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>Fairfax</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 University Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1284</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~60671</FUND_OBLG>
+<FUND_OBLG>2021~61294</FUND_OBLG>
+<FUND_OBLG>2022~58035</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>1. This project supported the development of new techniques to compute and understand the properties of strongly interacting fermions in continuum (known as quantum degenerate Fermi gases) and interacting quantum spins living on lattices where several ordering tendencies compete intricately with each other (commonly referred to as frustrated quantum magnets). Numerical tools, including computer codes, were developed and improved to achieve unprecedented momentum or frequency resolution in accessing the collective many-body correlations in these interacting systems as the temperature or energy scale is lowered. The technical innovations followed the idea of Functional Renormalization Group to track the flows, or evolutions, of millions of correlation functions along the momentum or frequency sliding scale. The successful implementation of these ideas in this project, as reflected in the list of peer-reviewed publications, has led to new phases diagrams for Rydberg-dressed Fermi gases and Fermi gases with tunable short-range repulsive interactions in two dimensions, and new insights on the orders and phase transitions in spin models that are theoretically challenging and controversial. The theoretical tools developed here are quite general and may be adapted and applied to study other strongly interacting quantum systems of many particles beyond the realm of ultra-cold atoms under quantum gas microscope.<br /><br />2. This project also supported the exploration of a relatively new variational technique where the many-particle wave function is represented by neural networks widely used in artificial intelligence and machine learning. We implemented and tested this variational approach for a quantum spin model on honeycomb lattice which reduces to the Ising, Kitaev, and 120-degree model in three special limits. We found the method indeed accurately predicts the phase transitions, in agreement with other state-of-the-art numerical methods. But we also identified its pitfalls and difficulties in practice, and proposed strategies to mitigate or circumvent these problems to help the convergence toward the true many-body ground state. The case study may stimulate further work to make "machine learning" a powerful tool for quantum many-body physics.<br /><br />3. Motivated by experiments on quantum open systems which can be described by effective non-Hermitian Hamiltonians, we solved a few open problems regarding the non-Hermitian lattice Hamiltonians in one and two dimensions. For example, we showed Majorana stars can be used to characterize the topology of one dimensional non-Hermitian systems that lack chiral symmetry and therefore the Zak phase is not quantized. We also established a comprehensive theory to understand the edge spectra and bulk-edge correspondence in two-dimensional Chern insulators. These results broaden our understanding of topological phenomena in the non-Hermitian realm where dissipation or coupling to the environment plays a key role.<br /><br />4. The research involved postdoc, PhD, Masters, as well as high school students. In mentoring them, the Principal Investigator challenged each member of the team to develop new research skills appropriate for their respective levels, and supported each to advance their careers to the next level despite the challenges of the pandemic. The latest research results from the literature are frequently incorporated into the classroom teaching of graduate quantum mechanics and undergraduate thermal physics.</p><br> <p>            Last Modified: 10/03/2023<br>      Modified by: Erhai&nbsp;Zhao</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ 1. This project supported the development of new techniques to compute and understand the properties of strongly interacting fermions in continuum (known as quantum degenerate Fermi gases) and interacting quantum spins living on lattices where several ordering tendencies compete intricately with each other (commonly referred to as frustrated quantum magnets). Numerical tools, including computer codes, were developed and improved to achieve unprecedented momentum or frequency resolution in accessing the collective many-body correlations in these interacting systems as the temperature or energy scale is lowered. The technical innovations followed the idea of Functional Renormalization Group to track the flows, or evolutions, of millions of correlation functions along the momentum or frequency sliding scale. The successful implementation of these ideas in this project, as reflected in the list of peer-reviewed publications, has led to new phases diagrams for Rydberg-dressed Fermi gases and Fermi gases with tunable short-range repulsive interactions in two dimensions, and new insights on the orders and phase transitions in spin models that are theoretically challenging and controversial. The theoretical tools developed here are quite general and may be adapted and applied to study other strongly interacting quantum systems of many particles beyond the realm of ultra-cold atoms under quantum gas microscope.  2. This project also supported the exploration of a relatively new variational technique where the many-particle wave function is represented by neural networks widely used in artificial intelligence and machine learning. We implemented and tested this variational approach for a quantum spin model on honeycomb lattice which reduces to the Ising, Kitaev, and 120-degree model in three special limits. We found the method indeed accurately predicts the phase transitions, in agreement with other state-of-the-art numerical methods. But we also identified its pitfalls and difficulties in practice, and proposed strategies to mitigate or circumvent these problems to help the convergence toward the true many-body ground state. The case study may stimulate further work to make "machine learning" a powerful tool for quantum many-body physics.  3. Motivated by experiments on quantum open systems which can be described by effective non-Hermitian Hamiltonians, we solved a few open problems regarding the non-Hermitian lattice Hamiltonians in one and two dimensions. For example, we showed Majorana stars can be used to characterize the topology of one dimensional non-Hermitian systems that lack chiral symmetry and therefore the Zak phase is not quantized. We also established a comprehensive theory to understand the edge spectra and bulk-edge correspondence in two-dimensional Chern insulators. These results broaden our understanding of topological phenomena in the non-Hermitian realm where dissipation or coupling to the environment plays a key role.  4. The research involved postdoc, PhD, Masters, as well as high school students. In mentoring them, the Principal Investigator challenged each member of the team to develop new research skills appropriate for their respective levels, and supported each to advance their careers to the next level despite the challenges of the pandemic. The latest research results from the literature are frequently incorporated into the classroom teaching of graduate quantum mechanics and undergraduate thermal physics.       Last Modified: 10/03/2023       Submitted by: Erhai Zhao]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Adaptive dynamic coordination of damping controllers through deep reinforcement and transfer learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>210000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032928113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In the last decades, global environmental pollution, concerns with fossil fuel reserves, and advances in technology have led to actions that are transforming the power grid. Over the years, several states have adopted renewable portfolio standards and goals to increase electricity production from renewable sources such as solar and wind power. This has resulted in new grid behaviors in response to disturbances in the system. This phenomenon has created concerns about an increased risk of sustained oscillations that can cause poor electric service quality and can even lead to blackouts.  A search for new effective control systems has created a new breed of controllers. Specifically, the design of new controllers has been studied for wind turbines, energy storage systems, and other emergent components. However, with this massive presence of non-standard controllers and the existing controllers in conventional power plants, there is an urgent need for coordination that would enhance the combined effect of all the controllers to avoid conflicting interactions among them. Presently, there is no coordination of this magnitude in either actual systems or theoretical studies. The problem is challenging and it requires adaptability as the grid is permanently changing during its operation. This project will add intelligence to the grid, and through a real-time adaptable coordination, it will diminish possibilities of blackouts by mitigating the unwanted oscillations in the system. The proposed adaptive controller coordination has tremendous potential to enable the current and forthcoming power grid with superior dynamic performance and stability. This research will help increase awareness of the importance of the power grid for our nation including the benefits and challenges of renewable energy. Pre-college students and teachers will be exposed to engineering principles and practical applications through participation in outreach programs. &lt;br/&gt;&lt;br/&gt;This project will transform the conventional notion of controller coordination to make it suitable for real-time control as well as adaptive to disturbances and operating conditions. This project will seek controller coordinating signals that will minimize the system oscillation energy. The physical concept of oscillation energy not only allows avoiding the use of arbitrary objective functions, but also serves as a mechanism to weight the importance of the different oscillation modes without having to target in advance the most critical ones. As preliminary work, the PIs have derived an analytical procedure for on/off controller coordination using the time integral of the oscillation energy and its sensitivity with respect to the controller gains. As this procedure is based on the linearization of the state-space model, matrices, eigenvalues, and sensitivities must be either calculated promptly after a disturbance or collected previously off-line for the most representative operating points and disturbances. To overcome this drawback, and to make the coordination feasible and practical, a deep reinforcement learning (DRL) framework is proposed that would make the coordination not only adaptive but also more effective. In this regard, this DRL framework will allow exploring both discrete and continuous coordinating signals. While a discrete signal can be seen as a controller's on/off mechanism, a continuous signal can be understood as a quantity that can scale up/down the controller gains within a specified range. Furthermore, as the system can be subjected to extreme disturbances, this project proposes the use of transfer learning so the DRL training can be transferred even if there are topological changes or severe operational changes such as generator outages or load rejections.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033910</AwardID>
+<Investigator>
+<FirstName>Hector</FirstName>
+<LastName>Pulgar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hector Pulgar</PI_FULL_NAME>
+<EmailAddress><![CDATA[hpulgar@utk.edu]]></EmailAddress>
+<NSF_ID>000683454</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fangxing</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fangxing F Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[fli6@utk.edu]]></EmailAddress>
+<NSF_ID>000346316</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>201 ANDY HOLT TOWER</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JBG7T7RXQ2B7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>Knoxville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379163801</ZipCode>
+<StreetAddress><![CDATA[1331 Circle Park Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~210000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The electric power grid undergoes continual changes due to fluctuations in electrical consumption, generation patterns, and occasional disturbances or events. To ensure reliable operation, controllers must be strategically placed throughout the grid to effectively manage these changes and disturbances. Oscillatory behavior is one of the potential responses the grid may exhibit after a disturbance. Excessive and uncontrolled oscillations can lead to grid instability if not promptly restrained. Enhancing grid performance during such events necessitates a specific type of controller known as a damping controller (DC). Traditionally, these controllers were installed in conventional power plants, but with recent advancements, new components like wind farms, solar plants, and energy storage systems can also contribute to restraining grid oscillations.</p> <p>This research project introduces a novel concept of adaptive DC coordination that responds to disturbances and operating conditions. Given the rapid integration of emerging technologies and their control capabilities, it becomes crucial to coordinate them with traditional controllers to prevent unfavorable dynamic interactions and reduce the system's susceptibility to instabilities. The implementation of this innovative adaptive controller coordination has the potential to significantly improve the dynamic performance and stability of the current and future power grid.</p> <p>The coordination process has been conceptualized as the activation (switching on) and deactivation (switching off) of damping controllers (DCs) based on current operating conditions and specific disturbances. Initially, the approach involved a comprehensive mathematical model of the grid, with decisions about switching each DC on/off determined by linear sensitivities of the time integral of oscillation energy. However, this initial method faced challenges in mathematically obtaining an optimal on-off status for DCs under all system conditions and disturbances. This project addressed these challenges by introducing a machine learning approach, rendering the coordination problem practical and effective. The proposed approach is based on a deep neural network (DNN) trained to characterize the grid's oscillatory pattern following any disturbance and operating condition. The proposed coordination strategy was successfully tested in a 31-generator system, known as the Western North American Power System (wNAPS) model, which is a reduced description of the Western Electricity Coordinating Council (WECC) system.</p> <p>The outcomes of this project contribute to enhancing the performance and stability of the power grid. This improvement brings about dual benefits for society: (a) facilitating the integration of a larger volume of renewable generation, thanks to a more robust grid design, and (b) ensuring a more reliable electricity delivery system and a resilient grid capable of withstanding disturbances, thereby reducing the occurrence of blackouts. Consequently, a more resilient grid helps prevent public alarm and mitigates negative economic consequences, as those observed following the 2003 Northeast Blackout. The findings from this research have been shared with the public, industry, and academic community through various channels, including presentations at academic/industry conferences, publications in academic journals, and participation in industry meetings.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/25/2024<br> Modified by: Hector&nbsp;Pulgar</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The electric power grid undergoes continual changes due to fluctuations in electrical consumption, generation patterns, and occasional disturbances or events. To ensure reliable operation, controllers must be strategically placed throughout the grid to effectively manage these changes and disturbances. Oscillatory behavior is one of the potential responses the grid may exhibit after a disturbance. Excessive and uncontrolled oscillations can lead to grid instability if not promptly restrained. Enhancing grid performance during such events necessitates a specific type of controller known as a damping controller (DC). Traditionally, these controllers were installed in conventional power plants, but with recent advancements, new components like wind farms, solar plants, and energy storage systems can also contribute to restraining grid oscillations.   This research project introduces a novel concept of adaptive DC coordination that responds to disturbances and operating conditions. Given the rapid integration of emerging technologies and their control capabilities, it becomes crucial to coordinate them with traditional controllers to prevent unfavorable dynamic interactions and reduce the system's susceptibility to instabilities. The implementation of this innovative adaptive controller coordination has the potential to significantly improve the dynamic performance and stability of the current and future power grid.   The coordination process has been conceptualized as the activation (switching on) and deactivation (switching off) of damping controllers (DCs) based on current operating conditions and specific disturbances. Initially, the approach involved a comprehensive mathematical model of the grid, with decisions about switching each DC on/off determined by linear sensitivities of the time integral of oscillation energy. However, this initial method faced challenges in mathematically obtaining an optimal on-off status for DCs under all system conditions and disturbances. This project addressed these challenges by introducing a machine learning approach, rendering the coordination problem practical and effective. The proposed approach is based on a deep neural network (DNN) trained to characterize the grid's oscillatory pattern following any disturbance and operating condition. The proposed coordination strategy was successfully tested in a 31-generator system, known as the Western North American Power System (wNAPS) model, which is a reduced description of the Western Electricity Coordinating Council (WECC) system.   The outcomes of this project contribute to enhancing the performance and stability of the power grid. This improvement brings about dual benefits for society: (a) facilitating the integration of a larger volume of renewable generation, thanks to a more robust grid design, and (b) ensuring a more reliable electricity delivery system and a resilient grid capable of withstanding disturbances, thereby reducing the occurrence of blackouts. Consequently, a more resilient grid helps prevent public alarm and mitigates negative economic consequences, as those observed following the 2003 Northeast Blackout. The findings from this research have been shared with the public, industry, and academic community through various channels, including presentations at academic/industry conferences, publications in academic journals, and participation in industry meetings.        Last Modified: 01/25/2024       Submitted by: HectorPulgar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

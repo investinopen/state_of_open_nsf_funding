@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS: Effective and Selective Sequestration of Functional Molecules with Baskets and Covalent Basket Cages]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+<PO_EMAI>stamchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928684</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With support from the Macromolecular, Supramolecular and Nanochemistry (MSN) Program in the Division of Chemistry, Professor Badjić at the Ohio State University examines novel ways for effectively removing pharmaceutical and agricultural waste in our water systems. Through surface runoffs and ground water, pesticides and their degradation products find their way into the living world. Moreover, the illicit drug use and the overdose epidemic are on the rise and are also contaminating waste streams. To provide solutions to these challenges, Professor Badjić and his group are making cup-shaped compounds to trap and remove environmental waste and/or illicit drugs from our water systems.  In this project, Professor Badjić and his group design specific molecular structures using computational and experimental chemistry methods. By studying these basket-shaped molecules, he expands the understanding of which molecular structures would be most effective in the capture of toxic species. Professor Badjić provides training and mentoring to his graduate and undergraduate students.  He also gives public talk about environmental and health related problems in society, suggesting ways to use supramolecular chemistry to address these concerns.&lt;br/&gt;&lt;br/&gt;The first objective of this project is to design, prepare and  study the mode of action of sophisticated abiotic hosts that are complementary to biologically-active organic molecules. With amino acids preorganized at the rim of chiral ABC hosts that have three different amino acids (A, B, and C) at top of a cup-shaped cavitand, Professor Badjić studies the encapsulation of important drugs and pesticides. The second objective is centered on scrutinizing chiral differentiation of pharmaceuticals and herbicides with ABC baskets and developing tools for directing the sequestration and removal processes. The third objective, use dynamic covalent chemistry to investigate the preparation of covalent basket cages (CBCs) and their binding of organophosphorus pesticides. CBCs could trap four organophosphorus compounds in an allosteric manner resulting in the effective sequestration of these toxic substances. The research project engages a large number of undergraduates in research and educates the general public (through the Center of Science and Industry) about the importance of basic science in solving real-world problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002781</AwardID>
+<Investigator>
+<FirstName>Jovica</FirstName>
+<LastName>Badjic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jovica Badjic</PI_FULL_NAME>
+<EmailAddress><![CDATA[badjic@chemistry.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000390495</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName/>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~450000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <p>This proposal had three main objectives. The <strong>first objective</strong> was to use computational chemistry and design molecular baskets carrying three different amino acids (or peptides) at their rim to be complementary to a targeted guest. Our <strong>second objective</strong> centered on examining the resolution of easily accessible racemic drugs and pesticides and derive rules for predicting the outcome of such processes. As for the <strong>third objective</strong>, we planned to employ dynamic covalent chemistry (DCC) and integrate molecular baskets into <strong>c</strong>ovalent <strong>b</strong>asket <strong>c</strong>ages (CBCs).<strong> </strong>With baskets undergoing an induced-fit mode of recognition, we wondered if spacious CBCs hosts could trap multiple (drugs) toxicants in the allosteric fashion with each consecutive binding event getting more favorable than the prior one.</p> <p>As described below in greater details, most of our objectives have been achieved resulting in eleven scientific publications in the most prestigious chemistry journals.</p> <p>In line with our first objective, we developed a strategy for obtaining ABC baskets carrying different aromatic sides and each with a particular amino acid (or peptide).&nbsp; We completed a series of computational studies to identify ABC baskets capable of trapping toxic molecules and drugs within baskets and are currently testing these molecules against the complexation of fentanyl. In line with the second objective, we completed mechanistic studies about understanding the interplay of conformational selection and induced fit occurring in abiotic systems. Both mechanistic alternatives can take place in molecular recognition events, depending on the experimental conditions. As for the third objective, we used dynamic imine chemistry for developing a series of novel and unique hexapodal hosts capable of selective recognition of anions. The unique characteristics of these concave molecules is their ability to trap anions based on the rate by which they access their inner space (kinetic selection). Following the same concept, we obtained a double-decker host capable of trapping nucleotides in water in an allosteric manner. We also examined the recognition of phosphates using NMR for developing chemosensors. Importantly, we used dynamic imine chemistry to obtain covalent basket cages (CBCs). First, we optimized their formation to occur in a dissipative manner. Second, these cages were chemically modified to be stable and soluble in water. They were shown to assemble into crystalline nanoparticles and trap up to four molecules of doxorubicin in their spacious cavity. Finally, we used dynamic trioxane chemistry for incorporating acenes into capsular nanotubes &ndash; capsularenes for constructing more robust molecular electronic devices.</p> <p>Graduate students Michael Gunter (PhD, graduated), Han Xie (PhD, graduated), Tyler Finnegan (male), Taylor Neal (PhD, graduated), Vageesha Liyana Gunawardana (PhD, graduated), Tai Bowling-Charles (female) and Radoslav Pavlovic (PhD graduated) had an opportunity to complete research projected supported by NSF here at the OSU. These students had a full access to all facilities for (a) completing chemical synthesis and characterization of hosts, (b) studying molecular recognition and encapsulation, (c) reviewing the current literature and (d) writing scientific publications. We also collaborated with research groups led by Christopher Waudby (University College, London), Pavel Anzenbacher (Bowling Green University), Ramesh Jasti (Oregon State), Laura M. Wysocki (Wabash College), Heather Allan (OSU), Christopher M. Hadad (OSU), Amanda Hummon (OSU) and Christo Sevov (OSU) so students had an opportunity to communicate with other research teams on solving scientific problems. With all students, I have had in-depth conversations about: (a) the amount of research independence they need to develop, (b) interaction with coworkers, (c) productivity and the importance of scientific publications, (d) work habits and laboratory safety, and (e) documentation of research methodologies and experimental details so that the work can be continued by other researchers in the future and (f) the importance of recognizing diversity in laboratory work and research (we have weekly meeting about diversity led by graduate student Vageesha Gunawardana). I monitored the research progress of my co-workers through weekly group meetings (all year long) and by requesting research reports.&nbsp;Currently, Michael Gunter is at DNA Technologies in Coralville Iowa, Han Xie is at the Scripps Research Institute, Taylor Neal is at Proctor &amp; Gamble (Cincinnati), Vageesha Liyana Gunawardana is at DuPont Chemicals (Massachusetts) and Radoslav Pavlovic is postdoc at the Northwestern University.</p> <p>The work has been disseminated both domestically and internationally via invited talks and posters.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In conclusion, our work contributes to the ongoing efforts focused on developing better ways for selective and safe removal of toxic drugs and pollutants from living systems. In particular, our fundamental studies (a) describe ways for building novel receptors complementary to a variety of toxic molecules and (b) reveal mechanisms by which these molecules are captured.</p><br> <p>  Last Modified: 11/08/2023<br> Modified by: Jovica&nbsp;Badjic</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     This proposal had three main objectives. The first objective was to use computational chemistry and design molecular baskets carrying three different amino acids (or peptides) at their rim to be complementary to a targeted guest. Our second objective centered on examining the resolution of easily accessible racemic drugs and pesticides and derive rules for predicting the outcome of such processes. As for the third objective, we planned to employ dynamic covalent chemistry (DCC) and integrate molecular baskets into covalent basket cages (CBCs). With baskets undergoing an induced-fit mode of recognition, we wondered if spacious CBCs hosts could trap multiple (drugs) toxicants in the allosteric fashion with each consecutive binding event getting more favorable than the prior one.   As described below in greater details, most of our objectives have been achieved resulting in eleven scientific publications in the most prestigious chemistry journals.   In line with our first objective, we developed a strategy for obtaining ABC baskets carrying different aromatic sides and each with a particular amino acid (or peptide). We completed a series of computational studies to identify ABC baskets capable of trapping toxic molecules and drugs within baskets and are currently testing these molecules against the complexation of fentanyl. In line with the second objective, we completed mechanistic studies about understanding the interplay of conformational selection and induced fit occurring in abiotic systems. Both mechanistic alternatives can take place in molecular recognition events, depending on the experimental conditions. As for the third objective, we used dynamic imine chemistry for developing a series of novel and unique hexapodal hosts capable of selective recognition of anions. The unique characteristics of these concave molecules is their ability to trap anions based on the rate by which they access their inner space (kinetic selection). Following the same concept, we obtained a double-decker host capable of trapping nucleotides in water in an allosteric manner. We also examined the recognition of phosphates using NMR for developing chemosensors. Importantly, we used dynamic imine chemistry to obtain covalent basket cages (CBCs). First, we optimized their formation to occur in a dissipative manner. Second, these cages were chemically modified to be stable and soluble in water. They were shown to assemble into crystalline nanoparticles and trap up to four molecules of doxorubicin in their spacious cavity. Finally, we used dynamic trioxane chemistry for incorporating acenes into capsular nanotubes  capsularenes for constructing more robust molecular electronic devices.   Graduate students Michael Gunter (PhD, graduated), Han Xie (PhD, graduated), Tyler Finnegan (male), Taylor Neal (PhD, graduated), Vageesha Liyana Gunawardana (PhD, graduated), Tai Bowling-Charles (female) and Radoslav Pavlovic (PhD graduated) had an opportunity to complete research projected supported by NSF here at the OSU. These students had a full access to all facilities for (a) completing chemical synthesis and characterization of hosts, (b) studying molecular recognition and encapsulation, (c) reviewing the current literature and (d) writing scientific publications. We also collaborated with research groups led by Christopher Waudby (University College, London), Pavel Anzenbacher (Bowling Green University), Ramesh Jasti (Oregon State), Laura M. Wysocki (Wabash College), Heather Allan (OSU), Christopher M. Hadad (OSU), Amanda Hummon (OSU) and Christo Sevov (OSU) so students had an opportunity to communicate with other research teams on solving scientific problems. With all students, I have had in-depth conversations about: (a) the amount of research independence they need to develop, (b) interaction with coworkers, (c) productivity and the importance of scientific publications, (d) work habits and laboratory safety, and (e) documentation of research methodologies and experimental details so that the work can be continued by other researchers in the future and (f) the importance of recognizing diversity in laboratory work and research (we have weekly meeting about diversity led by graduate student Vageesha Gunawardana). I monitored the research progress of my co-workers through weekly group meetings (all year long) and by requesting research reports.Currently, Michael Gunter is at DNA Technologies in Coralville Iowa, Han Xie is at the Scripps Research Institute, Taylor Neal is at Proctor & Gamble (Cincinnati), Vageesha Liyana Gunawardana is at DuPont Chemicals (Massachusetts) and Radoslav Pavlovic is postdoc at the Northwestern University.   The work has been disseminated both domestically and internationally via invited talks and posters.    In conclusion, our work contributes to the ongoing efforts focused on developing better ways for selective and safe removal of toxic drugs and pollutants from living systems. In particular, our fundamental studies (a) describe ways for building novel receptors complementary to a variety of toxic molecules and (b) reveal mechanisms by which these molecules are captured.     Last Modified: 11/08/2023       Submitted by: JovicaBadjic]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

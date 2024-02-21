@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Bayesian and Semi-Bayesian Methods for Detecting Relationships in High Dimensions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>120000.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this big-data era, massive data sets are being generated routinely and we are seeing a growing need for powerful, reliable, and interpretable statistical learning tools to help understand these data.  The main ideas and approaches in this projectl focus on developing effective statistical learning tools to learn about complex and heterogeneous structures, such as those changing in time or varying among different groups of individuals, in high-dimensions. The activities will have a significant impact on high dimensional Bayesian analysis and modeling of nonlinear relationships. While most current efforts for high-dimensional Bayesian analyses have been focused on linear models, this project focuses on two ways of generalizing standard linear models to meet certain practical challenges: one is a generalized form of mixture modeling, termed as individualized variable selection, which enables each individual observation to have its own set of dependent variables through the employment of neuronized priors. Another extension is the Bayesian inference of index models that form a mixture structure. The project will lead to useful tools (or customized software) for discovering interpretable nonlinear and interactive patterns among a large number of potential variables. Various aspects of statistical modeling, design, and learning strategies integrated in our algorithms are  broadly applicable to problems involving  signal discovery in complex systems and high-dimensional data.  The project will also provide both educational and interdisciplinary research opportunities for graduate students, and will result in software useful to biomedical researchers, economists, social scientists, and many other practitioners. &lt;br/&gt;&lt;br/&gt;In a vast number of regression problems, especially under high-dimensional settings, the structure of the association between covariates in hand and the target quantity of interest might be heterogeneous over observations, which calls for effective methods to detect such non-trivial structures. Standard procedures, including traditional variable selections, commonly overlook the existence of interplays of these heterogeneous factors. This research project aims to develop statistical procedures that identify the complicated relationship between response Y and a set of covariates X in flexible and computationally efficient ways.  Project 1 focuses on Bayesian individualized variable selection (BIVS), which generalizes standard linear regression models to quantify  heterogeneous effects among individual observations that differ in their  dependent variables with different magnitudes. The PIs will investigate its theoretical properties, including model selection consistency and its robustness when the model assumption is violated. Project 2 is devoted to the development of an efficient Bayesian method to infer the semi-parametric relationship between the response and covariates through general index models. The PIs will explore its computational feasibility and theoretical properties such as the posterior contraction rate on the estimation of the sufficient dimension reduction space. Project 3 focuses on a fast tuning parameter selection procedure by employing a generative process via neural networks. By using this procedure,  the cross-validation can be efficiently implemented for general models, such as the BIVS and Bayesian index models,  regularized variable selection, and nonparametric function estimation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015411</AwardID>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jliu@stat.harvard.edu]]></EmailAddress>
+<NSF_ID>000193769</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE STE 3</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021382901</ZipCode>
+<StreetAddress><![CDATA[1 Oxford St, 715 Science Center]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~120000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As massive data are being generated routinely these days, we expect to see growing&nbsp;need of powerful and reliable statistical learning tools to discover patterns in these data.&nbsp;In the same time, as we have witnessed in the past decade, neural-network-based over-parameterized large models (including large-language models) are becoming more and more powerful and dominating.&nbsp; These developments all point to some fundamental questions: what are the roles of statistical models and statistical thinking, and how to quantify uncertainties in the prediction and inference results under these complex systems? Also, how reliable and powerful are these complex DNN-based methods in high-noise settings? We feel that Bayesian thinking is a right principle in sorting out these issues.</p> <p>The proposal focuses on the development of systematic and practical tools, based on the principled Bayesian thinking, for&nbsp;discovering/modeling nonlinear relationships and quantifying uncertainties, which are important steps and tasks in many scientific areas. We start with high-dimensional linear models, developing practical Bayesian solutions to the selection of variables or group of variables. We then gradually build up complexities by allowing one to conveniently test out different priors simultaneously. Our application of the methodology on polygenic risk predictions have shown significant and uniform improvements over existing approaches, as shown in the first figure. Our new heteroscedastic Gaussian process model provides us a nice estimation of the calibration curve, with proper uncertainty quantification represented by the confidence band, to infer sea surface temperature of ancient times. The work has been presented at the main conference of t<span>he American Geophysical Union</span>, AGU 2022.<a class="gsc_oci_title_link" href="https://academic.oup.com/bioinformatics/article-abstract/38/7/1938/6502278"></a></p> <p>&nbsp;</p><br> <p>  Last Modified: 12/12/2023<br> Modified by: Jun&nbsp;Liu</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2015411/2015411_10692456_1702420920067_new_result1210--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2015411/2015411_10692456_1702420920067_new_result1210--rgov-800width.jpg" title="Comparison of prediction accuracy among NeuPred and other twelve methods"><img src="/por/images/Reports/POR/2023/2015411/2015411_10692456_1702420920067_new_result1210--rgov-66x44.jpg" alt="Comparison of prediction accuracy among NeuPred and other twelve methods"></a> <div class="imageCaptionContainer"> <div class="imageCaption">pmb{a}, Predictive R2 on four diseases (CD, CEL, RA, and T2D) with large-scale GWAS studies.  The AUC was evaluated based on independent test datasets. (b) Predictive R2 for the four diseases (ATH, HT, BMI, and HGT) with GWAS studies from UKBB. The AUC was evaluated based on independent test data.</div> <div class="imageCredit">Shuang Song</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jun&nbsp;Liu <div class="imageTitle">Comparison of prediction accuracy among NeuPred and other twelve methods</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2015411/2015411_10692456_1702420388685_figure_3_1_5--rgov-214x142.png" original="/por/images/Reports/POR/2023/2015411/2015411_10692456_1702420388685_figure_3_1_5--rgov-800width.png" title="Sea surface temperature calibration"><img src="/por/images/Reports/POR/2023/2015411/2015411_10692456_1702420388685_figure_3_1_5--rgov-66x44.png" alt="Sea surface temperature calibration"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The calibration model for UK37 based on Heteroscedastic Gaussian Processes. The shaded region is the 95% confidence band of the calibration model, and the black curve is medians of the posterior predictive distribution of the underlying hidden function.</div> <div class="imageCredit">Taehee Lee</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jun&nbsp;Liu <div class="imageTitle">Sea surface temperature calibration</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  As massive data are being generated routinely these days, we expect to see growingneed of powerful and reliable statistical learning tools to discover patterns in these data.In the same time, as we have witnessed in the past decade, neural-network-based over-parameterized large models (including large-language models) are becoming more and more powerful and dominating. These developments all point to some fundamental questions: what are the roles of statistical models and statistical thinking, and how to quantify uncertainties in the prediction and inference results under these complex systems? Also, how reliable and powerful are these complex DNN-based methods in high-noise settings? We feel that Bayesian thinking is a right principle in sorting out these issues.   The proposal focuses on the development of systematic and practical tools, based on the principled Bayesian thinking, fordiscovering/modeling nonlinear relationships and quantifying uncertainties, which are important steps and tasks in many scientific areas. We start with high-dimensional linear models, developing practical Bayesian solutions to the selection of variables or group of variables. We then gradually build up complexities by allowing one to conveniently test out different priors simultaneously. Our application of the methodology on polygenic risk predictions have shown significant and uniform improvements over existing approaches, as shown in the first figure. Our new heteroscedastic Gaussian process model provides us a nice estimation of the calibration curve, with proper uncertainty quantification represented by the confidence band, to infer sea surface temperature of ancient times. The work has been presented at the main conference of the American Geophysical Union, AGU 2022.        Last Modified: 12/12/2023       Submitted by: JunLiu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

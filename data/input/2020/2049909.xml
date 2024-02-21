@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research in Economics: The Heterogeneous Effects of Student Loans]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;Over the past 15 years, outstanding student debt in the U.S. has increased more than fivefold. This rise in student debt has led to intense political debate and a wide variety of proposed solutions, from universal free college to targeted need-based reforms. This project will examine the role of student loans in occupational choice, using novel hand-collected data on labor market outcomes by focusing on the effect of financial aid programs called Loan Reduction Programs. The project will further explore mechanisms to understand how Loan Reduction Programs affects occupational choices and how these choices differ across the distribution of family wealth. The outcomes of the proposal will have important implications for designing student loan policies.&lt;br/&gt;&lt;br/&gt;There is an emerging debate on student loans. While estimates for the average student can serve as an argument to increase financial aid overall, such estimates do not address the more complex and pressing problem of how best to allocate financial aid. To design better allocation policies, it is important to explore who is constrained by student debt. The project will use staggered implementation of Loan Reduction Policies across 88 universities from 1998 to 2019 as an instrument for changes in student debt. The research will analyze whether the effect of student debt on labor outcomes differs across the student population in relation to certain demographic characteristics. The project, for example, will examine whether students from low-income families are more constrained in their labor choices, and whether these students are more likely to choose occupations that require additional human capital accumulation when they receive more financial aid.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049909</AwardID>
+<Investigator>
+<FirstName>Menaka</FirstName>
+<LastName>Hampole</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Menaka V Hampole</PI_FULL_NAME>
+<EmailAddress><![CDATA[menaka.hampole@kellogg.northwestern.edu]]></EmailAddress>
+<NSF_ID>000819581</NSF_ID>
+<StartDate>07/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Janice</FirstName>
+<LastName>Eberly</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Janice Eberly</PI_FULL_NAME>
+<EmailAddress><![CDATA[eberly@northwestern.edu]]></EmailAddress>
+<NSF_ID>000833269</NSF_ID>
+<StartDate>07/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080834</ZipCode>
+<StreetAddress><![CDATA[JACOBS CTR 2001 Sheridan Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~25000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Over the past 15 years, outstanding student debt in the U.S.~has increased more than fivefold. This rise in student debt has led to an intense political debate, and while a nascent academic literature has studied the effect of student debt for the \textit{average} student, to design better allocation policies we need to ask: Who is constrained by student debt?</p> <p>To estimate the heterogeneous effects of student debt, I am building a novel panel data set covering more than one million students, combining individual labor outcomes with credit bureau records for both the student and his/her parents. As the empirical design, I am exploiting the staggered implementation of No Loan Policies from 1998 to 2018.</p> <p>In the first part of the paper, I document two stylized facts. The first is that, when choosing their college major, students trade off initial earnings against lifetime earnings. I demonstrate this as follows. Using publicly available data from the ACS, I residualize annual earnings for observable characteristics in order to construct earnings characteristics of college majors. I focus on four characteristics of each major: initial earnings out of college, average lifetime earnings, dispersion in earnings, and earnings growth evaluated at age 22. I observe that majors associated with high lifetime earnings (such as biology, the physical sciences, and the social sciences) have low initial earnings, while majors associated with high initial earnings (such as education, communication, and nursing) have low lifetime earnings.</p> <p>Second, I document that students' major choices (and the associated trade-off between initial and lifetime earnings) are related to their families' socioeconomic status. On average, students from low-income, low-credit score families choose majors with higher initial wages but lower earnings growth, than students from high-income, high credit-score families. This heterogeneity in choice of wage profiles could be explained by several factors, including differences in college preparedness or differential exposure to specific types of majors and occupations. Therefore, to further understand the impact of financial frictions on major choice, I next turn to a causal framework.</p> <p>In the main part of the analysis, I estimate the causal impact of student loans on college major choice. I do this by exploiting the staggered implementation of a specific type of financial aid policy called a universal no loan policies (UNLP), which was adopted by 22 universities in the U.S. between 2001 and 2019. Pre-policy, the difference between how much a household can pay (effective family contribution) and cost of attending the university was financed with a combination of student loans and grants. When the policy was phased in, the difference between the cost of attending the university and the effective family contribution was replaced with expanded no-strings-attached grants. In the analysis, I follow a two-pronged approach. First, I exploit the staggered implementation of the policies within the sample of schools that eventually implemented the policy, across cohorts that were already enrolled at the time of the implementation to conduct a two-way fixed effect analysis. I only include students already enrolled at the time of the policy to mitigate selection bias due to the policy implementation. Second, I use a difference-in-difference strategy to compare students attending treated schools to a set of control schools that fall within the top 50 schools from US News, but which did not implement a UNLP during my sample period.</p> <p>I find that post-policy students are more likely to choose majors that are characterized by low initial earnings out of college but higher lifetime earnings. Specifically I find that students shift out of majors like English and Education and move into majors like Biology, Economics, and Political Science. The strongest effects I observe are for students that have grown up in a household that is below-median income or with parents that have below-median credit scores. These results suggest that financial constraints play a role in major choice.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/21/2023<br> Modified by: Menaka&nbsp;V&nbsp;Hampole</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Over the past 15 years, outstanding student debt in the U.S.~has increased more than fivefold. This rise in student debt has led to an intense political debate, and while a nascent academic literature has studied the effect of student debt for the \textit{average} student, to design better allocation policies we need to ask: Who is constrained by student debt?   To estimate the heterogeneous effects of student debt, I am building a novel panel data set covering more than one million students, combining individual labor outcomes with credit bureau records for both the student and his/her parents. As the empirical design, I am exploiting the staggered implementation of No Loan Policies from 1998 to 2018.   In the first part of the paper, I document two stylized facts. The first is that, when choosing their college major, students trade off initial earnings against lifetime earnings. I demonstrate this as follows. Using publicly available data from the ACS, I residualize annual earnings for observable characteristics in order to construct earnings characteristics of college majors. I focus on four characteristics of each major: initial earnings out of college, average lifetime earnings, dispersion in earnings, and earnings growth evaluated at age 22. I observe that majors associated with high lifetime earnings (such as biology, the physical sciences, and the social sciences) have low initial earnings, while majors associated with high initial earnings (such as education, communication, and nursing) have low lifetime earnings.   Second, I document that students' major choices (and the associated trade-off between initial and lifetime earnings) are related to their families' socioeconomic status. On average, students from low-income, low-credit score families choose majors with higher initial wages but lower earnings growth, than students from high-income, high credit-score families. This heterogeneity in choice of wage profiles could be explained by several factors, including differences in college preparedness or differential exposure to specific types of majors and occupations. Therefore, to further understand the impact of financial frictions on major choice, I next turn to a causal framework.   In the main part of the analysis, I estimate the causal impact of student loans on college major choice. I do this by exploiting the staggered implementation of a specific type of financial aid policy called a universal no loan policies (UNLP), which was adopted by 22 universities in the U.S. between 2001 and 2019. Pre-policy, the difference between how much a household can pay (effective family contribution) and cost of attending the university was financed with a combination of student loans and grants. When the policy was phased in, the difference between the cost of attending the university and the effective family contribution was replaced with expanded no-strings-attached grants. In the analysis, I follow a two-pronged approach. First, I exploit the staggered implementation of the policies within the sample of schools that eventually implemented the policy, across cohorts that were already enrolled at the time of the implementation to conduct a two-way fixed effect analysis. I only include students already enrolled at the time of the policy to mitigate selection bias due to the policy implementation. Second, I use a difference-in-difference strategy to compare students attending treated schools to a set of control schools that fall within the top 50 schools from US News, but which did not implement a UNLP during my sample period.   I find that post-policy students are more likely to choose majors that are characterized by low initial earnings out of college but higher lifetime earnings. Specifically I find that students shift out of majors like English and Education and move into majors like Biology, Economics, and Political Science. The strongest effects I observe are for students that have grown up in a household that is below-median income or with parents that have below-median credit scores. These results suggest that financial constraints play a role in major choice.        Last Modified: 12/21/2023       Submitted by: MenakaVHampole]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

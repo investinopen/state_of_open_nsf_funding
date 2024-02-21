@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[TCU CI Planning Workshop Series]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>99965.00</AwardTotalIntnAmount>
+<AwardAmount>99965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jody Chase</SignBlockName>
+<PO_EMAI>lchase@nsf.gov</PO_EMAI>
+<PO_PHON>7032925173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A goal of the Tribal Colleges and Universities Program (TCUP) is to increase the science, technology, engineering and mathematics (STEM) instructional and research capacities of specific institutions of higher education that serve the Nation's indigenous students. Expanding the research capacity at these institutions expands the opportunities for students to pursue challenging, rewarding careers in STEM fields, provides for research studies in areas that may be locally relevant, and encourages a faculty community to look beyond the traditional classroom for intellectual and professional growth. This project aligns directly with that goal, and moreover will increase the efficacy of partnerships between TCUP institutions and their mainstream university or private sector partners.&lt;br/&gt;&lt;br/&gt;The American Indian Higher Education Consortium (AIHEC) will organize and convene a group of TCU STEM and Information Technology Staff to develop and incorporate cyberinfrastructure (CI) planning into institutional planning processes.  The project will recruit, train, and support TCU faculty, IT professionals, and administrators in CI planning efforts to support growth in STEM fields. The team will work with TCUs to participate in planning workshop activities, which includes evaluating STEM plans and CI needs, linking TCU teams with subject matter experts, and facilitating the development of CI strategic plans from participating TCUs. The project will help TCUs identify potential sources of funding and assist in the development of competitive proposals.  The aim is to foster the collaboration and planning needed to support and strengthen TCU STEM research and education programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/27/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041815</AwardID>
+<Investigator>
+<FirstName>Algirdas</FirstName>
+<LastName>Kuslikis</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Algirdas S Kuslikis</PI_FULL_NAME>
+<EmailAddress><![CDATA[akuslikis@aihec.org]]></EmailAddress>
+<NSF_ID>000329454</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate>05/11/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carrie</FirstName>
+<LastName>Billy</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carrie L Billy</PI_FULL_NAME>
+<EmailAddress><![CDATA[cbilly@aihec.org]]></EmailAddress>
+<NSF_ID>000422727</NSF_ID>
+<StartDate>05/11/2022</StartDate>
+<EndDate>10/27/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Bottum</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James R Bottum</PI_FULL_NAME>
+<EmailAddress><![CDATA[jb@clemson.edu]]></EmailAddress>
+<NSF_ID>000151698</NSF_ID>
+<StartDate>05/11/2022</StartDate>
+<EndDate>03/22/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gwendolyn</FirstName>
+<LastName>Huntoon</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gwendolyn L Huntoon</PI_FULL_NAME>
+<EmailAddress><![CDATA[ghuntoon@aihec.org]]></EmailAddress>
+<NSF_ID>000937352</NSF_ID>
+<StartDate>10/27/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Indian Higher Education Consortium</Name>
+<CityName>ALEXANDRIA</CityName>
+<ZipCode>223142015</ZipCode>
+<PhoneNumber>7038380400</PhoneNumber>
+<StreetAddress>121 ORONOCO ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGTJJJPLRT11</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN INDIAN HIGHER EDUCATION CONSORTIUM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EGTJJJPLRT11</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Indian Higher Education Consortium]]></Name>
+<CityName>Alexandria</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>223142015</ZipCode>
+<StreetAddress><![CDATA[121 Oronoco St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152Y</Code>
+<Text>Accelerating Discovery in Ed</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99965</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Due to travel restrictions from the COVID-19 pandemic, the AIHEC Cyberinfrastructure (CI) Team conducted a virtual CI Strategic Planning Workshop in October 2020 for Tribal College and University (TCU) presidents, IT directors, Chief Information Officers (CIOs), and other campus technology stakeholders to introduce them to a CI strategic planning process. Over the course of the next two years, the Presidents of 22 of the 35 accredited TCUs expressed their campuses&rsquo; interest to use strategic planning to more align their cyberinfrastructure resources to better support the academic, research, business, and service missions of their campus. During the TCU CI Strategic Planning Workshop, the AIHEC CI Team walked the interested Presidents through the process of identifying individuals on their campuses best suited to engage in the effort (not only the IT staff, but a holistic cross-section of campus CI stakeholders). At the completion of the initial 2020 workshop, a virtual planning workspace was set up for all interested TCUs in an AIHEC-provided Google Drive. Two TCU beta testers from among the interested TCUs were asked to volunteer to assist the AIHEC CI Team in developing and customizing the planning tool-set required for the effort. Since the effort to develop the planning process for all the TCUs took approximately 8 months, and the AIHEC CI Team only had the workload bandwidth to work with four TCUs at a time, there was a continued series of communication and outreach efforts to the 22 interested TCUs to update them on the process and timing, especially for those TCUs that would be engaged in the initial stages of the effort as the first cohort.</p> <p>&nbsp;To date, a total of 22 TCUs have agreed to participate in CI Strategic Planning efforts with support from the AIHEC CI Team and subject matter experts recommended by AIHEC. Based on these engagements, the AIHEC CI Team expects a number of TCUs will complete planning activities that inform decision-making regarding campus technology system upgrades and acquisitions that will have a strong positive impact on the quality of their ability to deliver academic, research, and support service programs. Due to the immense undertaking required to shift the CI-management paradigm of some of the TCUs from a support role to a foundational role of their campuses&rsquo; research and academic missions, the AIHEC CI Team and consultants aspire to complete a cohort of four TCUs every academic year. With funding from recent award #2334701 from NSF CC* program in September 2023, the AIHEC CI Team intends over the next 5 years to continue to engage all of the 22 TCUs who expressed interest in CI strategic planning at the initial TCU CI Planning Workshop in 2020.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/05/2024<br> Modified by: Gwendolyn&nbsp;L&nbsp;Huntoon</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Due to travel restrictions from the COVID-19 pandemic, the AIHEC Cyberinfrastructure (CI) Team conducted a virtual CI Strategic Planning Workshop in October 2020 for Tribal College and University (TCU) presidents, IT directors, Chief Information Officers (CIOs), and other campus technology stakeholders to introduce them to a CI strategic planning process. Over the course of the next two years, the Presidents of 22 of the 35 accredited TCUs expressed their campuses interest to use strategic planning to more align their cyberinfrastructure resources to better support the academic, research, business, and service missions of their campus. During the TCU CI Strategic Planning Workshop, the AIHEC CI Team walked the interested Presidents through the process of identifying individuals on their campuses best suited to engage in the effort (not only the IT staff, but a holistic cross-section of campus CI stakeholders). At the completion of the initial 2020 workshop, a virtual planning workspace was set up for all interested TCUs in an AIHEC-provided Google Drive. Two TCU beta testers from among the interested TCUs were asked to volunteer to assist the AIHEC CI Team in developing and customizing the planning tool-set required for the effort. Since the effort to develop the planning process for all the TCUs took approximately 8 months, and the AIHEC CI Team only had the workload bandwidth to work with four TCUs at a time, there was a continued series of communication and outreach efforts to the 22 interested TCUs to update them on the process and timing, especially for those TCUs that would be engaged in the initial stages of the effort as the first cohort.   To date, a total of 22 TCUs have agreed to participate in CI Strategic Planning efforts with support from the AIHEC CI Team and subject matter experts recommended by AIHEC. Based on these engagements, the AIHEC CI Team expects a number of TCUs will complete planning activities that inform decision-making regarding campus technology system upgrades and acquisitions that will have a strong positive impact on the quality of their ability to deliver academic, research, and support service programs. Due to the immense undertaking required to shift the CI-management paradigm of some of the TCUs from a support role to a foundational role of their campuses research and academic missions, the AIHEC CI Team and consultants aspire to complete a cohort of four TCUs every academic year. With funding from recent award #2334701 from NSF CC* program in September 2023, the AIHEC CI Team intends over the next 5 years to continue to engage all of the 22 TCUs who expressed interest in CI strategic planning at the initial TCU CI Planning Workshop in 2020.        Last Modified: 01/05/2024       Submitted by: GwendolynLHuntoon]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

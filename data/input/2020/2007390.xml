@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Physics and Applications of Lyman-Alpha Emission of Star-forming Galaxies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>431461.00</AwardTotalIntnAmount>
+<AwardAmount>431461</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sarah Higdon</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Observations of Lyman-alpha emitting galaxies (LAEs) provide clues to the formation and evolution of star forming galaxies, and the large-scale structure of the Universe. Zheng and Cen will simulate the Lyman-alpha emission for hundreds of simulated galaxies. This work will establish a theoretical framework for interpreting LAE observations. The team is actively engaged in public outreach. Cen participates in a program at the Rose-Hayden Planetarium of the American Museum of Natural History in New York City. Zheng will work with the Refugees Exploring the Foundations of Under Graduate Education in Science program at the University of Utah. The program serves under-represented middle and high school students through hands-on science workshops and activities designed to prepare the students for college.&lt;br/&gt;&lt;br/&gt;Zheng and Cen will employ a high-resolution cosmological hydrodynamic galaxy formation simulation combined with an efficient Monte Carlo Lyman-alpha radiative transfer code to investigate Lyman-alpha emission properties of LAEs and the clustering of LAEs. Observational astronomers will use this theoretical framework to interpret Lyman-alpha emission from circumgalactic and intergalactic media, investigate the role of LAEs during the epoch of reionization, and test the use of LAEs to map large scale structure. The simulated data will also be used to refine LAE detection algorithms, evaluate systematic uncertainties in on-going and future LAE surveys, and provide simulated data to test survey analysis pipelines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007390</AwardID>
+<Investigator>
+<FirstName>Renyue</FirstName>
+<LastName>Cen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Renyue Cen</PI_FULL_NAME>
+<EmailAddress><![CDATA[cen@astro.princeton.edu]]></EmailAddress>
+<NSF_ID>000195745</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085441001</ZipCode>
+<StreetAddress><![CDATA[4 Ivy Lane, Peyton]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~431461</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In the period of 08/01/2022 to 07/31/2023 the following significant scientific results are accomplished.<br />The interstellar medium of Lyman alpha emitting galaxies are likely in very porous state, allowing Lyman alpha photonsto escape. One of the most important dynamical player in regulating the interstellar medium is the feedback processes due tosupernovae. Thus, properly modeling supernova feedback in cosmological simulations has becomes a major focus. We build an SN feedback model based on high-resolution simulations of superbubble and SN-driven outflows for the physical understanding of the galaxy-CGM connection. Using an Eulerian hydrodynamic code Athena++, we find universal scaling relations for the time evolution of superbubble momentum, when the momentum and time are scaled by those at the shell-formation time. We then develop an SN feedback model utilizing Voronoi tessellation, and implement it into a hydrodynamic code. We show that our stochastic thermal feedback model produces galactic outflow that carries the metals high above the galactic plane but with weak suppression of star formation. Additional mechanical feedback further suppresses star formation. Therefore, we argue that both thermal and mechanical feedback is necessary for the SN feedback model of galaxy evolution when an individual SN bubble is unresolved. This work was published in the Astrophysical Journal Supplements (Oku et al. 2022).<br />How galaxies are fed, including massive galaxies and low mass Lyman alpha emitting galaxies, remains unclear observationally.Simulations have shown that recycling of gas&mdash;the reaccretion of gas that was previously ejected from a galaxy&mdash;could sustain star formation in the early Universe. We observe the gas surrounding a massive galaxy at redshift 2.3 and detect emission lines from neutral hydrogen, helium, and ionized carbon that extend 100 kiloparsecs from the galaxy. The kinematics of this circumgalactic gas is consistent with an inspiraling stream. The carbon abundance indicates that the gas had already been enriched with elements heavier than helium, previously ejected from a galaxy. We interpret the results as evidence of gas recycling during high-redshift galaxy assembly.This trail-blazing work was published in Science (Zhang et al. 2023).<br /><br />We present UV and Lyman alpha radial surface brightness (SB) profiles of Lyman alpha emitters (LAEs) at z = 2.84 detected with the Hyper Suprime-Cam on the Subaru Telescope. The depth of our data, together with the wide-field coverage including a protocluster, enable us to study the dependence of Lyman alpha halos (LAHs) on various galaxy properties, including Mpc scale environments. UV and Lyman alpha images of 3490 LAEs are extracted, and stacking the images yields SB sensitivity of&nbsp; 1e-20 erg/s/cm2/arcsec2 in Lyman alpha, reaching the expected level of optically thick gas illuminated by the UV background at z ~ 3. Fitting of the two-component exponential function gives the scale-lengths of 1.56 &plusmn; 0.01 and 10.4 &plusmn; 0.3 pkpc. Dividing the sample according to their photometric properties, we find that, while the dependence of halo scale-length on environment outside of the protocluster core is not clear, LAEs in the central regions of protoclusters appear to have very large LAHs, which could be caused by combined effects of source overlapping and diffuse Lyman alpha emission from cool intergalactic gas permeating the forming protocluster core irradiated by active members. For the first time, we identify UV halos around bright LAEs that are probably due to a few lower-mass satellite galaxies. Through comparison with recent numerical simulations, we conclude that, while scattered Lyman alpha photons from the host galaxies are dominant, star formation in satellites evidently contributes to LAHs, and that fluorescent Lyman alpha emission may be boosted within protocluster cores at cosmic noon and/or near bright QSOs. This work was published in the Astrophysical Journal (Kikuta et al. 2023).<br /><br />Lyman alpha emitting galaxies sit at the intersections of cosmic web filaments, making up the Lyman alpha forest at moderate redshiftz=2-4. Thus, understanding the Lyman emission from the Lyman alpha forest is known to be a key goal but has remained very difficultdue to the low surface brightness and extended, diffuse distribution. Thus, direct detection of an emission equivalent to the absorption Lyman alpha forest has not been possible with existing instrumentation and observational approaches. Using a purpose-built instrument, with nod-and-shuffle and dual-field subtraction, we have detected an emission Lyman-&alpha; forest. The emission forest is highly extended, shows filamentary morphology with filaments connecting galaxies, exhibits statistics like the absorption Lyman-&alpha; forest, displays spectra resembling the absorption forest and is correlated with galaxy-traced overdensities consistent with bias like dark matter. We conclude that the emission Lyman-&alpha; forest may provide a new tool for tracing a substantial fraction of the cosmic web of baryons and dark matter. This work was published in Nature Astronomy (Martin et al. 2023).</p><br> <p>  Last Modified: 12/02/2023<br> Modified by: Renyue&nbsp;Cen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In the period of 08/01/2022 to 07/31/2023 the following significant scientific results are accomplished. The interstellar medium of Lyman alpha emitting galaxies are likely in very porous state, allowing Lyman alpha photonsto escape. One of the most important dynamical player in regulating the interstellar medium is the feedback processes due tosupernovae. Thus, properly modeling supernova feedback in cosmological simulations has becomes a major focus. We build an SN feedback model based on high-resolution simulations of superbubble and SN-driven outflows for the physical understanding of the galaxy-CGM connection. Using an Eulerian hydrodynamic code Athena++, we find universal scaling relations for the time evolution of superbubble momentum, when the momentum and time are scaled by those at the shell-formation time. We then develop an SN feedback model utilizing Voronoi tessellation, and implement it into a hydrodynamic code. We show that our stochastic thermal feedback model produces galactic outflow that carries the metals high above the galactic plane but with weak suppression of star formation. Additional mechanical feedback further suppresses star formation. Therefore, we argue that both thermal and mechanical feedback is necessary for the SN feedback model of galaxy evolution when an individual SN bubble is unresolved. This work was published in the Astrophysical Journal Supplements (Oku et al. 2022). How galaxies are fed, including massive galaxies and low mass Lyman alpha emitting galaxies, remains unclear observationally.Simulations have shown that recycling of gasthe reaccretion of gas that was previously ejected from a galaxycould sustain star formation in the early Universe. We observe the gas surrounding a massive galaxy at redshift 2.3 and detect emission lines from neutral hydrogen, helium, and ionized carbon that extend 100 kiloparsecs from the galaxy. The kinematics of this circumgalactic gas is consistent with an inspiraling stream. The carbon abundance indicates that the gas had already been enriched with elements heavier than helium, previously ejected from a galaxy. We interpret the results as evidence of gas recycling during high-redshift galaxy assembly.This trail-blazing work was published in Science (Zhang et al. 2023).  We present UV and Lyman alpha radial surface brightness (SB) profiles of Lyman alpha emitters (LAEs) at z = 2.84 detected with the Hyper Suprime-Cam on the Subaru Telescope. The depth of our data, together with the wide-field coverage including a protocluster, enable us to study the dependence of Lyman alpha halos (LAHs) on various galaxy properties, including Mpc scale environments. UV and Lyman alpha images of 3490 LAEs are extracted, and stacking the images yields SB sensitivity of 1e-20 erg/s/cm2/arcsec2 in Lyman alpha, reaching the expected level of optically thick gas illuminated by the UV background at z ~ 3. Fitting of the two-component exponential function gives the scale-lengths of 1.56  0.01 and 10.4  0.3 pkpc. Dividing the sample according to their photometric properties, we find that, while the dependence of halo scale-length on environment outside of the protocluster core is not clear, LAEs in the central regions of protoclusters appear to have very large LAHs, which could be caused by combined effects of source overlapping and diffuse Lyman alpha emission from cool intergalactic gas permeating the forming protocluster core irradiated by active members. For the first time, we identify UV halos around bright LAEs that are probably due to a few lower-mass satellite galaxies. Through comparison with recent numerical simulations, we conclude that, while scattered Lyman alpha photons from the host galaxies are dominant, star formation in satellites evidently contributes to LAHs, and that fluorescent Lyman alpha emission may be boosted within protocluster cores at cosmic noon and/or near bright QSOs. This work was published in the Astrophysical Journal (Kikuta et al. 2023).  Lyman alpha emitting galaxies sit at the intersections of cosmic web filaments, making up the Lyman alpha forest at moderate redshiftz=2-4. Thus, understanding the Lyman emission from the Lyman alpha forest is known to be a key goal but has remained very difficultdue to the low surface brightness and extended, diffuse distribution. Thus, direct detection of an emission equivalent to the absorption Lyman alpha forest has not been possible with existing instrumentation and observational approaches. Using a purpose-built instrument, with nod-and-shuffle and dual-field subtraction, we have detected an emission Lyman- forest. The emission forest is highly extended, shows filamentary morphology with filaments connecting galaxies, exhibits statistics like the absorption Lyman- forest, displays spectra resembling the absorption forest and is correlated with galaxy-traced overdensities consistent with bias like dark matter. We conclude that the emission Lyman- forest may provide a new tool for tracing a substantial fraction of the cosmic web of baryons and dark matter. This work was published in Nature Astronomy (Martin et al. 2023).     Last Modified: 12/02/2023       Submitted by: RenyueCen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

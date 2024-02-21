@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: A Hybrid Photo-Magnetic Field Generator for Assessment of Nanoscale Materials and Therapeutic Molecules]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>45000.00</AwardTotalIntnAmount>
+<AwardAmount>45000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a novel device for simultaneous optical and oscillating magnetic field irradiation of a target. This device has potential applications in broad areas of basic, translational, and clinical research as well as biomedical and pharmaceutical industrial applications, which involve the unique nanoplatform characterization and efficacy assessment of next generation small molecule drugs and biologics toward the development of novel therapeutic approaches. The success of this project will enable advanced therapies to induce ultimate combined tumor cell destruction. &lt;br/&gt;&lt;br/&gt;This I-Corps project advances translation of a photo-magnetic hybrid field-generating device for simultaneous optical and oscillating magnetic field irradiation of a target to address the synergistic effects of photothermal, magnetothermal, and photodynamic activations. Using this device, a multimodal comprehensive strategy called “hybrid photo-magnetic stimulation” that has been unexplored previously is implemented with various materials and biological systems. This device permits simultaneous optical and (low/high frequency) AC magnetic field exposure, and thereby generates cumulative or synergetic effects depending on the target’s composition and characteristics. This novel technology permits the use of a less intense AC magnetic field in combination with optical stimulation during the irradiation process, thus removing the safety concerns associated with the AC magnetic field-assisted therapies. Using this device, it has been observed that smart nanostructure-based photo-magnetic hybrid irradiation is a viable approach to remotely guide tumor cell destruction, which may be adopted in clinical management to treat aggressive cancers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040086</AwardID>
+<Investigator>
+<FirstName>Santaneel</FirstName>
+<LastName>Ghosh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santaneel Ghosh</PI_FULL_NAME>
+<EmailAddress><![CDATA[sghosh@semo.edu]]></EmailAddress>
+<NSF_ID>000538541</NSF_ID>
+<StartDate>12/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bonnie</FirstName>
+<LastName>Bachman</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bonnie J Bachman</PI_FULL_NAME>
+<EmailAddress><![CDATA[bjbachman@wisc.edu]]></EmailAddress>
+<NSF_ID>000552945</NSF_ID>
+<StartDate>12/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southeast Missouri State University</Name>
+<CityName>CAPE GIRARDEAU</CityName>
+<ZipCode>637014710</ZipCode>
+<PhoneNumber>5736512018</PhoneNumber>
+<StreetAddress>1 UNIVERSITY PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SLW1H99F22C3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHEAST MISSOURI STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QQNPZTD15D13</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southeast Missouri State University]]></Name>
+<CityName>Cape Girardeau</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>637014710</ZipCode>
+<StreetAddress><![CDATA[One University Plaza]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8616</Code>
+<Text>Instr Rsrch,Metro&amp;Std NanTech</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~45000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This I-Corps Teams project was an intensive effort to evaluate and learn about the processes of commercialization and market research for the novel photo-magnetic hybrid field-generating device. This novel device is indispensable to extracting Specific Power Loss (SLP) properties of hybrid (optical and magnetically responsive) material systems, and to provide an ultimate combined tumor cell destruction approach by coupling Magnetic Hyperthermia (MHT), Photothermal Therapy (PTT), and Photodynamic Therapy (PDT). Potential customers were interviewed (293 over the project period) with target groups within the biomedical and pharmaceutical industries, including pharmaceutical formulation scientists and group leaders, materials scientists and engineers, researchers in academic research laboratories and managers, and clinical anatomists at hospitals and medical research facilities.</p> <p>This project provided an opportunity to participate in the Kickoff and the Lessons Learned workshops hosted by the New England Regional Innovation Node (NERIN), and prepared to participate in many other high-impact events, for example &ndash; Engineering Innovation Leadership Council National Workshop, National Academy of Inventors Annual Conference and Tech-show, NSF SBIR Interactive Workshop, etc.&nbsp; The project also provides support for site visits (whenever possible in person, otherwise virtual) to conduct customer interviews, resource identification, and strategic partnership development. Taken together, all of these play a crucial role from the laboratory to market transition. The activities and the market and customer research are being utilized as an exemplary training program for the graduate and undergraduate students, including female and minority students who are involved in the prototype development. This will lead to future workforce development and may initiate entrepreneurial endeavors in the STEM areas for the involved students, who will be at the forefront of the technological innovation nationwide in the near future.</p> <p>The success of this project will enable the technology transfer of the innovative coupled Magnetic Hyperthermia, Photothermal Therapy, and Photodynamic Therapy schemes and likely revolutionize the hyperthermia strategy to induce ultimate combined tumor cell destruction. This device carries the potential to assess the efficacy of various chemotherapeutics and combination drugs in presence of the infection-preventing agents, which, especially in the middle of an ongoing pandemic (or in future situations like this) will be of huge significance.</p> <p>&nbsp;</p><br> <p>  Last Modified: 01/29/2024<br> Modified by: Santaneel&nbsp;Ghosh</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This I-Corps Teams project was an intensive effort to evaluate and learn about the processes of commercialization and market research for the novel photo-magnetic hybrid field-generating device. This novel device is indispensable to extracting Specific Power Loss (SLP) properties of hybrid (optical and magnetically responsive) material systems, and to provide an ultimate combined tumor cell destruction approach by coupling Magnetic Hyperthermia (MHT), Photothermal Therapy (PTT), and Photodynamic Therapy (PDT). Potential customers were interviewed (293 over the project period) with target groups within the biomedical and pharmaceutical industries, including pharmaceutical formulation scientists and group leaders, materials scientists and engineers, researchers in academic research laboratories and managers, and clinical anatomists at hospitals and medical research facilities.   This project provided an opportunity to participate in the Kickoff and the Lessons Learned workshops hosted by the New England Regional Innovation Node (NERIN), and prepared to participate in many other high-impact events, for example  Engineering Innovation Leadership Council National Workshop, National Academy of Inventors Annual Conference and Tech-show, NSF SBIR Interactive Workshop, etc. The project also provides support for site visits (whenever possible in person, otherwise virtual) to conduct customer interviews, resource identification, and strategic partnership development. Taken together, all of these play a crucial role from the laboratory to market transition. The activities and the market and customer research are being utilized as an exemplary training program for the graduate and undergraduate students, including female and minority students who are involved in the prototype development. This will lead to future workforce development and may initiate entrepreneurial endeavors in the STEM areas for the involved students, who will be at the forefront of the technological innovation nationwide in the near future.   The success of this project will enable the technology transfer of the innovative coupled Magnetic Hyperthermia, Photothermal Therapy, and Photodynamic Therapy schemes and likely revolutionize the hyperthermia strategy to induce ultimate combined tumor cell destruction. This device carries the potential to assess the efficacy of various chemotherapeutics and combination drugs in presence of the infection-preventing agents, which, especially in the middle of an ongoing pandemic (or in future situations like this) will be of huge significance.        Last Modified: 01/29/2024       Submitted by: SantaneelGhosh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

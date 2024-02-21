@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of an Inductively Coupled Plasma Triple Quadrupole mass Spectrometer Instrument for Southeast Louisiana]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>326141.00</AwardTotalIntnAmount>
+<AwardAmount>326141</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Carter</SignBlockName>
+<PO_EMAI>krcarter@nsf.gov</PO_EMAI>
+<PO_PHON>7032922335</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. The University of New Orleans is acquiring an inductively coupled, triple quadrupole, mass spectrometer (ICP-triple Q-MS) with laser ablation capabilities to support the research programs of Professor Phoebe Zito and colleagues Matthew Tarr, David Podgorski, Viktor Poltavets and Robert Mahon. In general, mass spectrometry (MS) is one of the key analytical methods used to identify and characterize small quantities of chemical species in complex samples. An ICP-MS combines a high-temperature and an ionization coupled plasma source with a mass spectrometer. The ICP source converts the atoms of the elements in the sample to ions. These ions are subsequently separated and detected by the mass spectrometer. This is a highly-sensitive analytical technique capable of measuring very low concentrations of metals and non-metals in liquid samples. The acquisition strengthens the research infrastructure at the university and regional area. The instrument broadens participation by involving diverse students with this modern analytical technique. It is also used in outreach activities involving students and faculty from Louisiana State University, Southeastern Louisiana University, the Louisiana Universities Marine Consortium, the University of Alaska-Anchorage, Southwest Engineers and other area institutions.&lt;br/&gt;&lt;br/&gt;The award of the mass spectrometer is aimed at enhancing research and education at all levels. It especially impacts the identification of isotopic compositions to improve the geologic record and the analyzes of clay sources for pottery in the archaeology field. The instrumentation is also used for detecting synergistic effects of nanoparticles in the environment and for identifying metals and their concentrations from natural and human impacted aquatic and terrestrial ecosystems. In addition, it contributes to the determination of calcium rich deposits in fishes, shelled invertebrates, and coralline algae and the measurement of contaminants in fishes, and organisms at the base of food webs with trace elements such as arsenic and cadmium. The mass spectrometer is also used to search for innovative approaches and alternatives for renewable/rechargeable batteries with industrial partners. The ICP spectrometer is also employed for analyses of trace elements bound to organic matter and other petroleum complexes altering toxicity, biotic and abiotic reactivity, and contamination in aquatic water bodies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018417</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Tarr</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew A Tarr</PI_FULL_NAME>
+<EmailAddress><![CDATA[mtarr@uno.edu]]></EmailAddress>
+<NSF_ID>000266132</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Podgorski</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David C Podgorski</PI_FULL_NAME>
+<EmailAddress><![CDATA[dcpodgor@uno.edu]]></EmailAddress>
+<NSF_ID>000548997</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Viktor</FirstName>
+<LastName>Poltavets</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viktor V Poltavets</PI_FULL_NAME>
+<EmailAddress><![CDATA[vpoltave@uno.edu]]></EmailAddress>
+<NSF_ID>000577235</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Mahon</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert C Mahon</PI_FULL_NAME>
+<EmailAddress><![CDATA[rcmahon@uno.edu]]></EmailAddress>
+<NSF_ID>000796564</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Phoebe</FirstName>
+<LastName>Zito</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Phoebe Zito</PI_FULL_NAME>
+<EmailAddress><![CDATA[pazito@uno.edu]]></EmailAddress>
+<NSF_ID>000801170</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Orleans</Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701483520</ZipCode>
+<PhoneNumber>5042806836</PhoneNumber>
+<StreetAddress>2000 LAKESHORE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CL8JHK1LN291</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW ORLEANS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Orleans]]></Name>
+<CityName>New Orleans</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>701480001</ZipCode>
+<StreetAddress><![CDATA[2000 Lakeshore Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~326141</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-6bf387ba-7fff-3cde-ffdb-173f73b753f1"> </span></p> <p dir="ltr"><span>Scientific collaboration fosters a synergistic environment that promotes innovation, accelerates progress, and addresses complex challenges more effectively than individual efforts. The benefits of this award extend beyond the research projects outlined in the project summary, contributing to the overall advancement of scientific knowledge and its application to real-world problems. Collaborating with experts in different fields provided opportunities for skill development and learning, greatly impacting early-career researchers and their students, who benefited from exposure to various research methodologies and techniques developed from this award. As a result of this award, we were able to increase access to our facilities, provide new research opportunities, provide research training, and prepare our workforce for the future.</span></p> <p dir="ltr"><span>Many projects from this award participated in outreach to enhance public understanding of trace metal analysis in fish tissue, freshwater sponges, sediment, water samples, petroleum products, etc. Undergraduate researchers involved in the project gained a transformative experience beyond traditional coursework, providing students with skills, insights, and personal growth to serve them well in their future academic and professional endeavors. Further, graduate students gained networking opportunities with external researchers in academia, government sector, and industry, increasing their visibility for potential job offers after graduation.</span></p> <p dir="ltr"><span>This project had a transformative impact on the PI&rsquo;s career, providing financial support, recognition, and opportunities for professional and academic growth. In addition to the individual professor, this project benefited students, institutions, and the greater scientific community. This project improved elemental analysis capabilities at UNO, enhancing the rapid completion of current research projects and stimulating opportunities for growth and innovation. Furthermore, the in-house analysis resulted in discoveries and new avenues of research for early career researchers. This project greatly stimulated the research productivity of junior faculty at UNO and largely throughout southeastern Louisiana. Increased research productivity led to new funding and helped UNO become more competitive nationally for future funding.</span></p> <p dir="ltr"><span>Among the project's outcomes are two published works, another that is undergoing peer review, three in preparation, numerous conference presentations by students and colleagues, workforce training for undergraduate students, course development, free resources for high school students and nonprofit internships, and an increased user base with regional and national institutions. </span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/28/2023<br> Modified by: Phoebe&nbsp;Zito</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701197057447_Jenan_Ghannam_innovate_re--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701197057447_Jenan_Ghannam_innovate_re--rgov-800width.jpg" title="Jenan Ghannam"><img src="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701197057447_Jenan_Ghannam_innovate_re--rgov-66x44.jpg" alt="Jenan Ghannam"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Undergraduate student, Jenan Ghannam, presenting her research findings at Innovate UNO on heavy metals present in otoliths using laser ablation inductively coupled plasma mass spectrometry. Jenan won first place in her division for best presentation.</div> <div class="imageCredit">Phoebe Zito</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Phoebe&nbsp;Zito <div class="imageTitle">Jenan Ghannam</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701195808719_hunter_oysters--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701195808719_hunter_oysters--rgov-800width.jpg" title="Undergraduate student"><img src="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701195808719_hunter_oysters--rgov-66x44.jpg" alt="Undergraduate student"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fourth year undergraduate research assistant, Hunter Nielson, shucking oysters for heavy metal analysis using ICP-MS.</div> <div class="imageCredit">Phoebe Zito</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Phoebe&nbsp;Zito <div class="imageTitle">Undergraduate student</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701195443572_landscape_pic--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701195443572_landscape_pic--rgov-800width.jpg" title="HS students using ICP-MS"><img src="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701195443572_landscape_pic--rgov-66x44.jpg" alt="HS students using ICP-MS"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Local high school students Lilly Pollack and Morgan Breaux using ICP-MS to analyze heavy metals in soil for their science fair project.</div> <div class="imageCredit">Phoebe Zito</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Phoebe&nbsp;Zito <div class="imageTitle">HS students using ICP-MS</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701196480561_HS_Summer_2023--rgov-214x142.jpeg" original="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701196480561_HS_Summer_2023--rgov-800width.jpeg" title="HS summer Interns"><img src="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701196480561_HS_Summer_2023--rgov-66x44.jpeg" alt="HS summer Interns"></a> <div class="imageCaptionContainer"> <div class="imageCaption">High School students visiting researchers developing methods to cut resin coated otoliths for ICP-MS analysis. From left: Alliyah Hull (Youthforce NOLA ), Sofia Roberts (volunteer) and Audrey Orzech (UNO).</div> <div class="imageCredit">Phoebe Zito</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Phoebe&nbsp;Zito <div class="imageTitle">HS summer Interns</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701196773842_Moria--rgov-214x142.JPG" original="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701196773842_Moria--rgov-800width.JPG" title="Undergraduate researcher"><img src="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701196773842_Moria--rgov-66x44.JPG" alt="Undergraduate researcher"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Undergraduate student, Moraia Ashley, preparing solutions for ICP-MS analysis. Moraia was enrolled in an undergraduate research course for credit and successfully presented her findings to the department at the end of the semester.</div> <div class="imageCredit">Phoebe Zito</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Phoebe&nbsp;Zito <div class="imageTitle">Undergraduate researcher</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701194553641_Field_trip_to_collect_samples__Summer_2023--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701194553641_Field_trip_to_collect_samples__Summer_2023--rgov-800width.jpg" title="Students in the field"><img src="/por/images/Reports/POR/2023/2018417/2018417_10692928_1701194553641_Field_trip_to_collect_samples__Summer_2023--rgov-66x44.jpg" alt="Students in the field"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Highschool (HS), undergradaute (U) and graduate (G) students preparing to collect samples for heavy metal testing in local watersheds. Pictured from left - Tuyen Luu and Grant Mattson (U), Chadiska Pascal (G), Audrey Orzech (HS), Yahminiy Ganesh, Eduardo Turcios and Hanieh Ranjbar (G).</div> <div class="imageCredit">Hanieh Ranjbar</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Phoebe&nbsp;Zito <div class="imageTitle">Students in the field</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Scientific collaboration fosters a synergistic environment that promotes innovation, accelerates progress, and addresses complex challenges more effectively than individual efforts. The benefits of this award extend beyond the research projects outlined in the project summary, contributing to the overall advancement of scientific knowledge and its application to real-world problems. Collaborating with experts in different fields provided opportunities for skill development and learning, greatly impacting early-career researchers and their students, who benefited from exposure to various research methodologies and techniques developed from this award. As a result of this award, we were able to increase access to our facilities, provide new research opportunities, provide research training, and prepare our workforce for the future.   Many projects from this award participated in outreach to enhance public understanding of trace metal analysis in fish tissue, freshwater sponges, sediment, water samples, petroleum products, etc. Undergraduate researchers involved in the project gained a transformative experience beyond traditional coursework, providing students with skills, insights, and personal growth to serve them well in their future academic and professional endeavors. Further, graduate students gained networking opportunities with external researchers in academia, government sector, and industry, increasing their visibility for potential job offers after graduation.   This project had a transformative impact on the PIs career, providing financial support, recognition, and opportunities for professional and academic growth. In addition to the individual professor, this project benefited students, institutions, and the greater scientific community. This project improved elemental analysis capabilities at UNO, enhancing the rapid completion of current research projects and stimulating opportunities for growth and innovation. Furthermore, the in-house analysis resulted in discoveries and new avenues of research for early career researchers. This project greatly stimulated the research productivity of junior faculty at UNO and largely throughout southeastern Louisiana. Increased research productivity led to new funding and helped UNO become more competitive nationally for future funding.   Among the project's outcomes are two published works, another that is undergoing peer review, three in preparation, numerous conference presentations by students and colleagues, workforce training for undergraduate students, course development, free resources for high school students and nonprofit internships, and an increased user base with regional and national institutions.              Last Modified: 11/28/2023       Submitted by: PhoebeZito]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

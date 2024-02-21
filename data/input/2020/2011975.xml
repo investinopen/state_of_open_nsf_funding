@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Expanding our View of the Gravitational-Wave Sky with Machine Learning and Numerical Relativity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>149915.00</AwardTotalIntnAmount>
+<AwardAmount>149915</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports research in relativity and relativistic astrophysics and it addresses the priority areas of NSF's "Windows on the Universe" Big Idea. A century after Einstein predicted the existence of gravitational waves, the two Laser Interferometer Gravitational-wave Observatory (LIGO) detectors opened a new window on the universe by discovering gravitational waves passing through Earth, emanating from cataclysmic, distant events: colliding black holes and neutron stars. The phenomenal precision that LIGO needs to clearly observe these faint waves requires exquisitely isolated detectors. Capturing the physics of colliding black holes and neutron stars requires accurate waveform models. This award will establish a new research group at Christopher Newport University (CNU) to address both of these challenges, through characterizing LIGO detectors to better understand the origins of problematic noise in the detectors, and by improving the waveform models used to interpret the astrophysics of observed signals. Through these projects, the CNU group will play a crucial role in improving the quality of the LIGO detector data and the accuracy of the parameter estimation information that is shared with the astronomical community and the public. The students supported by this award will be trained in computer programming, data analysis, and machine learning. These important transferable skills will prepare the students for a wide range of successful and meaningful STEM careers in academia and industry. &lt;br/&gt; &lt;br/&gt;LIGO’s sensitivity to gravitational waves is limited by non-stationary noise, which fluctuates over time depending on various environmental influences. This work will extend a method developed by the PI with collaborators to correlate these variations in sensitivity with auxiliary instrumental sensors to determine the most possible causes, using lasso linear regression. This method has already been useful for identifying noise sources that change over the course of hours, but this work will target problematic persistent noise transients, which impede gravitational wave searches and have rates varying over the course of days and weeks. The PI and students will also contribute to data quality validation of gravitational wave candidate events, to ensure that the broader astronomical community has access to necessary data quality information. The expected improvements to LIGO in the coming years will enable the observation of many more black holes, doubtless some with interestingly different properties and some potentially having much higher signal-to-noise ratios. Accurately extracting the astrophysical parameters of these signals requires comparing to template waveforms that span the potential discovery space. The PI and her students will work on surrogate modeling (a way to efficiently interpolate between expensive but accurate numerical relativity waveforms), working with members of the Simulating eXtreme Spacetimes collaboration. This work will enhance our ability to interpret black hole observations, especially those with large spins.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011975</AwardID>
+<Investigator>
+<FirstName>Marissa</FirstName>
+<LastName>Walker</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marissa B Walker</PI_FULL_NAME>
+<EmailAddress><![CDATA[marissa.walker@cnu.edu]]></EmailAddress>
+<NSF_ID>000756933</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Christopher Newport University]]></Name>
+<CityName>Newport News</CityName>
+<ZipCode>236063072</ZipCode>
+<PhoneNumber>7575947392</PhoneNumber>
+<StreetAddress><![CDATA[1 Avenue of the Arts]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VMYDF2TZHHB6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CHRISTOPHER NEWPORT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Christopher Newport University]]></Name>
+<CityName/>
+<StateCode>VA</StateCode>
+<ZipCode>236063072</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1252</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~42583</FUND_OBLG>
+<FUND_OBLG>2021~49595</FUND_OBLG>
+<FUND_OBLG>2022~57737</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-1d7c7479-7fff-1ccf-181a-8a542fc59785"> </span></p> <p dir="ltr"><span>This project was centered on expanding the field of gravitational-wave astronomy in two distinct areas: (1) contributing to LIGO detector characterization and (2) improving waveform models for binary black holes.&nbsp;</span></p> <p dir="ltr"><span>Gravitational-wave detectors are incredibly complex instruments, which makes it a monumental task to discover where any problems are coming from. The detector characterization project was centered around analyzing long-term fluctuations in the detectors' sensitivity and correlations with auxiliary monitors of noise sources in the detectors. An already existing algorithm (created by the PI and collaborators) uses Lasso linear regression to search for correlations between the detector sensitivity and auxiliary channels on the timescale of hours to a day. This project created a prototype to extend this method to look over longer timescales -- days and weeks instead of hours. Additionally, this project applied the method to new measures of detector noise, specifically the rate of glitches in the detectors. This involved significant efforts in stitching together multiple time segments, creating time series of glitch rates (the overall glitch rate but also rates of different types of glitch rates), and experimenting with different parameters, such as rolling averages to smooth the time series. These methods were implemented to study the overall noise and glitches in the early months of LIGO&rsquo;s fourth observing run (O4).</span></p> <p dir="ltr"><span>The waveform modeling project was aimed at contributing to &ldquo;surrogate waveform models&rdquo; of binary black holes. Surrogate models are a way to interpolate between computationally expensive numerical relativity simulations to more quickly create accurate models across a wide range of binary black hole parameters (for example, mass ratio or spins). In this project, the surrogate models were focused on the effects of high initial black hole spins. The main outcome of the project was to develop simple surrogate models where the only varying parameter is black hole spin, and to test the ability to predict high spin waveforms, given different training parameters. This showed that (in this one-dimensional case) surrogate modeling can be used to model rapidly spinning black holes, even extrapolating beyond training parameters. However, the models&rsquo; accuracy decreases with further extrapolation, and future work will be needed to provide the accuracy needed for future generations of gravitational-wave detectors. Additionally, more study is needed to extend to more complex waveform models beyond the one-dimensional case.</span></p> <div><span>In addition to the scientific outcomes, this project also contributed to career preparation for undergraduate researchers. This award supported seven undergraduate students who contributed significantly to the work of the projects over the course of three years. Through their research, they gained foundational training or future STEM careers. They learned about gravitational-wave astronomy, code development, data analysis, collaboration, and scientific communication.</span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2023<br> Modified by: Marissa&nbsp;B&nbsp;Walker</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project was centered on expanding the field of gravitational-wave astronomy in two distinct areas: (1) contributing to LIGO detector characterization and (2) improving waveform models for binary black holes.   Gravitational-wave detectors are incredibly complex instruments, which makes it a monumental task to discover where any problems are coming from. The detector characterization project was centered around analyzing long-term fluctuations in the detectors' sensitivity and correlations with auxiliary monitors of noise sources in the detectors. An already existing algorithm (created by the PI and collaborators) uses Lasso linear regression to search for correlations between the detector sensitivity and auxiliary channels on the timescale of hours to a day. This project created a prototype to extend this method to look over longer timescales -- days and weeks instead of hours. Additionally, this project applied the method to new measures of detector noise, specifically the rate of glitches in the detectors. This involved significant efforts in stitching together multiple time segments, creating time series of glitch rates (the overall glitch rate but also rates of different types of glitch rates), and experimenting with different parameters, such as rolling averages to smooth the time series. These methods were implemented to study the overall noise and glitches in the early months of LIGOs fourth observing run (O4).   The waveform modeling project was aimed at contributing to surrogate waveform models of binary black holes. Surrogate models are a way to interpolate between computationally expensive numerical relativity simulations to more quickly create accurate models across a wide range of binary black hole parameters (for example, mass ratio or spins). In this project, the surrogate models were focused on the effects of high initial black hole spins. The main outcome of the project was to develop simple surrogate models where the only varying parameter is black hole spin, and to test the ability to predict high spin waveforms, given different training parameters. This showed that (in this one-dimensional case) surrogate modeling can be used to model rapidly spinning black holes, even extrapolating beyond training parameters. However, the models accuracy decreases with further extrapolation, and future work will be needed to provide the accuracy needed for future generations of gravitational-wave detectors. Additionally, more study is needed to extend to more complex waveform models beyond the one-dimensional case. In addition to the scientific outcomes, this project also contributed to career preparation for undergraduate researchers. This award supported seven undergraduate students who contributed significantly to the work of the projects over the course of three years. Through their research, they gained foundational training or future STEM careers. They learned about gravitational-wave astronomy, code development, data analysis, collaboration, and scientific communication.           Last Modified: 11/29/2023       Submitted by: MarissaBWalker]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

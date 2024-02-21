@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS: Small: Towards Usability in Robotic Assistance: A Formalism for Robot-Assisted Feeding while Adjusting to User Preferences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>495116.00</AwardTotalIntnAmount>
+<AwardAmount>495116</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Todd Leen</SignBlockName>
+<PO_EMAI>tleen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927215</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nearly 56.7 million (18.7%) of the non-institutionalized US population had a disability in 2010. Among them, about 12.3 million needed assistance with one or more activities of daily living (ADLs), such as feeding, bathing, or dressing. Robots have the potential to help with these activities of daily living but every user is different and they have diverse needs and preferences. For long-term care, it is essential that such an assistive system can adapt to diverse situations and user preferences. This project focuses on the feeding activity and is based on this central tenet that by leveraging user feedback and contexts from previous feeding attempts, a robot should be able to learn online how to adapt to new food items, user preferences, and environments. Through improved access to independent living, the results of this project can positively impact millions of people worldwide. The long-term promise of this research is to have robots in society that can seamlessly and fluently perform complex manipulation tasks in cluttered, complex, and dynamic human environments in real homes.&lt;br/&gt;&lt;br/&gt;This project formalizes robot-assisted feeding using a general framework based on contextual bandits that allows directly optimizing for user preferences online. The online contextual bandit framework applied to acquiring and transferring food items provides the foundation to leverage  user feedback to benchmark, learn, and develop methods for a natural dining experience, and exploring different contexts for generalizing bite acquisition. The models directly optimize for the user experience through user feedback, and adapt to a range of social and environmental factors with the intelligent use of embedded sensing. The project explores solutions which balance the trade-off between high quality but costly expert assistance and cheaper learned solutions in the form of a shared-autonomy system. Critical issues include the diversity of user preferences both temporally and ethnographically, designing for the experience across the entire learning procedure, and processing high-dimensional contextual information. The tangible result will be an intelligent assistive feeding robot whose performance can generalize to different activities and adapt to user preferences. An intelligent assistive feeding robot that relies on user feedback and rich sensor information will advance integrating complex user experiences and social environments into a coherent learning robotic system. Contextual bandits, a highly optimized generalization of multiple hypothesis testing, have broad potential in human-robotic, and human-AI systems in general to efficiently adapt to specific user needs in real time.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007011</AwardID>
+<Investigator>
+<FirstName>Siddhartha</FirstName>
+<LastName>Srinivasa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siddhartha Srinivasa</PI_FULL_NAME>
+<EmailAddress><![CDATA[siddhartha.srinivasa@gmail.com]]></EmailAddress>
+<NSF_ID>000557185</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress><![CDATA[185 Stevens Way, CSE101]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~495116</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This work proposed a general machine-learning framework to enable online adaptation to user preferences in a robot-assisted feeding system (a Kinova JACO robotic arm mounted on a wheelchair) for users with upper-extremity mobility impairments. We focused on the specific tasks of bite acquisition (i.e. how the robot picks up a bite of food from a plate) and bite transfer (i.e. how the robot moves a bite of food to a user&rsquo;s mouth). Different kinds of foods and varying user preferences require different robot strategies, and we focus on creating a robust system to acquire and transfer the myriad types of food that each user may want to eat. Our research resulted in several key findings, which have improved the robot-assisted feeding system&rsquo;s performance and revealed insights into the human factors inherent to such a project.&nbsp;</p> <p><br />Our investigations into improving the performance of bite acquisition resulted in eleven different actions that can be used to pick up a variety of different foods. This was achieved by developing a parameterized action space for bite acquisition and collecting data from people using a trackable fork to acquire and transfer food. This data collection and specialized action space enabled the creation of the eleven actions our system currently uses to acquire food. Additionally, the robot can use both food images and the forces put on the fork when acquiring food to learn which actions should be used for each kind of food. From the look and ``feel" of a new food item, the robot can, over time, learn which action will most likely result in a successful bite acquisition.</p> <p>The physical system has also been improved. Previously, the assistive feeding robot was tied to a stationary external computer, which made the system non-portable and made it very difficult to transfer to different arms/wheelchairs. The system is now fully self-contained and portable, paving the way for a wider variety of user studies. Furthermore, we sped up the robotic feeding system by 33%, from around 45 seconds per bite to 30 seconds. This will improve acceptance and adoption of the technology, and enables us to run user studies where the robot is feeding users an entire meal, not just individual bites.</p> <p>In addition to technical system improvements, we have also investigated how users may want to interact with the system. For example, when should the robot act autonomously, and when should it request assistance or input from a user? We demonstrated that robots can extend their abilities by asking for human help, although they have to do so intelligently to ensure the human provides the best help possible and is willing to continue helping the robot in the future. We also demonstrated that users wanted to control the robot in some dimensions of robot feeding during social feeding, but not in others. Users were also willing to provide interventions when the robot failed. These outcomes are important for determining what parts of the robot feeding process should be automated, and which should be controlled by the user.&nbsp;</p> <p><br />We also learned that to create a useful feeding system, we cannot just optimize objective measures such as ``efficiency,'' but also must incorporate subjective measures such as ``comfort.'' We learned that it is possible to develop quantitative heuristics for such subjective measures and that incorporating those heuristics into the robot's planning algorithm can significantly improve user experience. We developed quantitative heuristics for bite transfer trajectories that reward a balance of ease-of-transfer and user comfort. When applied to state-of-the-art heuristic planning algorithms, the resulting trajectories were preferred by users over the fixed actions used in previous work. This work was done in collaboration with Cornell University and Stanford University.</p> <p>The results of our work have resulted in multiple publications, permanent contributions to open-source libraries used throughout the robotics community (including AprilTags and ROS controllers), and provided training opportunities for graduate, undergraduate, and high school students, as well as postdoctoral scholars. In addition, we continue to actively engage the K-12 community by running demos and outreach events that familiarize them with robotics, let them interact with our robot feeding system, and pique their interests in STEM careers.</p> <p>Through improved access to independent living, the results of this project can positively impact millions of people worldwide. Given the vast variability in our target population, customizing to the unique needs and preferences of users is transformational in the scalability of assistive robotics for self-care. Although the project focuses on feeding systems for individuals with upper limb limitations, the developed tools and design framework could impact individuals with other disabilities as well as able-bodied individuals.</p><br> <p>  Last Modified: 01/13/2024<br> Modified by: Siddhartha&nbsp;Srinivasa</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2007011/2007011_10701861_1705207428651_ada_pics_4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2007011/2007011_10701861_1705207428651_ada_pics_4--rgov-800width.jpg" title="Assistive Dexterous Arm for Robot-Assisted Feeding"><img src="/por/images/Reports/POR/2024/2007011/2007011_10701861_1705207428651_ada_pics_4--rgov-66x44.jpg" alt="Assistive Dexterous Arm for Robot-Assisted Feeding"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Assistive Dexterous Arm (ADA), a robot built by the Personal Robotics Lab at UW to empower people with disabilities to eat independently.</div> <div class="imageCredit">Siddhartha Srinivasa</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Siddhartha&nbsp;Srinivasa <div class="imageTitle">Assistive Dexterous Arm for Robot-Assisted Feeding</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This work proposed a general machine-learning framework to enable online adaptation to user preferences in a robot-assisted feeding system (a Kinova JACO robotic arm mounted on a wheelchair) for users with upper-extremity mobility impairments. We focused on the specific tasks of bite acquisition (i.e. how the robot picks up a bite of food from a plate) and bite transfer (i.e. how the robot moves a bite of food to a users mouth). Different kinds of foods and varying user preferences require different robot strategies, and we focus on creating a robust system to acquire and transfer the myriad types of food that each user may want to eat. Our research resulted in several key findings, which have improved the robot-assisted feeding systems performance and revealed insights into the human factors inherent to such a project.    Our investigations into improving the performance of bite acquisition resulted in eleven different actions that can be used to pick up a variety of different foods. This was achieved by developing a parameterized action space for bite acquisition and collecting data from people using a trackable fork to acquire and transfer food. This data collection and specialized action space enabled the creation of the eleven actions our system currently uses to acquire food. Additionally, the robot can use both food images and the forces put on the fork when acquiring food to learn which actions should be used for each kind of food. From the look and ``feel" of a new food item, the robot can, over time, learn which action will most likely result in a successful bite acquisition.   The physical system has also been improved. Previously, the assistive feeding robot was tied to a stationary external computer, which made the system non-portable and made it very difficult to transfer to different arms/wheelchairs. The system is now fully self-contained and portable, paving the way for a wider variety of user studies. Furthermore, we sped up the robotic feeding system by 33%, from around 45 seconds per bite to 30 seconds. This will improve acceptance and adoption of the technology, and enables us to run user studies where the robot is feeding users an entire meal, not just individual bites.   In addition to technical system improvements, we have also investigated how users may want to interact with the system. For example, when should the robot act autonomously, and when should it request assistance or input from a user? We demonstrated that robots can extend their abilities by asking for human help, although they have to do so intelligently to ensure the human provides the best help possible and is willing to continue helping the robot in the future. We also demonstrated that users wanted to control the robot in some dimensions of robot feeding during social feeding, but not in others. Users were also willing to provide interventions when the robot failed. These outcomes are important for determining what parts of the robot feeding process should be automated, and which should be controlled by the user.    We also learned that to create a useful feeding system, we cannot just optimize objective measures such as ``efficiency,'' but also must incorporate subjective measures such as ``comfort.'' We learned that it is possible to develop quantitative heuristics for such subjective measures and that incorporating those heuristics into the robot's planning algorithm can significantly improve user experience. We developed quantitative heuristics for bite transfer trajectories that reward a balance of ease-of-transfer and user comfort. When applied to state-of-the-art heuristic planning algorithms, the resulting trajectories were preferred by users over the fixed actions used in previous work. This work was done in collaboration with Cornell University and Stanford University.   The results of our work have resulted in multiple publications, permanent contributions to open-source libraries used throughout the robotics community (including AprilTags and ROS controllers), and provided training opportunities for graduate, undergraduate, and high school students, as well as postdoctoral scholars. In addition, we continue to actively engage the K-12 community by running demos and outreach events that familiarize them with robotics, let them interact with our robot feeding system, and pique their interests in STEM careers.   Through improved access to independent living, the results of this project can positively impact millions of people worldwide. Given the vast variability in our target population, customizing to the unique needs and preferences of users is transformational in the scalability of assistive robotics for self-care. Although the project focuses on feeding systems for individuals with upper limb limitations, the developed tools and design framework could impact individuals with other disabilities as well as able-bodied individuals.     Last Modified: 01/13/2024       Submitted by: SiddharthaSrinivasa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

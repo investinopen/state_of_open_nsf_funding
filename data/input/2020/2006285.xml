@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: MINERVA - A dedicated, global, precision radial velocity machine for TESS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>87000.00</AwardTotalIntnAmount>
+<AwardAmount>87000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Martin Still</SignBlockName>
+<PO_EMAI>mstill@nsf.gov</PO_EMAI>
+<PO_PHON>7032924290</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A research collaboration between Harvard University, George Mason University, the University of California-Riverside, and the University of Montana will use a telescope network to observe planet candidates orbiting nearby stars. The planet candidates have been identified by NASA's Transiting Exoplanet Survey Satellite (TESS). Planets will be confirmed, their masses and orbits will be measured. The work will help create improved theories of the formation and evolution of planets with a broad range of environments. Some of the planets confirmed will be the ones that provide the best chance of detecting life in the future. The award will fund students to participate in Harvard's Banneker Institute. This undergraduate summer program focuses on recruiting under-represented minorities for a program of research, graduate school preparation, and social justice education.&lt;br/&gt;&lt;br/&gt;The investigation will employ two dedicated robotic arrays of four 0.7-meter telescopes (MINERVA-North and MINERVA-Australis) in both hemispheres for all sky access to confirm and characterize TESS planet candidates. The facilities will perform a large scale survey to measure the orbital obliquities of approximately 180 planets, enabling a more robust understanding of formation and migration of planets as a function of the properties of the host star and their planets. MINERVA will also measure planet masses and orbital eccentricities, and search for additional planets in each system. The confirmation and characterization of new planetary systems around the bright TESS host stars will identify the best possible targets for future detailed follow up. The planets confirmed and characterized will be the ones the next generation of space-borne exoplanet missions and ground-based extremely large telescopes will prioritize to measure the detailed atmospheric compositions and will provide the best chances of detecting biomarkers. The survey will allow a more detailed understanding of planet formation and migration as a function of stellar and planetary properties. The nature of exoplanet observations generates opportunities for projects ideal for student involvement at all levels. In addition, MINERVA's dedicated array of small telescopes provides a unique platform to develop valuable instrumentation experience. MINERVA provides a scientific backbone for undergraduate research opportunities, undergraduate theses, post-baccalaureate research experience, and graduate research experience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006285</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Kane</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen R Kane</PI_FULL_NAME>
+<EmailAddress><![CDATA[skane@ucr.edu]]></EmailAddress>
+<NSF_ID>000580391</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA39</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>Riverside</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[900 University Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA39</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~87000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>With respect to exoplanets, we live in an age of magnificent<br />discovery. These discoveries are still relatively recent, with the<br />vast majority occurring over the past few decades. As such, we are<br />still grappling with many of the new findings, some of which challenge<br />planetary models that are derived purely from Solar System<br />observations. While the Solar System remains our best studied example<br />of a planetary system, observations of exoplanets have expanded our<br />horizons to reveal planets and planetary system architectures that are<br />substantially different from our home system. Some of these new<br />planetary types include hot Jupiters, sub-Neptunes, and volatile-rich<br />terrestrial planets. These include systems, some orbiting G dwarfs<br />like our Sun, where multiple planets are found within the equivalent<br />of the orbit of Mercury.<br /><br />Fundamental planetary properties include the mass of the planet and<br />the shape of the orbit. These properties may be extracted by measuring<br />the radiel velocity (RV) of the star, influenced by the gravitational<br />effects of the orbiting planet. A major activity of this project<br />involved the assessment of exoplanet targets from the Transiting<br />Exoplanet Survey Satellite (TESS) and their suitability for RV<br />follow-up observations. Current RV programs for ephemeris refinement<br />rely on semi-consistent monitoring of targets. However, facilities<br />that can produce such observations are limited, necessitating<br />optimization of observations. Graduate student, Zhexing Li, has<br />conducted thousands of simulations that test the orbital period<br />uncertainty reduction against three variables: number, epoch, and<br />orbital phase coverage of synthetic future observations. The attached<br />figure shows one of the simulation results that varies the number of<br />future observations for the known exoplanet host, HD 134987. The<br />orbital period uncertainty shows an initial drastic decline, whereby<br />additional data points do not significantly improve the orbital<br />ephemeris. The results of this work has produced a relationship<br />describing the ephemeris improvement with respect to these three<br />variables, allowing this project to extend orbital refinement work to<br />all targets and plan the most efficient precursor<br />observations. Furthermore, Zhexing has made numerous improvements to<br />the radial velocity code, particularly modoficiations that better<br />account for highly eccentric orbits and large mass ratios of companion<br />to host star. Zhexing has also expanded RadVel to incorporate orbital<br />dynamics in multi-planet systems. These results are currently being<br />prepared for publication.<br /><br />The second outcome of this project is the discovery of TOI-1994b, a<br />low-mass brown dwarf transiting a hot subgiant star on a moderately<br />eccentric orbit. This work was led by graduate student Emma Page, and<br />included the analysis of MINERVA RV data in combination with other<br />sources of RV data, as well as photoetry from TESS. Shown in the<br />attached image is the combined RV data for this star, along with the<br />best-fit model, that clearly shows the gravitational influence of the<br />brown dwarf. The brown dwarf has a mass of around 22 times the mass of<br />Jupiter and orbits its host star once every 4.034 days. With precise<br />age, mass, and radius, the global analysis and characterization of<br />TOI-1994b augments the small number of transiting brown dwarfs and<br />allows the testing of substellar evolution models. This result has<br />been submitted for publication in the American Astronomical Society<br />journals.</p><br> <p>  Last Modified: 11/12/2023<br> Modified by: Stephen&nbsp;R&nbsp;Kane</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2006285/2006285_10696735_1699841107345_figure_simulation--rgov-214x142.png" original="/por/images/Reports/POR/2023/2006285/2006285_10696735_1699841107345_figure_simulation--rgov-800width.png" title="Radial velocity simulations"><img src="/por/images/Reports/POR/2023/2006285/2006285_10696735_1699841107345_figure_simulation--rgov-66x44.png" alt="Radial velocity simulations"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Result of sample simulation showing dependence of orbital period uncertainty on additional number of RVs.</div> <div class="imageCredit">Stephen Kane</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Stephen&nbsp;R&nbsp;Kane <div class="imageTitle">Radial velocity simulations</div> </div> </li><li> <a href="/por/images/Reports/POR/2023/2006285/2006285_10696735_1699841851912_figure_rvs--rgov-214x142.png" original="/por/images/Reports/POR/2023/2006285/2006285_10696735_1699841851912_figure_rvs--rgov-800width.png" title="TOI-1994b"><img src="/por/images/Reports/POR/2023/2006285/2006285_10696735_1699841851912_figure_rvs--rgov-66x44.png" alt="TOI-1994b"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Radial velocities for TOI-1994 from CHIRON and three MINERVA-Australis telescopes.</div> <div class="imageCredit">Stephen Kane</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Stephen&nbsp;R&nbsp;Kane <div class="imageTitle">TOI-1994b</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  With respect to exoplanets, we live in an age of magnificent discovery. These discoveries are still relatively recent, with the vast majority occurring over the past few decades. As such, we are still grappling with many of the new findings, some of which challenge planetary models that are derived purely from Solar System observations. While the Solar System remains our best studied example of a planetary system, observations of exoplanets have expanded our horizons to reveal planets and planetary system architectures that are substantially different from our home system. Some of these new planetary types include hot Jupiters, sub-Neptunes, and volatile-rich terrestrial planets. These include systems, some orbiting G dwarfs like our Sun, where multiple planets are found within the equivalent of the orbit of Mercury.  Fundamental planetary properties include the mass of the planet and the shape of the orbit. These properties may be extracted by measuring the radiel velocity (RV) of the star, influenced by the gravitational effects of the orbiting planet. A major activity of this project involved the assessment of exoplanet targets from the Transiting Exoplanet Survey Satellite (TESS) and their suitability for RV follow-up observations. Current RV programs for ephemeris refinement rely on semi-consistent monitoring of targets. However, facilities that can produce such observations are limited, necessitating optimization of observations. Graduate student, Zhexing Li, has conducted thousands of simulations that test the orbital period uncertainty reduction against three variables: number, epoch, and orbital phase coverage of synthetic future observations. The attached figure shows one of the simulation results that varies the number of future observations for the known exoplanet host, HD 134987. The orbital period uncertainty shows an initial drastic decline, whereby additional data points do not significantly improve the orbital ephemeris. The results of this work has produced a relationship describing the ephemeris improvement with respect to these three variables, allowing this project to extend orbital refinement work to all targets and plan the most efficient precursor observations. Furthermore, Zhexing has made numerous improvements to the radial velocity code, particularly modoficiations that better account for highly eccentric orbits and large mass ratios of companion to host star. Zhexing has also expanded RadVel to incorporate orbital dynamics in multi-planet systems. These results are currently being prepared for publication.  The second outcome of this project is the discovery of TOI-1994b, a low-mass brown dwarf transiting a hot subgiant star on a moderately eccentric orbit. This work was led by graduate student Emma Page, and included the analysis of MINERVA RV data in combination with other sources of RV data, as well as photoetry from TESS. Shown in the attached image is the combined RV data for this star, along with the best-fit model, that clearly shows the gravitational influence of the brown dwarf. The brown dwarf has a mass of around 22 times the mass of Jupiter and orbits its host star once every 4.034 days. With precise age, mass, and radius, the global analysis and characterization of TOI-1994b augments the small number of transiting brown dwarfs and allows the testing of substellar evolution models. This result has been submitted for publication in the American Astronomical Society journals.     Last Modified: 11/12/2023       Submitted by: StephenRKane]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

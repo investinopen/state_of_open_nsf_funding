@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Stability of solitons and long-term dynamics of fluids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>324866.00</AwardTotalIntnAmount>
+<AwardAmount>324866</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The main goal of the project is to study solutions of several important partial differential equations. These solutions describe physical phenomena, such as the dynamics of fluids, the motion of water waves, and gravitation, which can be observed in daily life. We aim to analyze these solutions rigorously and to recover quantitative and qualitative information about their behavior as mathematical theorems. The research project involves graduate students and postdoctoral associates, and connects ideas and methods in partial differential equations, numerical analysis, geometry, and harmonic analysis.&lt;br/&gt;&lt;br/&gt;The PI will study the long term dynamics of solutions of several important evolution equations, such as the Euler equations in 2 and 3 dimensions, water wave models, and the Einstein field equations of General Relativity. Six problems of interest are explicitly identified as part of the project. These problems concern the global stability of shear flows and vortices for the 2D Euler and the generalized SQG equations, the long term dynamics of water waves in a large box in 2D and 3D, and the global stability of solutions of the Einstein equations with matter.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007008</AwardID>
+<Investigator>
+<FirstName>Alexandru</FirstName>
+<LastName>Ionescu</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexandru D Ionescu</PI_FULL_NAME>
+<EmailAddress><![CDATA[aionescu@princeton.edu]]></EmailAddress>
+<NSF_ID>000573676</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[Fine Hall, Washington Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~324866</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF grant had two equally important components. On the scientific side we focused on several problems concerning the long-term dynamics of solutions of certain important evolution equations. On the broader impact side the PI continued collaborations with several researchers at other mathematical centers in the US, mentored several graduate and undergraduate students and postdoctoral researchers, and disseminated the research at conferences, seminars, and summer schools.</p> <p><br />The main scientific results of the PIs concern asymptotic stability theorems in Fluid Mechanics (stability of certain shear flows and vortices for the 2D Euler equations, long-term regularity of water waves, and quasi-periodic solutions of the generalized SQG equations), Kinetic Theory (Landau damping for unconfined plasmas), and Ergodic Theory (pointwise convergence of averages along polynomial sequences in nilpotent groups). The results in Fluid Mechanics and Kinetic Theory represent important steps in our understanding of the dynamics of solutions of certain physical evolution equations. For example, stability of stationary solutions of the Euler equations is one of the most important problems in Hydrodynamics, with a long history going back to the 19th century, which is only now becoming well-understood at the nonlinear level. Landau damping is a fundamental relaxation mechanism for plasmas.</p> <p><br />Many of the research results were disseminated widely in national and international conferences by the PI. Some of these results were also integrated smoothly as part of advanced graduate courses at Princeton University. A crucial component of the grant was to support the training of three graduate students at Princeton University (X. Ma, K. Jin, and N. Stevenson) and two postdoctoral fellows (S. Iyer and T. Leger).&nbsp;</p> <p><br />The project fostered collaborations and increased interactions among researchers at several leading universities in the US. These exchanges had a training component as well, involving lectures accessible to graduate students and postdocs to disseminate current ideas and progress.</p><br> <p>  Last Modified: 11/19/2023<br> Modified by: Alexandru&nbsp;D&nbsp;Ionescu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This NSF grant had two equally important components. On the scientific side we focused on several problems concerning the long-term dynamics of solutions of certain important evolution equations. On the broader impact side the PI continued collaborations with several researchers at other mathematical centers in the US, mentored several graduate and undergraduate students and postdoctoral researchers, and disseminated the research at conferences, seminars, and summer schools.    The main scientific results of the PIs concern asymptotic stability theorems in Fluid Mechanics (stability of certain shear flows and vortices for the 2D Euler equations, long-term regularity of water waves, and quasi-periodic solutions of the generalized SQG equations), Kinetic Theory (Landau damping for unconfined plasmas), and Ergodic Theory (pointwise convergence of averages along polynomial sequences in nilpotent groups). The results in Fluid Mechanics and Kinetic Theory represent important steps in our understanding of the dynamics of solutions of certain physical evolution equations. For example, stability of stationary solutions of the Euler equations is one of the most important problems in Hydrodynamics, with a long history going back to the 19th century, which is only now becoming well-understood at the nonlinear level. Landau damping is a fundamental relaxation mechanism for plasmas.    Many of the research results were disseminated widely in national and international conferences by the PI. Some of these results were also integrated smoothly as part of advanced graduate courses at Princeton University. A crucial component of the grant was to support the training of three graduate students at Princeton University (X. Ma, K. Jin, and N. Stevenson) and two postdoctoral fellows (S. Iyer and T. Leger).    The project fostered collaborations and increased interactions among researchers at several leading universities in the US. These exchanges had a training component as well, involving lectures accessible to graduate students and postdocs to disseminate current ideas and progress.     Last Modified: 11/19/2023       Submitted by: AlexandruDIonescu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

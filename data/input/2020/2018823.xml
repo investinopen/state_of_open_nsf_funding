@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Regional: Advancing Maryland Research and Education Network for Under-Resourced Institutions Through a Science DMZ and 10Gbps Upgrade]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>799767.00</AwardTotalIntnAmount>
+<AwardAmount>799767</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[MDREN, the Maryland Research and Education Network, an organization under the University System of Maryland, provides advanced network services to 40+ education, research, and public service institutions throughout the State of Maryland and connections to regional and national resources.&lt;br/&gt;&lt;br/&gt;High-speed networking infrastructure is vital to researchers and STEM educators in our community. Smaller/under resourced/rural institutions like Frostburg State University (FSU), Salisbury University (SU), the four research labs that are part of University of Maryland Center for Environmental Sciences (UMCES),  the Maryland Psychiatric Research Center (MPRC) as part of University of Maryland School of Medicine (UMSOM), and HBCUs like University of Maryland Eastern Shore (UMES) and Morgan State University have serious limitations in accessing and transferring huge datasets amongst themselves and collaborators at NOAA, NASA, NIH, USGS, and others. &lt;br/&gt;&lt;br/&gt;This proposal significantly increases network bandwidth for 6 institutions including research centers and labs by 10x and adds a Science DMZ for data transfers from other sites to enable the full potential of these institutions. These upgrades allow researchers at each institution to reliably connect to supercomputers and big data repositories, increase computational capabilities, and increase inter-institution collaboration.&lt;br/&gt; &lt;br/&gt;MDREN will a special path from the science DMZ machine to each lab that will facilitate high speed transfer. This would be significantly faster than doing transfers through campus firewalls.&lt;br/&gt;&lt;br/&gt;This proposal helps rural or under-resourced institutions and HBCUs better collaborate with peer institutions in the greater Maryland region, collaborators around the world, and key science organizations such as NASA, NIH, and NOAA.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018823</AwardID>
+<Investigator>
+<FirstName>Damian</FirstName>
+<LastName>Doyle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Damian Doyle</PI_FULL_NAME>
+<EmailAddress><![CDATA[damian@umbc.edu]]></EmailAddress>
+<NSF_ID>000762942</NSF_ID>
+<StartDate>08/23/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Davidson</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric A Davidson</PI_FULL_NAME>
+<EmailAddress><![CDATA[edavidson@umces.edu]]></EmailAddress>
+<NSF_ID>000411293</NSF_ID>
+<StartDate>06/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>HAMID</FirstName>
+<LastName>BARGHI</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>HAMID BARGHI</PI_FULL_NAME>
+<EmailAddress><![CDATA[raysoccerone@yahoo.com]]></EmailAddress>
+<NSF_ID>000819292</NSF_ID>
+<StartDate>06/01/2020</StartDate>
+<EndDate>08/23/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University System of Maryland]]></Name>
+<CityName>ADELPHI</CityName>
+<ZipCode>207831651</ZipCode>
+<PhoneNumber>3014452753</PhoneNumber>
+<StreetAddress><![CDATA[3300 METZEROTT RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KMGEN62NKEM9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY SYSTEM OF MARYLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University System of Maryland]]></Name>
+<CityName>ADELPHI</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207831601</ZipCode>
+<StreetAddress><![CDATA[3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~799767</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-e3c7210b-7fff-4c16-c62e-ae374bdf2037"><br /> </span></p> <p dir="ltr"><span>Advancements in research and education heavily rely on robust and efficient network infrastructure. Historically, under-resourced institutions often face barriers to accessing high-speed connectivity, hindering their research capabilities and collaborations. This project sought to address these challenges by significantly upgrading six historically under-resourced institutions and the regional network that serves them.</span></p> <p dir="ltr"><span>The upgraded institution and labs included the Maryland Psychiatric Research Center (MPRC), </span><span>Chesapeake Biological (CBL), The Institute for Marine and Environmental Technology (IMET), and Appalachian Laboratory, Frostburg State University (FSU), the University of Maryland Eastern Shore (UMES), Morgan State, and Salisbury University (SU)</span><span>.&nbsp;</span></p> <p dir="ltr"><span>The Maryland Research &amp; Education Network (MDREN) connectivity to Mid-Atlantic Crossroads (MAX) was increased from 10 Gbps to 100Gbps which enabled members greater access to Internet2. Shortly after the upgrade was introduced, overall utilization of Internet2 connectivity doubled.</span></p> <p dir="ltr"><span>This high-throughput Science DMZ facilitated seamless data exchange between member institutions and national partners. This empowered researchers to pursue research previously considered unattainable due to data exchange constraints.&nbsp;</span></p> <p dir="ltr"><span>To leverage the benefits of network upgrades and the science DMZ, we sought a software solution to streamline the exchange of data among research facilities. It became evident that we required a data transfer solution that demanded minimal training and seamlessly integrated into existing research data ecosystems. MDREN deployed a solution which allowed us to easily establish repeatable file transfers without the need for user initiation or intervention beyond the initial setup.&nbsp;</span></p> <p dir="ltr"><span>MDREN implemented PerfSONAR and expanded their Cacti system for enhanced network performance monitoring. This ensured precise measurements, supported member institutions, and enabled seamless scientific workflows.</span></p> <p dir="ltr"><span>Intellectual Merit: The project created a number of key outcomes for MDREN and the institutions within the grant. MDREN created their first Cyber Infrastructure plan and has socialized it across the member institutions. The grant has prompted new methods and systems of communications to link MDREN staff directly with researchers at member institutions. It strengthened relationships with institutional IT staff as MDREN partnered to enact the network upgrades. The increased usage of the network from these upgrades combined with the successful research enablements have led MDREN to undertake a comprehensive overhaul of the entire MDREN network to help achieve the goals outlined in the CyberInfrastructure plan created for the grant.&nbsp;</span></p> <p dir="ltr"><span>Broader Impact: The grant was focused on upgrading the connectivity to rural and historically&nbsp; under-resourced institutions within the state including several of our HBCUs. In addition, the insights gained from this project will impact every member of MDREN. Upgrading both the institution?s connectivity, as well as the connectivity of MDREN to Internet2 enables not only friction-free network transfers for research, but it assists with overall connectivity. To many, this is a seamless upgrade, it ensures that there is no congestion or collisions with remote classes, the leveraging of cloud services, or the competition between research traffic and campus traffic. Numerous projects at these institutions now take advantage of the higher speed connectivity to enable teaching and learning outcomes with larger data sets, or the increased usage of software as a service that was hampered by slow bandwidth and congested links.&nbsp;</span></p> <p dir="ltr"><span>Additionally, there have been many specific facilitation of research collaborations, like the seamless data exchange between the Chesapeake Biological Laboratory and the Center for Conservation Bioacoustics at the Cornell Lab of Ornithology (CLO).</span></p> <p dir="ltr"><span>At the heart of this collaboration lies the exchange of science audio data, specifically capturing the spatial and temporal occurrence of species-specific sounds. Researchers have harnessed this resource to gain insights into various aspects of ecology and behavior, ultimately enhancing our understanding of the natural world. By leveraging the audio data shared between institutions via MDREN, scientists can decipher seasonal variations, trace migration routes, and even investigate the impacts of climate change on these crucial ecosystems. Our aspiration is that this data transfer system will pave the way for future prospects in education and mentorship by granting access to authentic, real-world data.</span></p> <p dir="ltr"><span>In the longer term, this grant has changed the way MDREN communicates about its work and service offerings through a comprehensive outreach strategy. There are now monthly updates to the Engineering Committee, quarterly updates to the Board of Directors, dedicated sessions around research enablement at the newly launched MDREN Tech Days, and presentations to State Wide and University System of Maryland Research leaders that all aim to better connect researchers with the new capabilities that now exist, while providing staff support to take advantage of them, something that has been lacking previously in many cases.&nbsp;</span></p> <p dir="ltr"><span>This project has made significant strides in advancing research and education by addressing critical infrastructure challenges faced by historically under-resourced institutions. Through this National Science Foundation support, MDREN was able to address infrastructure challenges, foster collaboration, and enable seamless data exchange among institutions, ultimately benefiting the academic and research community as a whole.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/20/2023<br>      Modified by: Damian&nbsp;Doyle</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    Advancements in research and education heavily rely on robust and efficient network infrastructure. Historically, under-resourced institutions often face barriers to accessing high-speed connectivity, hindering their research capabilities and collaborations. This project sought to address these challenges by significantly upgrading six historically under-resourced institutions and the regional network that serves them. The upgraded institution and labs included the Maryland Psychiatric Research Center (MPRC), Chesapeake Biological (CBL), The Institute for Marine and Environmental Technology (IMET), and Appalachian Laboratory, Frostburg State University (FSU), the University of Maryland Eastern Shore (UMES), Morgan State, and Salisbury University (SU).  The Maryland Research &amp; Education Network (MDREN) connectivity to Mid-Atlantic Crossroads (MAX) was increased from 10 Gbps to 100Gbps which enabled members greater access to Internet2. Shortly after the upgrade was introduced, overall utilization of Internet2 connectivity doubled. This high-throughput Science DMZ facilitated seamless data exchange between member institutions and national partners. This empowered researchers to pursue research previously considered unattainable due to data exchange constraints.  To leverage the benefits of network upgrades and the science DMZ, we sought a software solution to streamline the exchange of data among research facilities. It became evident that we required a data transfer solution that demanded minimal training and seamlessly integrated into existing research data ecosystems. MDREN deployed a solution which allowed us to easily establish repeatable file transfers without the need for user initiation or intervention beyond the initial setup.  MDREN implemented PerfSONAR and expanded their Cacti system for enhanced network performance monitoring. This ensured precise measurements, supported member institutions, and enabled seamless scientific workflows. Intellectual Merit: The project created a number of key outcomes for MDREN and the institutions within the grant. MDREN created their first Cyber Infrastructure plan and has socialized it across the member institutions. The grant has prompted new methods and systems of communications to link MDREN staff directly with researchers at member institutions. It strengthened relationships with institutional IT staff as MDREN partnered to enact the network upgrades. The increased usage of the network from these upgrades combined with the successful research enablements have led MDREN to undertake a comprehensive overhaul of the entire MDREN network to help achieve the goals outlined in the CyberInfrastructure plan created for the grant.  Broader Impact: The grant was focused on upgrading the connectivity to rural and historically  under-resourced institutions within the state including several of our HBCUs. In addition, the insights gained from this project will impact every member of MDREN. Upgrading both the institution?s connectivity, as well as the connectivity of MDREN to Internet2 enables not only friction-free network transfers for research, but it assists with overall connectivity. To many, this is a seamless upgrade, it ensures that there is no congestion or collisions with remote classes, the leveraging of cloud services, or the competition between research traffic and campus traffic. Numerous projects at these institutions now take advantage of the higher speed connectivity to enable teaching and learning outcomes with larger data sets, or the increased usage of software as a service that was hampered by slow bandwidth and congested links.  Additionally, there have been many specific facilitation of research collaborations, like the seamless data exchange between the Chesapeake Biological Laboratory and the Center for Conservation Bioacoustics at the Cornell Lab of Ornithology (CLO). At the heart of this collaboration lies the exchange of science audio data, specifically capturing the spatial and temporal occurrence of species-specific sounds. Researchers have harnessed this resource to gain insights into various aspects of ecology and behavior, ultimately enhancing our understanding of the natural world. By leveraging the audio data shared between institutions via MDREN, scientists can decipher seasonal variations, trace migration routes, and even investigate the impacts of climate change on these crucial ecosystems. Our aspiration is that this data transfer system will pave the way for future prospects in education and mentorship by granting access to authentic, real-world data. In the longer term, this grant has changed the way MDREN communicates about its work and service offerings through a comprehensive outreach strategy. There are now monthly updates to the Engineering Committee, quarterly updates to the Board of Directors, dedicated sessions around research enablement at the newly launched MDREN Tech Days, and presentations to State Wide and University System of Maryland Research leaders that all aim to better connect researchers with the new capabilities that now exist, while providing staff support to take advantage of them, something that has been lacking previously in many cases.  This project has made significant strides in advancing research and education by addressing critical infrastructure challenges faced by historically under-resourced institutions. Through this National Science Foundation support, MDREN was able to address infrastructure challenges, foster collaboration, and enable seamless data exchange among institutions, ultimately benefiting the academic and research community as a whole.               Last Modified: 10/20/2023       Submitted by: Damian Doyle]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

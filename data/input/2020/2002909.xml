@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS: Environmental Degradation Pathways for Some Emerging Contaminants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>545001.00</AwardTotalIntnAmount>
+<AwardAmount>545001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+<PO_EMAI>aschmolt@nsf.gov</PO_EMAI>
+<PO_PHON>7032924716</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With this award, the Environmental Chemical Sciences Program of the NSF Division of Chemistry supports research by Professor Barbara Finlayson-Pitts and her group to address the environmental fate of emerging contaminants (EC), which are chemicals that are not commonly monitored but may become widely distributed in the environment. They can have adverse effects on human health and ecological systems. This class of compounds includes some pharmaceuticals, pesticides and munitions. Once in the environment, these compounds can undergo reactions that either make them less, or in some cases, more toxic.  Thus, understanding their fates once released is important for understanding the health and environmental risks as well as for guiding the future development of less harmful substitutes.  The research in the Finlayson-Pitts group is directed at understanding the fundamental processes that occur when certain classes of EC are exposed to sunlight or oxidants found in the atmosphere. This provides information on how fast they will react in air and the nature of the products formed that can be used to guide toxicology studies. The project provides research opportunities for a postdoctoral student as well as several undergraduate students. The PI also engages in a variety of outreach and training activities through the AirUCI Institute which she leads. &lt;br/&gt;&lt;br/&gt;To accomplish these goals, a combination of experimental approaches is used to study compounds that contain amine, nitro and in some cases, alkene groups. Thin films of the EC on infrared transmitting crystals are irradiated, and the loss of the EC and formation of products are followed in real time. Alternatively, the thin films are monitored during exposure to gas phase ozone. The mixtures of unreacted EC and its reaction products are extracted into solution and analyzed by a variety of separation and mass spectrometry techniques. Kinetics modeling is applied to determine the contributions of reaction and diffusion that occur in the gas-solid reactions.  Model compounds for the EC are also exposed to ozone, a strong oxidant, in the gas phase. This provide insights into the factors that control the oxidation and to find differences between similar reactions in the gas versus the condensed phase. These data provide a fundamental understanding of some of the degradation pathways that are likely to be important when these compounds are released into the environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002909</AwardID>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Finlayson-Pitts</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barbara J Finlayson-Pitts</PI_FULL_NAME>
+<EmailAddress><![CDATA[bjfinlay@uci.edu]]></EmailAddress>
+<NSF_ID>000444786</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>160 ALDRICH HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Department of Chemistry]]></Name>
+<CityName>Irvine</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926972025</ZipCode>
+<StreetAddress><![CDATA[Rowland Hall 393]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6882</Code>
+<Text>Environmental Chemical Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~545001</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>CAS: Environmental Degradation Pathways for Some Emerging Contaminants</p> <p>&nbsp;NSF Grant No. 2002909</p> <p>&nbsp;Barbara J. Finlayson-Pitts, Department of Chemistry, University of California Irvine, Irvine, CA&nbsp; 92697-2025</p> <p>&nbsp;Emerging contaminants (ECs), also known as contaminants of emerging concern, are naturally occurring or synthetic chemicals and materials with the potential to become distributed in the environment and result in deleterious effects on humans and/or ecosystems. These include a number of pharmaceuticals, pesticides and munitions. Because of the large number of these compounds coming into use every year, it is impossible to carry out individual studies of the environmental fates of each one. However, they tend to have similar structural features called chemical groups, and thus if one understands the impacts of these groups on the reactivity of model compounds, the results can be extrapolated to a much larger group with similar chemical structures.</p> <p>One important environmental fate of ECs is reaction with atmospheric oxidants such as ozone and the hydroxyl free radical (OH). In this research, the rate constants for reaction with ozone, an important air pollutant and greenhouse gas, with a series of model compounds were measured. These model compounds had a number of structural features found in neonicotinoid (NN) pesticides, pharmaceuticals and munitions, including a carbon-carbon double bond (&gt;C=C&lt;), a nitro group (-NO<sub>2</sub>) and an amine group (-NH&shy;<sub>2</sub>, &gt;NH or &gt;N-). Measuring the rate constants provided a structure-reactivity relationship which was then applied to the reaction of yet another NN, nitenpyram. The predictions from the model compounds studies were in good agreement with experimental measurements on nitenpyram itself, validating this approach for assessing environmental fates of EC. The reaction products in these studies included a number of compounds that are listed as Hazardous Air Pollutants by the U.S. Environmental Protection Agency. These include formaldehyde, dimethylformamide and a nitrosamine.</p> <p>&nbsp;Another ubiquitous oxidant in the atmosphere is the hydroxyl free radical (OH). Studies of the reaction of gas phase OH with three solid NN&rsquo;s, imidacloprid, dinotefuran and clothianidin, gave estimated initial atmospheric lifetimes of approximately 10-17 days. These reactions may be especially important at night when destruction of the NN by absorption of sunlight does not occur but there are still sources of the OH radical.</p> <p>&nbsp;When the NNs are in the environment on the surfaces of plants, soil, airborne particles or building surfaces, they form a solid film. Reactive oxidants such as ozone and the hydroxyl radical can still attack the solid NN film from the gas phase. However, some underlying surfaces can also generate oxidants such as OH directly. This means that the NNs can be attacked by an oxidant from the &ldquo;bottom up&rdquo; as well as &ldquo;top down&rdquo; from the gas phase. To explore this possibility, studies of the oxidation of one NN, acetamiprid, by OH were carried out both from the top down and the bottom up. Rate measurements showed that the lifetime of this NN with respect to attack from the gas phase was of the order of a few days. &ldquo;Bottom up&rdquo; experiments using a substrate that can also generate OH showed that a there may be a similar lifetime for an adsorbed film of acetamiprid.</p> <p>&nbsp;In summary, these studies show that reactions with atmospheric oxidants are potentially very important once the ECs are released into the environment. Many of the products have known toxicity, emphasizing the importance of a holistic approach that includes not only the parent EC but also its transformation products, in assessing their environmental impacts.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/11/2023<br> Modified by: Barbara&nbsp;J&nbsp;Finlayson-Pitts</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  CAS: Environmental Degradation Pathways for Some Emerging Contaminants   NSF Grant No. 2002909   Barbara J. Finlayson-Pitts, Department of Chemistry, University of California Irvine, Irvine, CA 92697-2025   Emerging contaminants (ECs), also known as contaminants of emerging concern, are naturally occurring or synthetic chemicals and materials with the potential to become distributed in the environment and result in deleterious effects on humans and/or ecosystems. These include a number of pharmaceuticals, pesticides and munitions. Because of the large number of these compounds coming into use every year, it is impossible to carry out individual studies of the environmental fates of each one. However, they tend to have similar structural features called chemical groups, and thus if one understands the impacts of these groups on the reactivity of model compounds, the results can be extrapolated to a much larger group with similar chemical structures.   One important environmental fate of ECs is reaction with atmospheric oxidants such as ozone and the hydroxyl free radical (OH). In this research, the rate constants for reaction with ozone, an important air pollutant and greenhouse gas, with a series of model compounds were measured. These model compounds had a number of structural features found in neonicotinoid (NN) pesticides, pharmaceuticals and munitions, including a carbon-carbon double bond (C=C2) and an amine group (-NH2, NH or N-). Measuring the rate constants provided a structure-reactivity relationship which was then applied to the reaction of yet another NN, nitenpyram. The predictions from the model compounds studies were in good agreement with experimental measurements on nitenpyram itself, validating this approach for assessing environmental fates of EC. The reaction products in these studies included a number of compounds that are listed as Hazardous Air Pollutants by the U.S. Environmental Protection Agency. These include formaldehyde, dimethylformamide and a nitrosamine.   Another ubiquitous oxidant in the atmosphere is the hydroxyl free radical (OH). Studies of the reaction of gas phase OH with three solid NNs, imidacloprid, dinotefuran and clothianidin, gave estimated initial atmospheric lifetimes of approximately 10-17 days. These reactions may be especially important at night when destruction of the NN by absorption of sunlight does not occur but there are still sources of the OH radical.   When the NNs are in the environment on the surfaces of plants, soil, airborne particles or building surfaces, they form a solid film. Reactive oxidants such as ozone and the hydroxyl radical can still attack the solid NN film from the gas phase. However, some underlying surfaces can also generate oxidants such as OH directly. This means that the NNs can be attacked by an oxidant from the bottom up as well as top down from the gas phase. To explore this possibility, studies of the oxidation of one NN, acetamiprid, by OH were carried out both from the top down and the bottom up. Rate measurements showed that the lifetime of this NN with respect to attack from the gas phase was of the order of a few days. Bottom up experiments using a substrate that can also generate OH showed that a there may be a similar lifetime for an adsorbed film of acetamiprid.   In summary, these studies show that reactions with atmospheric oxidants are potentially very important once the ECs are released into the environment. Many of the products have known toxicity, emphasizing the importance of a holistic approach that includes not only the parent EC but also its transformation products, in assessing their environmental impacts.                    Last Modified: 11/11/2023       Submitted by: BarbaraJFinlayson-Pitts]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

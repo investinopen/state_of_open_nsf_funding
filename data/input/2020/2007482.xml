@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Personalizing API Documentation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>532000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Application programming interfaces (APIs), including libraries, frameworks, toolkits, software development kits and web services, are used throughout most programmers' code. Since programming is a human activity, the usability of the APIs has a big impact on the effectiveness of the programmer and the resulting code: poor usability of APIs has been shown to result in bugs and security holes in code, as well as to reduce the programmer's productivity. Further, today's programmers must be learning new APIs all the time, as they switch projects or start using new packages or web services. A longstanding, but often overlooked, complaint about the usability of APIs is in the documentation. To be effective, API documentation must inform programmers, who have varying levels of expertise, how to correctly and effectively use the API. This project will create and empirically evaluate a system that automatically estimates the knowledge needs to use an API, and the needs and learning style of the user, to create personalized documentation focused on what the user needs to know. The project has the potential to significantly improve API usability and API learning, which could improve programmer effectiveness and productivity, and reduce bugs and security flaws, which would have a significant impact on all computerized systems. &lt;br/&gt;&lt;br/&gt;This project involves fundamental research to identify and represent the knowledge that a programmer has, and programmers' learning styles, as it relates to APIs, based on user-centered studies and computational techniques including mining software repositories and natural language processing. From these sources, the system will identify how to create personalized documentation, which presents the right information in an appropriate format, without requiring the documentation writer to do much more work. The research will also identify new ways to support process-oriented learning and tinkering so they are both more effective. The research includes validating all of these for effectiveness through appropriate user studies using real and large APIs in collaboration with the research team's industrial partners. The research also aims to support diverse learning styles that are often the styles favored by underrepresented populations that tend to be unsupported in software.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007482</AwardID>
+<Investigator>
+<FirstName>Brad</FirstName>
+<LastName>Myers</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brad A Myers</PI_FULL_NAME>
+<EmailAddress><![CDATA[bam@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000360868</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bogdan</FirstName>
+<LastName>Vasilescu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bogdan Vasilescu</PI_FULL_NAME>
+<EmailAddress><![CDATA[vasilescu@cmu.edu]]></EmailAddress>
+<NSF_ID>000692194</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133890</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-75656496-7fff-d74e-14e2-e07c7194d4d3">&nbsp;</span></p> <p dir="ltr"><span>Our research draws upon several fields. We have conducted software repository mining to understand developers? needs (Software Engineering), developed and employed natural language processing techniques to collect and process information scattered across various mediums (NLP), and designed human-computer interaction methods to enhance usability when designing and testing such tools (HCI). For our suite of annotation tools, we utilized human-centered methods through the whole development process (HCI) and drew upon software engineering literature to understand what types of information processing and sensemaking issues developers commonly encounter when developing software and using documentation (Software Engineering).</span></p> <p dir="ltr"><span>[Documentation Logs] We conducted an exploratory, mixed-methods empirical study on Google Cloud Platform documentation page-view logs, which revealed discernible patterns of documentation page visits. The study showed that developers use documentation differently, and developers? contextual factors, such as past experience with a specific product, do correlate with which documentation pages developers visit.&nbsp;</span></p> <p dir="ltr"><span>[SOREL] We developed a learning-based system that considers the task of writing code using unfamiliar libraries. This system extracts comparable API methods and explanations from Stack Overflow posts and provides proactive suggestions, outperforming conventional information-seeking approaches like search engines or pattern-matching based extraction approaches.</span></p> <p dir="ltr"><span>[LLM for code understanding] We created an in-IDE information support tool that takes into account the code the developer is working on as an extra context. By employing pre-trained large language models, it generated information tailored to the users? task context and demonstrated that generation-based context-aware information support can significantly enhance developers? ability to complete tasks compared to the general search engine-based information-seeking.</span></p> <p dir="ltr"><span>[Adamite] To help developers better utilize documentation on the internet, we developed a browser extension called ?Adamite? that allows users to annotate and categorize information they learn on the web about software libraries. The system is designed both to help the original annotator keep track of their thoughts and questions about the documentation, and to assist later readers of the documentation through allowing developers to mark and share their answered questions and other useful notes. Our evaluation found that developers were able to utilize annotated documentation to more successfully complete a programming task, over non-annotated documentation.</span></p> <p dir="ltr"><span>[Catseye] As an expansion of the Adamite work, we moved our annotation system and design goals into the code editor with a code annotation tool called ?Catseye?. Given the mutable nature of code and the difference in goals when writing code versus understanding documentation, our system design changed to support more developer-specific activities, such as lightweight versioning of code, capturing code output, and specialized support for copy and pasting code blocks, along with deletion. When performing a debugging task, Catseye users were better able to keep track of their information using annotations and successfully resolved more bugs, on average, than people using traditional information tracking measures, such as code comments.</span></p> <p dir="ltr"><span>[Sodalite] A key component to the success of both Adamite and Catseye is utilizing the context of the annotation anchor points to support sharing useful information with later developers. Similarly, both of these systems focused on keeping track of short-form, more ephemeral types of information such as open questions about the text in documentation. We decided to extend our design into a new tool called ?Sodalite?, which supports the authoring of long-form documents about code while retaining the anchoring concepts of linking between the developer?s written text and code within the editor to make the information more comprehensible to later developers. The approach of situating the long-form document within the editor additionally allows us to try and automatically repair the documentation when the code changes through recomputing new anchor points and marking the associated text as either correct or in need of review, given how successful our technique was in finding a code block that matches the block the author originally linked the text to. In our evaluation, we found that developers were able to create code documents with our tool and that the repairing mechanism worked in finding an appropriate anchoring point or marking the text as in need of review 86% of the time.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 10/02/2023<br>      Modified by: Brad&nbsp;A&nbsp;Myers</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275686286_4-Adamite--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275686286_4-Adamite--rgov-800width.jpg" title="Adamite, our annotation system, open on Piling docs. Left: green-highlighted code, indicating annotations. Text selected, pop-up displays 5 annotation types. Right: Adamite sidebar with 2 annotations, search bar, and list of pinned annotations."><img src="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275686286_4-Adamite--rgov-66x44.jpg" alt="Adamite, our annotation system, open on Piling docs. Left: green-highlighted code, indicating annotations. Text selected, pop-up displays 5 annotation types. Right: Adamite sidebar with 2 annotations, search bar, and list of pinned annotations."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of our browser-based documentation annotation tool, Adamite. (1) and (2) show the menu for creating a new annotation on some selected text, (4) shows how the annotated text looks on the web page, and (5) and (3) show the Adamite sidebar and an annotation, respectively.</div> <div class="imageCredit">Screenshot by Amber Horvath</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brad&nbsp;A&nbsp;Myers</div> <div class="imageTitle">Adamite, our annotation system, open on Piling docs. Left: green-highlighted code, indicating annotations. Text selected, pop-up displays 5 annotation types. Right: Adamite sidebar with 2 annotations, search bar, and list of pinned annotations.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696272760951_3-pageviewlogs--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696272760951_3-pageviewlogs--rgov-800width.jpg" title="Polar plots of average dwell time of selected example clusters accompanied with bar charts summarizing the user distributions. The first set shows the average usage of the entire users in the dataset. The other sets show discernible usages of documentation and the distributions of the users."><img src="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696272760951_3-pageviewlogs--rgov-66x44.jpg" alt="Polar plots of average dwell time of selected example clusters accompanied with bar charts summarizing the user distributions. The first set shows the average usage of the entire users in the dataset. The other sets show discernible usages of documentation and the distributions of the users."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Highlights of the clustering analysis of Google Cloud Platform documentation page-view logs analysis. Each polar plot displays the average time spent on each type of documentation. Bar charts show the proportions (%) of each group in the cluster.</div> <div class="imageCredit">Generated by Daye Nam</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brad&nbsp;A&nbsp;Myers</div> <div class="imageTitle">Polar plots of average dwell time of selected example clusters accompanied with bar charts summarizing the user distributions. The first set shows the average usage of the entire users in the dataset. The other sets show discernible usages of documentation and the distributions of the users.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696272658151_2-SOREL--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696272658151_2-SOREL--rgov-800width.jpg" title="SOREL is a browser plug-in providing comparable API methods and explanations. The image shows a Tensorflow method shown in the search result, with an orange �VS� icon indicating the availability of comparable API methods. The right side of the image shows a SOREL panel displaying the information."><img src="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696272658151_2-SOREL--rgov-66x44.jpg" alt="SOREL is a browser plug-in providing comparable API methods and explanations. The image shows a Tensorflow method shown in the search result, with an orange �VS� icon indicating the availability of comparable API methods. The right side of the image shows a SOREL panel displaying the information."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of SOREL, a browser plug-in. (1) When there are comparable API methods, SOREL inserts a �vs'' icon showing (2) the comparable API methods; (3) the explanations for the comparison; (4) a link to the Stack Overflow answer where the information is extracted from.</div> <div class="imageCredit">Screenshot by Daya Nam</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brad&nbsp;A&nbsp;Myers</div> <div class="imageTitle">SOREL is a browser plug-in providing comparable API methods and explanations. The image shows a Tensorflow method shown in the search result, with an orange �VS� icon indicating the availability of comparable API methods. The right side of the image shows a SOREL panel displaying the information.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275846268_1-GILT--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275846268_1-GILT--rgov-800width.jpg" title="Our prototype for generation-based information support tool, GILT, opened in VS Code. The right code panel includes code, part of it highlighted. The left panel shows the GILT sidebar, displaying the summary of the highlighted code and the LLM-generated information, and a textbox for a user prompt."><img src="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275846268_1-GILT--rgov-66x44.jpg" alt="Our prototype for generation-based information support tool, GILT, opened in VS Code. The right code panel includes code, part of it highlighted. The left panel shows the GILT sidebar, displaying the summary of the highlighted code and the LLM-generated information, and a textbox for a user prompt."></a> <div class="imageCaptionContainer"> <div class="imageCaption">GILT tool for generation-based information support. (1) A trigger button; (2) code used as context when prompting LLM; (3) code summary; (4) more details buttons; (5) input box for user prompts; (6) embed information into code; (7) clear the panel and an abort LLM; (8) refresh.</div> <div class="imageCredit">Screenshot by Daye Nam</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brad&nbsp;A&nbsp;Myers</div> <div class="imageTitle">Our prototype for generation-based information support tool, GILT, opened in VS Code. The right code panel includes code, part of it highlighted. The left panel shows the GILT sidebar, displaying the summary of the highlighted code and the LLM-generated information, and a textbox for a user prompt.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275938243_5-catseye--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275938243_5-catseye--rgov-800width.jpg" title="Catseye, code annotation system, open in dark mode Visual Studio Code. Left: HTML file. Right: Catseye pane mimics VS Code style and includes search bar, �Pinned� and �Current File� annotations, code snippets, and annotations. Snapshots and replies are expanded."><img src="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696275938243_5-catseye--rgov-66x44.jpg" alt="Catseye, code annotation system, open in dark mode Visual Studio Code. Left: HTML file. Right: Catseye pane mimics VS Code style and includes search bar, �Pinned� and �Current File� annotations, code snippets, and annotations. Snapshots and replies are expanded."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of our code annotation tool, Catseye. The Catseye pane displays a list of annotations � in this case, a single annotation is open which has multiple code anchors ((6) and (7)) and multiple versions and replies ((8) and (9)). (1) shows how the annotation anchor point looks within the editor.</div> <div class="imageCredit">Screenshot by Amber Horvath</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brad&nbsp;A&nbsp;Myers</div> <div class="imageTitle">Catseye, code annotation system, open in dark mode Visual Studio Code. Left: HTML file. Right: Catseye pane mimics VS Code style and includes search bar, �Pinned� and �Current File� annotations, code snippets, and annotations. Snapshots and replies are expanded.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696276039472_6-Sodalite--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696276039472_6-Sodalite--rgov-800width.jpg" title="Sodalite with multiple code stories open. Each code story is a rounded rectangle with a title and text with code links in red. One story has text highlighted in yellow because the maintenance algorithm found the text in need of review � another has red highlights because the code links are broken."><img src="/por/images/Reports/POR/2023/2007482/2007482_10680143_1696276039472_6-Sodalite--rgov-66x44.jpg" alt="Sodalite with multiple code stories open. Each code story is a rounded rectangle with a title and text with code links in red. One story has text highlighted in yellow because the maintenance algorithm found the text in need of review � another has red highlights because the code links are broken."></a> <div class="imageCaptionContainer"> <div class="imageCaption">How our long-form code documentation system, Sodalite, appears when multiple documents are open. (1) shows a code document with a code link in red, and has no errors, while (2) is a story with warnings and a pop-up (3). (4) is a code story with errors, given that no matches were found.</div> <div class="imageCredit">Screenshot by Amber Horvath</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brad&nbsp;A&nbsp;Myers</div> <div class="imageTitle">Sodalite with multiple code stories open. Each code story is a rounded rectangle with a title and text with code links in red. One story has text highlighted in yellow because the maintenance algorithm found the text in need of review � another has red highlights because the code links are broken.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Our research draws upon several fields. We have conducted software repository mining to understand developers? needs (Software Engineering), developed and employed natural language processing techniques to collect and process information scattered across various mediums (NLP), and designed human-computer interaction methods to enhance usability when designing and testing such tools (HCI). For our suite of annotation tools, we utilized human-centered methods through the whole development process (HCI) and drew upon software engineering literature to understand what types of information processing and sensemaking issues developers commonly encounter when developing software and using documentation (Software Engineering). [Documentation Logs] We conducted an exploratory, mixed-methods empirical study on Google Cloud Platform documentation page-view logs, which revealed discernible patterns of documentation page visits. The study showed that developers use documentation differently, and developers? contextual factors, such as past experience with a specific product, do correlate with which documentation pages developers visit.  [SOREL] We developed a learning-based system that considers the task of writing code using unfamiliar libraries. This system extracts comparable API methods and explanations from Stack Overflow posts and provides proactive suggestions, outperforming conventional information-seeking approaches like search engines or pattern-matching based extraction approaches. [LLM for code understanding] We created an in-IDE information support tool that takes into account the code the developer is working on as an extra context. By employing pre-trained large language models, it generated information tailored to the users? task context and demonstrated that generation-based context-aware information support can significantly enhance developers? ability to complete tasks compared to the general search engine-based information-seeking. [Adamite] To help developers better utilize documentation on the internet, we developed a browser extension called ?Adamite? that allows users to annotate and categorize information they learn on the web about software libraries. The system is designed both to help the original annotator keep track of their thoughts and questions about the documentation, and to assist later readers of the documentation through allowing developers to mark and share their answered questions and other useful notes. Our evaluation found that developers were able to utilize annotated documentation to more successfully complete a programming task, over non-annotated documentation. [Catseye] As an expansion of the Adamite work, we moved our annotation system and design goals into the code editor with a code annotation tool called ?Catseye?. Given the mutable nature of code and the difference in goals when writing code versus understanding documentation, our system design changed to support more developer-specific activities, such as lightweight versioning of code, capturing code output, and specialized support for copy and pasting code blocks, along with deletion. When performing a debugging task, Catseye users were better able to keep track of their information using annotations and successfully resolved more bugs, on average, than people using traditional information tracking measures, such as code comments. [Sodalite] A key component to the success of both Adamite and Catseye is utilizing the context of the annotation anchor points to support sharing useful information with later developers. Similarly, both of these systems focused on keeping track of short-form, more ephemeral types of information such as open questions about the text in documentation. We decided to extend our design into a new tool called ?Sodalite?, which supports the authoring of long-form documents about code while retaining the anchoring concepts of linking between the developer?s written text and code within the editor to make the information more comprehensible to later developers. The approach of situating the long-form document within the editor additionally allows us to try and automatically repair the documentation when the code changes through recomputing new anchor points and marking the associated text as either correct or in need of review, given how successful our technique was in finding a code block that matches the block the author originally linked the text to. In our evaluation, we found that developers were able to create code documents with our tool and that the repairing mechanism worked in finding an appropriate anchoring point or marking the text as in need of review 86% of the time.          Last Modified: 10/02/2023       Submitted by: Brad A Myers]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Digitization PEN: GalapaGateway: Unlocking Model Evolutionary Systems for Research and Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>170440.00</AwardTotalIntnAmount>
+<AwardAmount>170440</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The California Academy of Sciences (CAS) is home to the largest and most complete collection of scientific research specimens from the Galápagos Islands, the majority of which can only be accessed by a small number of researchers able to visit the museum. GalapaGateway is a Partnership to Existing Networks (PEN) award that compliments the Open Vertebrate Thematic Collections Network (oVert TCN). This PEN will produce and disseminate high resolution three-dimensional (3D) imagery of approximately 1300 vertebrate specimens of reptiles, birds, and mammals from the Galápagos Islands, thereby increasing accessibility to these historical specimens. Resulting 3D scans will be available free of charge on multiple platforms, including iDigBio, MorphoSource, SketchFab, and a dedicated CAS portal that links scans to specimen data, fieldnotes, and images. Physical 3D models of selected specimens, such as giant tortoises and Darwin’s finches, will be printed for use in education and public outreach at the CAS and at the Charles Darwin Foundation in the Galápagos Islands. &lt;br/&gt;&lt;br/&gt;While the oVert TCN aims to scan a single representative of each vertebrate genus, this PEN will image multiple specimens per species to capture within-species variation. Variation within species of Galapagos animals was central to Darwin’s theory of evolution by natural selection and continues to serve as a textbook example for explaining these foundational concepts to students and the general public. Through a combination of computed tomography (CT) and structured light surface scanning, the GalapaGateway project will create morphological data and 3D models of multiple series of closely related taxa from across the Galápagos Archipelago, allowing for in-depth analysis of vertebrate morphology, variation, adaptation, and speciation. 3D surface scanning will be used on specimens too large for traditional CT-scanning machines. Producing these scans of iconic historical specimens from the Galápagos will facilitate a wide variety of academic inquiries, including research into morphology and allometry, development, taxonomy, and adaptive ecology and evolution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001435</AwardID>
+<Investigator>
+<FirstName>Maureen</FirstName>
+<LastName>Flannery</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maureen E Flannery</PI_FULL_NAME>
+<EmailAddress><![CDATA[mflannery@calacademy.org]]></EmailAddress>
+<NSF_ID>000811380</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Scheinberg</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lauren A Scheinberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[lscheinberg@calacademy.org]]></EmailAddress>
+<NSF_ID>000811235</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Blackburn</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David C Blackburn</PI_FULL_NAME>
+<EmailAddress><![CDATA[dblackburn@flmnh.ufl.edu]]></EmailAddress>
+<NSF_ID>000522423</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Academy of Sciences]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941184503</ZipCode>
+<PhoneNumber>4153795146</PhoneNumber>
+<StreetAddress><![CDATA[55 MUSIC CONCOURSE DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N7NRRBNKM5P3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA ACADEMY OF SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F57PLAKLFQL3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Academy of Sciences]]></Name>
+<CityName>San Francisco</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941184503</ZipCode>
+<StreetAddress><![CDATA[55 Music Concourse Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6895</Code>
+<Text>Digitization</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6895</Code>
+<Text>DIGITIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~170440</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The California Academy of Sciences (CAS) is home to the largest and most complete collection of scientific research specimens from the Gal&aacute;pagos Islands, the majority of which can only be accessed by a small number of researchers able to visit the museum. The GalapaGateway grant is a Partnership to Existing Networks (PEN) award that compliments the Open Vertebrate Thematic Collections Network (oVert TCN). Through this grant, we produced and disseminated high resolution three-dimensional (3D) imagery of approximately 800 vertebrate specimens of reptiles, birds, and mammals from the Gal&aacute;pagos Islands, thereby increasing accessibility to these historical specimens. 3D scans are available free of charge on MorphoSource and on a dedicated SketchFab page for use by researchs, educators, and to the public. Physical 3D models of selected specimens, such as giant tortoises, were printed for use in education and public outreach at the CAS through the Naturalist Center and docent programming, and at the Charles Darwin Foundation in the Gal&aacute;pagos Islands. The GalapaGateway project was also highlighted in the "Hidden Wonders" exhibit at CAS, reaching over two million visitors each year. Additional outreach activities included multiple trainings and demonstrations both within and outside of the CAS, for students, educators, artists, and the visiting public.</span></p> <p><span>While the oVert TCN aims to scan a single representative of each vertebrate genus, this PEN aimed to scan multiple specimens per species to capture within-species variation. Variation within species of Galapagos animals was central to Darwin's theory of evolution by natural selection and continues to serve as a textbook example for explaining these foundational concepts to students and the general public. Through a combination of computed tomography (CT) and structured light surface scanning, the GalapaGateway project produced morphological data and 3D models of multiple series of closely related taxa from across the Gal&aacute;pagos Archipelago, allowing for in-depth analysis of vertebrate morphology, variation, adaptation, and speciation. 3D surface scanning was used on specimens too large for traditional CT-scanning machines, like giant tortoises. These scans of iconic historical specimens from the Gal&aacute;pagos will facilitate a wide variety of academic inquiries now and into the future, including research into morphology and allometry, development, taxonomy, and adaptive ecology and evolution.</span></p><br> <p>  Last Modified: 12/13/2023<br> Modified by: Lauren&nbsp;A&nbsp;Scheinberg</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2001435/2001435_10700118_1702504217898_Screenshot_2023_12_13_at_1.44.11_PM--rgov-214x142.png" original="/por/images/Reports/POR/2023/2001435/2001435_10700118_1702504217898_Screenshot_2023_12_13_at_1.44.11_PM--rgov-800width.png" title="Chelonoidis vandenburghi"><img src="/por/images/Reports/POR/2023/2001435/2001435_10700118_1702504217898_Screenshot_2023_12_13_at_1.44.11_PM--rgov-66x44.png" alt="Chelonoidis vandenburghi"></a> <div class="imageCaptionContainer"> <div class="imageCaption">3D surface scan of the Alcedo Volcano giant tortoise (CASHERP:8141) from the Galapagos collections at the California Academy of Sciences</div> <div class="imageCredit">Kate High</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Lauren&nbsp;A&nbsp;Scheinberg <div class="imageTitle">Chelonoidis vandenburghi</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The California Academy of Sciences (CAS) is home to the largest and most complete collection of scientific research specimens from the Galpagos Islands, the majority of which can only be accessed by a small number of researchers able to visit the museum. The GalapaGateway grant is a Partnership to Existing Networks (PEN) award that compliments the Open Vertebrate Thematic Collections Network (oVert TCN). Through this grant, we produced and disseminated high resolution three-dimensional (3D) imagery of approximately 800 vertebrate specimens of reptiles, birds, and mammals from the Galpagos Islands, thereby increasing accessibility to these historical specimens. 3D scans are available free of charge on MorphoSource and on a dedicated SketchFab page for use by researchs, educators, and to the public. Physical 3D models of selected specimens, such as giant tortoises, were printed for use in education and public outreach at the CAS through the Naturalist Center and docent programming, and at the Charles Darwin Foundation in the Galpagos Islands. The GalapaGateway project was also highlighted in the "Hidden Wonders" exhibit at CAS, reaching over two million visitors each year. Additional outreach activities included multiple trainings and demonstrations both within and outside of the CAS, for students, educators, artists, and the visiting public.   While the oVert TCN aims to scan a single representative of each vertebrate genus, this PEN aimed to scan multiple specimens per species to capture within-species variation. Variation within species of Galapagos animals was central to Darwin's theory of evolution by natural selection and continues to serve as a textbook example for explaining these foundational concepts to students and the general public. Through a combination of computed tomography (CT) and structured light surface scanning, the GalapaGateway project produced morphological data and 3D models of multiple series of closely related taxa from across the Galpagos Archipelago, allowing for in-depth analysis of vertebrate morphology, variation, adaptation, and speciation. 3D surface scanning was used on specimens too large for traditional CT-scanning machines, like giant tortoises. These scans of iconic historical specimens from the Galpagos will facilitate a wide variety of academic inquiries now and into the future, including research into morphology and allometry, development, taxonomy, and adaptive ecology and evolution.     Last Modified: 12/13/2023       Submitted by: LaurenAScheinberg]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

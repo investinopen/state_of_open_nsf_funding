@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nonlinear Partial Differential Equations and Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>247948.00</AwardTotalIntnAmount>
+<AwardAmount>247948</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+<PO_EMAI>jkaniaba@nsf.gov</PO_EMAI>
+<PO_PHON>7032924881</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many physical theories have been modeled successfully by mathematical equations known as partial differential equations (PDEs).  The classical examples are the heat equation, the wave equation and the Laplace equation, which describe in ideal conditions the behavior of heat, waves and electrostatic potentials respectively.  These are linear PDEs.  More complicated theories are often modeled by nonlinear PDEs.  A classic nonlinear PDE is the Monge-Ampere equation which has connections to the physical theory of optics but is also a powerful tool in the study of geometry.  This research will investigate several nonlinear PDE, all related to the Monge-Ampere equation, which arise in geometry or which exhibit geometric behavior.  The research goals are two-fold:  to use nonlinear PDEs to advance our understanding of geometric spaces and the structures that live on them; and to understand the phenomena and behavior of solutions of nonlinear PDE using the tools and language of geometry.  In addition the PI will also train graduate students in the methods of nonlinear PDEs and geometry, and guide their research.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The PI will carry out research on nonlinear PDEs and geometry. There are five projects, linked by the common theme of the complex Monge-Ampere equation and focusing on developing new analytic tools and strategies to derive a priori estimates.  For the first project, the PI will investigate a conjecture of Donaldson extending Yau’s theorem on the complex Monge-Ampere equation to the setting of symplectic 4-manifolds, using an ansatz which reduces the nonlinear PDE to an equation of a single real-valued function.  A second project will study Perelman’s estimates for the Kahler-Ricci flow with the goal of understanding the behavior of the flow when there is a finite time singularity.  A further project is to investigate a non-Kahler version of this flow, known as the Chern-Ricci flow, with a focus on finite time singularities on complex surfaces.  Another project will extend the work of Chen-Cheng and Shen on the question of existence of metrics with constant Chern scalar curvature, in the setting of non-Kahler complex surfaces.  A final project is to study the uniform convexity of convex solutions to PDEs satisfying certain structure conditions, building on constant rank theorems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005311</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Weinkove</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin Weinkove</PI_FULL_NAME>
+<EmailAddress><![CDATA[weinkove@math.northwestern.edu]]></EmailAddress>
+<NSF_ID>000136752</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602082730</ZipCode>
+<StreetAddress><![CDATA[2033 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~247948</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><br />Many physical theories have been modeled successfully by mathematical equations known as <em>partial differential equations</em> (PDEs).&nbsp; The classical examples are the heat equation, the wave equation and the Laplace equation, which describe in ideal conditions the behavior of heat, waves and electrostatic potentials respectively.&nbsp; These are linear PDEs.&nbsp; More complicated theories are often modeled by nonlinear PDEs. This project investigated the use of nonlinear PDEs in the study of geometric spaces and the structures that live on them; and the phenomena and behavior of solutions of nonlinear PDE using the tools and language of geometry.&nbsp; As part of this project the PI trained graduate students in the methods of nonlinear PDEs and geometry, and guided their research.</p> <p>The PI investigated convexity of solutions to partial differential equations.&nbsp; The PI established new results on convexity of solutions in several different contexts:&nbsp; for the porous medium equation, an equation modeling the diffusion of gas in a porous medium; for the quasi-static droplet model for the shape of a liquid droplet; and for semi-linear equations including the torsion problem much studied in engineering.&nbsp; In addition, the PI established a quantitative version of the so-called <em>constant rank theorem</em> on convex solutions of partial differential equations.&nbsp; This theorem asserts that a convex solution to certain nonlinear equation must have Hessian of constant rank, which roughly says that the number of directions in which the solution is strictly convex does not jump.</p> <p>The PI also investigated optimal estimates for solutions of partial differential equations in the context of conductivity problems.&nbsp; When a charged composite material is constructed of materials with different conductivities, the electric field may be very large in a narrow region between these materials.&nbsp; A similar model is used to investigate stress and material failure.&nbsp; A question then is how to obtain quantitative information on the magnitude of the electric field, depending on the distance between the inclusions (conductors or insulators).&nbsp; The PI made new advances on this question in two cases:&nbsp; one when the inclusions are perfect conductors (including allowing non-trivial topology of the inclusions) and the other when the inclusions are insulators.&nbsp; In the latter case, the PI introduced <em>maximum principle</em> methods to obtain new bounds.</p> <p>In all of the above, geometry plays a role in the study of partial differential equations.&nbsp; Conversely, the PI also explored the use of partial differential equations to probe geometry:&nbsp; specifically the geometry of complex manifolds.&nbsp; The PI investigated the Chern-Ricci flow, a parabolic flow on complex manifolds, setting out a series of conjectures on its behavior and how this could be used to probe the underlying geometric structure.</p> <p>The PI supervised two PhD students during the period of the grant, organized informal learning seminars at Northwestern University and supervised two undergraduate research projects.&nbsp; The PI also gave numerous talks on his research.</p><br> <p>  Last Modified: 11/16/2023<br> Modified by: Benjamin&nbsp;Weinkove</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Many physical theories have been modeled successfully by mathematical equations known as partial differential equations (PDEs). The classical examples are the heat equation, the wave equation and the Laplace equation, which describe in ideal conditions the behavior of heat, waves and electrostatic potentials respectively. These are linear PDEs. More complicated theories are often modeled by nonlinear PDEs. This project investigated the use of nonlinear PDEs in the study of geometric spaces and the structures that live on them; and the phenomena and behavior of solutions of nonlinear PDE using the tools and language of geometry. As part of this project the PI trained graduate students in the methods of nonlinear PDEs and geometry, and guided their research.   The PI investigated convexity of solutions to partial differential equations. The PI established new results on convexity of solutions in several different contexts: for the porous medium equation, an equation modeling the diffusion of gas in a porous medium; for the quasi-static droplet model for the shape of a liquid droplet; and for semi-linear equations including the torsion problem much studied in engineering. In addition, the PI established a quantitative version of the so-called constant rank theorem on convex solutions of partial differential equations. This theorem asserts that a convex solution to certain nonlinear equation must have Hessian of constant rank, which roughly says that the number of directions in which the solution is strictly convex does not jump.   The PI also investigated optimal estimates for solutions of partial differential equations in the context of conductivity problems. When a charged composite material is constructed of materials with different conductivities, the electric field may be very large in a narrow region between these materials. A similar model is used to investigate stress and material failure. A question then is how to obtain quantitative information on the magnitude of the electric field, depending on the distance between the inclusions (conductors or insulators). The PI made new advances on this question in two cases: one when the inclusions are perfect conductors (including allowing non-trivial topology of the inclusions) and the other when the inclusions are insulators. In the latter case, the PI introduced maximum principle methods to obtain new bounds.   In all of the above, geometry plays a role in the study of partial differential equations. Conversely, the PI also explored the use of partial differential equations to probe geometry: specifically the geometry of complex manifolds. The PI investigated the Chern-Ricci flow, a parabolic flow on complex manifolds, setting out a series of conjectures on its behavior and how this could be used to probe the underlying geometric structure.   The PI supervised two PhD students during the period of the grant, organized informal learning seminars at Northwestern University and supervised two undergraduate research projects. The PI also gave numerous talks on his research.     Last Modified: 11/16/2023       Submitted by: BenjaminWeinkove]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

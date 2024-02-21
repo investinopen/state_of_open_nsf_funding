@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: QSA: Solving Optimization Problems on NISQ Computers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Forrey</SignBlockName>
+<PO_EMAI>rforrey@nsf.gov</PO_EMAI>
+<PO_PHON>7032925199</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Optimization problems are ubiquitous in all areas of science and engineering. Many important problems in chemistry, physics, and materials science can be cast as the optimization of a cost function under specific constraints. Traditionally, classical numerical optimization methods are the main go-to tool for studying such problems, but these methods are known to be grossly inefficient when tackling problems of this sort due to the exponentially increasing configuration space that needs to be explored. Quantum algorithms — protocols meant to be executed on quantum computers — provide a promising approach to solving such problems. Specifically, hybrid classical-quantum methods have been the focus of much attention in this context recently. The present project seeks to develop and experimentally implement a novel hybrid approach to solving optimization problems that reaches beyond the capabilities of the current state-of-the-art and that enables faster convergence with significantly fewer classical-quantum iterations and considerably fewer repeated experiments per iteration. The developed protocol will in turn allow reaching more accurate solutions to problems as well as the handling of larger problems than allowed by current algorithmic capabilities. &lt;br/&gt;&lt;br/&gt;One of the main bottlenecks of traditional quantum optimization protocols, such as QAOA and VQE, is that they require many classical-quantum iterations to converge. The main objective of this project is to dramatically reduce the number of classical-quantum iterations. This approach, which relies on combining advanced parametric minimization tools together with recent results in quantum information theory, enables the efficient estimation of physical quantities (observables) with precise control over estimation errors. The present parametric-based minimization is inherently different than state-of-the-art approaches wherein the optimization is based on available data and as such it is expected to substantially reduce the number of classical-quantum iterations. These savings in resources will in turn enhance our ability to solve optimization problems on current NISQ devices.  This project is being co-funded by the Division of Chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037301</AwardID>
+<Investigator>
+<FirstName>Itay</FirstName>
+<LastName>Hen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Itay Hen</PI_FULL_NAME>
+<EmailAddress><![CDATA[itayhen@isi.edu]]></EmailAddress>
+<NSF_ID>000680419</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>Kalev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amir Kalev</PI_FULL_NAME>
+<EmailAddress><![CDATA[amirk@isi.edu]]></EmailAddress>
+<NSF_ID>000772333</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST FL 3</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900890001</ZipCode>
+<StreetAddress><![CDATA[3720 S. Flower St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this work we have developed and experimentally implemented a novel approach to improving gate-based state-of-the-art quantum optimization protocols, such as QAOA and VQE. Our approach is based on a recent advancement in the area of description of quantum states, known as classical shadows, which demonstrate the possibility of estimating any physical quantity efficiently to within a standard statistical error. In this project we developed a hybrid protocol, based on this unique approach, combining parametric minimization tools with statistical inference based on physical observations to efficiently solve optimization problems using quantum computing devices.</p> <p>The outcomes of this project include:</p> <p>1.&nbsp; A python code that implements the classical part of the algorithm. The code is purposefully built to have a flexibility to include, as the project develops, more complicated components, such as circuit layer description, and state-of-the-art classical optimization routines such as the basin hopping algorithm to perfect the algorithm performance.<br />2. Testing for various candidates for the structure of the parametrized circuit layer. Specifically, we have tested the following single-qubit and two-qubit parametrized gates: (i) parametrized single-qubit rotation around a fixed axis that is chosen at random from the set {x,y,z}, (ii) parametrized single qubit&nbsp; rotation around a random axis, (iii)&nbsp; two-qubit controlled-rotation gate, where the rotation is according to (i) or (ii). Moreover, we have tested for different layer structures, including (i) single-qubit gate on each qubit, followed by a two-qubit gate on random pairs of qubits (sampling without replacement) and (ii) single-qubit gate on each qubit, followed by a two-qubit gate on random pairs of qubits (sampling without replacement), followed by another layer of single-qubit gates. We have analyzed the performance of any combination of the parametrized gates with layer structure.<br />3. Benchmarking the algorithm's performance on toy-models of up to six qubits. Specifically, we have tested (i) 2-sites dynamical mean-field theory (DMFT) model (after the Jordan-Wigner transformation) (ii) 1D Bose Hubbard model, and (iii) 2D Transverse Ising model. All models have been tested for various Hamiltonian parameters.<br />4. A modular qiskit code for implementing our hybrid classical-quantum algorithm on available quantum hadware. We plan to share this code on public repositories once it is complete.</p><br> <p>            Last Modified: 10/31/2023<br>      Modified by: Amir&nbsp;Kalev</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this work we have developed and experimentally implemented a novel approach to improving gate-based state-of-the-art quantum optimization protocols, such as QAOA and VQE. Our approach is based on a recent advancement in the area of description of quantum states, known as classical shadows, which demonstrate the possibility of estimating any physical quantity efficiently to within a standard statistical error. In this project we developed a hybrid protocol, based on this unique approach, combining parametric minimization tools with statistical inference based on physical observations to efficiently solve optimization problems using quantum computing devices.  The outcomes of this project include:  1.  A python code that implements the classical part of the algorithm. The code is purposefully built to have a flexibility to include, as the project develops, more complicated components, such as circuit layer description, and state-of-the-art classical optimization routines such as the basin hopping algorithm to perfect the algorithm performance. 2. Testing for various candidates for the structure of the parametrized circuit layer. Specifically, we have tested the following single-qubit and two-qubit parametrized gates: (i) parametrized single-qubit rotation around a fixed axis that is chosen at random from the set {x,y,z}, (ii) parametrized single qubit  rotation around a random axis, (iii)  two-qubit controlled-rotation gate, where the rotation is according to (i) or (ii). Moreover, we have tested for different layer structures, including (i) single-qubit gate on each qubit, followed by a two-qubit gate on random pairs of qubits (sampling without replacement) and (ii) single-qubit gate on each qubit, followed by a two-qubit gate on random pairs of qubits (sampling without replacement), followed by another layer of single-qubit gates. We have analyzed the performance of any combination of the parametrized gates with layer structure. 3. Benchmarking the algorithm's performance on toy-models of up to six qubits. Specifically, we have tested (i) 2-sites dynamical mean-field theory (DMFT) model (after the Jordan-Wigner transformation) (ii) 1D Bose Hubbard model, and (iii) 2D Transverse Ising model. All models have been tested for various Hamiltonian parameters. 4. A modular qiskit code for implementing our hybrid classical-quantum algorithm on available quantum hadware. We plan to share this code on public repositories once it is complete.       Last Modified: 10/31/2023       Submitted by: Amir Kalev]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

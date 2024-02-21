@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER-QAC-QCH: NSF-BSF: Quantum Computation as a Non-Equilibrium Dynamical Many-Body System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>291095.00</AwardTotalIntnAmount>
+<AwardAmount>326098</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl Hess</SignBlockName>
+<PO_EMAI>dhess@nsf.gov</PO_EMAI>
+<PO_PHON>7032924942</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Non-technical Summary &lt;br/&gt;&lt;br/&gt;This award is made on an EAGER proposal invited through the Quantum Algorithm Challenge Dear Colleague Letter. It supports research and education to study new concepts for how quantum mechanical states can be prepared and manipulated to perform computation which includes protocols or algorithms required to use a quantum computer to solve a problem. Quantum computing hardware has significantly advanced over the past few years. Both Google and IBM have recently demonstrated devices with about 50 fully controlled superconducting qubits with high fidelity and long coherence times. The number of qubits may be expected to increase even further, but the number of independent external controls presents a crucial bottleneck in scaling up the modern quantum computing architecture. This means that near-term quantum computers are not going to operate the way classical processors do. The PI aims to develop specific operating protocols, which will allow already existing quantum devices to perform particular optimization tasks, which are exponentially hard for conventional classical algorithms. The latter suffer from being trapped into sub-optimal solutions for extremely long times. Quantum tunneling allows for simultaneous exploration of multiple potentially optimal configurations, and ultimately enables finding the true unique optimum. This project is aimed to investigate theoretical limits for efficiency of these quantum algorithms. Practical demonstration schemes will be conceptualized and possibly implemented on existing prototypical quantum devices. &lt;br/&gt;&lt;br/&gt;NSF funds will provide training for a graduate student research assistant and (partially) a postdoctoral fellow. Both will be trained in the theoretical apparatus underlying construction of algorithms for quantum computation. The results of the project will be incorporated in graduate classes at the University of Minnesota as well as at regular summer schools, which the PI co-organizes through the Fine Theoretical Physics Institute. Part of the project will be conducted in close cooperation with Prof. Yuval Gefen of the Weizmann Institute, who will be funded separately by BSF. The BSF part will provide training for another postdoctoral fellow. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Summary &lt;br/&gt;&lt;br/&gt;This award is made on an EAGER proposal invited through the Quantum Algorithm Challenge Dear Colleague Letter. It supports research and education to study new concepts for how quantum mechanical states can be prepared and manipulated to perform computation which includes protocols or algorithms required to use a quantum computer to solve a problem. The PI will consider quantum approximate optimization algorithms (QAOA) and quantum image recognition schemes. Both are based on the idea of an information processing engine, which repeatedly performs a particular cycle. The cycle involves coupling and decoupling of the active quantum system, which can be modeled by a Sherrington-Kirkpatrick spin glass encoded with a desired optimization problem, with the information bath. A qubit realization of the Sachdev-Ye-Kitaev (SYK) model will be explored as a model for the information bath. The SYK system, being a holographic dual of a black hole, possesses a finite entropy down to the exponentially small temperature. This allows quantum tunneling among multiple local minima of the spin glass. The quantum measurement operation, performed in the end of each cycle, provides a progressively improving set of candidate optimal spin configurations. A  goal of the project is to evaluate the probability of finding the true optimum within such a set. Another goal is to optimize the cycle to determine theoretical bounds for efficiency of the information engine. The NSF-BSF part of the project will deal with a theoretical description in terms of the reduced density matrix of the working substance. We expect to find a Lindblad-like evolution equation. It will allow for an efficient analysis of computation schemes using existing powerful field-theoretical and computational techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037654</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Kamenev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alex Kamenev</PI_FULL_NAME>
+<EmailAddress><![CDATA[kamenev@physics.umn.edu]]></EmailAddress>
+<NSF_ID>000489376</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550149</ZipCode>
+<StreetAddress><![CDATA[116 Church St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7504</Code>
+<Text>NSF-INTERNAT COOP IN MATERIALS RES-OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~291095</FUND_OBLG>
+<FUND_OBLG>2022~35003</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The award is devoted to a theory and algorithms of quantum computation. The&nbsp;quantum hardware made tremendous progress during the last decade. This highlighted a question: what are real life problems that could be tackled with the existing quantum architecture and how.&nbsp;&nbsp;We argue that one of such problems is optimization.&nbsp;&nbsp;Optimization is ubiquitous from warehouse operation and asset allocation to airplane navigation and healthcare management. It requires finding a minimum of a certain &ldquo;cost function&rdquo; over many interconnected variables. From the physics standpoint it is equivalent to&nbsp;searching for low energy states of a generalized &ldquo;glass substance&rdquo;.&nbsp;&nbsp;Not surprisingly, cooling (or annealing) a glass is known to be a very hard problem in material science.&nbsp;&nbsp;</p> <p>The experience shows that all successful coolers work in periodic cycles, which drive the &ldquo;working media&rdquo; through endothermic phase transitions. We adopted this strategy for the quantum cooling of the glass (i.e. optimization). The relevant glass-melting transition happens to be the so-called many-body localization (MBL) transition, discovered about 20 years ago and thoroughly investigated since then. We have shown that one may arrange a cycle of quantum melting and refreezing of the &ldquo;optimization glass substance&rdquo;, which systematically cools it down (i.e. leads to better and better optimization solutions).&nbsp;&nbsp;Such a problem-specific "glass substance" and the corresponding cooling cycle may be realized with the modern day quantum computation platforms.&nbsp;&nbsp;</p> <p>Although it does not allow to find a truly best optimization outcome in a polynomial time, we have shown that it rapidly converges to one of very deep minima. Hence the acronym quantum approximate optimization algorithm (QAOA). Even better (still approximate) outcomes could be achieved with longer cycling time. The latter is shown to be related to fundamental properties of the MBL transition, known as critical exponents. Thanks to the NSF CloudBank funding mechanism, we have implemented the algorithm with the D-Wave 5000-qubit platform.&nbsp;&nbsp;We found that the algorithm efficiency conforms with the theoretical expectations and exceeds other known optimization algorithms. With the participation of the D-Wave team, we currently work on the algorithm improvement and eventually on its implementation in commercially available optimization engines.&nbsp; &nbsp; &nbsp;</p> <p>The project was funded by EAGER rapid-response high risk &ndash; high impact funding mechanism, within the NSF-BSF framework. The latter component funded the Israeli participant: Prof. Y. Gefen of the Weizmann Institute of Science. In collaboration with their group, we have conducted theoretical studies of quantum states preparation and manipulation protocols.&nbsp;Understanding of such protocols is crucial for a practical implementation of quantum algorithms (such as Shor&rsquo;s algorithm). The specific focus of these studies was on the role of dissipation and inadvertent errors on the performance of such protocols.&nbsp; &nbsp;</p> <p>The broader impact of the project is participation of two graduate students, who completed their degrees and joined the workforce.&nbsp;&nbsp;Two post-doctoral fellows were employed on the project at the Weizmann Institute. The PI already utilises the outcomes of the project in his teaching practices in the quantum computing courses at the University of Minnesota. The PI has completed the second edition of his book, which reflected some of the outcomes and developed techniques, while working on the project.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2023<br> Modified by: Alex&nbsp;Kamenev</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The award is devoted to a theory and algorithms of quantum computation. Thequantum hardware made tremendous progress during the last decade. This highlighted a question: what are real life problems that could be tackled with the existing quantum architecture and how.We argue that one of such problems is optimization.Optimization is ubiquitous from warehouse operation and asset allocation to airplane navigation and healthcare management. It requires finding a minimum of a certain cost function over many interconnected variables. From the physics standpoint it is equivalent tosearching for low energy states of a generalized glass substance.Not surprisingly, cooling (or annealing) a glass is known to be a very hard problem in material science.   The experience shows that all successful coolers work in periodic cycles, which drive the working media through endothermic phase transitions. We adopted this strategy for the quantum cooling of the glass (i.e. optimization). The relevant glass-melting transition happens to be the so-called many-body localization (MBL) transition, discovered about 20 years ago and thoroughly investigated since then. We have shown that one may arrange a cycle of quantum melting and refreezing of the optimization glass substance, which systematically cools it down (i.e. leads to better and better optimization solutions).Such a problem-specific "glass substance" and the corresponding cooling cycle may be realized with the modern day quantum computation platforms.   Although it does not allow to find a truly best optimization outcome in a polynomial time, we have shown that it rapidly converges to one of very deep minima. Hence the acronym quantum approximate optimization algorithm (QAOA). Even better (still approximate) outcomes could be achieved with longer cycling time. The latter is shown to be related to fundamental properties of the MBL transition, known as critical exponents. Thanks to the NSF CloudBank funding mechanism, we have implemented the algorithm with the D-Wave 5000-qubit platform.We found that the algorithm efficiency conforms with the theoretical expectations and exceeds other known optimization algorithms. With the participation of the D-Wave team, we currently work on the algorithm improvement and eventually on its implementation in commercially available optimization engines.     The project was funded by EAGER rapid-response high risk  high impact funding mechanism, within the NSF-BSF framework. The latter component funded the Israeli participant: Prof. Y. Gefen of the Weizmann Institute of Science. In collaboration with their group, we have conducted theoretical studies of quantum states preparation and manipulation protocols.Understanding of such protocols is crucial for a practical implementation of quantum algorithms (such as Shors algorithm). The specific focus of these studies was on the role of dissipation and inadvertent errors on the performance of such protocols.    The broader impact of the project is participation of two graduate students, who completed their degrees and joined the workforce.Two post-doctoral fellows were employed on the project at the Weizmann Institute. The PI already utilises the outcomes of the project in his teaching practices in the quantum computing courses at the University of Minnesota. The PI has completed the second edition of his book, which reflected some of the outcomes and developed techniques, while working on the project.                 Last Modified: 12/27/2023       Submitted by: AlexKamenev]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

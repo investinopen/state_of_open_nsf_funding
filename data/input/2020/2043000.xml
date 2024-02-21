@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Low carbon method of hydrogen gas production from hydrogen sulfide]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is to explore translation of environmentally friendly ways to produce hydrogen gas from hydrogen sulfide, a waste stream common in energy operations.  The sulfur content of extracted hydrocarbons is increasing, and these sulfur-heavy gases require additional processing.  The proposed technology cleans this sulfur-heavy gas in a sustainable process.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a technology for low carbon production of hydrogen gas from sulfur-rich gas streams common at oil and gas production and processing facilities. The technology is a chemical looping process that produces hydrogen from hydrogen sulfide and water via iodine intermediates. The process comprises two reaction and two separation steps. The first step is the reaction of hydrogen sulfide, water, and iodine to produce hydroiodic acid and sulfur dioxide. The second step requires the degassing of sulfur dioxide from the aqueous mixture at elevated temperatures. The mixture is vaporized and the hydrogen iodide is catalytically decomposed into hydrogen gas and iodine. This reaction step has been particularly well explored, with many experiments testing various catalysts and conversion rates. Finally, the stream is cooled, and hydrogen gas is flash separated from the mixture of iodine, water, and hydroiodic acid.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/27/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2043000</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Lubynsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman Lubynsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[rml@mit.edu]]></EmailAddress>
+<NSF_ID>000648609</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-738d5ef9-7fff-d0b7-e2f9-b3da3afde24d"> </span></p> <p dir="ltr"><span>This project is based on research that resulted in a new discovery of a </span><span>chemical process that produces</span><span> low cost, carbon neutral hydrogen gas from a high volume refinery waste stream of </span><span>hydrogen sulfide and water. &nbsp; Hydrogen gas is an important chemical feedstock but is largely produced with capital intensive, centralized, highly greenhouse gas emitting processes. Hydrogen sulfide is a high volume refinery waste stream that is processed to meet environmental standards, but produces little additional value.&nbsp; The aim of the researchers was to use this technology to significantly lower both costs and greenhouse gas emissions.</span></p> <p>The team participated in the I-Corps National Teams program.&nbsp; This immersive 7-week program provided important experiential training on customer discovery and validation.&nbsp; As the project started, the team focused on the largest of the potential customers for the technology; international petrochemical and fuel refiners. However, as the team completed dozens of interviews in this category of customers, they found that their willingness to adopt such a radically different approach to hydrogen procurement was low. With this finding, the focus shifted to classes of customers that were more ready to adopt this technology.&nbsp; The team began to interview small and mid-sized natural gas production executives in regions of the US that typically produce sour (or hydrogen sulfide-rich) gasses.&nbsp; The team was able to validate the potential for a strong product-market fit from this type of customer and eventually settled on these smaller domestic sour gas producers as our ?beachhead? market. In fact, in the course of these interviews we identified the firm that would later host our first in-field technology pilot in the Permian basin.</p> <p>As a result of the training and the evidence developed during the cohort, the team committed to launching a venture to pursue further development of the technology and to successfully commercialize it.&nbsp; During the course of this I-Corps project, the team has completed more than 225 customer discovery interviews. A US patent was granted on this technology and a new patent was filed. The company has licensed the technology and formed a company.&nbsp; The company has 5 full time employees.&nbsp; The company has received both an NSF Phase I SBIR award and a Phase II. The company has raised&nbsp; equity investment. The company has built and installed an operating pilot system in an oil field in West Texas that is successfully demonstrating their ability to generate hydrogen from hydrogen sulfide in a real world industrial setting.</p> <p dir="ltr"><span><span> </span></span><span><span> </span></span><span><span> </span></span></p> <p dir="ltr"><span>The training and experience received by the team as a result of participating in I-Corps in the regional and national level instilled confidence in the founders (when they were postdocs and grad students) that there was an important problem their technology could solve. They were able to develop evidence through customer discovery that there was the potential for strong product-market fit and that a viable business model could be realized. This provided them with the evidence to make key decisions about launching a company. The training enabled a transformation in their identities as they further developed their entrepreneurial mindset.</span></p><br> <p>            Last Modified: 10/22/2023<br>      Modified by: Roman&nbsp;Lubynsky</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   This project is based on research that resulted in a new discovery of a chemical process that produces low cost, carbon neutral hydrogen gas from a high volume refinery waste stream of hydrogen sulfide and water.   Hydrogen gas is an important chemical feedstock but is largely produced with capital intensive, centralized, highly greenhouse gas emitting processes. Hydrogen sulfide is a high volume refinery waste stream that is processed to meet environmental standards, but produces little additional value.  The aim of the researchers was to use this technology to significantly lower both costs and greenhouse gas emissions.  The team participated in the I-Corps National Teams program.  This immersive 7-week program provided important experiential training on customer discovery and validation.  As the project started, the team focused on the largest of the potential customers for the technology; international petrochemical and fuel refiners. However, as the team completed dozens of interviews in this category of customers, they found that their willingness to adopt such a radically different approach to hydrogen procurement was low. With this finding, the focus shifted to classes of customers that were more ready to adopt this technology.  The team began to interview small and mid-sized natural gas production executives in regions of the US that typically produce sour (or hydrogen sulfide-rich) gasses.  The team was able to validate the potential for a strong product-market fit from this type of customer and eventually settled on these smaller domestic sour gas producers as our ?beachhead? market. In fact, in the course of these interviews we identified the firm that would later host our first in-field technology pilot in the Permian basin.  As a result of the training and the evidence developed during the cohort, the team committed to launching a venture to pursue further development of the technology and to successfully commercialize it.  During the course of this I-Corps project, the team has completed more than 225 customer discovery interviews. A US patent was granted on this technology and a new patent was filed. The company has licensed the technology and formed a company.  The company has 5 full time employees.  The company has received both an NSF Phase I SBIR award and a Phase II. The company has raised  equity investment. The company has built and installed an operating pilot system in an oil field in West Texas that is successfully demonstrating their ability to generate hydrogen from hydrogen sulfide in a real world industrial setting.     The training and experience received by the team as a result of participating in I-Corps in the regional and national level instilled confidence in the founders (when they were postdocs and grad students) that there was an important problem their technology could solve. They were able to develop evidence through customer discovery that there was the potential for strong product-market fit and that a viable business model could be realized. This provided them with the evidence to make key decisions about launching a company. The training enabled a transformation in their identities as they further developed their entrepreneurial mindset.       Last Modified: 10/22/2023       Submitted by: Roman Lubynsky]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

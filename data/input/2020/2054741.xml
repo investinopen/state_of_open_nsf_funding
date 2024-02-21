@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS: Small: Collaborative Research: Catalyzing Youth Civic Engagement Through Innovations in Social Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>316921.00</AwardTotalIntnAmount>
+<AwardAmount>316921</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research will design, develop, and evaluate novel smartphone applications that help youth explore and leverage their social networks to engage in collective action, and assess the impact of this action.  From affiliation with social movements through the use of Twitter hashtags, to collective organizing through Facebook, social computing tools have catalyzed new and exciting forms of civic engagement (efforts taken by individuals and collectives to address issues of societal concern). While historically it has been challenging to engage youth in civic action, social computing platforms offer a media-relevant way for youth to address issues that matter to them. However, despite increased opportunities for civic engagement online, youth can have difficulty navigating their social networks, which creates challenges for understanding and putting to use the social capital within networks, that is, the beneficial resources that can support collective action. This research examines how interactive visualizations of youth's social networks can help youth more effectively understand and put to use the social capital within their networks. Such visualizations may support civic engagement by easing access to the rich and complex information about social ties, helping youth evaluate the impact they have through online civic action, preparing them to make effective decisions about future activities.&lt;br/&gt; &lt;br/&gt;The work will include the design, development, and evaluation of two novel smartphone applications. Although there is a large literature on how best to visualize these networks from an algorithmic perspective, very little is known about how people, especially young people, interpret network visualizations, nor whether or when network visualizations may enhance access to and utilization of social capital. This project will contribute new empirical findings and novel software tools to fill this research gap. Additionally, although complex network data is increasingly packaged for public consumption, there are few standards for how to do so effectively, particularly in the context of mobile visualizations where small screen real estate dramatically amplifies the visualization challenge. The research will contribute new knowledge regarding how best to visualize network data for lay audiences, on the mobile platforms that people are increasingly using to interact with data. This work will yield empirical assessments of how designed interfaces can best manage the complexities of networked data in order to amplify cognition, action, and feelings of empowerment. This work will culminate in a conceptual framework to guide the design of social computing tools for youth civic engagement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054741</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Parker</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrea G Parker</PI_FULL_NAME>
+<EmailAddress><![CDATA[andrea@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000623285</NSF_ID>
+<StartDate>11/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320420</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~316921</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-6a70fbaf-7fff-eafa-255d-50c9da270b2a"> <p dir="ltr"><span>This project has contributed research towards understanding how social computing tools can 1) empower youth to engage in social action that uplifts their communities, and 2) help build resilience within marginalized communities during times of crisis. First, through a series of qualitative and design-based empirical studies, this work produced new empirical knowledge detailing how youth activists use social media for community organizing and the challenges therein. Using findings from qualitative and participatory design studies, we designed and built of a software application called the SwagApp. This software utilizes the Twitter API to visualize youth activists&rsquo; online social networks and create an online collaborative space through which activists can work as a team to strategically engage their social networks for community organizing. There are a growing number of commercially-available applications that help businesses, governments and other organizations to manage their social media accounts, and connect to their customers. However, while social media platforms are often touted as systems that enable voices to be heard, there is little scientific knowledge available regarding how technology can support the work of grassroots initiatives specifically by helping activists to visualize, reason about, and act upon information about social networks. Our empirical findings and the design and development of the SwagApp addresses this knowledge gap, and help inform researchers and industry practitioners regarding how such tools can be best designed, particularly in the context of supporting youth activism.</span></p> <p dir="ltr"><span>This research has produced several papers published at leading human-computer interaction (HCI) venues (e.g., ACM CSCW and ACM CHI). These publications provide insights into how social computing tools can empower youth towards social action. Much prior HCI research on wellbeing has explored how technology can be designed to support individual level behavioral change. Our work took a different approach, by examining how technology (e.g., interactive network visualizations) can empower communities to better effect positive societal change. With this focus, our research contributes to HCI but also public health, as it demonstrates how technology can help communities engage in social action that addresses social factors at the neighborhood and societal level&mdash;influences that act as barriers to wellbeing. Specifically, our work demonstrates the role that technology can play in addressing fundamental social determinants of health, that is, the conditions in which we live and work that impact wellbeing.&nbsp;</span></p> <p dir="ltr"><span>Through a nationwide survey with high school-aged youth, this project has also produced new knowledge regarding the role of social media for facilitating and hindering youth&rsquo;s critical consciousness, that is, the awareness, motivation, and actions taken to combat societal inequities. In particular, our findings characterized how the political content, critical discourse, content moderation policies, and recommender systems on various social media platforms may motivate and demotivate youth to learn about and take action against sociopolitical issues. As such, this work contributes to understanding the ways in which social media promotes and hinders critical consciousness development among youth. Particularly, this work expands upon prior work to shed light on how youth not only appropriate social media to disseminate information and organize for political purposes, but also how youth may be learning about sociopolitical issues and responding to calls to social action through these platforms.</span></p> <p dir="ltr"><span>In an additional study within this project, we investigated the role of information and communication technologies in maintaining community and providing care for youth activists during a time of crisis. Through interviews with youth activists and staff at community organizations during the COVID-19 pandemic, we contribute findings that characterize the nuances of care within youth empowerment programs and the sociotechnical challenges therein. Building upon previous HCI and CSCW literature on youth development and theories of care, this study characterized how youth empowerment programs are organizations rich in caring behaviors for supporting youth, and how caring for youth over computer-mediated communication was especially difficult amidst the pandemic. These findings contribute to an understanding of breakdowns in care over &#8203;&#8203;computer-mediated communication during community stressors, when key aspects of care are not supported in the design of information and communication technologies. Additionally, this work contributes a set of opportunities for future innovation to better care for youth during moments of crisis.&nbsp;</span></p> <p dir="ltr"><span>Finally, this project contributed new educational resources and student mentorship opportunities. These include research opportunities for undergraduate and graduate students that have taught them HCI research skills, the development of educational curriculum including a digital health equity course for university students and a network literacy toolkit for youth, and the use of findings from this work in invited seminar talks at various universities to further enrich student education.</span></p> </span></p> <p>&nbsp;</p><br> <p>  Last Modified: 01/12/2024<br> Modified by: Andrea&nbsp;G&nbsp;Parker</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     This project has contributed research towards understanding how social computing tools can 1) empower youth to engage in social action that uplifts their communities, and 2) help build resilience within marginalized communities during times of crisis. First, through a series of qualitative and design-based empirical studies, this work produced new empirical knowledge detailing how youth activists use social media for community organizing and the challenges therein. Using findings from qualitative and participatory design studies, we designed and built of a software application called the SwagApp. This software utilizes the Twitter API to visualize youth activists online social networks and create an online collaborative space through which activists can work as a team to strategically engage their social networks for community organizing. There are a growing number of commercially-available applications that help businesses, governments and other organizations to manage their social media accounts, and connect to their customers. However, while social media platforms are often touted as systems that enable voices to be heard, there is little scientific knowledge available regarding how technology can support the work of grassroots initiatives specifically by helping activists to visualize, reason about, and act upon information about social networks. Our empirical findings and the design and development of the SwagApp addresses this knowledge gap, and help inform researchers and industry practitioners regarding how such tools can be best designed, particularly in the context of supporting youth activism.   This research has produced several papers published at leading human-computer interaction (HCI) venues (e.g., ACM CSCW and ACM CHI). These publications provide insights into how social computing tools can empower youth towards social action. Much prior HCI research on wellbeing has explored how technology can be designed to support individual level behavioral change. Our work took a different approach, by examining how technology (e.g., interactive network visualizations) can empower communities to better effect positive societal change. With this focus, our research contributes to HCI but also public health, as it demonstrates how technology can help communities engage in social action that addresses social factors at the neighborhood and societal levelinfluences that act as barriers to wellbeing. Specifically, our work demonstrates the role that technology can play in addressing fundamental social determinants of health, that is, the conditions in which we live and work that impact wellbeing.   Through a nationwide survey with high school-aged youth, this project has also produced new knowledge regarding the role of social media for facilitating and hindering youths critical consciousness, that is, the awareness, motivation, and actions taken to combat societal inequities. In particular, our findings characterized how the political content, critical discourse, content moderation policies, and recommender systems on various social media platforms may motivate and demotivate youth to learn about and take action against sociopolitical issues. As such, this work contributes to understanding the ways in which social media promotes and hinders critical consciousness development among youth. Particularly, this work expands upon prior work to shed light on how youth not only appropriate social media to disseminate information and organize for political purposes, but also how youth may be learning about sociopolitical issues and responding to calls to social action through these platforms.   In an additional study within this project, we investigated the role of information and communication technologies in maintaining community and providing care for youth activists during a time of crisis. Through interviews with youth activists and staff at community organizations during the COVID-19 pandemic, we contribute findings that characterize the nuances of care within youth empowerment programs and the sociotechnical challenges therein. Building upon previous HCI and CSCW literature on youth development and theories of care, this study characterized how youth empowerment programs are organizations rich in caring behaviors for supporting youth, and how caring for youth over computer-mediated communication was especially difficult amidst the pandemic. These findings contribute to an understanding of breakdowns in care over &#8203;&#8203;computer-mediated communication during community stressors, when key aspects of care are not supported in the design of information and communication technologies. Additionally, this work contributes a set of opportunities for future innovation to better care for youth during moments of crisis.   Finally, this project contributed new educational resources and student mentorship opportunities. These include research opportunities for undergraduate and graduate students that have taught them HCI research skills, the development of educational curriculum including a digital health equity course for university students and a network literacy toolkit for youth, and the use of findings from this work in invited seminar talks at various universities to further enrich student education.         Last Modified: 01/12/2024       Submitted by: AndreaGParker]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

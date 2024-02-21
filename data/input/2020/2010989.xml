@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Barthell</SignBlockName>
+<PO_EMAI>jbarthel@nsf.gov</PO_EMAI>
+<PO_PHON>7032922618</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Research Using Biological Collections. The fellowship supports research and training of the Fellow that will utilize biological collections in innovative ways. This project will assess the impacts of protection status on frog and fish diversity in Amazonian Northeast Peru’s Yaguas watershed. The Amazon basin is home to over 400 amphibian species and the highest biodiversity of freshwater fishes in the world. Conserving this biodiversity is critical to maintaining healthy Amazonian ecosystems, which influence global climate patterns. These habitats are often disturbed by human activities, resulting in biodiversity losses. Conservationists aim to prevent these losses by establishing protected areas. However, the impacts of these protected areas remain poorly understood. Comprehensive ecosystem health monitoring requires the integration of both the number of species present and the ecological functions performed by each species. The most vulnerable species often perform unique ecological roles, and the loss of just one of them may translate to a high loss of functional diversity, leaving ecosystems more damaged than biodiversity data alone could predict. This project will improve our understanding of current conservation efforts by incorporating functional diversity into ecosystem monitoring practices. Methods developed in this study will be applicable to a variety of ecosystems and the results will help assess the urgency of the proposed Bajo Putumayo Protection Area, adjacent to Yaguas National Park.&lt;br/&gt; &lt;br/&gt;The Yaguas watershed provides a unique opportunity to assess the impacts of protection status on wildlife diversity due to the wealth of biodiversity data collected through the Field Museum’s rapid biological inventories in 2010. Some sampled sites have since received protection status with the establishment of the Yaguas Reserved Zone in 2011 and Yaguas National Park in 2018. The Fellow will work with local community members to resample amphibians and fishes in protected and unprotected sites in 2020. Specimens will be collected for biodiversity and functional morphology analyses, and water samples will be taken for water quality and environmental DNA analyses. It is hypothesized that biodiversity, functional diversity, and water quality will have increased between 2010 and 2020 in the protected site and decreased in the unprotected site. The Fellow will receive training in specimen collection and genetic techniques from the sponsoring scientists and will develop field guides for the Yaguas watershed and educational programs for children at the Field Museum of Natural History in Chicago.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010989</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>George</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew B George</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000813694</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George, Andrew Bradley]]></Name>
+<CityName>Alpharetta</CityName>
+<ZipCode>300227596</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Field Museum of Natural History]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606052827</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>001Y</Code>
+<Text>Collections Postdocs</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary goal of this project was to study the effects of park protection status on the functional and biological diversity of fishes and frogs in the Yaguas watershed in Amazonian Peru. The fellow, Dr. Andrew George, joined a team of interdisciplinary scientists at the Field Museum of Natural History. The original project included a substantial fieldwork component in South America. Due to COVID-19 travel restrictions, the international fieldwork was not possible. The fellow quickly adapted and gathered baseline morphological diversity data of fish families found in the Yaguas watershed using Field Museum collection specimens. He prioritized several other research and broader impacts objectives of his postdoctoral project that did not require international travel, including mentorship, public engagement activities, and local pilot studies to refine fieldwork methods. Ultimately, this postdoctoral fellowship resulted in a wealth of new biological data, extensive STEM mentorship opportunities, strengthened research collaborations across institutions, and an academic position for the fellow at the University of Utah.</p> <p>The fellow focused his research on fishes in the families Characidae (tetras and relatives) and Gasteropelecidae (freshwater hatchetfishes), photographing over 8,000 specimens. Over 1,000 Characidae specimens (representing over 250 species) and 130 Gasteropelecidae specimens (representing all species in this family) were digitized for morphological diversity analyses. The fellow and his team created range maps and calculated geographical range sizes for over 1,000 fish species using geocoordinate data from public databases. They analyzed relationships between these fish species' morphological diversity and geographical distribution.&nbsp;</p> <p>Another goal was to improve biodiversity sampling efforts for museum conservation collection trips by including environmental DNA (eDNA) analyses to document aquatic species presence more comprehensively and less invasively. The fellow conducted a pilot eDNA study in the Kankakee River in Illinois with collaborators at the University of Illinois Urbana-Champaign. They collected water samples and seined for fishes along the river. They extracted and sequenced the DNA from the water samples to determine the species composition of each site and compared the eDNA results to those of the physical specimen collections. The results of this study indicated that eDNA sampling was effective, resulting in greater species detection with less disturbance to the fishes and their habitats compared to the traditional seining method. The fellow published a public-facing article communicating the motivations, methods, and significance of this study in the Field Museum&nbsp;Member Magazine. Another postdoctoral researcher has taken over this eDNA project since the fellow began his new position. The team continues to collaborate on this project and plans to publish the results.</p> <p>This fellowship included extensive broader impacts activities. The fellow trained and mentored an undergraduate intern in research techniques, presentation skills, and grant writing through the Women in Science Internship Program at the Field Museum. She presented her research at the Women in Science Research Symposium. She currently works as a lab technician in a fish biology lab at Stanford University and is applying for several biology Ph.D. programs. The fellow also mentored two high school students on a fish morphology project through the Teen Digital Learning Program. He trained one masters student and one research technician in morphological diversity analysis methods, which they applied to their research.&nbsp;</p> <p>The fellow implemented several public engagement events for students. One project taught high school students how to use high-speed video cameras to study the biomechanics and behavior of insects. The second program taught middle school students how to use underwater cameras to ask questions and generate hypotheses about fish natural history. This event took place virtually with students from across the country, many of whom were people living in rural areas and people with disabilities who face physical barriers to attending public engagement with science events in person at museums. The fellow also implemented a virtual engagement event for youth-in-custody through the STEM Community Alliance Program. This event also increased access to science to an underserved group, many of whom face physical, legal, and financial barriers to accessing science engagement in traditional venues.</p> <p>This fellowship was critical to the professional development of the fellow. He drew on his fellowship experiences to secure a position as the Associate Director of the STEM Ambassador Program, an NSF-funded public engagement and science communication training program for researchers at the University of Utah.&nbsp;</p> <p>The methods used in this study will be broadly applicable to a variety of organisms and ecosystems. Once the eDNA tool is optimized for use in Amazonian aquatic ecosystems, conservation biologists at the Field Museum can use it in their rapid biological inventory collections, potentially allowing for the detection of more species in a less invasive manner. The 8,000 fish specimen photographs will be made publicly available to future researchers for a variety of research projects and will nearly double the number of publicly available fish specimen photographs in the Field Museum's online database.</p><br> <p>  Last Modified: 11/27/2023<br> Modified by: Andrew&nbsp;B&nbsp;George</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary goal of this project was to study the effects of park protection status on the functional and biological diversity of fishes and frogs in the Yaguas watershed in Amazonian Peru. The fellow, Dr. Andrew George, joined a team of interdisciplinary scientists at the Field Museum of Natural History. The original project included a substantial fieldwork component in South America. Due to COVID-19 travel restrictions, the international fieldwork was not possible. The fellow quickly adapted and gathered baseline morphological diversity data of fish families found in the Yaguas watershed using Field Museum collection specimens. He prioritized several other research and broader impacts objectives of his postdoctoral project that did not require international travel, including mentorship, public engagement activities, and local pilot studies to refine fieldwork methods. Ultimately, this postdoctoral fellowship resulted in a wealth of new biological data, extensive STEM mentorship opportunities, strengthened research collaborations across institutions, and an academic position for the fellow at the University of Utah.   The fellow focused his research on fishes in the families Characidae (tetras and relatives) and Gasteropelecidae (freshwater hatchetfishes), photographing over 8,000 specimens. Over 1,000 Characidae specimens (representing over 250 species) and 130 Gasteropelecidae specimens (representing all species in this family) were digitized for morphological diversity analyses. The fellow and his team created range maps and calculated geographical range sizes for over 1,000 fish species using geocoordinate data from public databases. They analyzed relationships between these fish species' morphological diversity and geographical distribution.   Another goal was to improve biodiversity sampling efforts for museum conservation collection trips by including environmental DNA (eDNA) analyses to document aquatic species presence more comprehensively and less invasively. The fellow conducted a pilot eDNA study in the Kankakee River in Illinois with collaborators at the University of Illinois Urbana-Champaign. They collected water samples and seined for fishes along the river. They extracted and sequenced the DNA from the water samples to determine the species composition of each site and compared the eDNA results to those of the physical specimen collections. The results of this study indicated that eDNA sampling was effective, resulting in greater species detection with less disturbance to the fishes and their habitats compared to the traditional seining method. The fellow published a public-facing article communicating the motivations, methods, and significance of this study in the Field MuseumMember Magazine. Another postdoctoral researcher has taken over this eDNA project since the fellow began his new position. The team continues to collaborate on this project and plans to publish the results.   This fellowship included extensive broader impacts activities. The fellow trained and mentored an undergraduate intern in research techniques, presentation skills, and grant writing through the Women in Science Internship Program at the Field Museum. She presented her research at the Women in Science Research Symposium. She currently works as a lab technician in a fish biology lab at Stanford University and is applying for several biology Ph.D. programs. The fellow also mentored two high school students on a fish morphology project through the Teen Digital Learning Program. He trained one masters student and one research technician in morphological diversity analysis methods, which they applied to their research.   The fellow implemented several public engagement events for students. One project taught high school students how to use high-speed video cameras to study the biomechanics and behavior of insects. The second program taught middle school students how to use underwater cameras to ask questions and generate hypotheses about fish natural history. This event took place virtually with students from across the country, many of whom were people living in rural areas and people with disabilities who face physical barriers to attending public engagement with science events in person at museums. The fellow also implemented a virtual engagement event for youth-in-custody through the STEM Community Alliance Program. This event also increased access to science to an underserved group, many of whom face physical, legal, and financial barriers to accessing science engagement in traditional venues.   This fellowship was critical to the professional development of the fellow. He drew on his fellowship experiences to secure a position as the Associate Director of the STEM Ambassador Program, an NSF-funded public engagement and science communication training program for researchers at the University of Utah.   The methods used in this study will be broadly applicable to a variety of organisms and ecosystems. Once the eDNA tool is optimized for use in Amazonian aquatic ecosystems, conservation biologists at the Field Museum can use it in their rapid biological inventory collections, potentially allowing for the detection of more species in a less invasive manner. The 8,000 fish specimen photographs will be made publicly available to future researchers for a variety of research projects and will nearly double the number of publicly available fish specimen photographs in the Field Museum's online database.     Last Modified: 11/27/2023       Submitted by: AndrewBGeorge]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

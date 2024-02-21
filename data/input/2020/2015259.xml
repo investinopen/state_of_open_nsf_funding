@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Transfer Learning for Large-Scale Inference: General Framework and Data-Driven Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>249999.00</AwardTotalIntnAmount>
+<AwardAmount>249999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Transfer learning provides crucial techniques for utilizing data from related studies that are conducted under different contexts or on diverse populations. It is an important topic with a wide range of applications in integrative genomics, neuroimaging, computer vision and signal processing. This research work will provide new tools to scientific researchers who routinely collect and analyze high dimensional and complex data across different sources and platforms. This project aims to develop new analytical tools to improve conventional methods by delivering more informative and interpretable scientific findings. The developed transfer learning algorithms, which can reliably extract and combine knowledge from diverse data types and across different studies, will help address important issues from genomics applications. User-friendly software packages will be developed and made publicly available. Scientific researchers can use the tools to translate dispersed and heterogeneous data sources into new knowledge and medical benefits. This will help improve the understanding of the role of various genetic factors in complex diseases, and accelerate the development of new medicines and treatments in a cost-effective way. &lt;br/&gt;&lt;br/&gt;Transfer learning for large-scale inference aims to extract and transfer the knowledge learned from related source domains to assist the simultaneous inference of thousands or even millions of parameters in the target domain. We aim to develop a general framework to gain understanding of the benefits and caveats of transfer learning in a wide range of large-scale inference problems including sparse estimation, false discovery rate analysis, sparse linear discriminant analysis and high-dimensional regression. Our research addresses two key issues in transfer learning: (a) What should be transferred? (b) How to transfer and prevent negative learning? We aim to pursue three major research goals. The first is to develop a class of computationally efficient and robust transfer learning algorithms for high-dimensional sparse inference. The general strategy is to first learning the local sparsity structure of the high-dimensional object through auxiliary data and then apply the structural knowledge to the target domain by adaptively placing differential weights or setting varied thresholds on corresponding coordinates. The second is to formalize a decision-theoretic framework for high-dimensional transfer learning that is applicable across the sparse and non-sparse regimes. Along this direction, we aim to develop a class of kernelized nonparametric empirical Bayes methods for data-sharing shrinkage estimation and multiple testing. The third is to address the urgent needs and new challenges arising from important genomics applications using the newly developed methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015259</AwardID>
+<Investigator>
+<FirstName>T. Tony</FirstName>
+<LastName>Cai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>T. Tony Cai</PI_FULL_NAME>
+<EmailAddress><![CDATA[tcai@wharton.upenn.edu]]></EmailAddress>
+<NSF_ID>000122270</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>3451 WALNUT ST STE 440A</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UNIVERSITY OF PENNSYLVANIA]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191043615</ZipCode>
+<StreetAddress><![CDATA[3730 Walnut St., Suite 400]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Tony Cai has been supported by DMS-2015259 "Collaborative Research: Transfer Learning for Large-Scale Inference: General Framework and Data-Driven Algorithms" ($250,000) from 07/01/2020 to 06/30/2023. Over these 3 years, the PI has been working on a range of problems concerning the theoretical and methodological aspects of transfer learning and distributed learning as well as statistical inference with differential privacy guarantees. &nbsp;He led a research group of Ph.D. students, postdocs, and collaborators on developing theories and methodologies for statistical machine learning and applications in genomics and engineering.&nbsp;</p> <p>Major Outcomes and Activities:<br />1. Published 36 journal papers during the period, including more than 20 papers in leading statistics journals such as the Annals of Statistics, Journal of the American Statistical Association, Journal of the Royal Statistical Society (Series B), and Biometrika. The newly proposed procedures were implemented in R and/or Matlab. All the papers and software were made freely available on his website.<br />2. Motivated by a diverse array of contemporary statistical applications, a central focus of Tony Cai's research over the past three years has been the development of statistical methodologies and optimality theories for transfer learning as well as statistical inference under non-statistical constraints, including privacy, communication, and computational considerations. These areas are recognized as pivotal in the ever-evolving landscape of data science, extending beyond the traditional boundaries of statistics. Together with his students and postdocs, he has published/finished a series of papers aiming to gain fundamental understanding on transfer learning and the tradeoffs between statistical performance and privacy, communication, or computational constraints. Furthermore, this research has encompassed a diverse range of applications, with notable contributions in the field of biomedical studies.&nbsp;3. Presented 11 plenary/distinguished lectures, 8 invited talks, and 7 colloquium talks at scientific conferences and universities, including the Laplace Lecture of the Bernoulli Society &nbsp;at the 10th World Congress in Probability and Statistics in 2021, the Frontiers of Science Award Lecture at the International Congress of Basic Science in 2023, and the Gottfried E. Noether Award Lecture of the American Statistical Association in 2023. These conferences brought together statisticians, probabilists, and medical researchers to advance the theory, methodology and applications of statistical machine learning and high-dimensional statistics. They also provided opportunities for scholars from diverse disciplines to interact and strengthen each other's knowledge and expertise in analyzing data with complex structure to yield maximal new knowledge toward the establishment of rigorous statistical and biological foundations for the better understanding of health and disease.&nbsp;<br /><br />Intellectual Merit:&nbsp;<br />Under the support of this NSF grant, Tony Cai developed new statistical methods for a range of statistical problems, including large-scale multiple testing, nonparametric regression and classification, high-dimensional linear regression, and high-dimensional generalized linear models, in various settings. These results advanced the theoretical understanding and methodological development for statistical machine learning and analysis of Big Data. Tony Cai's work also advanced fundamental understanding on the tradeoffs between statistical performance and privacy, communication, or computational constraints. In addition, he addressed a range of applications in medical research.&nbsp;</p> <p>Broader Impacts: &nbsp;<br />The results developed by Tony Cai have significant impact in the broad scientific community. They provide theory, methodology, applications, as well as technical tools to researchers in other scientific fields who collect and analyze high-dimensional data sets. These fields include astronomy, biology, engineering, bioinformatics, as well as various clinical research areas in general. In the last three years, Tony Cai trained (and is training) 3 postdocs and 10 Ph.D. students, including 1 female postdoc and 2 female students. To disseminate the newly obtained results, he taught advanced topics courses on asymptotic theory and high dimensional statistical inference to Ph.D. students and postdocs at Penn. He also gave public lectures on big data at other institutions. All the papers and implementations of the procedures in R/Matlab were available online.</p><br> <p>            Last Modified: 10/04/2023<br>      Modified by: T. Tony&nbsp;Cai</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Tony Cai has been supported by DMS-2015259 "Collaborative Research: Transfer Learning for Large-Scale Inference: General Framework and Data-Driven Algorithms" ($250,000) from 07/01/2020 to 06/30/2023. Over these 3 years, the PI has been working on a range of problems concerning the theoretical and methodological aspects of transfer learning and distributed learning as well as statistical inference with differential privacy guarantees.  He led a research group of Ph.D. students, postdocs, and collaborators on developing theories and methodologies for statistical machine learning and applications in genomics and engineering.   Major Outcomes and Activities: 1. Published 36 journal papers during the period, including more than 20 papers in leading statistics journals such as the Annals of Statistics, Journal of the American Statistical Association, Journal of the Royal Statistical Society (Series B), and Biometrika. The newly proposed procedures were implemented in R and/or Matlab. All the papers and software were made freely available on his website. 2. Motivated by a diverse array of contemporary statistical applications, a central focus of Tony Cai's research over the past three years has been the development of statistical methodologies and optimality theories for transfer learning as well as statistical inference under non-statistical constraints, including privacy, communication, and computational considerations. These areas are recognized as pivotal in the ever-evolving landscape of data science, extending beyond the traditional boundaries of statistics. Together with his students and postdocs, he has published/finished a series of papers aiming to gain fundamental understanding on transfer learning and the tradeoffs between statistical performance and privacy, communication, or computational constraints. Furthermore, this research has encompassed a diverse range of applications, with notable contributions in the field of biomedical studies. 3. Presented 11 plenary/distinguished lectures, 8 invited talks, and 7 colloquium talks at scientific conferences and universities, including the Laplace Lecture of the Bernoulli Society  at the 10th World Congress in Probability and Statistics in 2021, the Frontiers of Science Award Lecture at the International Congress of Basic Science in 2023, and the Gottfried E. Noether Award Lecture of the American Statistical Association in 2023. These conferences brought together statisticians, probabilists, and medical researchers to advance the theory, methodology and applications of statistical machine learning and high-dimensional statistics. They also provided opportunities for scholars from diverse disciplines to interact and strengthen each other's knowledge and expertise in analyzing data with complex structure to yield maximal new knowledge toward the establishment of rigorous statistical and biological foundations for the better understanding of health and disease.   Intellectual Merit:  Under the support of this NSF grant, Tony Cai developed new statistical methods for a range of statistical problems, including large-scale multiple testing, nonparametric regression and classification, high-dimensional linear regression, and high-dimensional generalized linear models, in various settings. These results advanced the theoretical understanding and methodological development for statistical machine learning and analysis of Big Data. Tony Cai's work also advanced fundamental understanding on the tradeoffs between statistical performance and privacy, communication, or computational constraints. In addition, he addressed a range of applications in medical research.   Broader Impacts:   The results developed by Tony Cai have significant impact in the broad scientific community. They provide theory, methodology, applications, as well as technical tools to researchers in other scientific fields who collect and analyze high-dimensional data sets. These fields include astronomy, biology, engineering, bioinformatics, as well as various clinical research areas in general. In the last three years, Tony Cai trained (and is training) 3 postdocs and 10 Ph.D. students, including 1 female postdoc and 2 female students. To disseminate the newly obtained results, he taught advanced topics courses on asymptotic theory and high dimensional statistical inference to Ph.D. students and postdocs at Penn. He also gave public lectures on big data at other institutions. All the papers and implementations of the procedures in R/Matlab were available online.       Last Modified: 10/04/2023       Submitted by: T. Tony Cai]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

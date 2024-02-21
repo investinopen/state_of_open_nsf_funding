@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: NSF2026: From Thinking to Inventing: Towards Creative Agents that Discover Novelty and Learn how to Accommodate it]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299997.00</AwardTotalIntnAmount>
+<AwardAmount>299997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erion Plaku</SignBlockName>
+<PO_EMAI>eplaku@nsf.gov</PO_EMAI>
+<PO_PHON>7032924426</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[While recent successes demonstrate the potential of artificial intelligence (AI) technologies, there are tenacious challenges left to address before AI programs will be able to reach the cognitive flexibility and sophistication of the human mind.  One of the most pressing problems is how to deal with the unknown, with novel contexts or aspects of the world for which an AI system was not originally designed.  Such "open-world" AI is still in its infancy and existing AI techniques do not easily transfer to open worlds.  The goal of this project is to investigate ways in which AI agents can be endowed with creative problem-solving skills that allow them to negotiate open worlds and invent new tools, concepts, and eventually theories.  Such a system could be the next major disruptive technology in AI, enabling not only long-term autonomy and resilience of robots in the light of faults and unexpected events, but more importantly, providing technology that could accelerate the solution of pressing problems that humanity is currently able to solve only slowly, if at all.&lt;br/&gt;&lt;br/&gt;Current AI algorithms rely on having complete models of the task and domain in which they are supposed to operate.  If information is missing, they are not able to plan how to acquire it and extend their knowledge.  Yet, systems that can determine that they are missing critical knowledge could use that information to guide their knowledge acquisition process and possibly develop creative approaches for inventing new tools and theories.  This project will develop an integrated problem-solving system that adapts and incorporates different learning techniques and deploys each of these methods in a targeted fashion based on the problem aspect the approach is best equipped to solve.  This system will be extended with the ability to apply different strategies for experimenting (just like humans) with objects in its environment to discover their properties and the actions that can be performed with those objects to build up new knowledge about objects and their functions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2044786</AwardID>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Scheutz</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthias J Scheutz</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthias.scheutz@tufts.edu]]></EmailAddress>
+<NSF_ID>000289027</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442401</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>169 HOLLAND ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WL9FLBRVPJJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>S6ZWCYHRQQB3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>Medford</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021554243</ZipCode>
+<StreetAddress><![CDATA[200 Boston Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>066Y</Code>
+<Text>Program Planning and Policy De</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>081Y</Code>
+<Text>NSF 2026 Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299997</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of the project was to develop a conceptual framework and sketch a computational model for artificial agents that have to solvesolve complex problems they have not encountered before, possibly requiring the invention of new tools, concepts, and theories. These agents might need to experiment (just like humans) with objects in their environment when they are stuck executing their tasks due to unexpected changes or novelties, and then might have to discover new object properties and actions they can perform with those objects, and create new things they can apply in novel, creative ways, in order to be able to proceed with their tasks.</p> <p>The project developed a comprehensive theoretical framework that isolates four essential components of human creative problem solvingthat are intrinsically and intricately connected and can serve as a basis for developing computational models of creative problem solving:</p> <p>Flexible Problem Representation: The elements of physical tasks that are core to the problem structure, yet flexible enough to broadlycapture several categories of tasks.</p> <p>Impasse Detection: The cognitive processes involved in detecting and characterizing a problematic situation during task performance.</p> <p>Exploration, Discovery and Insight: The physical and mental actions performed by the agent to discover a solution to the problem and break the impasse.</p> <p>Representational Change and Restructuring: The cognitive processes performed by the agent to reorganize its mental model of the problem to increase the likelihood that it will be at least partially solved.</p> <p>The above framework also shows why current models, including deep neural networks, fail in so-callend "open-world tasks, i.e.,environments where changes can occur the agent has not been trained on or has not previously encountered.&nbsp; The reason is that those systems do no incorproate the above four capabilities for finding creative solutions that might, for example, required the invention of new tools, concepts, and theories. To be able to cope with the open world, need to detect and characterize new object properties and affordances as well as new relationships and events. They need to quickly discover and learn possible actions they can perform with those objects in particular contexts to potentially create new things they can apply in novel, creative ways to solve their tasks. All of these require agents that can step outside their conceptualization of the problem and view it from a different angle, re-representing it in a way that enables new discoveries and solution paths as well as new experiments and insights that the agent can then internalize and utilize in other tasks going forward.&nbsp; Parts of the framework have been implemented and evaluated, a more complete implementation will require substantially more funding than an NSF EAGER project can provide.</p><br> <p>  Last Modified: 01/26/2024<br> Modified by: Matthias&nbsp;J&nbsp;Scheutz</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of the project was to develop a conceptual framework and sketch a computational model for artificial agents that have to solvesolve complex problems they have not encountered before, possibly requiring the invention of new tools, concepts, and theories. These agents might need to experiment (just like humans) with objects in their environment when they are stuck executing their tasks due to unexpected changes or novelties, and then might have to discover new object properties and actions they can perform with those objects, and create new things they can apply in novel, creative ways, in order to be able to proceed with their tasks.   The project developed a comprehensive theoretical framework that isolates four essential components of human creative problem solvingthat are intrinsically and intricately connected and can serve as a basis for developing computational models of creative problem solving:   Flexible Problem Representation: The elements of physical tasks that are core to the problem structure, yet flexible enough to broadlycapture several categories of tasks.   Impasse Detection: The cognitive processes involved in detecting and characterizing a problematic situation during task performance.   Exploration, Discovery and Insight: The physical and mental actions performed by the agent to discover a solution to the problem and break the impasse.   Representational Change and Restructuring: The cognitive processes performed by the agent to reorganize its mental model of the problem to increase the likelihood that it will be at least partially solved.   The above framework also shows why current models, including deep neural networks, fail in so-callend "open-world tasks, i.e.,environments where changes can occur the agent has not been trained on or has not previously encountered. The reason is that those systems do no incorproate the above four capabilities for finding creative solutions that might, for example, required the invention of new tools, concepts, and theories. To be able to cope with the open world, need to detect and characterize new object properties and affordances as well as new relationships and events. They need to quickly discover and learn possible actions they can perform with those objects in particular contexts to potentially create new things they can apply in novel, creative ways to solve their tasks. All of these require agents that can step outside their conceptualization of the problem and view it from a different angle, re-representing it in a way that enables new discoveries and solution paths as well as new experiments and insights that the agent can then internalize and utilize in other tasks going forward. Parts of the framework have been implemented and evaluated, a more complete implementation will require substantially more funding than an NSF EAGER project can provide.     Last Modified: 01/26/2024       Submitted by: MatthiasJScheutz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

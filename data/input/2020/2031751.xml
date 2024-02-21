@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Contrasting the Effects of Aerosols on Marine Boundary Layer (MBL) Cloud-precipitation Properties and Processes in Boreal and Austral Mid-latitude Regions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+<PO_EMAI>nanderso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924715</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project is to investigate formation of marine-boundary-layer clouds, which are clouds that are directly influenced by the ocean. Particularly, how tiny suspended particles or aerosols contribute to clouds and how clouds interact with aerosols. Aerosols are generated from atmospheric, land, and oceanic processes such as urban/industrial activity, dust storms, burning vegetation, biological activity, sea spray, wind currents, and volcanoes. Certain aerosol types can initiate marine-boundary-layer cloud development more easily than others. This adds to the complexity and uncertainty of marine-boundary-layer cloud impacts on weather variations. Marine-boundary-layer clouds have significant climatological effects on the hydrological cycle and the Earth’s radiation balance. For example, varying distributions of marine-boundary-layer clouds around the globe contribute to areas of deficits and surpluses in solar energy and rainfall. Many studies have been conducted on aerosol-cloud interactions in the Northern Hemisphere where most of the global population and landmasses are located. Not much is known over the vast area of remote land and oceanic regions in the Southern Hemisphere. This study will investigate differences and similarities of aerosol-cloud interactions between the Northern and Southern Hemispheres by analyzing recent field observations and utilizing numerical model simulations. The project involves undergraduate and graduate students to participate in the research project and train them to be the next generation of scientists.&lt;br/&gt;&lt;br/&gt;This study employs long-term ground-based observations and remote sensing retrievals from a dedicated observation site in the Eastern North Atlantic Ocean and aircraft in situ measurements from two intensive field campaigns in 2018: 1) the Aerosol and Cloud Experiments in the Eastern North Atlantic (ACE-ENA), and 2) the Southern Ocean Clouds, Radiation, Aerosol Transport Experimental Study (SOCRATES). The research team utilizes a synergistic measurement/modeling approach in conjunction with meteorological patterns to compare the characteristics of marine-boundary-layer aerosol, cloud, and drizzle properties over the two hemispheres through answering three scientific questions. Those are: 1) what are the relative roles of surface cloud condensation nuclei and updrafts in aerosol-cloud interactions over the marine boundary layer and warm rain processes? 2) what are the characteristics of marine-boundary-layer aerosol, cloud and drizzle properties and their interactions during two field campaigns? 3) what are the characteristics of marine-boundary-layer aerosol, cloud, and drizzle properties, their interactions over the Southern Ocean, and their similarities and differences compared with those in the Eastern North Atlantic Ocean? Comparisons of precipitation processes and aerosol-cloud interactions at the two sites with significantly different environmental conditions will shed light on the controlling factors in aerosol-cloud interactions and eventually lead to a generalized parameterization for aerosol-cloud interactions applicable for the global climate models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031751</AwardID>
+<Investigator>
+<FirstName>Yuk</FirstName>
+<LastName>Yung</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuk L Yung</PI_FULL_NAME>
+<EmailAddress><![CDATA[yly@gps.caltech.edu]]></EmailAddress>
+<NSF_ID>000462600</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250600</ZipCode>
+<StreetAddress><![CDATA[1200 E California Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><h3><strong>Cloud and aerosols are still poorly represented in global climate models (GCM), which constitutes the largest uncertainty in climate assessment and projection. The overall goals of the collaborative project are to characterize marine boundary layer (MBL) aerosol, cloud and drizzle properties during the recent field campaigns and to investigate the effects of aerosols/CCN on aerosol-cloud interactions (ACIs), and warm rain processes. To achieve these goals, we will use a synergistic approach that uses the long-term ground-based observations and retrievals from the ARM the Eastern North Atlantic (ENA) site and aircraft in situ measurements in conjunction with GCM simulations. This study aims to provide an in-depth understanding of aerosol-cloud-precipitation properties and systematically evaluate cloud and aerosol physical parameterizations in GCM.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></h3> <p>We first implemented the updated warm rain schemes in CESM version 1.2 (CESM1) to assess the climatic influence of recalibrated cloud microphysical processes. We found that over the stratocumulus-prevailing regions like the Southeast Pacific and Southeast Atlantic, the negative biases of liquid water path (LWP) can be up to -20 g/m<sup>2</sup>. Simulations using the updated schemes show a 7.3% decrease in the light rain frequency, and a 10% increase in LWP. The updated microphysics scheme alleviates the long-lasting problem in most climate models, i.e. &lsquo;too frequent and too light precipitation&rsquo; for stratus and stratocumulus clouds.</p> <p>To pin down individual physical processes that cause the model bias, we further evaluated the warm cloud physics parameterizations in the singe-column configurations of NCAR Community Atmospheric Model version 6 and 5 (SCAM6 and SCAM5, respectively) using ground-based and airborne observations from the DOE ARM Aerosol and Cloud Experiments in the Eastern North Atlantic (ACE-ENA) field campaign near the Azores islands during 2017-2018. Eight-month SCM simulations show that both SCAM6 and SCAM5 can generally reproduce marine boundary-layer cloud structure, major macrophysical properties, and their transition. The improvement of warm cloud properties from CAM5 to CAM6 physics can be found compared to the observations. Meanwhile, both physical schemes underestimate cloud liquid water content, cloud droplet size, and rain liquid water content, but overestimate surface rainfall. Modeled cloud condensation nuclei (CCN) concentrations are comparable with aircraft observed ones in the summer but overestimated by a factor of two in winter, largely due to the biases in the long-range transport of anthropogenic aerosols like sulfate. We also test the newly recalibrated autoconversion and accretion parameterizations that account for vertical variations of droplet size. Compared to the observations, more significant improvement is found in SCAM5 than in SCAM6. This result is likely explained by the introduction of sub-grid variations of cloud properties in CAM6 cloud microphysics, which further suppresses the scheme sensitivity to individual warm rain microphysical parameters. The predicted cloud susceptibilities to CCN perturbations in CAM6 are within a reasonable range, indicating significant progress since CAM5 which produces too strong aerosol indirect effect. The present study emphasizes the importance of understanding biases in cloud physics parameterizations by combining SCM with in situ observations.</p> <p>We systematically evaluated aerosol and cloud properties in the latest climate models in the Climate Model Intercomparison Phase 6 (CMIP6) for the upcoming IPCC Assessment Report 7 (AR7). Large model biases are identified over the Southern Ocean and Eastern North Atlantic, the two targeted regions in this project. Specially, we found the CMIP6 models shows good agreement on the shortwave cloud radiative forcing over SO and ENA, likely due to the model tuning to reach the TOA radiation balance. Both annual means and seasonal cycles are comparable. However, for the cloud macrophysics like total cloud fraction and cloud optical depth, significant biases in the climatological means are found while the spatial patterns and seasonal cycles resemble the satellite observations. Modeled cloud microphysics, such as LWP and droplet effective radius, exhibit even larger biases than the cloud macrophysical properties, indicating the potential large compensating error when calculating the cloud radiative forcing in those models.&nbsp; Aerosol fields are poorly simulated in the Southern Ocean in all CMIP6 models. There is significant underestimation of AOD in those models near the 60 degree south which is mainly controlled by the marine biological aerosols near the Antarctic. The above biases in the climate model further motivate us to constrain the model cloud/aerosol parameterizations using the in situ observations.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/23/2023<br> Modified by: Yuk&nbsp;L&nbsp;Yung</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Cloud and aerosols are still poorly represented in global climate models (GCM), which constitutes the largest uncertainty in climate assessment and projection. The overall goals of the collaborative project are to characterize marine boundary layer (MBL) aerosol, cloud and drizzle properties during the recent field campaigns and to investigate the effects of aerosols/CCN on aerosol-cloud interactions (ACIs), and warm rain processes. To achieve these goals, we will use a synergistic approach that uses the long-term ground-based observations and retrievals from the ARM the Eastern North Atlantic (ENA) site and aircraft in situ measurements in conjunction with GCM simulations. This study aims to provide an in-depth understanding of aerosol-cloud-precipitation properties and systematically evaluate cloud and aerosol physical parameterizations in GCM.   We first implemented the updated warm rain schemes in CESM version 1.2 (CESM1) to assess the climatic influence of recalibrated cloud microphysical processes. We found that over the stratocumulus-prevailing regions like the Southeast Pacific and Southeast Atlantic, the negative biases of liquid water path (LWP) can be up to -20 g/m2. Simulations using the updated schemes show a 7.3% decrease in the light rain frequency, and a 10% increase in LWP. The updated microphysics scheme alleviates the long-lasting problem in most climate models, i.e. too frequent and too light precipitation for stratus and stratocumulus clouds.   To pin down individual physical processes that cause the model bias, we further evaluated the warm cloud physics parameterizations in the singe-column configurations of NCAR Community Atmospheric Model version 6 and 5 (SCAM6 and SCAM5, respectively) using ground-based and airborne observations from the DOE ARM Aerosol and Cloud Experiments in the Eastern North Atlantic (ACE-ENA) field campaign near the Azores islands during 2017-2018. Eight-month SCM simulations show that both SCAM6 and SCAM5 can generally reproduce marine boundary-layer cloud structure, major macrophysical properties, and their transition. The improvement of warm cloud properties from CAM5 to CAM6 physics can be found compared to the observations. Meanwhile, both physical schemes underestimate cloud liquid water content, cloud droplet size, and rain liquid water content, but overestimate surface rainfall. Modeled cloud condensation nuclei (CCN) concentrations are comparable with aircraft observed ones in the summer but overestimated by a factor of two in winter, largely due to the biases in the long-range transport of anthropogenic aerosols like sulfate. We also test the newly recalibrated autoconversion and accretion parameterizations that account for vertical variations of droplet size. Compared to the observations, more significant improvement is found in SCAM5 than in SCAM6. This result is likely explained by the introduction of sub-grid variations of cloud properties in CAM6 cloud microphysics, which further suppresses the scheme sensitivity to individual warm rain microphysical parameters. The predicted cloud susceptibilities to CCN perturbations in CAM6 are within a reasonable range, indicating significant progress since CAM5 which produces too strong aerosol indirect effect. The present study emphasizes the importance of understanding biases in cloud physics parameterizations by combining SCM with in situ observations.   We systematically evaluated aerosol and cloud properties in the latest climate models in the Climate Model Intercomparison Phase 6 (CMIP6) for the upcoming IPCC Assessment Report 7 (AR7). Large model biases are identified over the Southern Ocean and Eastern North Atlantic, the two targeted regions in this project. Specially, we found the CMIP6 models shows good agreement on the shortwave cloud radiative forcing over SO and ENA, likely due to the model tuning to reach the TOA radiation balance. Both annual means and seasonal cycles are comparable. However, for the cloud macrophysics like total cloud fraction and cloud optical depth, significant biases in the climatological means are found while the spatial patterns and seasonal cycles resemble the satellite observations. Modeled cloud microphysics, such as LWP and droplet effective radius, exhibit even larger biases than the cloud macrophysical properties, indicating the potential large compensating error when calculating the cloud radiative forcing in those models. Aerosol fields are poorly simulated in the Southern Ocean in all CMIP6 models. There is significant underestimation of AOD in those models near the 60 degree south which is mainly controlled by the marine biological aerosols near the Antarctic. The above biases in the climate model further motivate us to constrain the model cloud/aerosol parameterizations using the in situ observations.        Last Modified: 11/23/2023       Submitted by: YukLYung]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

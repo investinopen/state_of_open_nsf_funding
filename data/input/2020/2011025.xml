@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Barthell</SignBlockName>
+<PO_EMAI>jbarthel@nsf.gov</PO_EMAI>
+<PO_PHON>7032922618</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Integrative Research Investigating the Rules of Life Governing Interactions Between Genomes, Environment and Phenotypes. The fellowship supports research and training of the Fellow that will contribute to the area of Rules of Life in innovative ways. For many animals, it is unclear how stressful environments shape the microbial communities that live on and within them, and whether changes in these “microbiomes” make animals more vulnerable to disease. This study will use oysters to study the complex relationship between the environment, animal microbiomes, and animal health. Shellfish are important members of coastal ecosystems and a popular, sustainable human food source. The Fellow will examine microbiomes, including viruses, bacteria, and protists, of wild oysters that have been exposed to different environmental conditions, and will also assess oyster health. This information will be used to predict which environmental conditions might harm shellfish and how their microbiomes could potentially guard them. This study will help better understand and protect coastal ecosystems and improve shellfish aquaculture and harvesting practices. The Fellow will design hands-on classes that teach K-8 students from underrepresented groups about microbiomes and how they affect animals in a changing environment.&lt;br/&gt;&lt;br/&gt;The fellowship project will integrate experimental, computational, and conceptual approaches to investigate how environmental stressors influence shellfish microbiomes and associated host phenotypes. The project consists of three main objectives that will integrate host phenotypes with microbiome dynamics in the context of environmental change: (1) use next-generation sequencing to characterize tissue-specific oyster microbiomes exposed to a variety of environmental conditions at different sites, over time; (2) use computational approaches to determine the environmental drivers of microbiome community structure and function; and (3) conduct gene expression analyses using RNA-seq to examine relationships between oyster phenotypes, oyster microbiomes, and environmental stressors. These objectives will address the central hypothesis that environmental stress alters oyster microbiomes with associated impacts on oyster phenotypes. This study will establish a broadly applicable model system and develop tools for assessing impacts of environmental change and associated human and ecosystem implications on multifaceted animal-associated microbiomes. The Fellow will gain extensive training in teaching, research, and professional development from Dr. Jack Gilbert and his diverse lab group, allowing her to develop new technical skills and lines of research inquiry, facilitating her transition to an independent academic career.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011025</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Diner</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel E Diner</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000815655</NSF_ID>
+<StartDate>06/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Diner, Rachel E]]></Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>92126</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA51</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930202</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7659</Code>
+<Text>Animal Behavior</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="white-space: pre;"> </span>Microscopic organisms such as bacteria, archaea, and viruses, inhabit virtually every region of the planet, from the deepest ocean basins to the clouds in our atmosphere. Microbes also live on and within animals (i.e., their microbiomes), and can play an important role in the animal?s health and ecological success. However, the composition of these microbial communities and how they are impacted by environmental changes are poorly understood.</p> <p><span style="white-space: pre;"> </span>The goals of this Project were two-fold: (1) conduct novel research to characterize microbiomes of the Pacific Oyster, an important species in coastal ecology and aquaculture, and understand how they are affected by environmental changes, and (2) train to become an Assistant Professor by engaging in career development activities, developing research skills, mentoring students from diverse and underrepresented backgrounds, and teaching.</p> <p><span style="white-space: pre;"> </span>To study how the environment affects oyster microbiomes, we kept oysters in cages at 12 locations in Newport Bay, California with varying environmental conditions, and collected weekly samples. We characterized the microbiomes of oyster gill and digestive gland tissues, as well as the surrounding seawater, and found that Pacific Oysters have tissue-specific microbial communities. While the environmental conditions strongly affected microbial communities in the water, the oyster communities were generally more stable. However, some bacteria species were more common in the most distressed conditions, suggesting alterations in otherwise healthy oyster microbiomes or an increase in bacteria from the environment for other reasons. This research resulted in multiple peer-reviewed publications and was presented publicly at conferences and to local government and non-profit organizations.&nbsp;</p> <p><span style="white-space: pre;"> </span>During the course of this Fellowship, I participated in numerous training opportunities, which helped me to become a leader in my field of research and ultimately to procure an Assistant Professor position at and R1 Research University. I mentored several graduate and undergraduate students, teaching them new transferable skills to help them succeed in future STEM careers. I taught guest lectures for several classes, including a Microbiome course at the University of California, San Diego and General Microbiology at San Diego State University. I participated in several workshops focused on improving mentorship, teaching, and promoting inclusivity in STEM. Finally, I participated in community outreach and service, including judging science presentations for students at San Diego State University, volunteering for the Career Girls Environmental Science Camp (K-12), and serving as a voting member of the UCSD Chancellors Advisory Committee on the Status of Women.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/20/2023<br>      Modified by: Rachel&nbsp;E&nbsp;Diner</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Microscopic organisms such as bacteria, archaea, and viruses, inhabit virtually every region of the planet, from the deepest ocean basins to the clouds in our atmosphere. Microbes also live on and within animals (i.e., their microbiomes), and can play an important role in the animal?s health and ecological success. However, the composition of these microbial communities and how they are impacted by environmental changes are poorly understood.   The goals of this Project were two-fold: (1) conduct novel research to characterize microbiomes of the Pacific Oyster, an important species in coastal ecology and aquaculture, and understand how they are affected by environmental changes, and (2) train to become an Assistant Professor by engaging in career development activities, developing research skills, mentoring students from diverse and underrepresented backgrounds, and teaching.   To study how the environment affects oyster microbiomes, we kept oysters in cages at 12 locations in Newport Bay, California with varying environmental conditions, and collected weekly samples. We characterized the microbiomes of oyster gill and digestive gland tissues, as well as the surrounding seawater, and found that Pacific Oysters have tissue-specific microbial communities. While the environmental conditions strongly affected microbial communities in the water, the oyster communities were generally more stable. However, some bacteria species were more common in the most distressed conditions, suggesting alterations in otherwise healthy oyster microbiomes or an increase in bacteria from the environment for other reasons. This research resulted in multiple peer-reviewed publications and was presented publicly at conferences and to local government and non-profit organizations.    During the course of this Fellowship, I participated in numerous training opportunities, which helped me to become a leader in my field of research and ultimately to procure an Assistant Professor position at and R1 Research University. I mentored several graduate and undergraduate students, teaching them new transferable skills to help them succeed in future STEM careers. I taught guest lectures for several classes, including a Microbiome course at the University of California, San Diego and General Microbiology at San Diego State University. I participated in several workshops focused on improving mentorship, teaching, and promoting inclusivity in STEM. Finally, I participated in community outreach and service, including judging science presentations for students at San Diego State University, volunteering for the Career Girls Environmental Science Camp (K-12), and serving as a voting member of the UCSD Chancellors Advisory Committee on the Status of Women.          Last Modified: 10/20/2023       Submitted by: Rachel E Diner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

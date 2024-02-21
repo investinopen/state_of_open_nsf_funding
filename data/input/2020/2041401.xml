@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exploring the Molecular Mechanisms of Symbiosis Stability in Reef-Building Corals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>673089.00</AwardTotalIntnAmount>
+<AwardAmount>723890</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Shisler</SignBlockName>
+<PO_EMAI>jshisler@nsf.gov</PO_EMAI>
+<PO_PHON>7032925368</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Coral reefs are dramatically declining worldwide due to a combination of threats, the most significant of which is thermal stress due to climate change. Unusually high temperatures cause a breakdown of the symbiosis between the coral host and its algal symbionts, resulting in an event called “bleaching,” named for the characteristic white appearance of corals. Bleaching events are becoming more frequent and intense, and often result in coral mortality, ultimately compromising the structure and function of reef ecosystems. The molecular mechanisms responsible for coral bleaching are unknown, and the goal of this proposal is to identify such processes. The experimental and molecular work in this project will be supported by internships of Hawaiian students, which is a Broader Impact. Also, a Marine Biology Mentoring Program for female high school students will be developed, which will helps participants understand tangible pathways toward a career in science. Coral reefs are vulnerable habitats identified by domestic and international organizations as conservation priorities. Reefs provide important ecosystem services and coastal protection to people around the world. This work will identify the molecular mechanisms of coral bleaching, information that can help identify new ways to stop coral bleaching. This project serves the NSF mission because it promotes the progress of science. Since coral reefs are important for tourism, this research also advances the nation’s prosperity.&lt;br/&gt;&lt;br/&gt;This research aims to define the molecular mechanisms contributing to coral bleaching to identify the causes of, and resilience to, bleaching. The project uses a framework in which ‘pre-conditioned’ Pocillopora acuta are used to examine short-term changes in thermal stress at the molecular level that will help define signaling pathways (e.g., NF-KappaB, MAP kinases) involved in the breakdown of symbiosis. Concurrently, existing genomic and transcriptomic data from known Montipora capitata colonies with a range of ‘fixed’ thermal tolerance will be mined for genomic candidates which influence thermal tolerance. These two datasets will provide targets for a recently developed siRNA knock-down of genes of interest in corals, thereby fortifying correlative and descriptive studies with experimental phenotyping via reverse genetics. Preconditioned P. acuta, thermally tolerant M. capitata and any successfully manipulated corals will be evaluated for DNA integrity during each experiment to describe the cellular outcomes of bleaching and potential consequences of ‘improved’ bleaching tolerance via human intervention. These aims will be supported by summer internships for local students and by a Marine Biology Mentoring Program that increases diversity in stem by providing hands-on experience in field and laboratory settings for female high school students. This work will deepen our mechanistic understanding of the coral-algal symbiosis and develop tools to analyze, compare and diagnose thermal tolerance, which are critical for the long-term persistence of reefs and the ecosystem services they provide. This project is jointly funded by the Symbiosis, Infection and Immunity Program, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/18/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041401</AwardID>
+<Investigator>
+<FirstName>Crawford</FirstName>
+<LastName>Drury</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Crawford Drury</PI_FULL_NAME>
+<EmailAddress><![CDATA[druryc@hawaii.edu]]></EmailAddress>
+<NSF_ID>000822403</NSF_ID>
+<StartDate>02/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222247</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2425 CAMPUS RD SINCLAIR RM 1</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>HI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NSCKLFSSABF2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HAWAII</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Hawaii Institute of Marine Biology]]></Name>
+<CityName>Kaneohe</CityName>
+<StateCode>HI</StateCode>
+<ZipCode>967440001</ZipCode>
+<StreetAddress><![CDATA[46-007 Lilipuna Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>HI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7656</Code>
+<Text>Symbiosis Infection &amp; Immunity</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>108Z</Code>
+<Text>Post-baccalaureate Involvement</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7744</Code>
+<Text>RAHSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~723890</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Coral reefs are threatened by a number of stressors, including anthropogenic climate change, which is the most certain to persist and intensify. Warming oceans cause coral bleaching, where the relationship between corals and their intracellular algae breaks down, leading to starvation, death, and the loss of structure and function of reefs.&nbsp;To be effective,&nbsp;active or passive management and conservation of reefs requires a deeper understanding of coral bleaching, its mechanisms and consequences. This knowledge will also allow us to connect resilience to intervention efforts designed to protect this ecosystem and allow improved efficiency and scalability of management.</p> <p>Manipulating the biology of animals using a range of techniques is a common approach to understanding&nbsp;the&nbsp;function&nbsp;of component parts and pathways&nbsp;and&nbsp;for&nbsp;developing tools&nbsp;for research and application. Here, we used a combination of manipulative and observational work to understand the genes and genetic pathways that underlie corals abilities to cope with a changing environment through acclimation and adaptation.</p> <p>First, we developed and established a method for temporary modification of single gene expression in living adult corals. This technique, new in marine invertebrates, allows us to move beyond observational studies to experimental manipulation and analyze the function of genes that respond to environmental stress and are part of the pathways which cause coral bleaching. Using this approach, we have discovered a novel pathway (which is&nbsp;highly conserved across most animals) that plays an important role in establishing higher thermal tolerance in&nbsp;<em>Pocillopora acuta</em>, a common reef-building coral. This process works by improving the coral&rsquo;s antioxidant defense system (via BI-1 mediated activation of Nrf2/ARE pathway) in corals that have previously been exposed to mild heat stress. We also experimentally impaired this beneficial phenotype through several types of&nbsp;chemical and environmental&nbsp;manipulation, which defines the role of additional genes and highlights the complexity of multiple cellular pathways for creating&nbsp;many&nbsp;traits of interest.&nbsp;</p> <p>Next, we were able to improve coral heat tolerance by experimentally downregulating genes involved in cell death, which lead to increased resilience. These corals showed slower bleaching after treatment and were also able to avoid increased oxidative stress, preserving the integrity of their genes and DNA. This result and the new techniques developed here will enable future work on increasing the climate tolerance of coral reefs without genetically modifiying corals.</p> <p>We also comprehensively explored the genetic foundation of thermal tolerance in a second coral species,&nbsp;measuring the response of&nbsp;genes&nbsp;during&nbsp;heat stress and the DNA which underlies&nbsp;them. These experiments showed permanent differences in the genetic patterns of corals that are sensitive or tolerant to change, which may enable intervention approaches like selective breeding for coral thermal tolerance. We found dozens of areas of the&nbsp;corals&#699;&nbsp;genome that differentiated&nbsp;coral traits and linked these inherited regions to the activation of genes which&nbsp;actually&nbsp;create functional differences. The connection of these&nbsp;two&nbsp;types of data highlights targets for experimental manipulation, so&nbsp;we identified new candidate genes for functional analysis (gene knockdown described above) and described the role of the HIF1a pathway in&nbsp;thermal tolerance.</p> <p>Finally, this project aimed to&nbsp;decrease barriers to entry in science&nbsp;for historically underrepresented people and improve diversity in science through&nbsp;undergraduate research internships and an on-site hands-on mentoring program for female high school students. We established&nbsp;a 4-day mentoring program led by female mentors and invited&nbsp;students from&nbsp;across Hawai&rsquo;i, with a focus on recruiting students from diverse ethnic and socio-economic backgrounds. This program was completed with zero cost to the participants, which enabled the participation of a broader range of people that might otherwise be excluded. Two sessions of the program were completed during our project, enabling students to get hands on experience with corals, snorkeling, experimental field and lab work, molecular biology, and community-research partnerships while creating positive examples and highlighting science as a viable career choice for students in Hawai&#699;i.</p> <p>Overall, this research program created tangible opportunities for people previously excluded from science, changed our understanding of the mechanisms behind thermal tolerance in corals, and developed techinques and resources for the broader scientific community. Cumulatively, this work highlights new research paths which will suppport interventions to protect, conserve and manage coral reefs in Hawai&#699;i, the United States, and globally.</p> <p>&nbsp;</p><br> <p>  Last Modified: 12/20/2023<br> Modified by: Crawford&nbsp;Drury</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Coral reefs are threatened by a number of stressors, including anthropogenic climate change, which is the most certain to persist and intensify. Warming oceans cause coral bleaching, where the relationship between corals and their intracellular algae breaks down, leading to starvation, death, and the loss of structure and function of reefs.To be effective,active or passive management and conservation of reefs requires a deeper understanding of coral bleaching, its mechanisms and consequences. This knowledge will also allow us to connect resilience to intervention efforts designed to protect this ecosystem and allow improved efficiency and scalability of management.   Manipulating the biology of animals using a range of techniques is a common approach to understandingthefunctionof component parts and pathwaysandfordeveloping toolsfor research and application. Here, we used a combination of manipulative and observational work to understand the genes and genetic pathways that underlie corals abilities to cope with a changing environment through acclimation and adaptation.   First, we developed and established a method for temporary modification of single gene expression in living adult corals. This technique, new in marine invertebrates, allows us to move beyond observational studies to experimental manipulation and analyze the function of genes that respond to environmental stress and are part of the pathways which cause coral bleaching. Using this approach, we have discovered a novel pathway (which ishighly conserved across most animals) that plays an important role in establishing higher thermal tolerance inPocillopora acuta, a common reef-building coral. This process works by improving the corals antioxidant defense system (via BI-1 mediated activation of Nrf2/ARE pathway) in corals that have previously been exposed to mild heat stress. We also experimentally impaired this beneficial phenotype through several types ofchemical and environmentalmanipulation, which defines the role of additional genes and highlights the complexity of multiple cellular pathways for creatingmanytraits of interest.   Next, we were able to improve coral heat tolerance by experimentally downregulating genes involved in cell death, which lead to increased resilience. These corals showed slower bleaching after treatment and were also able to avoid increased oxidative stress, preserving the integrity of their genes and DNA. This result and the new techniques developed here will enable future work on increasing the climate tolerance of coral reefs without genetically modifiying corals.   We also comprehensively explored the genetic foundation of thermal tolerance in a second coral species,measuring the response ofgenesduringheat stress and the DNA which underliesthem. These experiments showed permanent differences in the genetic patterns of corals that are sensitive or tolerant to change, which may enable intervention approaches like selective breeding for coral thermal tolerance. We found dozens of areas of thecorals&#699;genome that differentiatedcoral traits and linked these inherited regions to the activation of genes whichactuallycreate functional differences. The connection of thesetwotypes of data highlights targets for experimental manipulation, sowe identified new candidate genes for functional analysis (gene knockdown described above) and described the role of the HIF1a pathway inthermal tolerance.   Finally, this project aimed todecrease barriers to entry in sciencefor historically underrepresented people and improve diversity in science throughundergraduate research internships and an on-site hands-on mentoring program for female high school students. We establisheda 4-day mentoring program led by female mentors and invitedstudents fromacross Hawaii, with a focus on recruiting students from diverse ethnic and socio-economic backgrounds. This program was completed with zero cost to the participants, which enabled the participation of a broader range of people that might otherwise be excluded. Two sessions of the program were completed during our project, enabling students to get hands on experience with corals, snorkeling, experimental field and lab work, molecular biology, and community-research partnerships while creating positive examples and highlighting science as a viable career choice for students in Hawai&#699;i.   Overall, this research program created tangible opportunities for people previously excluded from science, changed our understanding of the mechanisms behind thermal tolerance in corals, and developed techinques and resources for the broader scientific community. Cumulatively, this work highlights new research paths which will suppport interventions to protect, conserve and manage coral reefs in Hawai&#699;i, the United States, and globally.        Last Modified: 12/20/2023       Submitted by: CrawfordDrury]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

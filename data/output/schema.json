@@ -1,478 +1,226 @@
 [
   {
     "mode": "NULLABLE",
-    "name": "AwardTitle",
+    "name": "grant_id",
     "type": "STRING"
   },
   {
     "mode": "NULLABLE",
-    "name": "AGENCY",
+    "name": "funder_name",
     "type": "STRING"
   },
   {
     "mode": "NULLABLE",
-    "name": "AwardEffectiveDate",
+    "name": "funder_ror_id",
     "type": "STRING"
   },
   {
     "mode": "NULLABLE",
-    "name": "AwardExpirationDate",
+    "name": "recipient_org_name",
     "type": "STRING"
   },
   {
     "mode": "NULLABLE",
-    "name": "AwardTotalIntnAmount",
+    "name": "grant_year",
     "type": "STRING"
   },
   {
     "mode": "NULLABLE",
-    "name": "AwardAmount",
+    "name": "award_amount",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "award_currency",
     "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "award_amount_usd",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "source",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "source_url",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "grant_description",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "program_of_funder",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "comments",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "_crawled_at",
+    "type": "TIMESTAMP"
   },
   {
     "fields": [
       {
         "mode": "NULLABLE",
-        "name": "Value",
+        "name": "Funding Entity",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Commitment Year",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Opportunity Salesforce ID",
+        "type": "STRING"
+      },
+      {
+        "mode": "REPEATED",
+        "name": "Program",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Amount",
+        "type": "FLOAT"
+      },
+      {
+        "mode": "REPEATED",
+        "name": "Initiative",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "EXTERNAL: Grant Description for Website",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Account Website (Plaintext)",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Account Name",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Racial Equity",
+        "type": "BOOLEAN"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Initiative & Program Text",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "COVID-19",
+        "type": "BOOLEAN"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Project Website (Plain Text)",
         "type": "STRING"
       }
     ],
     "mode": "NULLABLE",
-    "name": "AwardInstrument",
+    "name": "raw_source_data",
     "type": "RECORD"
   },
   {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "Code",
-        "type": "STRING"
-      },
-      {
-        "fields": [
-          {
-            "mode": "NULLABLE",
-            "name": "Abbreviation",
-            "type": "STRING"
-          },
-          {
-            "mode": "NULLABLE",
-            "name": "LongName",
-            "type": "STRING"
-          }
-        ],
-        "mode": "NULLABLE",
-        "name": "Directorate",
-        "type": "RECORD"
-      },
-      {
-        "fields": [
-          {
-            "mode": "NULLABLE",
-            "name": "Abbreviation",
-            "type": "STRING"
-          },
-          {
-            "mode": "NULLABLE",
-            "name": "LongName",
-            "type": "STRING"
-          }
-        ],
-        "mode": "NULLABLE",
-        "name": "Division",
-        "type": "RECORD"
-      }
-    ],
     "mode": "NULLABLE",
-    "name": "Organization",
-    "type": "RECORD"
+    "name": "id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "createdTime",
+    "type": "TIMESTAMP"
   },
   {
     "fields": [
       {
         "mode": "NULLABLE",
-        "name": "SignBlockName",
+        "name": "Funding Entity",
         "type": "STRING"
       },
       {
         "mode": "NULLABLE",
-        "name": "PO_EMAI",
+        "name": "Commitment Year",
         "type": "STRING"
       },
       {
         "mode": "NULLABLE",
-        "name": "PO_PHON",
+        "name": "Opportunity Salesforce ID",
+        "type": "STRING"
+      },
+      {
+        "mode": "REPEATED",
+        "name": "Program",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Amount",
+        "type": "FLOAT"
+      },
+      {
+        "mode": "REPEATED",
+        "name": "Initiative",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "EXTERNAL: Grant Description for Website",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Account Website (Plaintext)",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Account Name",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Racial Equity",
+        "type": "BOOLEAN"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Initiative & Program Text",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "COVID-19",
+        "type": "BOOLEAN"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "Project Website (Plain Text)",
         "type": "STRING"
       }
     ],
     "mode": "NULLABLE",
-    "name": "ProgramOfficer",
-    "type": "RECORD"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "AbstractNarration",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "MinAmdLetterDate",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "MaxAmdLetterDate",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "ARRAAmount",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "TRAN_TYPE",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "CFDA_NUM",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "NSF_PAR_USE_FLAG",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "FUND_AGCY_CODE",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "AWDG_AGCY_CODE",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "AwardID",
-    "type": "STRING"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "FirstName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "LastName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "PI_MID_INIT",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "PI_SUFX_NAME",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "PI_FULL_NAME",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "EmailAddress",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "NSF_ID",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StartDate",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "EndDate",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "RoleCode",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "PI_PHON",
-        "type": "STRING"
-      }
-    ],
-    "mode": "REPEATED",
-    "name": "Investigator",
-    "type": "RECORD"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "Name",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CityName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "ZipCode",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "PhoneNumber",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StreetAddress",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StreetAddress2",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CountryName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StateName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StateCode",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CONGRESSDISTRICT",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CONGRESS_DISTRICT_ORG",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "ORG_UEI_NUM",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "ORG_LGL_BUS_NAME",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "ORG_PRNT_UEI_NUM",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "ORG_DUNS_NUM",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "ORG_PRNT_DUNS_NUM",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CountyName",
-        "type": "STRING"
-      }
-    ],
-    "mode": "NULLABLE",
-    "name": "Institution",
-    "type": "RECORD"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "Name",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CityName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StateCode",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "ZipCode",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StreetAddress",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CountryCode",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CountryName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "StateName",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CountryFlag",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CONGRESSDISTRICT",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CONGRESS_DISTRICT_PERF",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "CountyName",
-        "type": "STRING"
-      }
-    ],
-    "mode": "NULLABLE",
-    "name": "Performance_Institution",
-    "type": "RECORD"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "Code",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "Text",
-        "type": "STRING"
-      }
-    ],
-    "mode": "REPEATED",
-    "name": "ProgramElement",
-    "type": "RECORD"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "Code",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "Text",
-        "type": "STRING"
-      }
-    ],
-    "mode": "REPEATED",
-    "name": "ProgramReference",
-    "type": "RECORD"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "Code",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "Name",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "APP_SYMB_ID",
-        "type": "STRING"
-      }
-    ],
-    "mode": "REPEATED",
-    "name": "Appropriation",
-    "type": "RECORD"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "Code",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "Name",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "FUND_SYMB_ID",
-        "type": "STRING"
-      }
-    ],
-    "mode": "REPEATED",
-    "name": "Fund",
-    "type": "RECORD"
-  },
-  {
-    "fields": [
-      {
-        "mode": "NULLABLE",
-        "name": "DRECONTENT",
-        "type": "STRING"
-      },
-      {
-        "mode": "NULLABLE",
-        "name": "POR_COPY_TXT",
-        "type": "STRING"
-      }
-    ],
-    "mode": "NULLABLE",
-    "name": "POR",
+    "name": "fields",
     "type": "RECORD"
   }
 ]

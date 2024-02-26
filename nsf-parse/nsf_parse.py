@@ -7,55 +7,84 @@ Main use case is building an NSF funding database in BigQuery for Academic Obser
 from pathlib import Path
 import json
 import xmltodict
+from typing import Union, Optional
 
 import logging
 import sys
 from bigquery_schema_generator.generate_schema import SchemaGenerator
 
 
-
 def parse_file(filepath: Path) -> dict:
     with open(filepath, 'rb') as f:
-        rt =  xmltodict.parse(f)
-        award = rt['rootTag']['Award']
-        award.pop("FUND_OBLG", "NULL")
 
-        return award
+        try:
+            rt = xmltodict.parse(f)
+            award = rt['rootTag']['Award']
+            award.pop("FUND_OBLG", "NULL")
+            return award
+        except xmltodict.expat.ExpatError:
+            print("Failed to parse:", filepath)
+            return None
+
 
 def parse_directory(dirpath: Path,
-                    outfile: Path) -> str:
+                    outfile: Path):
     files = Path(dirpath).glob("*.xml")
     fl = [parse_file(f) for f in files]
-    with open(outfile, 'w') as f:
-        for grant in fl[0:1000]:
-            f.write(json.dumps(grant)+'\n')
+    with open(outfile, mode='w') as f:
+        for grant in fl:
+            f.write(json.dumps(grant) + '\n')
 
 
-if __name__ == "__main__":
-    example_file = Path("data/input/2020/2000009.xml")
-    example_dir = Path("data/input/2020")
-    example_outfile = Path("data/output/outfile.jsonl")
-    example_schema = Path("data/output/schema.json")
-    #d = parse_file(example_file)
+def process(start_year: int,
+            end_year: int,
+            data_input_dir: Optional[Union[Path, str]] = 'data/input',
+            data_output_dir: Optional[Union[Path, str]] = 'data/output'):
+    for yr in range(start_year, end_year + 1):
+        d = Path(data_input_dir) / str(yr)
+        outfilename = Path(str(yr) + ".jsonl")
+        outfilepath = Path(data_output_dir) / outfilename
+        parse_directory(d, outfilepath)
 
 
-    example_outfile = Path("data/output/outfile.jsonl")
-    j = parse_directory(example_dir, example_outfile)
-
+def generate_schema(filepath: Union[Path, str],
+                    data_output_dir: Optional[Union[Path, str]] = 'data/output'):
     generator = SchemaGenerator(
         input_format='json',
         quoted_values_are_strings=True,
         keep_nulls=True,
         preserve_input_sort_order=True,
-        infer_mode=True
+        infer_mode=True,
+        ignore_invalid_lines=True
     )
 
-    with open(example_outfile) as file:
-        schema_map, errors = generator.deduce_schema(file)
+    with open(filepath) as f:
+        schema_map, errors = generator.deduce_schema(f)
 
     for error in errors:
         logging.info("Problem on line %s: %s", error['line_number'], error['msg'])
 
     schema = generator.flatten_schema(schema_map)
-    with open(example_schema, 'w') as f:
+
+    outpath = Path(data_output_dir) / "schema.json"
+    with open(outpath, 'w') as f:
         json.dump(schema, f, indent=2)
+
+
+def concatenate(start_year: int,
+                end_year: int,
+                data_input_dir: Optional[Union[Path, str]] = 'data/input',
+                data_output_dir: Optional[Union[Path, str]] = 'data/output'):
+    with open(Path(data_output_dir) / 'all.jsonl', 'a') as out:
+        for yr in range(start_year, end_year + 1):
+            filepath = Path(data_output_dir) / f'{yr}.jsonl'
+            with open(filepath, 'r') as infile:
+                for l in infile.read():
+                    if l:
+                        out.write(l)
+
+
+if __name__ == "__main__":
+    # process(2010, 2024)
+    # concatenate(2010, 2024)
+    generate_schema('data/input/other/chanzuckerberg.com_grants.jsonl')

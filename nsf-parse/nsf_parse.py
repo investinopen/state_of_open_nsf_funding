@@ -85,6 +85,6 @@ def concatenate(start_year: int,
 
 
 if __name__ == "__main__":
-    process(2010, 2024)
-    concatenate(2010, 2024)
-    generate_schema('data/output/outfile.jsonl')
+    # process(2023, 2024)
+    # concatenate(2023, 2024)
+    generate_schema('data/output/all.jsonl')
